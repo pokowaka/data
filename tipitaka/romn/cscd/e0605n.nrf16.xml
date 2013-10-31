@@ -1,25 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Paṭilomayamakagāthā</p>
-
-<p rend="hangnum" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Lokāyātatayā kālo visesaṃ na na saṃsevi,</p>
-
-<p rend="gathalast">Visesaṃ na na saṃsevi lokā yātatayā kālo.</p>
-
-<p rend="hangnum" n="100"><hi rend="paranum">100</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Rājarājayasopetavisesaṃ racitaṃ mayā,</p>
-
-<p rend="gatha2">Yāmataṃ cirasaṃsevitapeso yajarājarā.</p>
-</body>
-<back></back>
+  <chapter>Paṭilomayamakagāthā</chapter>
+  <hangnum nr="99"/>
+  <gatha type="1"> Lokāyātatayā kālo visesaṃ na na saṃsevi,</gatha>
+  <gatha type="last">Visesaṃ na na saṃsevi lokā yātatayā kālo.</gatha>
+  <hangnum nr="100"/>
+  <gatha type="1"> Rājarājayasopetavisesaṃ racitaṃ mayā,</gatha>
+  <gatha type="2">Yāmataṃ cirasaṃsevitapeso yajarājarā.</gatha>
 </text>
-</TEI.2>

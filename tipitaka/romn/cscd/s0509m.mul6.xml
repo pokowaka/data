@@ -1,153 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">7. Sattakanipāto</p>
-
-<p rend="subhead">1. Uttarātherīgāthā</p>
-
-<p rend="hangnum" n="175"><hi rend="paranum">175</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘‘Musalāni <pb ed="M" n="0.0399" /> gahetvāna, dhaññaṃ koṭṭenti māṇavā;</p>
-
-<p rend="gathalast">Puttadārāni posentā, dhanaṃ vindanti māṇavā.</p>
-
-<p rend="hangnum" n="176"><hi rend="paranum">176</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘‘Ghaṭetha <pb ed="V" n="0.0325" /> buddhasāsane, yaṃ katvā nānutappati;</p>
-
-<p rend="gathalast">Khippaṃ pādāni dhovitvā, ekamantaṃ nisīdatha.</p>
-
-<p rend="hangnum" n="177"><hi rend="paranum">177</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘‘Cittaṃ upaṭṭhapetvāna, ekaggaṃ susamāhitaṃ;</p>
-
-<p rend="gathalast">Paccavekkhatha saṅkhāre, parato no ca attato’.</p>
-
-<p rend="hangnum" n="178"><hi rend="paranum">178</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Tassāhaṃ vacanaṃ sutvā, paṭācārānusāsaniṃ;</p>
-
-<p rend="gathalast">Pāde pakkhālayitvāna, ekamante upāvisiṃ.</p>
-
-<p rend="hangnum" n="179"><hi rend="paranum">179</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Rattiyā <pb ed="T" n="0.0466" /> purime yāme, pubbajātimanussariṃ;</p>
-
-<p rend="gathalast">Rattiyā majjhime yāme, dibbacakkhuṃ visodhayiṃ.</p>
-
-<p rend="hangnum" n="180"><hi rend="paranum">180</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Rattiyā pacchime yāme, tamokkhandhaṃ padālayiṃ;</p>
-
-<p rend="gathalast">Tevijjā atha vuṭṭhāsiṃ, katā te anusāsanī.</p>
-
-<p rend="hangnum" n="181"><hi rend="paranum">181</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Sakkaṃva devā tidasā, saṅgāme aparājitaṃ;</p>
-
-<p rend="gathalast">Purakkhatvā vihassāmi, tevijjāmhi anāsavā’’.</p>
-
-<p rend="centre">… Uttarā therī….</p>
-
-<p rend="subhead">2. Cālātherīgāthā</p>
-
-<p rend="hangnum" n="182"><hi rend="paranum">182</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Satiṃ <pb ed="P" n="0.0141" /> upaṭṭhapetvāna, bhikkhunī bhāvitindriyā;</p>
-
-<p rend="gathalast">Paṭivijjhi padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ’’.</p>
-
-<p rend="hangnum" n="183"><hi rend="paranum">183</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Kaṃ nu uddissa muṇḍāsi, samaṇī viya dissasi;</p>
-
-<p rend="gathalast">Na ca rocesi pāsaṇḍe, kimidaṃ carasi momuhā’’.</p>
-
-<p rend="hangnum" n="184"><hi rend="paranum">184</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Ito bahiddhā pāsaṇḍā, diṭṭhiyo upanissitā;</p>
-
-<p rend="gathalast">Na te dhammaṃ vijānanti, na te dhammassa kovidā.</p>
-
-<p rend="hangnum" n="185"><hi rend="paranum">185</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Atthi sakyakule jāto, buddho appaṭipuggalo;</p>
-
-<p rend="gathalast">So me dhammamadesesi, diṭṭhīnaṃ samatikkamaṃ.</p>
-
-<p rend="hangnum" n="186"><hi rend="paranum">186</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Dukkhaṃ <pb ed="M" n="0.0400" /> dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;</p>
-
-<p rend="gathalast">Ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.</p>
-
-<p rend="hangnum" n="187"><hi rend="paranum">187</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Tassāhaṃ vacanaṃ sutvā, vihariṃ sāsane ratā;</p>
-
-<p rend="gathalast">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</p>
-
-<p rend="hangnum" n="188"><hi rend="paranum">188</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Sabbattha <pb ed="T" n="0.0467" /><pb ed="V" n="0.0326" /> vihatā nandī, tamokhandho padālito;</p>
-
-<p rend="gathalast">Evaṃ jānāhi pāpima, nihato tvamasi antaka’’.</p>
-
-<p rend="centre">… Cālā therī….</p>
-
-<p rend="subhead">3. Upacālātherīgāthā</p>
-
-<p rend="hangnum" n="189"><hi rend="paranum">189</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Satimatī cakkhumatī, bhikkhunī bhāvitindriyā;</p>
-
-<p rend="gathalast">Paṭivijjhiṃ padaṃ santaṃ, akāpurisasevitaṃ’’.</p>
-
-<p rend="hangnum" n="190"><hi rend="paranum">190</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Kiṃ nu jātiṃ na rocesi, jāto kāmāni bhuñjati;</p>
-
-<p rend="gathalast">Bhuñjāhi kāmaratiyo, māhu pacchānutāpinī’’.</p>
-
-<p rend="hangnum" n="191"><hi rend="paranum">191</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Jātassa maraṇaṃ hoti, hatthapādāna chedanaṃ;</p>
-
-<p rend="gathalast">Vadhabandhapariklesaṃ, jāto dukkhaṃ nigacchati.</p>
-
-<p rend="hangnum" n="192"><hi rend="paranum">192</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Atthi sakyakule jāto, sambuddho aparājito;</p>
-
-<p rend="gathalast">So me dhammamadesesi, jātiyā samatikkamaṃ.</p>
-
-<p rend="hangnum" n="193"><hi rend="paranum">193</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Dukkhaṃ dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;</p>
-
-<p rend="gathalast">Ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.</p>
-
-<p rend="hangnum" n="194"><hi rend="paranum">194</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Tassāhaṃ vacanaṃ sutvā, vihariṃ sāsane ratā;</p>
-
-<p rend="gathalast">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</p>
-
-<p rend="hangnum" n="195"><hi rend="paranum">195</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Sabbattha <pb ed="P" n="0.0142" /> vihatā nandī, tamokhandho padālito;</p>
-
-<p rend="gathalast">Evaṃ jānāhi pāpima, nihato tvamasi antaka’’.</p>
-
-<p rend="centre">… Upacālā therī….</p>
-
-<p rend="centre">Sattakanipāto niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>7. Sattakanipāto</chapter>
+  <subhead>1. Uttarātherīgāthā</subhead>
+  <hangnum nr="175"/>
+  <gatha type="1"> ‘‘‘Musalāni  gahetvāna, dhaññaṃ koṭṭenti māṇavā;</gatha>
+  <gatha type="last">Puttadārāni posentā, dhanaṃ vindanti māṇavā.</gatha>
+  <hangnum nr="176"/>
+  <gatha type="1"> ‘‘‘Ghaṭetha  buddhasāsane, yaṃ katvā nānutappati;</gatha>
+  <gatha type="last">Khippaṃ pādāni dhovitvā, ekamantaṃ nisīdatha.</gatha>
+  <hangnum nr="177"/>
+  <gatha type="1"> ‘‘‘Cittaṃ upaṭṭhapetvāna, ekaggaṃ susamāhitaṃ;</gatha>
+  <gatha type="last">Paccavekkhatha saṅkhāre, parato no ca attato’.</gatha>
+  <hangnum nr="178"/>
+  <gatha type="1"> ‘‘Tassāhaṃ vacanaṃ sutvā, paṭācārānusāsaniṃ;</gatha>
+  <gatha type="last">Pāde pakkhālayitvāna, ekamante upāvisiṃ.</gatha>
+  <hangnum nr="179"/>
+  <gatha type="1"> ‘‘Rattiyā  purime yāme, pubbajātimanussariṃ;</gatha>
+  <gatha type="last">Rattiyā majjhime yāme, dibbacakkhuṃ visodhayiṃ.</gatha>
+  <hangnum nr="180"/>
+  <gatha type="1"> ‘‘Rattiyā pacchime yāme, tamokkhandhaṃ padālayiṃ;</gatha>
+  <gatha type="last">Tevijjā atha vuṭṭhāsiṃ, katā te anusāsanī.</gatha>
+  <hangnum nr="181"/>
+  <gatha type="1"> ‘‘Sakkaṃva devā tidasā, saṅgāme aparājitaṃ;</gatha>
+  <gatha type="last">Purakkhatvā vihassāmi, tevijjāmhi anāsavā’’.</gatha>
+  <centered>… Uttarā therī….</centered>
+  <subhead>2. Cālātherīgāthā</subhead>
+  <hangnum nr="182"/>
+  <gatha type="1"> ‘‘Satiṃ  upaṭṭhapetvāna, bhikkhunī bhāvitindriyā;</gatha>
+  <gatha type="last">Paṭivijjhi padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ’’.</gatha>
+  <hangnum nr="183"/>
+  <gatha type="1"> ‘‘Kaṃ nu uddissa muṇḍāsi, samaṇī viya dissasi;</gatha>
+  <gatha type="last">Na ca rocesi pāsaṇḍe, kimidaṃ carasi momuhā’’.</gatha>
+  <hangnum nr="184"/>
+  <gatha type="1"> ‘‘Ito bahiddhā pāsaṇḍā, diṭṭhiyo upanissitā;</gatha>
+  <gatha type="last">Na te dhammaṃ vijānanti, na te dhammassa kovidā.</gatha>
+  <hangnum nr="185"/>
+  <gatha type="1"> ‘‘Atthi sakyakule jāto, buddho appaṭipuggalo;</gatha>
+  <gatha type="last">So me dhammamadesesi, diṭṭhīnaṃ samatikkamaṃ.</gatha>
+  <hangnum nr="186"/>
+  <gatha type="1"> ‘‘Dukkhaṃ  dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;</gatha>
+  <gatha type="last">Ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.</gatha>
+  <hangnum nr="187"/>
+  <gatha type="1"> ‘‘Tassāhaṃ vacanaṃ sutvā, vihariṃ sāsane ratā;</gatha>
+  <gatha type="last">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</gatha>
+  <hangnum nr="188"/>
+  <gatha type="1"> ‘‘Sabbattha  vihatā nandī, tamokhandho padālito;</gatha>
+  <gatha type="last">Evaṃ jānāhi pāpima, nihato tvamasi antaka’’.</gatha>
+  <centered>… Cālā therī….</centered>
+  <subhead>3. Upacālātherīgāthā</subhead>
+  <hangnum nr="189"/>
+  <gatha type="1"> ‘‘Satimatī cakkhumatī, bhikkhunī bhāvitindriyā;</gatha>
+  <gatha type="last">Paṭivijjhiṃ padaṃ santaṃ, akāpurisasevitaṃ’’.</gatha>
+  <hangnum nr="190"/>
+  <gatha type="1"> ‘‘Kiṃ nu jātiṃ na rocesi, jāto kāmāni bhuñjati;</gatha>
+  <gatha type="last">Bhuñjāhi kāmaratiyo, māhu pacchānutāpinī’’.</gatha>
+  <hangnum nr="191"/>
+  <gatha type="1"> ‘‘Jātassa maraṇaṃ hoti, hatthapādāna chedanaṃ;</gatha>
+  <gatha type="last">Vadhabandhapariklesaṃ, jāto dukkhaṃ nigacchati.</gatha>
+  <hangnum nr="192"/>
+  <gatha type="1"> ‘‘Atthi sakyakule jāto, sambuddho aparājito;</gatha>
+  <gatha type="last">So me dhammamadesesi, jātiyā samatikkamaṃ.</gatha>
+  <hangnum nr="193"/>
+  <gatha type="1"> ‘‘Dukkhaṃ dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;</gatha>
+  <gatha type="last">Ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.</gatha>
+  <hangnum nr="194"/>
+  <gatha type="1"> ‘‘Tassāhaṃ vacanaṃ sutvā, vihariṃ sāsane ratā;</gatha>
+  <gatha type="last">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</gatha>
+  <hangnum nr="195"/>
+  <gatha type="1"> ‘‘Sabbattha  vihatā nandī, tamokhandho padālito;</gatha>
+  <gatha type="last">Evaṃ jānāhi pāpima, nihato tvamasi antaka’’.</gatha>
+  <centered>… Upacālā therī….</centered>
+  <centered>Sattakanipāto niṭṭhito.</centered>
 </text>
-</TEI.2>

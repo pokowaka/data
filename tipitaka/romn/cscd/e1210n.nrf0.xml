@@ -1,45 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Milidaṭīkā</p>
-
-<p rend="centre">Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="gatha1">Nirantaraṃ lokahitassa kārakaṃ</p>
-
-<p rend="gatha2">Nirantaraṃ lokahitassa desakaṃ,</p>
-
-<p rend="gatha3">Nirantaraṃ lokahitassa cintakaṃ</p>
-
-<p rend="gathalast">Namāmi vīraṃ naradammasārathiṃ;</p>
-
-<p rend="gatha1">Pañhadhammaviduṃ nāthaṃ guyhadhammappakāsakaṃ,</p>
-
-<p rend="gathalast">Namassivāna sambuddhaṃ dhammaṃ sādhuguṇampi ca;</p>
-
-<p rend="gatha1">Nāgasenamahātheraṃ piṭakattayakovidaṃ,</p>
-
-<p rend="gathalast">Vadivā tampi sirasā pañhadhammappakāsakaṃ;</p>
-
-<p rend="gatha1">Milidapañhavivaraṇaṃ madhurathappakāsiniṃ,</p>
-
-<p rend="gathalast">Racayissaṃ samāsena taṃ suṇātha samāhitā;</p>
-
-<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Tatha pakiṇṇakathavivaraṇaṃ jātakuddharaṇanti dve yevamātikā.</p>
-
-<p rend="bodytext">Tatha-</p>
-
-<p rend="gatha1">Sambadho ca padañceva padatho padaviggaho</p>
-
-<p rend="gatha2">Codanā parihāro’ti chabbidhā athavaṇṇanā’ti;</p>
-
-<p rend="bodytext">Vuttattā sambadho tāva veditabbo. So ca yathāvuttājjhāhāravasena duvidho.</p>
-</body>
-<back></back>
+  <chapter>Milidaṭīkā</chapter>
+  <centered>Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <gatha type="1">Nirantaraṃ lokahitassa kārakaṃ</gatha>
+  <gatha type="2">Nirantaraṃ lokahitassa desakaṃ,</gatha>
+  <gatha type="3">Nirantaraṃ lokahitassa cintakaṃ</gatha>
+  <gatha type="last">Namāmi vīraṃ naradammasārathiṃ;</gatha>
+  <gatha type="1">Pañhadhammaviduṃ nāthaṃ guyhadhammappakāsakaṃ,</gatha>
+  <gatha type="last">Namassivāna sambuddhaṃ dhammaṃ sādhuguṇampi ca;</gatha>
+  <gatha type="1">Nāgasenamahātheraṃ piṭakattayakovidaṃ,</gatha>
+  <gatha type="last">Vadivā tampi sirasā pañhadhammappakāsakaṃ;</gatha>
+  <gatha type="1">Milidapañhavivaraṇaṃ madhurathappakāsiniṃ,</gatha>
+  <gatha type="last">Racayissaṃ samāsena taṃ suṇātha samāhitā;</gatha>
+  <paragraph nr="1"> Tatha pakiṇṇakathavivaraṇaṃ jātakuddharaṇanti dve yevamātikā.</paragraph>
+  <paragraph>Tatha-</paragraph>
+  <gatha type="1">Sambadho ca padañceva padatho padaviggaho</gatha>
+  <gatha type="2">Codanā parihāro’ti chabbidhā athavaṇṇanā’ti;</gatha>
+  <paragraph>Vuttattā sambadho tāva veditabbo. So ca yathāvuttājjhāhāravasena duvidho.</paragraph>
 </text>
-</TEI.2>

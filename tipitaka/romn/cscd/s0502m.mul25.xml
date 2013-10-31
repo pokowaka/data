@@ -1,325 +1,162 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">26. Brāhmaṇavaggo</p>
-
-<p rend="hangnum" n="383"><hi rend="paranum">383</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Chinda sotaṃ parakkamma, kāme panuda brāhmaṇa;</p>
-
-<p rend="gathalast">Saṅkhārānaṃ khayaṃ ñatvā, akataññūsi brāhmaṇa.</p>
-
-<p rend="hangnum" n="384"><hi rend="paranum">384</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yadā dvayesu dhammesu, pāragū hoti brāhmaṇo;</p>
-
-<p rend="gathalast">Athassa sabbe saṃyogā, atthaṃ gacchanti jānato.</p>
-
-<p rend="hangnum" n="385"><hi rend="paranum">385</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati;</p>
-
-<p rend="gathalast">Vītaddaraṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="386"><hi rend="paranum">386</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Jhāyiṃ virajamāsīnaṃ, katakiccamanāsavaṃ;</p>
-
-<p rend="gathalast">Uttamatthamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="387"><hi rend="paranum">387</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Divā <pb ed="M" n="0.0069" /> tapati ādicco, rattimābhāti candimā;</p>
-
-<p rend="gatha2">Sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo;</p>
-
-<p rend="gathalast">Atha sabbamahorattiṃ <note>sabbamahorattaṃ (?)</note>, buddho tapati tejasā.</p>
-
-<p rend="hangnum" n="388"><hi rend="paranum">388</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Bāhitapāpoti <pb ed="P" n="0.0056" /> brāhmaṇo, samacariyā samaṇoti vuccati;</p>
-
-<p rend="gathalast">Pabbājayamattano malaṃ, tasmā ‘‘pabbajito’’ti vuccati.</p>
-
-<p rend="hangnum" n="389"><hi rend="paranum">389</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na <pb ed="V" n="0.0062" /><pb ed="T" n="0.0068" /> brāhmaṇassa pahareyya, nāssa muñcetha brāhmaṇo;</p>
-
-<p rend="gathalast">Dhī <note>dhi (syā. byākaraṇesu)</note> brāhmaṇassa hantāraṃ, tato dhī yassa <note>yo + assa = yassa</note> muñcati.</p>
-
-<p rend="hangnum" n="390"><hi rend="paranum">390</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na brāhmaṇassetadakiñci seyyo, yadā nisedho manaso piyehi;</p>
-
-<p rend="gathalast">Yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.</p>
-
-<p rend="hangnum" n="391"><hi rend="paranum">391</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassa kāyena vācāya, manasā natthi dukkaṭaṃ;</p>
-
-<p rend="gathalast">Saṃvutaṃ tīhi ṭhānehi, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="392"><hi rend="paranum">392</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yamhā dhammaṃ vijāneyya, sammāsambuddhadesitaṃ;</p>
-
-<p rend="gathalast">Sakkaccaṃ taṃ namasseyya, aggihuttaṃva brāhmaṇo.</p>
-
-<p rend="hangnum" n="393"><hi rend="paranum">393</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na jaṭāhi na gottena, na jaccā hoti brāhmaṇo;</p>
-
-<p rend="gathalast">Yamhi saccañca dhammo ca, so sucī so ca brāhmaṇo.</p>
-
-<p rend="hangnum" n="394"><hi rend="paranum">394</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kiṃ <pb ed="M" n="0.0070" /> te jaṭāhi dummedha, kiṃ te ajinasāṭiyā;</p>
-
-<p rend="gathalast">Abbhantaraṃ te gahanaṃ, bāhiraṃ parimajjasi.</p>
-
-<p rend="hangnum" n="395"><hi rend="paranum">395</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Paṃsukūladharaṃ jantuṃ, kisaṃ dhamanisanthataṃ;</p>
-
-<p rend="gathalast">Ekaṃ vanasmiṃ jhāyantaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="396"><hi rend="paranum">396</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na <pb ed="P" n="0.0057" /> cāhaṃ brāhmaṇaṃ brūmi, yonijaṃ mattisambhavaṃ;</p>
-
-<p rend="gatha2">Bhovādi nāma so hoti, sace hoti sakiñcano;</p>
-
-<p rend="gathalast">Akiñcanaṃ anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="397"><hi rend="paranum">397</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sabbasaṃyojanaṃ chetvā, yo ve na paritassati;</p>
-
-<p rend="gathalast">Saṅgātigaṃ <pb ed="T" n="0.0069" /> visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="398"><hi rend="paranum">398</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Chetvā <pb ed="V" n="0.0063" /> naddhiṃ <note>nandhiṃ (ka. sī.), nandiṃ (pī.)</note> varattañca, sandānaṃ <note>sandāmaṃ (sī.)</note> sahanukkamaṃ;</p>
-
-<p rend="gathalast">Ukkhittapalighaṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="399"><hi rend="paranum">399</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Akkosaṃ vadhabandhañca, aduṭṭho yo titikkhati;</p>
-
-<p rend="gathalast">Khantībalaṃ balānīkaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="400"><hi rend="paranum">400</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Akkodhanaṃ vatavantaṃ, sīlavantaṃ anussadaṃ;</p>
-
-<p rend="gathalast">Dantaṃ antimasārīraṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="401"><hi rend="paranum">401</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vāri <pb ed="M" n="0.0071" /> pokkharapatteva, āraggeriva sāsapo;</p>
-
-<p rend="gathalast">Yo na limpati <note>lippati (sī. pī.)</note> kāmesu, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="402"><hi rend="paranum">402</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yo dukkhassa pajānāti, idheva khayamattano;</p>
-
-<p rend="gathalast">Pannabhāraṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="403"><hi rend="paranum">403</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Gambhīrapaññaṃ medhāviṃ, maggāmaggassa kovidaṃ;</p>
-
-<p rend="gathalast">Uttamatthamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="404"><hi rend="paranum">404</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Asaṃsaṭṭhaṃ <pb ed="P" n="0.0058" /> gahaṭṭhehi, anāgārehi cūbhayaṃ;</p>
-
-<p rend="gathalast">Anokasārimappicchaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="405"><hi rend="paranum">405</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nidhāya daṇḍaṃ bhūtesu, tasesu thāvaresu ca;</p>
-
-<p rend="gathalast">Yo na hanti na ghāteti, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="406"><hi rend="paranum">406</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Aviruddhaṃ viruddhesu, attadaṇḍesu nibbutaṃ;</p>
-
-<p rend="gathalast">Sādānesu anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="407"><hi rend="paranum">407</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassa rāgo ca doso ca, māno makkho ca pātito;</p>
-
-<p rend="gathalast">Sāsaporiva <pb ed="T" n="0.0070" /> āraggā <note>āragge (ka.)</note>, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="408"><hi rend="paranum">408</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Akakkasaṃ <pb ed="M" n="0.0072" /><pb ed="V" n="0.0064" /> viññāpaniṃ, giraṃ saccamudīraye;</p>
-
-<p rend="gathalast">Yāya nābhisaje kañci <note>kiñci (ka.)</note>, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="409"><hi rend="paranum">409</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yodha dīghaṃ va rassaṃ vā, aṇuṃ thūlaṃ subhāsubhaṃ;</p>
-
-<p rend="gathalast">Loke adinnaṃ nādiyati <note>nādeti (ma. ni. 2.459)</note>, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="410"><hi rend="paranum">410</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Āsā yassa na vijjanti, asmiṃ loke paramhi ca;</p>
-
-<p rend="gathalast">Nirāsāsaṃ <note>nirāsayaṃ (sī. syā. pī.), nirāsakaṃ (?)</note> visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="411"><hi rend="paranum">411</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassālayā na vijjanti, aññāya akathaṃkathī;</p>
-
-<p rend="gathalast">Amatogadhamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="412"><hi rend="paranum">412</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yodha puññañca pāpañca, ubho saṅgamupaccagā;</p>
-
-<p rend="gathalast">Asokaṃ virajaṃ suddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="413"><hi rend="paranum">413</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Candaṃva vimalaṃ suddhaṃ, vippasannamanāvilaṃ;</p>
-
-<p rend="gathalast">Nandībhavaparikkhīṇaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="414"><hi rend="paranum">414</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yomaṃ <pb ed="P" n="0.0059" /><note>yo imaṃ (sī. syā. kaṃ. pī.)</note> palipathaṃ duggaṃ, saṃsāraṃ mohamaccagā;</p>
-
-<p rend="gatha2">Tiṇṇo pāragato <note>pāragato (sī. syā. kaṃ. pī.)</note> jhāyī, anejo akathaṃkathī;</p>
-
-<p rend="gathalast">Anupādāya nibbuto, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="415"><hi rend="paranum">415</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yodha <pb ed="M" n="0.0073" /> kāme pahantvāna <note>pahatvāna (sī. pī.)</note>, anāgāro paribbaje;</p>
-
-<p rend="gathalast">Kāmabhavaparikkhīṇaṃ, tamahaṃ brūmi brāhmaṇaṃ <note>idaṃ gāthādvayaṃ videsapotthakesu sakideva dassitaṃ</note>.</p>
-
-<p rend="hangnum" n="416"><hi rend="paranum">416</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yodha taṇhaṃ pahantvāna, anāgāro paribbaje;</p>
-
-<p rend="gathalast">Taṇhābhavaparikkhīṇaṃ <pb ed="T" n="0.0071" />, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="417"><hi rend="paranum">417</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Hitvā <pb ed="V" n="0.0065" /> mānusakaṃ yogaṃ, dibbaṃ yogaṃ upaccagā;</p>
-
-<p rend="gathalast">Sabbayogavisaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="418"><hi rend="paranum">418</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Hitvā ratiñca aratiñca, sītibhūtaṃ nirūpadhiṃ;</p>
-
-<p rend="gathalast">Sabbalokābhibhuṃ vīraṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="419"><hi rend="paranum">419</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cutiṃ yo vedi sattānaṃ, upapattiñca sabbaso;</p>
-
-<p rend="gathalast">Asattaṃ sugataṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="420"><hi rend="paranum">420</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassa gatiṃ na jānanti, devā gandhabbamānusā;</p>
-
-<p rend="gathalast">Khīṇāsavaṃ arahantaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="421"><hi rend="paranum">421</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassa <pb ed="M" n="0.0074" /> pure ca pacchā ca, majjhe ca natthi kiñcanaṃ;</p>
-
-<p rend="gathalast">Akiñcanaṃ anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="422"><hi rend="paranum">422</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Usabhaṃ <pb ed="P" n="0.0060" /> pavaraṃ vīraṃ, mahesiṃ vijitāvinaṃ;</p>
-
-<p rend="gathalast">Anejaṃ nhātakaṃ <note>nahātakaṃ (sī. syā. kaṃ pī.)</note> buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="hangnum" n="423"><hi rend="paranum">423</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pubbenivāsaṃ yo vedi, saggāpāyañca passati,</p>
-
-<p rend="gatha2">Atho jātikkhayaṃ patto, abhiññāvosito muni;</p>
-
-<p rend="gathalast">Sabbavositavosānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</p>
-
-<p rend="centre">Brāhmaṇavaggo chabbīsatimo niṭṭhito.</p>
-
-<p rend="bodytext">(Ettāvatā <pb ed="V" n="0.0066" /> sabbapaṭhame yamakavagge cuddasa vatthūni, appamādavagge nava, cittavagge nava, pupphavagge dvādasa, bālavagge pannarasa, paṇḍitavagge ekādasa, arahantavagge dasa, sahassavagge cuddasa, pāpavagge dvādasa, daṇḍavagge ekādasa, jarāvagge nava, attavagge dasa, lokavagge ekādasa, buddhavagge nava <note>aṭṭha (ka.)</note>, sukhavagge aṭṭha, piyavagge nava, kodhavagge aṭṭha, malavagge dvādasa, dhammaṭṭhavagge dasa, maggavagge dvādasa, pakiṇṇakavagge nava, nirayavagge nava, nāgavagge aṭṭha, taṇhāvagge dvādasa, bhikkhuvagge dvādasa, brāhmaṇavagge cattālīsāti pañcādhikāni tīṇi vatthusatāni.</p>
-
-<p rend="gatha2">Satevīsacatussatā, catusaccavibhāvinā;</p>
-
-<p rend="gathalast">Satattayañca vatthūnaṃ, pañcādhikaṃ samuṭṭhitāti) <note>( ) etthantare pāṭho videsapotthakesu natthi, aṭṭhakathāsuyeva dissati</note>.</p>
-
-<p rend="bodytext"><note>dhammapadassa vaggassuddānaṃ§yamakaṃ pamādaṃ cittaṃ, pupphaṃ bālañca paṇḍitaṃ.§rahantaṃ sahassaṃ pāpaṃ, daṇḍaṃ jarā attalokaṃ.§buddhaṃ sukhaṃ piyaṃ kodhaṃ, malaṃ dhammaṭṭhamaggañca.§pakiṇṇakaṃ nirayaṃ nāgaṃ, taṇhā bhikkhū ca brāhmaṇo.§gāthāyuddānaṃ§yamake vīsagāthāyo, appamādalokamhi ca.§piye dvādasagāthāyo, citte jarattekādasa.§pupphabālasahassamhi, buddha magga pakiṇṇake.§soḷasa paṇḍite kodhe, niraye nāge catuddasa.§arahante dasaggāthā, pāpasukhamhi terasa.§sattarasa daṇḍadhammaṭṭhe, malamhi ekavīsati.§taṇhāvagge sattabbīsa, tevīsa bhikkhuvaggamhi.§brāhmaṇe ekatālīsa, catussatā satevīsa. (ka.)</note></p>
-
-<p rend="bodytext">Dhammapade vaggānamuddānaṃ –</p>
-
-<p rend="gatha2">Yamakappamādo <pb ed="M" n="0.0075" /> cittaṃ, pupphaṃ bālena paṇḍito;</p>
-
-<p rend="gathalast">Arahanto sahassañca, pāpaṃ daṇḍena te dasa.</p>
-
-<p rend="gatha1">Jarā <pb ed="T" n="0.0072" /> attā ca loko ca, buddho sukhaṃ piyena ca;</p>
-
-<p rend="gathalast">Kodho malañca dhammaṭṭho, maggavaggena vīsati.</p>
-
-<p rend="gatha2">Pakiṇṇaṃ nirayo nāgo, taṇhā bhikkhu ca brāhmaṇo;</p>
-
-<p rend="gathalast">Ete chabbīsati vaggā, desitādiccabandhunā.</p>
-
-<p rend="bodytext">Gāthānamuddānaṃ –</p>
-
-<p rend="gatha2">Yamake vīsati gāthā, appamādamhi dvādasa;</p>
-
-<p rend="gathalast">Ekādasa cittavagge, pupphavaggamhi soḷasa.</p>
-
-<p rend="gatha2">Bāle ca soḷasa gāthā, paṇḍitamhi catuddasa;</p>
-
-<p rend="gathalast">Arahante dasa gāthā, sahasse honti soḷasa.</p>
-
-<p rend="gatha2">Terasa pāpavaggamhi, daṇḍamhi dasa satta ca;</p>
-
-<p rend="gathalast">Ekādasa jarā vagge, attavaggamhi tā dasa.</p>
-
-<p rend="gatha2">Dvādasa <pb ed="M" n="0.0076" /><pb ed="V" n="0.0067" /> lokavaggamhi, buddhavaggamhi ṭhārasa <note>soḷasa (sabbattha)</note>;</p>
-
-<p rend="gathalast">Sukhe ca piyavagge ca, gāthāyo honti dvādasa.</p>
-
-<p rend="gatha2">Cuddasa kodhavaggamhi, malavaggekavīsati;</p>
-
-<p rend="gathalast">Sattarasa ca dhammaṭṭhe, maggavagge sattarasa.</p>
-
-<p rend="gatha2">Pakiṇṇe soḷasa gāthā, niraye nāge ca cuddasa;</p>
-
-<p rend="gathalast">Chabbīsa taṇhāvaggamhi, tevīsa bhikkhuvaggikā.</p>
-
-<p rend="gatha2">Ekatālīsagāthāyo, brāhmaṇe vaggamuttame;</p>
-
-<p rend="gatha3">Gāthāsatāni cattāri, tevīsa ca punāpare;</p>
-
-<p rend="gathalast">Dhammapade nipātamhi, desitādiccabandhunāti.</p>
-
-<p rend="centre">Dhammapadapāḷi niṭṭhitā.</p>
-</body>
-<back></back>
+  <chapter>26. Brāhmaṇavaggo</chapter>
+  <hangnum nr="383"/>
+  <gatha type="1"> Chinda sotaṃ parakkamma, kāme panuda brāhmaṇa;</gatha>
+  <gatha type="last">Saṅkhārānaṃ khayaṃ ñatvā, akataññūsi brāhmaṇa.</gatha>
+  <hangnum nr="384"/>
+  <gatha type="1"> Yadā dvayesu dhammesu, pāragū hoti brāhmaṇo;</gatha>
+  <gatha type="last">Athassa sabbe saṃyogā, atthaṃ gacchanti jānato.</gatha>
+  <hangnum nr="385"/>
+  <gatha type="1"> Yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati;</gatha>
+  <gatha type="last">Vītaddaraṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="386"/>
+  <gatha type="1"> Jhāyiṃ virajamāsīnaṃ, katakiccamanāsavaṃ;</gatha>
+  <gatha type="last">Uttamatthamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="387"/>
+  <gatha type="1"> Divā  tapati ādicco, rattimābhāti candimā;</gatha>
+  <gatha type="2">Sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo;</gatha>
+  <gatha type="last">Atha sabbamahorattiṃ <note>[sabbamahorattaṃ (?)]</note>, buddho tapati tejasā.</gatha>
+  <hangnum nr="388"/>
+  <gatha type="1"> Bāhitapāpoti  brāhmaṇo, samacariyā samaṇoti vuccati;</gatha>
+  <gatha type="last">Pabbājayamattano malaṃ, tasmā ‘‘pabbajito’’ti vuccati.</gatha>
+  <hangnum nr="389"/>
+  <gatha type="1"> Na  brāhmaṇassa pahareyya, nāssa muñcetha brāhmaṇo;</gatha>
+  <gatha type="last">Dhī <note>[dhi (syā. byākaraṇesu)]</note> brāhmaṇassa hantāraṃ, tato dhī yassa <note>[yo + assa = yassa]</note> muñcati.</gatha>
+  <hangnum nr="390"/>
+  <gatha type="1"> Na brāhmaṇassetadakiñci seyyo, yadā nisedho manaso piyehi;</gatha>
+  <gatha type="last">Yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.</gatha>
+  <hangnum nr="391"/>
+  <gatha type="1"> Yassa kāyena vācāya, manasā natthi dukkaṭaṃ;</gatha>
+  <gatha type="last">Saṃvutaṃ tīhi ṭhānehi, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="392"/>
+  <gatha type="1"> Yamhā dhammaṃ vijāneyya, sammāsambuddhadesitaṃ;</gatha>
+  <gatha type="last">Sakkaccaṃ taṃ namasseyya, aggihuttaṃva brāhmaṇo.</gatha>
+  <hangnum nr="393"/>
+  <gatha type="1"> Na jaṭāhi na gottena, na jaccā hoti brāhmaṇo;</gatha>
+  <gatha type="last">Yamhi saccañca dhammo ca, so sucī so ca brāhmaṇo.</gatha>
+  <hangnum nr="394"/>
+  <gatha type="1"> Kiṃ  te jaṭāhi dummedha, kiṃ te ajinasāṭiyā;</gatha>
+  <gatha type="last">Abbhantaraṃ te gahanaṃ, bāhiraṃ parimajjasi.</gatha>
+  <hangnum nr="395"/>
+  <gatha type="1"> Paṃsukūladharaṃ jantuṃ, kisaṃ dhamanisanthataṃ;</gatha>
+  <gatha type="last">Ekaṃ vanasmiṃ jhāyantaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="396"/>
+  <gatha type="1"> Na  cāhaṃ brāhmaṇaṃ brūmi, yonijaṃ mattisambhavaṃ;</gatha>
+  <gatha type="2">Bhovādi nāma so hoti, sace hoti sakiñcano;</gatha>
+  <gatha type="last">Akiñcanaṃ anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="397"/>
+  <gatha type="1"> Sabbasaṃyojanaṃ chetvā, yo ve na paritassati;</gatha>
+  <gatha type="last">Saṅgātigaṃ  visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="398"/>
+  <gatha type="1"> Chetvā  naddhiṃ <note>[nandhiṃ (ka. sī.), nandiṃ (pī.)]</note> varattañca, sandānaṃ <note>[sandāmaṃ (sī.)]</note> sahanukkamaṃ;</gatha>
+  <gatha type="last">Ukkhittapalighaṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="399"/>
+  <gatha type="1"> Akkosaṃ vadhabandhañca, aduṭṭho yo titikkhati;</gatha>
+  <gatha type="last">Khantībalaṃ balānīkaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="400"/>
+  <gatha type="1"> Akkodhanaṃ vatavantaṃ, sīlavantaṃ anussadaṃ;</gatha>
+  <gatha type="last">Dantaṃ antimasārīraṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="401"/>
+  <gatha type="1"> Vāri  pokkharapatteva, āraggeriva sāsapo;</gatha>
+  <gatha type="last">Yo na limpati <note>[lippati (sī. pī.)]</note> kāmesu, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="402"/>
+  <gatha type="1"> Yo dukkhassa pajānāti, idheva khayamattano;</gatha>
+  <gatha type="last">Pannabhāraṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="403"/>
+  <gatha type="1"> Gambhīrapaññaṃ medhāviṃ, maggāmaggassa kovidaṃ;</gatha>
+  <gatha type="last">Uttamatthamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="404"/>
+  <gatha type="1"> Asaṃsaṭṭhaṃ  gahaṭṭhehi, anāgārehi cūbhayaṃ;</gatha>
+  <gatha type="last">Anokasārimappicchaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="405"/>
+  <gatha type="1"> Nidhāya daṇḍaṃ bhūtesu, tasesu thāvaresu ca;</gatha>
+  <gatha type="last">Yo na hanti na ghāteti, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="406"/>
+  <gatha type="1"> Aviruddhaṃ viruddhesu, attadaṇḍesu nibbutaṃ;</gatha>
+  <gatha type="last">Sādānesu anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="407"/>
+  <gatha type="1"> Yassa rāgo ca doso ca, māno makkho ca pātito;</gatha>
+  <gatha type="last">Sāsaporiva  āraggā <note>[āragge (ka.)]</note>, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="408"/>
+  <gatha type="1"> Akakkasaṃ  viññāpaniṃ, giraṃ saccamudīraye;</gatha>
+  <gatha type="last">Yāya nābhisaje kañci <note>[kiñci (ka.)]</note>, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="409"/>
+  <gatha type="1"> Yodha dīghaṃ va rassaṃ vā, aṇuṃ thūlaṃ subhāsubhaṃ;</gatha>
+  <gatha type="last">Loke adinnaṃ nādiyati <note>[nādeti (ma. ni. 2.459)]</note>, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="410"/>
+  <gatha type="1"> Āsā yassa na vijjanti, asmiṃ loke paramhi ca;</gatha>
+  <gatha type="last">Nirāsāsaṃ <note>[nirāsayaṃ (sī. syā. pī.), nirāsakaṃ (?)]</note> visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="411"/>
+  <gatha type="1"> Yassālayā na vijjanti, aññāya akathaṃkathī;</gatha>
+  <gatha type="last">Amatogadhamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="412"/>
+  <gatha type="1"> Yodha puññañca pāpañca, ubho saṅgamupaccagā;</gatha>
+  <gatha type="last">Asokaṃ virajaṃ suddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="413"/>
+  <gatha type="1"> Candaṃva vimalaṃ suddhaṃ, vippasannamanāvilaṃ;</gatha>
+  <gatha type="last">Nandībhavaparikkhīṇaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="414"/>
+  <gatha type="1"> Yomaṃ <note>[yo imaṃ (sī. syā. kaṃ. pī.)]</note> palipathaṃ duggaṃ, saṃsāraṃ mohamaccagā;</gatha>
+  <gatha type="2">Tiṇṇo pāragato <note>[pāragato (sī. syā. kaṃ. pī.)]</note> jhāyī, anejo akathaṃkathī;</gatha>
+  <gatha type="last">Anupādāya nibbuto, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="415"/>
+  <gatha type="1"> Yodha  kāme pahantvāna <note>[pahatvāna (sī. pī.)]</note>, anāgāro paribbaje;</gatha>
+  <gatha type="last">Kāmabhavaparikkhīṇaṃ, tamahaṃ brūmi brāhmaṇaṃ <note>[idaṃ gāthādvayaṃ videsapotthakesu sakideva dassitaṃ]</note>.</gatha>
+  <hangnum nr="416"/>
+  <gatha type="1"> Yodha taṇhaṃ pahantvāna, anāgāro paribbaje;</gatha>
+  <gatha type="last">Taṇhābhavaparikkhīṇaṃ , tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="417"/>
+  <gatha type="1"> Hitvā  mānusakaṃ yogaṃ, dibbaṃ yogaṃ upaccagā;</gatha>
+  <gatha type="last">Sabbayogavisaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="418"/>
+  <gatha type="1"> Hitvā ratiñca aratiñca, sītibhūtaṃ nirūpadhiṃ;</gatha>
+  <gatha type="last">Sabbalokābhibhuṃ vīraṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="419"/>
+  <gatha type="1"> Cutiṃ yo vedi sattānaṃ, upapattiñca sabbaso;</gatha>
+  <gatha type="last">Asattaṃ sugataṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="420"/>
+  <gatha type="1"> Yassa gatiṃ na jānanti, devā gandhabbamānusā;</gatha>
+  <gatha type="last">Khīṇāsavaṃ arahantaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="421"/>
+  <gatha type="1"> Yassa  pure ca pacchā ca, majjhe ca natthi kiñcanaṃ;</gatha>
+  <gatha type="last">Akiñcanaṃ anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="422"/>
+  <gatha type="1"> Usabhaṃ  pavaraṃ vīraṃ, mahesiṃ vijitāvinaṃ;</gatha>
+  <gatha type="last">Anejaṃ nhātakaṃ <note>[nahātakaṃ (sī. syā. kaṃ pī.)]</note> buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <hangnum nr="423"/>
+  <gatha type="1"> Pubbenivāsaṃ yo vedi, saggāpāyañca passati,</gatha>
+  <gatha type="2">Atho jātikkhayaṃ patto, abhiññāvosito muni;</gatha>
+  <gatha type="last">Sabbavositavosānaṃ, tamahaṃ brūmi brāhmaṇaṃ.</gatha>
+  <centered>Brāhmaṇavaggo chabbīsatimo niṭṭhito.</centered>
+  <paragraph>(Ettāvatā  sabbapaṭhame yamakavagge cuddasa vatthūni, appamādavagge nava, cittavagge nava, pupphavagge dvādasa, bālavagge pannarasa, paṇḍitavagge ekādasa, arahantavagge dasa, sahassavagge cuddasa, pāpavagge dvādasa, daṇḍavagge ekādasa, jarāvagge nava, attavagge dasa, lokavagge ekādasa, buddhavagge nava <note>[aṭṭha (ka.)]</note>, sukhavagge aṭṭha, piyavagge nava, kodhavagge aṭṭha, malavagge dvādasa, dhammaṭṭhavagge dasa, maggavagge dvādasa, pakiṇṇakavagge nava, nirayavagge nava, nāgavagge aṭṭha, taṇhāvagge dvādasa, bhikkhuvagge dvādasa, brāhmaṇavagge cattālīsāti pañcādhikāni tīṇi vatthusatāni.</paragraph>
+  <gatha type="2">Satevīsacatussatā, catusaccavibhāvinā;</gatha>
+  <gatha type="last">Satattayañca vatthūnaṃ, pañcādhikaṃ samuṭṭhitāti) <note>[( ) etthantare pāṭho videsapotthakesu natthi, aṭṭhakathāsuyeva dissati]</note>.</gatha>
+  <paragraph>
+    <note>[dhammapadassa vaggassuddānaṃ§yamakaṃ pamādaṃ cittaṃ, pupphaṃ bālañca paṇḍitaṃ.§rahantaṃ sahassaṃ pāpaṃ, daṇḍaṃ jarā attalokaṃ.§buddhaṃ sukhaṃ piyaṃ kodhaṃ, malaṃ dhammaṭṭhamaggañca.§pakiṇṇakaṃ nirayaṃ nāgaṃ, taṇhā bhikkhū ca brāhmaṇo.§gāthāyuddānaṃ§yamake vīsagāthāyo, appamādalokamhi ca.§piye dvādasagāthāyo, citte jarattekādasa.§pupphabālasahassamhi, buddha magga pakiṇṇake.§soḷasa paṇḍite kodhe, niraye nāge catuddasa.§arahante dasaggāthā, pāpasukhamhi terasa.§sattarasa daṇḍadhammaṭṭhe, malamhi ekavīsati.§taṇhāvagge sattabbīsa, tevīsa bhikkhuvaggamhi.§brāhmaṇe ekatālīsa, catussatā satevīsa. (ka.)]</note>
+  </paragraph>
+  <paragraph>Dhammapade vaggānamuddānaṃ –</paragraph>
+  <gatha type="2">Yamakappamādo  cittaṃ, pupphaṃ bālena paṇḍito;</gatha>
+  <gatha type="last">Arahanto sahassañca, pāpaṃ daṇḍena te dasa.</gatha>
+  <gatha type="1">Jarā  attā ca loko ca, buddho sukhaṃ piyena ca;</gatha>
+  <gatha type="last">Kodho malañca dhammaṭṭho, maggavaggena vīsati.</gatha>
+  <gatha type="2">Pakiṇṇaṃ nirayo nāgo, taṇhā bhikkhu ca brāhmaṇo;</gatha>
+  <gatha type="last">Ete chabbīsati vaggā, desitādiccabandhunā.</gatha>
+  <paragraph>Gāthānamuddānaṃ –</paragraph>
+  <gatha type="2">Yamake vīsati gāthā, appamādamhi dvādasa;</gatha>
+  <gatha type="last">Ekādasa cittavagge, pupphavaggamhi soḷasa.</gatha>
+  <gatha type="2">Bāle ca soḷasa gāthā, paṇḍitamhi catuddasa;</gatha>
+  <gatha type="last">Arahante dasa gāthā, sahasse honti soḷasa.</gatha>
+  <gatha type="2">Terasa pāpavaggamhi, daṇḍamhi dasa satta ca;</gatha>
+  <gatha type="last">Ekādasa jarā vagge, attavaggamhi tā dasa.</gatha>
+  <gatha type="2">Dvādasa  lokavaggamhi, buddhavaggamhi ṭhārasa <note>[soḷasa (sabbattha)]</note>;</gatha>
+  <gatha type="last">Sukhe ca piyavagge ca, gāthāyo honti dvādasa.</gatha>
+  <gatha type="2">Cuddasa kodhavaggamhi, malavaggekavīsati;</gatha>
+  <gatha type="last">Sattarasa ca dhammaṭṭhe, maggavagge sattarasa.</gatha>
+  <gatha type="2">Pakiṇṇe soḷasa gāthā, niraye nāge ca cuddasa;</gatha>
+  <gatha type="last">Chabbīsa taṇhāvaggamhi, tevīsa bhikkhuvaggikā.</gatha>
+  <gatha type="2">Ekatālīsagāthāyo, brāhmaṇe vaggamuttame;</gatha>
+  <gatha type="3">Gāthāsatāni cattāri, tevīsa ca punāpare;</gatha>
+  <gatha type="last">Dhammapade nipātamhi, desitādiccabandhunāti.</gatha>
+  <centered>Dhammapadapāḷi niṭṭhitā.</centered>
 </text>
-</TEI.2>

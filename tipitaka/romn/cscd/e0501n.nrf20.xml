@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">21. Atthipaccayo</p>
-
-<p rend="bodytext">Sattavidho atthipaccayo, sahajātatthipaccayo vatthupure jātatthi paccayo ārammaṇapurejātatthipaccayo vatthārammaṇapure jātatthipaccayo pacchājātatthipaccayo rūpāhāratthipaccayo rūpa jīvitindriyatthipaccayoti.</p>
-
-<p rend="bodytext">Tattha sahajātapaccayo eva sahajātatthipaccayo nāma. Esa nayo sesesu chasu. Paccayapaccayuppannavibhāgopi heṭṭhā tattha tattha vuttoyeva.</p>
-
-<p rend="bodytext">Kenaṭṭhena <pb ed="M" n="0.0493" /> atthipaccayo. Sayaṃ khaṇikapaccuppannatā saṅkhātena atthibhāvena paccuppannassa dhammassa paccayo atthipaccayo. Atthipaccayadīpanā niṭṭhitā.</p>
-</body>
-<back></back>
+  <chapter>21. Atthipaccayo</chapter>
+  <paragraph>Sattavidho atthipaccayo, sahajātatthipaccayo vatthupure jātatthi paccayo ārammaṇapurejātatthipaccayo vatthārammaṇapure jātatthipaccayo pacchājātatthipaccayo rūpāhāratthipaccayo rūpa jīvitindriyatthipaccayoti.</paragraph>
+  <paragraph>Tattha sahajātapaccayo eva sahajātatthipaccayo nāma. Esa nayo sesesu chasu. Paccayapaccayuppannavibhāgopi heṭṭhā tattha tattha vuttoyeva.</paragraph>
+  <paragraph>Kenaṭṭhena  atthipaccayo. Sayaṃ khaṇikapaccuppannatā saṅkhātena atthibhāvena paccuppannassa dhammassa paccayo atthipaccayo. Atthipaccayadīpanā niṭṭhitā.</paragraph>
 </text>
-</TEI.2>

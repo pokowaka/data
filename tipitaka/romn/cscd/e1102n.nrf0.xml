@@ -1,81 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="centre">Namo tassa bhagavato arahato sammāsambuddhassa.</p>
-
-<p rend="book">Sīmavisodhanī</p>
-
-<p rend="gatha1">Varadaṃ <pb ed="M" n="0.0005" /> varadaṃ aggaṃ, diccaṃ diccaṃva vanajaṃ;</p>
-
-<p rend="gathalast">Bodhakaṃ bodhakaṃ pāṇaṃ, deva’devaṃ namāma’haṃ.</p>
-
-<p rend="gatha1">Santaṃ santaṃ sadā vaṭṭaṃ, pajaṃ’bhave sutaṃ;</p>
-
-<p rend="gathalast">Nibbudaṃ nibbudaṃ tāraṃ, dhammavaraṃ namāma’haṃ.</p>
-
-<p rend="gatha1">Sutaṃ sutaṃ bhavane yaṃ, natanaṃ natanā’rahaṃ;</p>
-
-<p rend="gathalast">Narā’narā sadā’kaṃsu, saṅghavaraṃ namāma’haṃ.</p>
-
-<p rend="gatha1">Icceva’maccantanatassaneyyaṃ, natayyamāno ratanattayaṃ yaṃ;</p>
-
-<p rend="gathalast">Puññābhivaḍḍhiṃ mahagghaṃ alatthaṃ, tassānubhāvena hatantarāyo.</p>
-
-<p rend="gatha1">Vinaye sati ṭhite yaṃ, sāsanaṃ saṇṭhitaṃ bhave;</p>
-
-<p rend="gathalast">Vinaye sati naṭṭhe yaṃ, vinaṭṭhaṃ sāsanaṃ bhave.</p>
-
-<p rend="gatha1">Tasmā dittaṃ mame’dāni, jotayitvāna sāsane;</p>
-
-<p rend="gathalast">Bhinditvā dveḷhakaṃ vādaṃ, ekībhāvaṃ karoma’haṃ.</p>
-
-<p rend="gatha1">Attukkaṃsana-bhāvañca, paravambhanakampica;</p>
-
-<p rend="gathalast">Tesu cittaṃ apesetvā, sāsanassa suvuḍḍhiyā.</p>
-
-<p rend="gatha1">Yadi me īdisaṃ cittaṃ, bhaveyyuṃ pāpasaṅkappā;</p>
-
-<p rend="gathalast">Paccissaṃ niraye bhayaṃ, hīna’jjhāsayakāraṇā.</p>
-
-<p rend="gatha1">Sāsanassa <pb ed="M" n="0.0006" /> sulabhaṃ’va patthayanto satā’cāro;</p>
-
-<p rend="gathalast">Saṃsandissamahaṃ dāni, ciraṃ saddhamma’suddhiyā.</p>
-
-<p rend="gatha1">Sudullabhaṃ labhitvāna, pabbajjaṃ jinasāsane;</p>
-
-<p rend="gathalast">Sambuddhassa varaṃ vādaṃ, katvā dveḷhaka’mekikaṃ.</p>
-
-<p rend="gatha1">Sīmavisodhaniṃ nāma, nānāganthasamāhaṭaṃ;</p>
-
-<p rend="gathalast">Karissaṃ me nisāmentu, sādhavo kavipuṅgavā.</p>
-
-<p rend="gatha1">Pāḷiṃ aṭṭhakathañceva, mātikaṃ padabhājaniṃ;</p>
-
-<p rend="gathalast">Ogāhetvāna taṃ sabbaṃ, punappunaṃ asesato.</p>
-
-<p rend="gatha1">Attanomatiganthesu, ṭīkāgaṇṭhipadesuca;</p>
-
-<p rend="gathalast">Vinicchayavimatīsu, mātikā’ṭṭhakathāsupi.</p>
-
-<p rend="gatha1">Sabbaṃ asesakaṃ katvā, saṃsanditvāna ekato;</p>
-
-<p rend="gathalast">Pavattā vaṇṇanā esā, tosayantī vicakkhaṇeti.</p>
-
-<p rend="bodytext">Buddhuppādo hi dullabho, tato pabbajjā ca upasampadā ca, vuttañhetaṃ</p>
-
-<p rend="gatha1">Buddho ca dullabho loke, saddhammasavanampi ca;</p>
-
-<p rend="gathalast">Saṅgho ca dullabho loke, sappūrisā’tidullabhā.</p>
-
-<p rend="gatha1">Dullabhañca manussattaṃ, buddhuppādo ca dullabho;</p>
-
-<p rend="gathalast">Dullabhā khaṇasampatti, saddhammo paramadullabho’ti.</p>
-</body>
-<back></back>
+  <centered>Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
+  <book>Sīmavisodhanī</book>
+  <gatha type="1">Varadaṃ  varadaṃ aggaṃ, diccaṃ diccaṃva vanajaṃ;</gatha>
+  <gatha type="last">Bodhakaṃ bodhakaṃ pāṇaṃ, deva’devaṃ namāma’haṃ.</gatha>
+  <gatha type="1">Santaṃ santaṃ sadā vaṭṭaṃ, pajaṃ’bhave sutaṃ;</gatha>
+  <gatha type="last">Nibbudaṃ nibbudaṃ tāraṃ, dhammavaraṃ namāma’haṃ.</gatha>
+  <gatha type="1">Sutaṃ sutaṃ bhavane yaṃ, natanaṃ natanā’rahaṃ;</gatha>
+  <gatha type="last">Narā’narā sadā’kaṃsu, saṅghavaraṃ namāma’haṃ.</gatha>
+  <gatha type="1">Icceva’maccantanatassaneyyaṃ, natayyamāno ratanattayaṃ yaṃ;</gatha>
+  <gatha type="last">Puññābhivaḍḍhiṃ mahagghaṃ alatthaṃ, tassānubhāvena hatantarāyo.</gatha>
+  <gatha type="1">Vinaye sati ṭhite yaṃ, sāsanaṃ saṇṭhitaṃ bhave;</gatha>
+  <gatha type="last">Vinaye sati naṭṭhe yaṃ, vinaṭṭhaṃ sāsanaṃ bhave.</gatha>
+  <gatha type="1">Tasmā dittaṃ mame’dāni, jotayitvāna sāsane;</gatha>
+  <gatha type="last">Bhinditvā dveḷhakaṃ vādaṃ, ekībhāvaṃ karoma’haṃ.</gatha>
+  <gatha type="1">Attukkaṃsana-bhāvañca, paravambhanakampica;</gatha>
+  <gatha type="last">Tesu cittaṃ apesetvā, sāsanassa suvuḍḍhiyā.</gatha>
+  <gatha type="1">Yadi me īdisaṃ cittaṃ, bhaveyyuṃ pāpasaṅkappā;</gatha>
+  <gatha type="last">Paccissaṃ niraye bhayaṃ, hīna’jjhāsayakāraṇā.</gatha>
+  <gatha type="1">Sāsanassa  sulabhaṃ’va patthayanto satā’cāro;</gatha>
+  <gatha type="last">Saṃsandissamahaṃ dāni, ciraṃ saddhamma’suddhiyā.</gatha>
+  <gatha type="1">Sudullabhaṃ labhitvāna, pabbajjaṃ jinasāsane;</gatha>
+  <gatha type="last">Sambuddhassa varaṃ vādaṃ, katvā dveḷhaka’mekikaṃ.</gatha>
+  <gatha type="1">Sīmavisodhaniṃ nāma, nānāganthasamāhaṭaṃ;</gatha>
+  <gatha type="last">Karissaṃ me nisāmentu, sādhavo kavipuṅgavā.</gatha>
+  <gatha type="1">Pāḷiṃ aṭṭhakathañceva, mātikaṃ padabhājaniṃ;</gatha>
+  <gatha type="last">Ogāhetvāna taṃ sabbaṃ, punappunaṃ asesato.</gatha>
+  <gatha type="1">Attanomatiganthesu, ṭīkāgaṇṭhipadesuca;</gatha>
+  <gatha type="last">Vinicchayavimatīsu, mātikā’ṭṭhakathāsupi.</gatha>
+  <gatha type="1">Sabbaṃ asesakaṃ katvā, saṃsanditvāna ekato;</gatha>
+  <gatha type="last">Pavattā vaṇṇanā esā, tosayantī vicakkhaṇeti.</gatha>
+  <paragraph>Buddhuppādo hi dullabho, tato pabbajjā ca upasampadā ca, vuttañhetaṃ</paragraph>
+  <gatha type="1">Buddho ca dullabho loke, saddhammasavanampi ca;</gatha>
+  <gatha type="last">Saṅgho ca dullabho loke, sappūrisā’tidullabhā.</gatha>
+  <gatha type="1">Dullabhañca manussattaṃ, buddhuppādo ca dullabho;</gatha>
+  <gatha type="last">Dullabhā khaṇasampatti, saddhammo paramadullabho’ti.</gatha>
 </text>
-</TEI.2>

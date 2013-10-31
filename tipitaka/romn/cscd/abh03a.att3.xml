@@ -1,25 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Puggalapaññatti-aṭṭhakathā</p>
-
-<p rend="gatha1">Nipuṇatthaṃ <pb ed="P" n="0.0171" /><pb ed="M" n="0.0025" /><pb ed="V" n="0.0025" /> pakaraṇaṃ, dhātubhedappakāsano;</p>
-
-<p rend="gathalast">Satthā dhātukathaṃ nāma, desayitvā surālaye.</p>
-
-<p rend="gatha1">Anantaraṃ tassa jino, paññattibhedadīpanaṃ;</p>
-
-<p rend="gathalast">Āha puggalapaññattiṃ, yaṃ loke aggapuggalo.</p>
-
-<p rend="gatha1">Tassā saṃvaṇṇanokāso, yasmā dāni upāgato;</p>
-
-<p rend="gathalast">Tasmā naṃ vaṇṇayissāmi, taṃ suṇātha samāhitāti.</p>
-</body>
-<back></back>
+  <chapter>Puggalapaññatti-aṭṭhakathā</chapter>
+  <gatha type="1">Nipuṇatthaṃ  pakaraṇaṃ, dhātubhedappakāsano;</gatha>
+  <gatha type="last">Satthā dhātukathaṃ nāma, desayitvā surālaye.</gatha>
+  <gatha type="1">Anantaraṃ tassa jino, paññattibhedadīpanaṃ;</gatha>
+  <gatha type="last">Āha puggalapaññattiṃ, yaṃ loke aggapuggalo.</gatha>
+  <gatha type="1">Tassā saṃvaṇṇanokāso, yasmā dāni upāgato;</gatha>
+  <gatha type="last">Tasmā naṃ vaṇṇayissāmi, taṃ suṇātha samāhitāti.</gatha>
 </text>
-</TEI.2>

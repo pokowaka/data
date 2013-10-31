@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">1. Kodhapeyyālaṃ</p>
-
-<p rend="bodytext" n="181"><hi rend="paranum">181</hi><hi rend="dot">.</hi> Ito <pb ed="M" n="2.0064" /><pb ed="V" n="2.0066" /> paresu kujjhanalakkhaṇo <hi rend="bold">kodho</hi>. Upanandhanalakkhaṇo <hi rend="bold">upanāho</hi>. Sukatakaraṇamakkhanalakkhaṇo <hi rend="bold">makkho</hi>. Yugaggāhalakkhaṇo <hi rend="bold">palāso</hi>. Usūyanalakkhaṇā <hi rend="bold">issā</hi>. Pañcamaccherabhāvo <pb ed="P" n="2.0163" /><hi rend="bold">macchariyaṃ</hi>. Taṃ sabbampi maccharāyanalakkhaṇaṃ. Katapaṭicchādanalakkhaṇā <hi rend="bold">māyā</hi>. Kerāṭikalakkhaṇaṃ <hi rend="bold">sāṭheyyaṃ</hi>. Alajjanākāro <hi rend="bold">ahirikaṃ</hi>. Upavādato abhāyanākāro <hi rend="bold">anottappaṃ. Akkodhā</hi>dayo tesaṃ paṭipakkhavasena veditabbā.</p>
-
-<p rend="bodytext" n="185"><hi rend="paranum">185</hi><hi rend="dot">.</hi><hi rend="bold">Sekkhassa bhikkhuno</hi>ti sattavidhassāpi sekkhassa upariupariguṇehi parihānāya saṃvattanti, puthujjanassa pana paṭhamataraṃyeva parihānāya saṃvattantīti veditabbā. <hi rend="bold">Aparihānāyā</hi>ti upariupariguṇehi aparihānatthāya.</p>
-
-<p rend="bodytext" n="187"><hi rend="paranum">187</hi><hi rend="dot">.</hi><hi rend="bold">Yathābhataṃ nikkhitto</hi>ti yathā ānetvā nikkhitto, evaṃ niraye patiṭṭhito vāti veditabbo.</p>
-
-<p rend="bodytext" n="190"><hi rend="paranum">190</hi><hi rend="dot">.</hi><hi rend="bold">Ekacco</hi>ti yassete kodhādayo atthi, so ekacco nāma.</p>
-
-<p rend="centre">Kodhapeyyālaṃ niṭṭhitaṃ.</p>
-</body>
-<back></back>
+  <chapter>1. Kodhapeyyālaṃ</chapter>
+  <paragraph nr="181"> Ito  paresu kujjhanalakkhaṇo kodho. Upanandhanalakkhaṇo upanāho. Sukatakaraṇamakkhanalakkhaṇo makkho. Yugaggāhalakkhaṇo palāso. Usūyanalakkhaṇā issā. Pañcamaccherabhāvo macchariyaṃ. Taṃ sabbampi maccharāyanalakkhaṇaṃ. Katapaṭicchādanalakkhaṇā māyā. Kerāṭikalakkhaṇaṃ sāṭheyyaṃ. Alajjanākāro ahirikaṃ. Upavādato abhāyanākāro anottappaṃ. Akkodhādayo tesaṃ paṭipakkhavasena veditabbā.</paragraph>
+  <paragraph nr="185">Sekkhassa bhikkhunoti sattavidhassāpi sekkhassa upariupariguṇehi parihānāya saṃvattanti, puthujjanassa pana paṭhamataraṃyeva parihānāya saṃvattantīti veditabbā. Aparihānāyāti upariupariguṇehi aparihānatthāya.</paragraph>
+  <paragraph nr="187">Yathābhataṃ nikkhittoti yathā ānetvā nikkhitto, evaṃ niraye patiṭṭhito vāti veditabbo.</paragraph>
+  <paragraph nr="190">Ekaccoti yassete kodhādayo atthi, so ekacco nāma.</paragraph>
+  <centered>Kodhapeyyālaṃ niṭṭhitaṃ.</centered>
 </text>
-</TEI.2>

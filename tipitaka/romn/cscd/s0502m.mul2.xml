@@ -1,81 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">3. Cittavaggo</p>
-
-<p rend="hangnum" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Phandanaṃ <pb ed="M" n="0.0018" /> capalaṃ cittaṃ, dūrakkhaṃ <note>durakkhaṃ (sabbattha)</note> dunnivārayaṃ;</p>
-
-<p rend="gathalast">Ujuṃ karoti medhāvī, usukārova tejanaṃ.</p>
-
-<p rend="hangnum" n="34"><hi rend="paranum">34</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vārijova thale khitto, okamokataubbhato;</p>
-
-<p rend="gathalast">Pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.</p>
-
-<p rend="hangnum" n="35"><hi rend="paranum">35</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dunniggahassa lahuno, yatthakāmanipātino;</p>
-
-<p rend="gathalast">Cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ.</p>
-
-<p rend="hangnum" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sududdasaṃ <pb ed="V" n="0.0018" /><pb ed="P" n="0.0006" /> sunipuṇaṃ, yatthakāmanipātinaṃ;</p>
-
-<p rend="gathalast">Cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.</p>
-
-<p rend="hangnum" n="37"><hi rend="paranum">37</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dūraṅgamaṃ ekacaraṃ <note>ekacāraṃ (ka.)</note>, asarīraṃ guhāsayaṃ;</p>
-
-<p rend="gathalast">Ye <pb ed="T" n="0.0020" /> cittaṃ saṃyamessanti, mokkhanti mārabandhanā.</p>
-
-<p rend="hangnum" n="38"><hi rend="paranum">38</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anavaṭṭhitacittassa, saddhammaṃ avijānato;</p>
-
-<p rend="gathalast">Pariplavapasādassa, paññā na paripūrati.</p>
-
-<p rend="hangnum" n="39"><hi rend="paranum">39</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anavassutacittassa, ananvāhatacetaso;</p>
-
-<p rend="gathalast">Puññapāpapahīnassa, natthi jāgarato bhayaṃ.</p>
-
-<p rend="hangnum" n="40"><hi rend="paranum">40</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kumbhūpamaṃ kāyamimaṃ viditvā, nagarūpamaṃ cittamidaṃ ṭhapetvā;</p>
-
-<p rend="gathalast">Yodhetha māraṃ paññāvudhena, jitañca rakkhe anivesano siyā.</p>
-
-<p rend="hangnum" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Aciraṃ <pb ed="M" n="0.0019" /> vatayaṃ kāyo, pathaviṃ adhisessati;</p>
-
-<p rend="gathalast">Chuddho apetaviññāṇo, niratthaṃva kaliṅgaraṃ.</p>
-
-<p rend="hangnum" n="42"><hi rend="paranum">42</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Diso disaṃ yaṃ taṃ kayirā, verī vā pana verinaṃ;</p>
-
-<p rend="gathalast">Micchāpaṇihitaṃ cittaṃ, pāpiyo <note>pāpiyaṃ (?)</note> naṃ tato kare.</p>
-
-<p rend="hangnum" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na taṃ mātā pitā kayirā, aññe vāpi ca ñātakā;</p>
-
-<p rend="gathalast">Sammāpaṇihitaṃ cittaṃ, seyyaso naṃ tato kare.</p>
-
-<p rend="centre">Cittavaggo tatiyo niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>3. Cittavaggo</chapter>
+  <hangnum nr="33"/>
+  <gatha type="1"> Phandanaṃ  capalaṃ cittaṃ, dūrakkhaṃ <note>[durakkhaṃ (sabbattha)]</note> dunnivārayaṃ;</gatha>
+  <gatha type="last">Ujuṃ karoti medhāvī, usukārova tejanaṃ.</gatha>
+  <hangnum nr="34"/>
+  <gatha type="1"> Vārijova thale khitto, okamokataubbhato;</gatha>
+  <gatha type="last">Pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.</gatha>
+  <hangnum nr="35"/>
+  <gatha type="1"> Dunniggahassa lahuno, yatthakāmanipātino;</gatha>
+  <gatha type="last">Cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ.</gatha>
+  <hangnum nr="36"/>
+  <gatha type="1"> Sududdasaṃ  sunipuṇaṃ, yatthakāmanipātinaṃ;</gatha>
+  <gatha type="last">Cittaṃ rakkhetha medhāvī, cittaṃ guttaṃ sukhāvahaṃ.</gatha>
+  <hangnum nr="37"/>
+  <gatha type="1"> Dūraṅgamaṃ ekacaraṃ <note>[ekacāraṃ (ka.)]</note>, asarīraṃ guhāsayaṃ;</gatha>
+  <gatha type="last">Ye  cittaṃ saṃyamessanti, mokkhanti mārabandhanā.</gatha>
+  <hangnum nr="38"/>
+  <gatha type="1"> Anavaṭṭhitacittassa, saddhammaṃ avijānato;</gatha>
+  <gatha type="last">Pariplavapasādassa, paññā na paripūrati.</gatha>
+  <hangnum nr="39"/>
+  <gatha type="1"> Anavassutacittassa, ananvāhatacetaso;</gatha>
+  <gatha type="last">Puññapāpapahīnassa, natthi jāgarato bhayaṃ.</gatha>
+  <hangnum nr="40"/>
+  <gatha type="1"> Kumbhūpamaṃ kāyamimaṃ viditvā, nagarūpamaṃ cittamidaṃ ṭhapetvā;</gatha>
+  <gatha type="last">Yodhetha māraṃ paññāvudhena, jitañca rakkhe anivesano siyā.</gatha>
+  <hangnum nr="41"/>
+  <gatha type="1"> Aciraṃ  vatayaṃ kāyo, pathaviṃ adhisessati;</gatha>
+  <gatha type="last">Chuddho apetaviññāṇo, niratthaṃva kaliṅgaraṃ.</gatha>
+  <hangnum nr="42"/>
+  <gatha type="1"> Diso disaṃ yaṃ taṃ kayirā, verī vā pana verinaṃ;</gatha>
+  <gatha type="last">Micchāpaṇihitaṃ cittaṃ, pāpiyo <note>[pāpiyaṃ (?)]</note> naṃ tato kare.</gatha>
+  <hangnum nr="43"/>
+  <gatha type="1"> Na taṃ mātā pitā kayirā, aññe vāpi ca ñātakā;</gatha>
+  <gatha type="last">Sammāpaṇihitaṃ cittaṃ, seyyaso naṃ tato kare.</gatha>
+  <centered>Cittavaggo tatiyo niṭṭhito.</centered>
 </text>
-</TEI.2>

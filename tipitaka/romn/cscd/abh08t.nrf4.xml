@@ -1,443 +1,219 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">5. Pañcamo paricchedo</p>
-
-<p rend="subhead">Bhūmipuggalacittuppattiniddesavaṇṇanā</p>
-
-<p rend="hangnum" n="182"><hi rend="paranum">182</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Ito paraṃ pavakkhāmi, buddhivuddhikaraṃ nayaṃ;</hi></p>
-
-<p rend="gathalast"><hi rend="bold">Cittānaṃ bhūmisuppattiṃ, puggalānaṃ vasena ca.</hi></p>
-
-<p rend="bodytext">Ahaṃ <pb ed="M" n="0.0038" /> ito paraṃ <hi rend="bold">buddhivuddhikaraṃ nayaṃ</hi> mativaddhikaraṃ nayaṃ <hi rend="bold">pavakkhāmi</hi> desessāmi. <hi rend="bold">Cittānaṃ bhūmisuppattiṃ puggalānaṃ vasena ca</hi> bhūmīsu cittānaṃ uppattiṃ, puggalānaṃ vasena bhūmīsu cittānaṃ uppattiñca pavakkhāmi.</p>
-
-<p rend="bodytext" n="183"><hi rend="paranum">183</hi><hi rend="dot">.</hi><hi rend="bold">Devā</hi><pb ed="V" n="1.0032" /><hi rend="bold">ceva manussā ca,</hi> tisso ca apāyabhūmiyo honti, <hi rend="bold">gatiyo pañca</hi> tesaṃ devamanussatiracchānapetanirayagatīnaṃ vasena pañca gatiyo <hi rend="bold">niddiṭṭhā satthunā</hi> dassitā bhagavatā. <hi rend="bold">Tayo bhavā</hi> pana kāmarūpārūpabhavavasena tayo satthunā <hi rend="bold">niddiṭṭhā</hi> dassitā.</p>
-
-<p rend="bodytext" n="184-5"><hi rend="paranum">184-5</hi><hi rend="dot">.</hi><hi rend="bold">Bhūmiyo tattha tiṃseva, tāsu tiṃseva puggalā tattha</hi> tesu tīsu bhavesu tiṃsa eva bhūmiyo honti, <hi rend="bold">tāsu</hi> bhūmīsu uppannā puggalā tiṃsa eva honti, etāsu bhūmīsu uppannā sabbe ca pana puggalā paṭisandhikacittānaṃ vasena ekūnavīsati honti. <hi rend="bold">Paṭisandhi ca nāmesā</hi> esā paṭisandhi ca nāma <hi rend="bold">duvidhā</hi> dvippakārā <hi rend="bold">samudīritā</hi> satthunā kathitā.</p>
-
-<p rend="bodytext" n="186"><hi rend="paranum">186</hi><hi rend="dot">.</hi> Acittakā paṭisandhi, sacittakā paṭisandhi ca iti duvidhā paṭisandhi hoti, asaññibrahmānaṃ paṭisandhi <hi rend="bold">acittakā</hi> rūpapaṭisandhi hoti. <hi rend="bold">Sesā</hi> rūpapaṭisandhito sesā <hi rend="bold">sacittakā</hi> sacittakapaṭisandhi <hi rend="bold">ñeyyā</hi> paṇḍitena jānitabbā. <hi rend="bold">Sā pana</hi> sacittakā paṭisandhi ekūnavīsati hoti.</p>
-
-<p rend="bodytext" n="187"><hi rend="paranum">187</hi><hi rend="dot">.</hi><hi rend="bold">Paṭisandhivaseneva</hi> sacittakapaṭisandhivasena eva vīsati puggalā honti. <hi rend="bold">Idha</hi> imasmiṃ cittādhikāre cittādhikārattā acittakapaṭisandhi rūpapaṭisandhi <hi rend="bold">na ca uddhaṭā</hi> na ca kathitā mayā.</p>
-
-<p rend="bodytext" n="188"><hi rend="paranum">188</hi><hi rend="dot">.</hi><hi rend="bold">Ahetudvitihetūti, puggalā tividhā siyuṃ</hi> ahetukadvihetukatihetukā iti <hi rend="bold">tividhā</hi> tippakārā puggalā <pb ed="M" n="0.0039" /><hi rend="bold">siyuṃ</hi> bhaveyyuṃ. Ariyā pana puggalā aṭṭha <hi rend="bold">iti</hi> evaṃ iminā mayā vuttappakārena <hi rend="bold">sabbe</hi> puggalā ekādasa <hi rend="bold">īritā</hi> kathitā bhagavatā.</p>
-
-<p rend="bodytext" n="189"><hi rend="paranum">189</hi><hi rend="dot">.</hi><hi rend="bold">Bhūmīsu</hi> tiṃsabhūmīsu cittānaṃ uppattiṃ etesaṃ pana sabbesaṃ puggalānaṃ pabhedato bhūmīsu cittānaṃ uppattiñca <hi rend="bold">gaṇhato</hi> gaṇhantassa mama vacanaṃ <hi rend="bold">nibodhatha,</hi> tumhe jānātha suṇātha.</p>
-
-<p rend="bodytext" n="190"><hi rend="paranum">190</hi><hi rend="dot">.</hi> Tīsu bhūmīsu kati cittāni jāyanti? <hi rend="bold">Me</hi> mayhaṃ <hi rend="bold">vada</hi> tāni cittāni tvaṃ kathehi, sabbāsu bhūmīsu cuddasa eva cittāni. Taṃ yathā –</p>
-
-<p rend="gatha1">Voṭṭhabbaṃ <pb ed="V" n="1.0033" /> kāmapuññañca, viyuttāni ca diṭṭhiyā;</p>
-
-<p rend="gathalast">Uddhaccasahitañceva, honti sabbattha cuddasa.</p>
-
-<p rend="bodytext" n="191"><hi rend="paranum">191</hi><hi rend="dot">.</hi><hi rend="bold">Sadā vīsati cittāni, kāmeyeva bhave siyuṃ</hi> vīsati cittāni kāmeyeva bhave <hi rend="bold">sadā</hi> sabbasmiṃ kāle <hi rend="bold">siyuṃ</hi> bhaveyyunti. Taṃ yathā –</p>
-
-<p rend="gatha1">Kāme aṭṭha mahāpākā, domanassadvayampi ca;</p>
-
-<p rend="gathalast">Tathā ghānādiviññāṇattayaṃ pākā apuññajā.</p>
-
-<p rend="bodytext"><hi rend="bold">Ghānādiviññāṇattaya</hi>nti kusalavipākaghānādittayaṃ. <hi rend="bold">Pākā apuññajā</hi> akusalato jātā ahetukā satta vipākā. <hi rend="bold">Pañca rūpabhaveyeva</hi> pañca cittāni rūpabhaveyeva bhavanti. <hi rend="bold">Cattāreva arūpisu</hi> cattāri cittāni arūpīsuyeva honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Rūpeva rūpapākā vāruppapākā arūpisu;</p>
-
-<p rend="gathalast">Nava mahaggatā pākā, rūpārūpeva jāyare.</p>
-
-<p rend="bodytext" n="192"><hi rend="paranum">192</hi><hi rend="dot">.</hi> Kāmarūpabhavesveva <hi rend="bold">aṭṭhārasa</hi> cittāni bhavanti.</p>
-
-<p rend="bodytext">Taṃ <pb ed="M" n="0.0040" /> yathā –</p>
-
-<p rend="gatha1">Puññarūpāni pañceva, puññajaṃ sampaṭicchanaṃ;</p>
-
-<p rend="gathalast">Cakkhusotadvayaṃ puññapākaṃ santīraṇadvayaṃ.</p>
-
-<p rend="gatha1">Puññapākaṃ hasituppādamanodhātukriyāpi ca;</p>
-
-<p rend="gatha2">Aṭṭhārasādimaggena, pañca rūpakriyāpi ca;</p>
-
-<p rend="gathalast">Kāmarūpabhavesveva, etāneva sadā siyuṃ.</p>
-
-<p rend="bodytext"><hi rend="bold">Dvecattālīsa cittāni, honti tīsu bhavesupi</hi> dvecattālīsa cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Paṭighadvayavajjitāni <pb ed="V" n="1.0034" />, apuññāni daseva ca;</p>
-
-<p rend="gathalast">Mahāpuññāni aṭṭheva, voṭṭhabbanakriyāni ca.</p>
-
-<p rend="gatha1">Puññāruppāni cattāri, āruppakiriyāni ca;</p>
-
-<p rend="gatha2">Kaniṭṭhamaggavajjāni, satta lokuttarāni ca;</p>
-
-<p rend="gathalast">Dvecattālīsa cittāni, honti tīsu bhavesupi.</p>
-
-<p rend="bodytext" n="193"><hi rend="paranum">193</hi><hi rend="dot">.</hi><hi rend="bold">Ṭhapetvā pana sabbesaṃ, catassopāyabhūmiyo</hi> catasso apāyabhūmiyo ṭhapetvā vajjetvā apāyato sesānaṃ sabbesaṃ puggalānaṃ chabbīsabhūmīsu terasa eva cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Catutthārūpāvacaraṃ, anāgāmiphalādayo;</p>
-
-<p rend="gathalast">Mahākriyā ca jāyanti, terasāpāyavajjitā.</p>
-
-<p rend="bodytext"><hi rend="bold">Anāgāmiphalādayo</hi>ti <hi rend="bold">ādi</hi>-saddena hi arahattaphalāni gahitāni.</p>
-
-<p rend="bodytext" n="194"><hi rend="paranum">194</hi><hi rend="dot">.</hi><hi rend="bold">Aparāni catassopi, ṭhapetvāruppabhūmiyo</hi> catasso arūpabhūmiyo ṭhapetvā sesāsu <hi rend="bold">chabbīsabhūmīsu</hi> aparāni <hi rend="bold">cha</hi> cittāni jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Manodhātukriyañceva <pb ed="M" n="0.0041" />, puññajaṃ sampaṭicchanaṃ;</p>
-
-<p rend="gatha2">Cakkhusotadvayaṃ puññapākaṃ santīraṇadvayaṃ;</p>
-
-<p rend="gathalast">Cheva cittāni jāyanti, tathā uparivajjite.</p>
-
-<p rend="bodytext" n="195"><hi rend="paranum">195</hi><hi rend="dot">.</hi><hi rend="bold">Suddhāvāsikadevānaṃ, ṭhapetvā pañca bhūmiyo</hi> pañca bhūmiyo ṭhapetvā pañcavīsatibhūmīsu pañca cittāni jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Diṭṭhiyā sampayuttānaṃ, vicikicchāyutaṃ tathā;</p>
-
-<p rend="gathalast">Pañca sabbattha jāyanti, suddhāvāsavivajjite.</p>
-
-<p rend="hangnum" n="196"><hi rend="paranum">196</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Aparāni</hi><pb ed="V" n="1.0035" /><hi rend="bold">duve honti, pañcavīsatibhūmisu;</hi></p>
-
-<p rend="gathalast"><hi rend="bold">Ṭhapetvā nevasaññañca, catassopāyabhūmiyo.</hi></p>
-
-<p rend="unindented">Catassopāyabhūmiyo nevasaññānāsaññañca ṭhapetvāyeva pañcavīsatibhūmīsu aparāni <hi rend="bold">duve</hi> cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Ṭhapetvā nevasaññañca, catassopāyabhūmiyo;</p>
-
-<p rend="gathalast">Sesāsu tatiyāruppajavanaṃ jāyati dvayaṃ.</p>
-
-<p rend="bodytext" n="197"><hi rend="paranum">197</hi><hi rend="dot">.</hi><hi rend="bold">Dvepi cittāni jāyanti, catuvīsatibhūmisu</hi> catassopāyabhūmiyo ākiñcaññañca nevasaññañca ṭhapetvā sesāsu catuvīsatibhūmīsu dvepi cittāni jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Catutthatatiyāruppaṃ, ṭhapetvāpāyabhūmiyo;</p>
-
-<p rend="gathalast">Sesāsu dutiyāruppa-javanaṃ jāyati dvayaṃ.</p>
-
-<p rend="bodytext" n="198"><hi rend="paranum">198</hi><hi rend="dot">.</hi><hi rend="bold">Apāyabhūmiyo hitvā</hi> catasso apāyabhūmiyo tisso upari arūpabhūmiyo <hi rend="bold">hitvā</hi> chaḍḍetvā sesāsu tevīsatibhūmīsu dveyeva pana cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Apāyabhūmiyo <pb ed="M" n="0.0042" /> hitvā, tissocāruppabhūmiyo;</p>
-
-<p rend="gathalast">Sesāsu paṭhamāruppaṃ, javanadvayaṃ jāyati.</p>
-
-<p rend="bodytext" n="199"><hi rend="paranum">199</hi><hi rend="dot">.</hi><hi rend="bold">Arūpe ca apāye ca</hi> aṭṭha bhūmiyo ṭhapetvā sesāsu bāvīsatibhūmīsu ekādasavidhaṃ cittaṃ hoti. Taṃ yathā –</p>
-
-<p rend="gatha1">Sabbaṃ rūpañca vipākaṃ, ṭhapetvā sitamānasaṃ;</p>
-
-<p rend="gathalast">Ekādaseva jāyati, apāyārūpavajjite.</p>
-
-<p rend="bodytext" n="200"><hi rend="paranum">200</hi><hi rend="dot">.</hi><hi rend="bold">Suddhāvāse</hi><pb ed="V" n="1.0036" /><hi rend="bold">apāye ca</hi> nava bhūmiyo ṭhapetvā sesāsu ekavīsāsu bhūmīsu niccampi <hi rend="bold">cattāro</hi> eva mānasā honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Sotāpattiphalañceva, sakadāgāmiphalampi ca;</p>
-
-<p rend="gatha2">Sakadāgāmimaggo ca, ṭhapetvāpāyasuddhake;</p>
-
-<p rend="gathalast">Anāgāmimaggo ceva, ekavīsāsu honti hi.</p>
-
-<p rend="bodytext" n="201"><hi rend="paranum">201</hi><hi rend="dot">.</hi><hi rend="bold">Ekaṃ sattarasasveva, cittaṃ jāyati bhūmisu</hi> suddhāvāsaapāyāruppabhūmiyo ṭhapetvā avasesāsu sattarasasu bhūmīsu ekaṃ cittaṃ jāyati. Taṃ yathā –</p>
-
-<p rend="gatha1">Suddhāvāse apāye ca, ṭhapetvāruppabhūmiyo;</p>
-
-<p rend="gathalast">Ādimaggo eko hoti, sattarasasu bhūmisu.</p>
-
-<p rend="hangnum" n="202"><hi rend="paranum">202</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Dvādaseva tu jāyante, ekādasasu bhūmisu;</hi></p>
-
-<p rend="gathalast"><hi rend="bold">Ṭhapetvā pana sabbāpi, bhūmiyo hi mahaggatā. –</hi></p>
-
-<p rend="unindented">Ekūnavīsatibhūmiyo ṭhapetvā sesāsu ekādasasu bhūmīsu dvādasa cittāni jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Domanassadvayāpuññapākā satta ca puññajaṃ;</p>
-
-<p rend="gathalast">Ghānādittayaṃ sesāsu, hitvā sabbā mahaggatā.</p>
-
-<p rend="bodytext" n="203"><hi rend="paranum">203</hi><hi rend="dot">.</hi><hi rend="bold">Kāmāvacaradevānaṃ</hi><pb ed="M" n="0.0043" /> vasena ca manussānaṃ vasena ca sattasu kāmāvacara<hi rend="bold">bhūmīsu</hi> aṭṭha cittāni sabbadā jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Kāme devamanussānaṃ, mahāpākāni jāyare;</p>
-
-<p rend="gathalast">Sadā sattasu etāni, hitvā tevīsa bhūmiyo.</p>
-
-<p rend="bodytext" n="204"><hi rend="paranum">204</hi><hi rend="dot">.</hi><hi rend="bold">Pañcamajjhānapākeko</hi><pb ed="V" n="1.0037" />, <hi rend="bold">jāyate chasu bhūmisu</hi> eko pañcamajjhānavipāko vehapphalādīsu <hi rend="bold">chasu bhūmīsu</hi> jāyati. Cattāri pana rūpavipāka<hi rend="bold">cittāni</hi> tīsu tīsu bhūmīsu jāyanti. Ayametthādhippāyo – eko paṭhamarūpavipāko brahmapārisajjabrahmapurohitamahābrahmānaṃ tīsu bhūmīsu jāyati, eko dutiyarūpavipāko, eko tatiyarūpavipāko ca parittābhāappamāṇābhāābhassarānaṃ tīsu bhūmīsu jāyati, eko catuttharūpavipāko parittasubhaappamāṇasubhasubhakiṇhānaṃ tīsu bhūmīsu jāyati.</p>
-
-<p rend="bodytext" n="205"><hi rend="paranum">205</hi><hi rend="dot">.</hi><hi rend="bold">Cattāri pana cittāni, honti ekekabhūmisu</hi> arūpāvacaravipākānaṃ vasena cattāri pana cittāni <hi rend="bold">ekekabhūmīsu</hi> ekekāsu bhūmīsu honti, iti evaṃ iminā mayā vuttappakārena sabbāsu bhūmīsu cittuppādaṃ <hi rend="bold">paridīpaye</hi> paṇḍito katheyya.</p>
-
-<p rend="bodytext" n="206-7"><hi rend="paranum">206-7</hi><hi rend="dot">.</hi><hi rend="bold">Kusalākusalā kāme</hi> kāme vīsati kusalākusalā, <hi rend="bold">tesaṃ pākā ahetukā</hi> tesaṃ kusalākusalānaṃ ahetukā pañcadasa vipākā āvajjanadvayañca <hi rend="bold">iti</hi> evaṃ iminā mayā vuttappakārena sattatiṃsa mānasā narakādīsu catūsu apāyesupi jāyare. Avasesāni dvipaññāsa cittāni <hi rend="bold">kadācipi</hi> kismiñci kālepi nuppajjanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Pañcadasāni <pb ed="M" n="0.0044" /> rūpe tu, arūpe dvādasīritā;</p>
-
-<p rend="gathalast">Aṭṭha lokuttarāneva, kāmapākā sahetukā.</p>
-
-<p rend="gatha1">Aṭṭha mahākriyā ceva, hasituppādamānasaṃ;</p>
-
-<p rend="gathalast">Dvipaññāsāni cittāni, apāyesu na jāyare.</p>
-
-<p rend="bodytext" n="208"><hi rend="paranum">208</hi><hi rend="dot">.</hi><hi rend="bold">Kāme devamanussānaṃ</hi> kāmāvacare devamanussānaṃ mahaggatā nava pākā neva jāyanti, asīti <hi rend="bold">hadayā</hi> mānasā sadā jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Dvādasākusalāneva, kusalānekavīsati;</p>
-
-<p rend="gathalast">Sattavīsati pākā ca, mahaggatavivajjitā.</p>
-
-<p rend="gatha1">Kāme <pb ed="V" n="1.0038" /> devamanussānaṃ, kriyacittāni vīsati;</p>
-
-<p rend="gathalast">Honti asīti cittāni, viññeyyāni vibhāvinā.</p>
-
-<p rend="bodytext" n="209-12"><hi rend="paranum">209-12</hi><hi rend="dot">.</hi><hi rend="bold">Kāme</hi> kāmāvacare aṭṭha mahāvipākā domanassadvayampi ca tathā <hi rend="bold">ghānādiviññāṇattayaṃ</hi> kusalavipākaṃ apuññajā satta pākā. <hi rend="bold">Natthi āruppapākā ca, rūpāvacarabhūmiyaṃ</hi> arūpapākā ca cattāro rūpāvacarabhūmiyaṃ natthi. Ayametthādhippāyo – rūpāvacarabhūmiyaṃ aṭṭha mahāvipākā kāmasugatisattānaṃ dvinnaṃ vipākacittattā na honti, jhānena vikkhambhitattā domanassadvayampi natthi, ghānajivhākāyapasādavirahitattā kusalavipākaṃ ghānādittayaṃ natthi, aniṭṭhārammaṇānaṃ abhāvato satta akusalavipākā ca natthi, arūpapākā ca natthi. Kasmā? Arūpānaṃ vipākacittattā. <hi rend="bold">Imehi saha cittehi</hi> imehi catuvīsaticittehi saha <hi rend="bold">tayo maggā phaladvayaṃ</hi> sotāpattimaggo sakadāgāmimaggo anāgāmimaggo ca sotāpattiphalasakadāgāmiphalāni ca cattāro diṭṭhisaṃyuttā vicikicchāsaṃyuttampi ca cattāro heṭṭhimā pākā ca suddhāvāse <hi rend="bold">na labbhare</hi> na labbhanti. Ayametthādhippāyo – puthujjanasotāpannasakadāgāmipuggalānaṃ asādhāraṇattā suddho ca āvāso, atha vā <pb ed="M" n="0.0045" /> ghorātikkamaṭṭhitattā anāgāmipuggalā suddhā nāma, caturoghatiṇṇattā khīṇāsavā suddhā nāma, tesaṃ suddhānaṃ dvinnaṃ uttamasattānaṃ āvāsotipi <hi rend="bold">suddhāvāso,</hi> tasmiṃ.</p>
-
-<p rend="bodytext">Ayametthādhippāyo – suddhāvāse pana sotāpattimaggasotāpattiphalasakadāgāmimaggasakadāgāmiphalaanāgāmimaggā na vijjanti. Kasmāti ce? Anāgāmiphalaṭṭhānaṃyeva tasmiṃ uppajjanato cattāro diṭṭhisaṃyuttā ca vicikicchāyuttañca pañca akusalacittānaṃ sotāpannena vināsitattā, iti tasmā kāraṇā na jāyanti. Cattāro heṭṭhimavipākā heṭṭhimānaṃ rūpabrahmānaṃ vipākacittattā natthi. Sesāni ekapaññāsa cittāni suddhāvāse pana labbhanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Diṭṭhiyā vippayuttāni, uddhaccasahagataṃ tathā;</p>
-
-<p rend="gathalast">Kāmapuññāni aṭṭha ca, rūpapuññāni pañca vā.</p>
-
-<p rend="gatha1">Arūpakusalāneva, maggo khīṇāsavassa ca;</p>
-
-<p rend="gathalast">Cakkhusotamanodhātu, puññajā tīraṇā duve.</p>
-
-<p rend="gatha1">Pañcamajjhānapāko <pb ed="V" n="1.0039" /> ca, anāgāmiphalādayo;</p>
-
-<p rend="gathalast">Suddhāvāsesu labbhanti, kriyacittāni vīsati.</p>
-
-<p rend="bodytext"><hi rend="bold">Rūpāvacarikā sabbe</hi> sabbāni rūpāvacarāni pañcadasa cittāni, kāmadhātuyā <hi rend="bold">sabbe</hi> tevīsati <hi rend="bold">vipākā</hi>.</p>
-
-<p rend="bodytext" n="213"><hi rend="paranum">213</hi><hi rend="dot">.</hi><hi rend="bold">Domanassādimaggo ca</hi> domanassadvayañca ādimaggo ca sotāpattimaggo ca, <hi rend="bold">kriyā ca dve ahetukā</hi> pañcadvārāvajjanahasituppādāni kiriyāni cāti tecattālīsa cittāni arūpabhūmiyaṃ natthi. Pañca rūpāvacaravipākā rūpīnaṃ vipākacittattā natthi. Rūpajavanāni heṭṭhimajhānānaṃ virattattā natthi. Cakkhusotaviññāṇāni puññajāni pasādarahitattā natthi. Ghānādiviññāṇāni pakatiyāyeva natthi. Kusalavipākā manodhātu cakkhādiggahitapañcārammaṇattā arūpānaṃ dhammārammaṇattā natthi, asati cakkhādiviññāṇe sā ca puññajā manodhātu <pb ed="M" n="0.0046" /> tāya ca asatiyā cakkhādiviññāṇampi natthiyeva. Kiriyāmanodhātupi pañcārammaṇattāyeva natthi, hasituppādopi rūpakāyābhāvā sitassābhāvā natthi, pubbeva diṭṭhasaccā ariyā rūpabhūmikā, tasmā ādimaggopi natthi.</p>
-
-<p rend="bodytext" n="214"><hi rend="paranum">214</hi><hi rend="dot">.</hi><hi rend="bold">Evaṃ bhūmivaseneva, cittuppattiṃ vibhāvaye evaṃ</hi> iminā mayā vuttappakārena bhūmivasena cittuppattiṃ <hi rend="bold">vibhāvaye</hi> dhīro katheyya. <hi rend="bold">Tathā</hi> evaṃ ekādasannaṃ puggalānaṃ vasena cittuppattiṃ dhīro <hi rend="bold">vibhāvaye</hi> katheyya.</p>
-
-<p rend="hangnum" n="215"><hi rend="paranum">215</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Kusalākusalā kāme,</hi></p>
-
-<p rend="gatha2"><hi rend="bold">Tesaṃ pākā ahetukā;</hi></p>
-
-<p rend="gatha3"><hi rend="bold">Āvajjanadvayañcāti,</hi></p>
-
-<p rend="gathalast"><hi rend="bold">Sattatiṃseva mānasāti. –</hi></p>
-
-<p rend="unindented">Ayaṃ vuttatthā.</p>
-
-<p rend="bodytext" n="216"><hi rend="paranum">216</hi><hi rend="dot">.</hi> Evaṃ catūsvapāyabhūmīsu manussabhūmiyañcāti <hi rend="bold">pañcabhūmīsu</hi> ahetukassa sattassa <hi rend="bold">jāyante</hi><pb ed="V" n="1.0040" /> uppajjanti. <hi rend="bold">Dvepaññāsāvasesāni, na jāyanti kadācipi</hi> avasesāni dvepaññāsa cittāni kadācipi na jāyanti na uppajjanti, tāni sarūpato vuttāneva.</p>
-
-<p rend="bodytext" n="217"><hi rend="paranum">217</hi><hi rend="dot">.</hi><hi rend="bold">Ahetukassa</hi> sattassa uppajjantehi sattatiṃsacittehi saha duhetukā, catumahāvipākā cāti cattālīsa cittāni tathā ekakaṃ duhetukassa sattassa jāyanti.</p>
-
-<p rend="bodytext" n="218-23"><hi rend="paranum">218-23</hi><hi rend="dot">.</hi><hi rend="bold">Sabbe mahaggatā ceva</hi> sabbe sattavīsatividhā mahaggatā ceva <hi rend="bold">sabbepi ca anāsavā</hi> sabbe aṭṭha lokuttarā ceva cattāro tihetukavipākā ca kāme hasituppādo sahetukamahākiriyā cāti nava kriyāpi ceti cattālīsaṃ tathā aṭṭha ca <hi rend="bold">duhetuno</hi> sattassa na jāyanti.</p>
-
-<p rend="bodytext">Ayametthādhippāyo <pb ed="M" n="0.0047" /> – duhetuno rūpārūpasamāpattiyā asamatthatāya sattavīsa mahaggatā na jāyanti, maggaphalaṃ adhigantuṃ asamatthatāya aṭṭha lokuttarā na jāyanti, tihetukavipākā tihetukānaṃ sattānaṃ vipākacittattā na jāyanti, nava kiriyāni khīṇāsavānaṃyeva uppajjamānattā na jāyantīti. <hi rend="bold">Kāmāvacarasattassa, tihetupaṭisandhino</hi> puthujjanassa catupaññāsa mānasā jāyanti. Katamāni tāni? Duhetukassa vuttāni cattālīsa cittāni tathā ekañca kāmadhātuyaṃ cattāro ñāṇasampayuttavipākā rūpārūpesu nava puññāni cāti catupaññāsa mānasā jāyanti. <hi rend="bold">Puthujjanassa</hi> tihetuno kāmasattassa pañcatiṃsa cittāni <hi rend="bold">na jāyare</hi> na jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Āvajjanadvayaṃ hitvā, aṭṭhārasa kriyāpi ca;</p>
-
-<p rend="gathalast">Nava mahaggatā pākā, aṭṭha lokuttarāni ca.</p>
-
-<p rend="gatha1">Kāmaputhujjanasseva, tihetupaṭisandhino;</p>
-
-<p rend="gathalast">Pañcatiṃseva cittāni, na jāyanti kadācipi.</p>
-
-<p rend="bodytext"><hi rend="bold">Chadevesu manussesu cā</hi>ti sattasu bhūmīsu jātassa sotāpannassa <hi rend="bold">dehino</hi> sattassa paññāsa cittāni jāyanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro <hi rend="bold">niddise</hi> katheyya. Taṃ yathā –</p>
-
-<p rend="gatha1">Diṭṭhiyā <pb ed="V" n="1.0041" /> vippayuttāni, domanassadvayampi ca;</p>
-
-<p rend="gathalast">Uddhaccasahitañceva, kāmapuññāni aṭṭha ca.</p>
-
-<p rend="gatha1">Nava mahaggatapuññāni, āvajjanadvayampi ca;</p>
-
-<p rend="gathalast">Sabbe kāmavipākā ca, sotāpattiphalampi ca.</p>
-
-<p rend="bodytext"><hi rend="bold">Assa</hi> sotāpannassa navatiṃseva cittāni na uppajjanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro <hi rend="bold">dīpaye</hi> deseyya. Taṃ yathā –</p>
-
-<p rend="gatha1">Āvajjanadvayaṃ hitvā, aṭṭhārasa kriyāpi ca;</p>
-
-<p rend="gathalast">Nava mahaggatā pākā, satta lokuttarāni ca.</p>
-
-<p rend="gatha1">Diṭṭhiyā <pb ed="M" n="0.0048" /> sampayuttāni, vicikicchāyutaṃ tathā;</p>
-
-<p rend="gathalast">Navatiṃsa na jāyanti, sotāpannassa dehino.</p>
-
-<p rend="bodytext" n="224"><hi rend="paranum">224</hi><hi rend="dot">.</hi> Paṭhamaṃ phalaṃ ṭhapetvā <hi rend="bold">sotāpannassa</hi> puggalassa <hi rend="bold">vuttāni</hi> cittāni attano sakadāgāmino <hi rend="bold">phalena</hi> sakadāgāmiphalena saha sakadāgāmipuggalassa siyuṃ.</p>
-
-<p rend="bodytext" n="225"><hi rend="paranum">225</hi><hi rend="dot">.</hi><hi rend="bold">Sotāpannassa vuttāni, ṭhapetvā paṭighadvayaṃ dutiyañca phalaṃ</hi> sakadāgāmiphalañca hitvā attano anāgāmiphalena saha sotāpannassa sattassa vuttāni yāni aṭṭhacattālīsa cittāni atthi, tāni anāgāmissa sattassa jāyanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro viniddise.</p>
-
-<p rend="bodytext" n="226"><hi rend="paranum">226</hi><hi rend="dot">.</hi><hi rend="bold">Kati cittāni jāyanti, kāme arahato pana</hi> kāme sattasu kāmabhūmīsu jātassa arahato khīṇāsavassa kati cittāni jāyanti? Cattāri ca cattārīsañca cittāni <hi rend="bold">kāme</hi> sattasu kāmabhūmīsu jātassa arahato <hi rend="bold">siyuṃ</hi> bhaveyyuṃ. Taṃ yathā –</p>
-
-<p rend="gatha1">Tevīsa kāmapākāni, kriyacittāni vīsati;</p>
-
-<p rend="gathalast">Arahattaphaleneva, kāme arahato siyuṃ.</p>
-
-<p rend="bodytext" n="227"><hi rend="paranum">227</hi><hi rend="dot">.</hi><hi rend="bold">Maggaṭṭhānaṃ</hi><pb ed="V" n="1.0042" /><hi rend="bold">catunnampi</hi> tesaṃ puggalānaṃ sakaṃ sakaṃ maggacittaṃ <hi rend="bold">siyā</hi> bhaveyya. <hi rend="bold">Ekacittakkhaṇā hi te</hi> hi saccaṃ taṃ mayā vuttaṃ vacanaṃ. <hi rend="bold">Te</hi> maggā ekacittakkhaṇā.</p>
-
-<p rend="bodytext" n="228"><hi rend="paranum">228</hi><hi rend="dot">.</hi><hi rend="bold">Puthujjanassa tīsveva, paṭhamajjhānabhūmisu</hi> tīsu eva paṭhamajjhānabhūmīsu jātassa puthujjanassa brahmuno pañcatiṃsa eva cittāni jāyanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro <hi rend="bold">viniddise</hi> uccāreyya. Taṃ yathā –</p>
-
-<p rend="gatha1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</p>
-
-<p rend="gathalast">Kāmapuññāni aṭṭheva, nava puññā mahaggatā.</p>
-
-<p rend="gatha1">Cakkhusotadvayaṃ <pb ed="M" n="0.0049" /> puññapākaṃ santīraṇadvayaṃ;</p>
-
-<p rend="gatha2">Āvajjanadvayañceva, puññajaṃ sampaṭicchanaṃ;</p>
-
-<p rend="gathalast">Paṭhamajjhānapāko ca, pañcatiṃseva jāyare.</p>
-
-<p rend="bodytext" n="229-234"><hi rend="paranum">229-234</hi><hi rend="dot">.</hi><hi rend="bold">Ghānādīsu</hi> pasādesu pavattaṃ kusalavipākaṃ <hi rend="bold">viññāṇattayaṃ</hi> satta apuññajā pākā aṭṭha mahāpākā tathā uparijhānabhūmīsu jātā pākā āruppā cattāro vipākāpi ca domanassadvayampi ca āvajjanadvayavajjā <hi rend="bold">aṭṭhārasa kriyā ceva</hi> aṭṭha lokuttarāni ca etāni catupaññāsa cittāni paṭhamajjhānabhūmīsu tīsu nibbattassa puthujjanassa dehino sattassa <hi rend="bold">na ca labbhare</hi> na labbhanti. Tāsu tīsu bhūmīsu nibbattassa <hi rend="bold">puthujjanassa</hi> brahmuno <hi rend="bold">vuttesu</hi> cittesu apuññapañcakaṃ hitvā tattha tīsu paṭhamajjhānabhūmīsu nibbattassa <hi rend="bold">sotāpannassa</hi> brahmuno paṭhamaphalena saha ekatiṃsa cittāni <hi rend="bold">jāyare</hi> jāyanti. <hi rend="bold">Sakadāgāmino tattha</hi> tīsu paṭhamajjhānabhūmīsu jātassa sakadāgāmino brahmuno tesu cittesu paṭhamaṃ phalaṃ ṭhapetvā sakadāgāmiphalaṃ pakkhipitvā ekatiṃseva cittāni jāyare. <hi rend="bold">Anāgāmissa tattheva</hi> tīsu paṭhamajjhānabhūmīsu eva jātassa anāgāmissa dutiyaṃ phalaṃ ṭhapetvā attano phalacittena saha ekatiṃseva cittāni jāyanti.</p>
-
-<p rend="hangnum" n="235"><hi rend="paranum">235</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Viññāṇaṃ cakkhusotānaṃ, puññajaṃ sampaṭicchanaṃ;</hi></p>
-
-<p rend="gathalast"><hi rend="bold">Santīraṇadvayañceva, kriyacittāni vīsati.</hi></p>
-
-<p rend="bodytext" n="236-7"><hi rend="paranum">236-7</hi><hi rend="dot">.</hi> Arahattaphalaṃ <pb ed="V" n="1.0043" /> paṭhamajjhānato sambhavo pāko sattavīsati cittāni <hi rend="bold">arahantassa</hi> khīṇāsavassa jāyare. <hi rend="bold">Puthujjanassa tīsveva</hi> tīsu eva dutiyajjhānabhūmīsu jātassa puthujjanassa brahmuno dutiyajjhānatatiyajjhānapākena saha chattiṃsa cittāni jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Domanassadvayaṃ <pb ed="M" n="0.0050" /> hitvā, apuññāni daseva ca;</p>
-
-<p rend="gathalast">Kāmapuññāni aṭṭheva, nava puññamahaggatā.</p>
-
-<p rend="gatha1">Cakkhusotadvayaṃ puññapākaṃ santīraṇadvayaṃ;</p>
-
-<p rend="gathalast">Āvajjanadvayañceva, puññajaṃ sampaṭicchanaṃ.</p>
-
-<p rend="gatha1">Dutiyajjhānapākena, tatiyajjhānapākato;</p>
-
-<p rend="gathalast">Chattiṃseva ca cittāni, dutiyajjhānadehino.</p>
-
-<p rend="bodytext" n="238-241"><hi rend="paranum">238-241</hi><hi rend="dot">.</hi><hi rend="bold">Puthujjanassa vuttesu, hitvā vāpuññapañcakaṃ</hi> attano phalena saha bāttiṃsa cittāni sotāpannassa jāyanti. <hi rend="bold">Sotāpannassa vuttesu, ṭhapetvā paṭhamaṃ phalaṃ</hi> sotāpannassa vuttesu paṭhamaṃ phalaṃ ṭhapetvā attano phalacittena saha bāttiṃsa cittāni, sakadāgāmissa vuttesu dutiyaṃ phalaṃ ṭhapetvā anāgāmiphalena saha bāttiṃseva cittāni <hi rend="bold">assa</hi> anāgāmino bhavanti. <hi rend="bold">Arahantassa tīsveva, aṭṭhavīsati attano</hi> tīsu eva dutiyajjhānabhūmīsu jātassa arahato attano phalena dutiyajjhānatatiyajjhānapākato pākehi saha aṭṭhavīsati cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Viññāṇaṃ cakkhusotānaṃ, puññajaṃ sampaṭicchanaṃ;</p>
-
-<p rend="gathalast">Santīraṇadvayañceva, kriyacittāni vīsati.</p>
-
-<p rend="gatha1">Arahattaphalaṃ pāko, dutiyajjhānasambhavo;</p>
-
-<p rend="gathalast">Tatiyajjhānapāko ca, aṭṭhavīsati mānasā.</p>
-
-<p rend="bodytext" n="242-6"><hi rend="paranum">242-6</hi><hi rend="dot">.</hi><hi rend="bold">Parittakasubhādīnaṃ, devānaṃ tīsu bhūmīsu</hi> catutthajjhānavipākena saha pañcatiṃseva cittāni <pb ed="V" n="1.0044" /> jāyanti. <hi rend="bold">Sotāpannassa tattheka-tiṃsa cittāni jāyare</hi>tattha tāsu tīsu parittakasubhādīnaṃ bhūmīsu sotāpannassa ca ekatiṃsa cittāni jāyare. Yathā <hi rend="bold">evaṃ</hi> sakadāgāmino ekatiṃsa cittāni jāyare. Tathā anāgāmino ekatiṃsa jāyare. <hi rend="bold">Tattheva</hi><pb ed="M" n="0.0051" /> tāsu tīsu bhūmīsu eva jātassa khīṇāsavassa sattavīsati mānasā honti, <hi rend="bold">tathā</hi> evaṃ <hi rend="bold">vehapphale</hi> vehapphalabhūmiyaṃ jātānaṃ puthujjanasekkhānaṃ pañcannaṃ <hi rend="bold">sabbesaṃ</hi> puggalānaṃ mānasā honti. Pañcasu <hi rend="bold">suddhāvāsikabhūmīsu</hi> jātassa anāgāmino sattassa ekatiṃseva cittāni honti. <hi rend="bold">Iti</hi> vacanaṃ dhīro <hi rend="bold">paridīpaye</hi> deseyya. <hi rend="bold">Tattheva</hi> tāsu suddhāvāsabhūmīsu eva jātassa arahato sattavīsati mānasā honti. <hi rend="bold">Evaṃ</hi> iminā mayā vuttappakārena <hi rend="bold">rūpīsu</hi> pañcadasasu rūpibhūmīsu jātānaṃ sabbesaṃ puggalānaṃ cittāni <hi rend="bold">vibhāvinā</hi> dhīrena <hi rend="bold">viññeyyāni</hi> jānitabbāni.</p>
-
-<p rend="bodytext" n="247"><hi rend="paranum">247</hi><hi rend="dot">.</hi><hi rend="bold">Catuvīsati cittāni, paṭhamāruppabhūmiyaṃ</hi> paṭhamaāruppabhūmiyaṃ jātassa puthujjanassa catuvīsati cittāni jāyanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro viniddise. Taṃ yathā –</p>
-
-<p rend="gatha1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</p>
-
-<p rend="gatha2">Kāmapuññāni aṭṭheva, āruppakusalāni ca;</p>
-
-<p rend="gathalast">Paṭhamāruppapāko ca, kriyāvoṭṭhabbanampi ca.</p>
-
-<p rend="bodytext" n="248-251"><hi rend="paranum">248-251</hi><hi rend="dot">.</hi><hi rend="bold">Sotāpannassa tattheva, ṭhapetvāpuññapañcakaṃ</hi>tattha tissaṃ paṭhamāruppabhūmiyaṃ eva sotāpannassa puggalassa apuññapañcakaṃ hitvā attano phalena saha vīsati cittāni honti. Tathā <hi rend="bold">tattha</hi> tissaṃ paṭhamāruppabhūmiyaṃ sakadāgāmino, anāgāminopi ca puggalassa pubbaṃ pubbaṃ phalaṃ <hi rend="bold">vinā</hi> vajjetvā attano phalena saha vīsati cittāni jāyanti. <hi rend="bold">Khīṇāsavassa tattheva</hi> tattha tissaṃ paṭhamāruppabhūmiyaṃ eva jātassa khīṇāsavassa dasa pañca mānasā ca jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Mahākriyāni aṭṭheva, catvāruppakriyāni ca;</p>
-
-<p rend="gathalast">Arahattaphalaṃ pāko, voṭṭhabbañcāpi mānasaṃ.</p>
-
-<p rend="bodytext">Dutiyāruppabhūmiyaṃ <pb ed="M" n="0.0052" /> jātassa puthujjanassa sattassa tevīsati cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Domanassadvayaṃ <pb ed="V" n="1.0045" /> hitvā, apuññāni daseva ca;</p>
-
-<p rend="gatha2">Kāmapuññāni aṭṭheva, puññārūpūparī tayo;</p>
-
-<p rend="gathalast">Dutiyāruppapāko ca, voṭṭhabbañcāpi mānasaṃ.</p>
-
-<p rend="bodytext"><hi rend="bold">Iti</hi> evaṃ iminā pakārena <hi rend="bold">vatvā</hi> kathetvā dhīro paṇḍito <hi rend="bold">vibhāvaye</hi> deseyya. <hi rend="bold">Ettha</hi> etissaṃ dutiyāruppabhūmiyaṃ jātānaṃ tiṇṇannaṃ sekkhānampi ekūnavīsati cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Diṭṭhiyā vippayuttāni, uddhaccasahitaṃ tathā;</p>
-
-<p rend="gathalast">Kāmapuññāni aṭṭheva, puññārūpūparī tayo.</p>
-
-<p rend="gatha1">Dutiyāruppapāko ca, voṭṭhabbañcāpi mānasaṃ;</p>
-
-<p rend="gathalast">Sakasakaphaleneva, cittānekūnavīsati.</p>
-
-<p rend="bodytext" n="252"><hi rend="paranum">252</hi><hi rend="dot">.</hi><hi rend="bold">Cuddaseva tu cittāni</hi> dutiyāruppabhūmiyaṃ jātassa khīṇāsavassa kiriyacittāni dvādasa eko pāko arahattaphalañcāti cuddaseva cittāni honti. Taṃ yathā –</p>
-
-<p rend="gatha1">Mahākriyāni aṭṭheva, kriyārūpūparī tayo;</p>
-
-<p rend="gathalast">Voṭṭhabbañca sako pāko, arahattaphalampi ca.</p>
-
-<p rend="bodytext" n="253"><hi rend="paranum">253</hi><hi rend="dot">.</hi><hi rend="bold">Puthujjanassa sattassa, tatiyāruppabhūmiyaṃ</hi> tatiyaarūpabhūmiyaṃ jātassa puthujjanassa sattassa bāvīsati cittāni bhavanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro pakāsaye. Taṃ yathā –</p>
-
-<p rend="gatha1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</p>
-
-<p rend="gatha1">Kāmapuññāni aṭṭheva, puññārūpūparī duve;</p>
-
-<p rend="gathalast">Tatiyāruppapāko ca, voṭṭhabbañcāpi mānasaṃ.</p>
-
-<p rend="bodytext" n="254-5"><hi rend="paranum">254-5</hi><hi rend="dot">.</hi><hi rend="bold">Aṭṭhāraseva cittāni, sotāpannassa</hi> puggalassa aṭṭhārasa eva cittāni jāyare. Taṃ yathā –</p>
-
-<p rend="gatha1">Diṭṭhiyā <pb ed="M" n="0.0053" /><pb ed="V" n="1.0046" /> vippayuttāni, uddhaccasahitaṃ tathā;</p>
-
-<p rend="gathalast">Mahāpuññāni aṭṭheva, puññārūpūparī duve.</p>
-
-<p rend="gatha1">Aṭṭhāraseva pākena, sotāpattiphalena ca;</p>
-
-<p rend="gathalast">Voṭṭhabbañcāpi mānasaṃ, sotāpannassa jāyare.</p>
-
-<p rend="bodytext">Sakadāgāmino paṭhamaṃ phalaṃ ṭhapetvā attano phalena <hi rend="bold">tāni</hi> aṭṭhārasa cittāni honti. Sakadāgāmino vuttesu cittesu dutiyaṃ phalaṃ ṭhapetvā attano phalena saha aṭṭhārasa cittāni eva anāgāmissa jāyare.</p>
-
-<p rend="bodytext" n="256"><hi rend="paranum">256</hi><hi rend="dot">.</hi><hi rend="bold">Teraseva ca cittāni, tatiyāruppabhūmiyaṃ</hi> tatiyaarūpabhūmiyaṃ jātassa khīṇāsavassa teraseva cittāni jāyanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro viniddise. Taṃ yathā –</p>
-
-<p rend="gatha1">Mahākriyāni aṭṭheva, kriyārūpūparī duve;</p>
-
-<p rend="gathalast">Arahattaphalaṃ pāko, voṭṭhabbañcāpi mānasaṃ.</p>
-
-<p rend="bodytext" n="257"><hi rend="paranum">257</hi><hi rend="dot">.</hi><hi rend="bold">Ekavīsati cittāni, catutthāruppabhūmiyaṃ</hi> catutthaarūpabhūmiyaṃ jātassa puthujjanassa sattassa ekavīsati cittāni jāyanti. <hi rend="bold">Iti</hi> idaṃ vacanaṃ dhīro viniddise. Taṃ yathā –</p>
-
-<p rend="gatha1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</p>
-
-<p rend="gatha1">Kāmapuññāni aṭṭheva, voṭṭhabbañcāpi mānasaṃ;</p>
-
-<p rend="gathalast">Catutthāruppapuññañca, sapākenekavīsati.</p>
-
-<p rend="bodytext" n="258-260"><hi rend="paranum">258-260</hi><hi rend="dot">.</hi><hi rend="bold">Sotāpannassa sattassa, sattarasa</hi> cittāni dhīro pakāsaye. Taṃ yathā –</p>
-
-<p rend="gatha1">Diṭṭhiyā vippayuttāni, uddhaccasahitaṃ tathā;</p>
-
-<p rend="gatha2">Kāmapuññāni aṭṭheva, sotāpattiphalampi ca;</p>
-
-<p rend="gathalast">Catutthāruppapuññañca, sapāko voṭṭhabbampi ca.</p>
-
-<p rend="bodytext">Sakadāgāmino <pb ed="V" n="1.0047" /> paṭhamaṃ phalaṃ ṭhapetvā <hi rend="bold">tāni</hi> eva cittāni saphalena honti. Sakadāgāmino vuttesu cittesu dutiyaṃ <pb ed="M" n="0.0054" /> phalaṃ ṭhapetvā attano phalena sattarasa mānasā anāgāmissa honti. <hi rend="bold">Dvādaseva tu cittāni, catutthāruppabhūmiyaṃ</hi> jātassa arahantassa dvādasa eva cittāni jāyanti. Taṃ yathā –</p>
-
-<p rend="gatha1">Mahākriyāni aṭṭheva, voṭṭhabbañcāpi mānasaṃ;</p>
-
-<p rend="gathalast">Catutthañca kriyārūpaṃ, pāko arahato phalaṃ.</p>
-
-<p rend="bodytext"><hi rend="bold">Iti</hi> evaṃ iminā mayā vuttappakārena puggalānaṃ vasena bhūmīsu cittappavattiṃ vidū dhīro vibhāvaye.</p>
-
-<p rend="bodytext" n="261-2"><hi rend="paranum">261-2</hi><hi rend="dot">.</hi><hi rend="bold">Heṭṭhimānaṃ arūpīnaṃ, brahmānaṃ uparūpari</hi> jātā arūpakusalā ceva kiriyāpi ca uppajjanti. <hi rend="bold">Uddhaṃ uddhaṃ</hi> bhāge jātānaṃ <hi rend="bold">arūpīnaṃ</hi> brahmānaṃ <hi rend="bold">heṭṭhimā heṭṭhimā āruppā</hi> heṭṭhābhāge jātā arūpāvacarā pana neva jāyanti. Kasmā kāraṇāti? <hi rend="bold">Kira</hi> mayā sutaṃ, heṭṭhimajhānesu <hi rend="bold">diṭṭhādīnavato</hi> diṭṭhadosabhāvato neva jāyanti.</p>
-
-<p rend="bodytext" n="263-5"><hi rend="paranum">263-5</hi><hi rend="dot">.</hi><hi rend="bold">Ṭhapetvā paṭhamaṃ maggaṃ</hi> sotāpattimaggaṃ ṭhapetvā <hi rend="bold">kusalānuttarā tayo</hi> tayo anuttarā kusalā tayo maggā, kāmāvacarapuññāni aṭṭha, tathā dasa apuññāni cittāni, arūpapuññāni cattāri. <hi rend="bold">Sabbe pākā anuttarā</hi> sabbāni lokuttaraphalāni, paṭhamāruppapāko ca nava kāmakiriyāpi ca, arūpāpi sabbā kiriyā, etāni pana tecattālīsa mānasā paṭhamāruppabhūmiyaṃ uppajjanti.</p>
-
-<p rend="bodytext" n="266-7"><hi rend="paranum">266-7</hi><hi rend="dot">.</hi> Sabbo tevīsati<hi rend="bold">kāmavipāko,</hi> sabbo pannarasavidho mahaggato rūpo cittuppādo, <hi rend="bold">manodhātu</hi> kiriyāmanodhātu, domanassadvayampi ca ādimaggo ca <hi rend="bold">tathā upari</hi> jātā tayo arūpa<hi rend="bold">pākā</hi> cāti chacattālīsa cittāni <hi rend="bold">ettha</hi> etissaṃ paṭhamāruppabhūmiyaṃ natthi.</p>
-
-<p rend="bodytext" n="268-9"><hi rend="paranum">268-9</hi><hi rend="dot">.</hi><hi rend="bold">Vuttesu</hi><pb ed="M" n="0.0055" /><hi rend="bold">pana cittesu, paṭhamāruppabhūmiyaṃ</hi> vuttesu cittesu kusalapākakiriyāvasena <hi rend="bold">paṭhamāruppattayaṃ</hi> ṭhapetvā attano pāko cāti cattālīsa cittāni dutiyāruppabhūmiyaṃ <pb ed="V" n="1.0048" /> jāyanti. <hi rend="bold">Evaṃ</hi> iminā mayā vuttappakārena <hi rend="bold">sesadvaye</hi> paṭhamadutiyāruppato sesaākiñcaññāyatananevasaññānāsaññāyatanabhūmidvaye <hi rend="bold">heṭṭhimaheṭṭhimaṃ</hi> kusalavipākakiriyāvasena heṭṭhābhāge jātaṃ arūpattayaṃ hitvā attano attano pākā <hi rend="bold">evaṃ</hi> iminā mayā vuttappakārena paṇḍitena <hi rend="bold">ñeyyā</hi> jānitabbā.</p>
-
-<p rend="bodytext" n="270-3"><hi rend="paranum">270-3</hi><hi rend="dot">.</hi><hi rend="bold">Cattāro ca anāsavā, vipākā</hi> cattāri lokuttaraphalacittāni, <hi rend="bold">sabbe</hi> sabbāni ca catūsu āruppabhūmīsu honti. Voṭṭhabbanena cittena saha kāme aṭṭha mahākiriyā, catasso arūpakiriyāpi cāti terasa eva kiriyā paṭhamāruppabhūmiyaṃ jātassa khīṇāsavassa jāyanti. Dutiyāruppabhūmiyaṃ jātassa khīṇāsavassa paṭhamāruppakiriyaṃ hitvā dvādasa eva kiriyā honti. Tatiyāruppabhūmiyaṃ jātassa khīṇāsavassa paṭhamadutiyāruppakiriyāni hitvā ekādasa kiriyā honti. Catutthāruppabhūmiyaṃ jātassa khīṇāsavassa paṭhamadutiyatatiyāruppakiriyāni hitvā daseva kiriyā <hi rend="bold">ñeyyā</hi> jānitabbā.</p>
-
-<p rend="hangnum" n="274"><hi rend="paranum">274</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Arahato pana cittāni, honti ekūnavīsati;</hi></p>
-
-<p rend="gathalast"><hi rend="bold">Arahattaṃ kriyā sabbā, ṭhapetvāvajjanadvayaṃ.</hi></p>
-
-<p rend="bodytext">Āvajjanadvayaṃ ṭhapetvā sabbā kiriyā, arahattaphalañcāti ekūnavīsati cittāni arahato pana honti. Āvajjanadvayaṃ kiñcāpi khīṇāsavassa honti, evampi aññesaṃ puthujjanasekkhānampi hontiyeva. Ekūnavīsati cittāni khīṇāsavassa eva honti, na aññesanti ñāpanatthaṃ ‘‘āvajjanadvayaṃ ṭhapetvā’’ti vuttaṃ.</p>
-
-<p rend="bodytext" n="275-6"><hi rend="paranum">275-6</hi><hi rend="dot">.</hi><hi rend="bold">Catunnaṃ</hi><pb ed="M" n="0.0056" /><hi rend="bold">phalaṭṭhānaṃ</hi> puggalānañca tihetukaputhujjane ca teraseva cittāni bhavanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro pakāsaye. Taṃ yathā – cattāro ñāṇasampayuttā mahāvipākāni, nava rūpārūpapākā ca ime teraseva cittāni bhavanti.</p>
-
-<p rend="bodytext" n="277-9"><hi rend="paranum">277-9</hi><hi rend="dot">.</hi><hi rend="bold">Catunnaṃ phalaṭṭhānaṃ</hi> puggalānañca duhetukaputhujjane ca ñāṇaparihīnāni cattāri vipākāni eva jāyare. <hi rend="bold">Puthujjanānaṃ tiṇṇampi, catunnaṃ ariyadehinaṃ</hi> ariyagatānaṃ <hi rend="bold">sattannaṃ</hi> puggalānaṃ <pb ed="V" n="1.0049" /> sattaraseva cittāni bhavanti. Taṃ yathā – duve pañcaviññāṇāni, manodhātuttayasantīraṇāni, voṭṭhabbanañca ime sattarasa eva honti.</p>
-
-<p rend="bodytext" n="280-5"><hi rend="paranum">280-5</hi><hi rend="dot">.</hi><hi rend="bold">Heṭṭhā tiṇṇaṃ phalaṭṭhānaṃ, tihetukaputhujjane catunnaṃ</hi> puggalānaṃ mahaggatāni eva kusalāni honti. <hi rend="bold">Tiṇṇaṃ puthujjanānañca, ādito tiṇṇaṃ ariyānaṃ</hi> heṭṭhā ariyānaṃ teraseva cittāni uppajjanti. <hi rend="bold">Iti</hi> vacanaṃ dhīro niddise. Aṭṭheva kāmapuññāni, <hi rend="bold">apuññato</hi> akusalavasena diṭṭhihīnā cattāro cittuppādāpi, uddhaccasampayuttañcāti terasa cittāni honti. <hi rend="bold">Heṭṭhā dvinnaṃ phalaṭṭhānaṃ</hi> sotāpannasakadāgāmipuggalānaṃ <hi rend="bold">sabbaputhujjane</hi> ahetukaduhetukatihetukaputhujjane domanassayuttaṃ dvayameva cittaṃ jāyate. <hi rend="bold">Tiṇṇaṃ puthujjanānañca</hi> pañca eva jāyare. Taṃ yathā –</p>
-
-<p rend="gatha1">Cattāri diṭṭhiyuttāni, vicikicchāyutampi ca;</p>
-
-<p rend="gathalast">Maggaṭṭhānaṃ catunnampi, maggacittaṃ sakaṃ sakaṃ.</p>
-
-<p rend="bodytext"><hi rend="bold">Tesaṃ</hi> catunnaṃ maggaṭṭhānaṃ puggalānaṃ sakaṃ sakaṃ ekameva maggacittaṃ <hi rend="bold">bhave</hi> bhaveyya. <hi rend="bold">Iti</hi> evaṃ iminā mayā vuttappakārena dhīro paṇḍito <hi rend="bold">vibhāvaye</hi> cittappavattiṃ pakāsaye.</p>
-
-<p rend="bodytext" n="286-9"><hi rend="paranum">286-9</hi><hi rend="dot">.</hi><hi rend="bold">Mayā bhavesu cittānaṃ, puggalānaṃ vasena ca. Bhavesu</hi> sabbabhavesu cittānaṃ, puggalānaṃ vasena ca cittappavatti <hi rend="bold">bhikkhūnaṃ</hi><pb ed="M" n="0.0057" /> ābhidhammikabhikkhūnaṃ <hi rend="bold">pāṭavatthāya</hi> chekabhāvāya mayā pakāsitā. <hi rend="bold">Evaṃ sabbamidaṃ cittaṃ, bhūmipuggalabhedato evaṃ</hi> iminā mayā vuttappakārena bhūmipuggalabhedato idaṃ sabbaṃ cittaṃ <hi rend="bold">bahudhāpi ca</hi> bahuppakārampi ca hoti. <hi rend="bold">Iti</hi> gahaṇaṃ vibhāvinā viññātabbaṃ. <hi rend="bold">Sakkā vuttānusārena</hi> mayā vuttassa anusārena <hi rend="bold">bhedo</hi> cittabhedo vibhāvinā <hi rend="bold">ñātuṃ</hi> vijānituṃ sakkā. Ganthavitthārabhītena mayā <hi rend="bold">idaṃ</hi> cittappavattidīpakavacanaṃ saṃkhittaṃ, pubbāparaṃ viloketvā, cintetvā ca punappunaṃ atthaṃ upaparikkhitvā vibhāvinā gahetabbaṃ.</p>
-
-<p rend="bodytext" n="290"><hi rend="paranum">290</hi><hi rend="dot">.</hi><hi rend="bold">Imañcābhidhammāvatāraṃ susāraṃ, varaṃ sattamohandhakārappadīpaṃ</hi> imañca abhidhammāvatārappakaraṇaṃ <hi rend="bold">susāraṃ</hi> sundarasārabhūtaṃ varaṃ sattaandhakārasadise mohe padīpaṃ pajjotappadīpaṃ <pb ed="V" n="1.0050" /><hi rend="bold">yo</hi> naro sādhukaṃ cinteti vācetipi, taṃ naraṃ rāgadosā <hi rend="bold">ciraṃ</hi> cirakālaṃ <hi rend="bold">nopayanti</hi> na upagacchanti.</p>
-
-<p rend="centre">Iti abhidhammāvatāraṭīkāya</p>
-
-<p rend="centre">Bhūmipuggalacittuppattiniddesavaṇṇanā niṭṭhitā.</p>
-
-<p rend="centre">Pañcamo paricchedo.</p>
-</body>
-<back></back>
+  <chapter>5. Pañcamo paricchedo</chapter>
+  <subhead>Bhūmipuggalacittuppattiniddesavaṇṇanā</subhead>
+  <hangnum nr="182"/>
+  <gatha type="1">Ito paraṃ pavakkhāmi, buddhivuddhikaraṃ nayaṃ;</gatha>
+  <gatha type="last">Cittānaṃ bhūmisuppattiṃ, puggalānaṃ vasena ca.</gatha>
+  <paragraph>Ahaṃ  ito paraṃ buddhivuddhikaraṃ nayaṃ mativaddhikaraṃ nayaṃ pavakkhāmi desessāmi. Cittānaṃ bhūmisuppattiṃ puggalānaṃ vasena ca bhūmīsu cittānaṃ uppattiṃ, puggalānaṃ vasena bhūmīsu cittānaṃ uppattiñca pavakkhāmi.</paragraph>
+  <paragraph nr="183">Devāceva manussā ca, tisso ca apāyabhūmiyo honti, gatiyo pañca tesaṃ devamanussatiracchānapetanirayagatīnaṃ vasena pañca gatiyo niddiṭṭhā satthunā dassitā bhagavatā. Tayo bhavā pana kāmarūpārūpabhavavasena tayo satthunā niddiṭṭhā dassitā.</paragraph>
+  <paragraph nr="184-5">Bhūmiyo tattha tiṃseva, tāsu tiṃseva puggalā tattha tesu tīsu bhavesu tiṃsa eva bhūmiyo honti, tāsu bhūmīsu uppannā puggalā tiṃsa eva honti, etāsu bhūmīsu uppannā sabbe ca pana puggalā paṭisandhikacittānaṃ vasena ekūnavīsati honti. Paṭisandhi ca nāmesā esā paṭisandhi ca nāma duvidhā dvippakārā samudīritā satthunā kathitā.</paragraph>
+  <paragraph nr="186"> Acittakā paṭisandhi, sacittakā paṭisandhi ca iti duvidhā paṭisandhi hoti, asaññibrahmānaṃ paṭisandhi acittakā rūpapaṭisandhi hoti. Sesā rūpapaṭisandhito sesā sacittakā sacittakapaṭisandhi ñeyyā paṇḍitena jānitabbā. Sā pana sacittakā paṭisandhi ekūnavīsati hoti.</paragraph>
+  <paragraph nr="187">Paṭisandhivaseneva sacittakapaṭisandhivasena eva vīsati puggalā honti. Idha imasmiṃ cittādhikāre cittādhikārattā acittakapaṭisandhi rūpapaṭisandhi na ca uddhaṭā na ca kathitā mayā.</paragraph>
+  <paragraph nr="188">Ahetudvitihetūti, puggalā tividhā siyuṃ ahetukadvihetukatihetukā iti tividhā tippakārā puggalā siyuṃ bhaveyyuṃ. Ariyā pana puggalā aṭṭha iti evaṃ iminā mayā vuttappakārena sabbe puggalā ekādasa īritā kathitā bhagavatā.</paragraph>
+  <paragraph nr="189">Bhūmīsu tiṃsabhūmīsu cittānaṃ uppattiṃ etesaṃ pana sabbesaṃ puggalānaṃ pabhedato bhūmīsu cittānaṃ uppattiñca gaṇhato gaṇhantassa mama vacanaṃ nibodhatha, tumhe jānātha suṇātha.</paragraph>
+  <paragraph nr="190"> Tīsu bhūmīsu kati cittāni jāyanti? Me mayhaṃ vada tāni cittāni tvaṃ kathehi, sabbāsu bhūmīsu cuddasa eva cittāni. Taṃ yathā –</paragraph>
+  <gatha type="1">Voṭṭhabbaṃ  kāmapuññañca, viyuttāni ca diṭṭhiyā;</gatha>
+  <gatha type="last">Uddhaccasahitañceva, honti sabbattha cuddasa.</gatha>
+  <paragraph nr="191">Sadā vīsati cittāni, kāmeyeva bhave siyuṃ vīsati cittāni kāmeyeva bhave sadā sabbasmiṃ kāle siyuṃ bhaveyyunti. Taṃ yathā –</paragraph>
+  <gatha type="1">Kāme aṭṭha mahāpākā, domanassadvayampi ca;</gatha>
+  <gatha type="last">Tathā ghānādiviññāṇattayaṃ pākā apuññajā.</gatha>
+  <paragraph>Ghānādiviññāṇattayanti kusalavipākaghānādittayaṃ. Pākā apuññajā akusalato jātā ahetukā satta vipākā. Pañca rūpabhaveyeva pañca cittāni rūpabhaveyeva bhavanti. Cattāreva arūpisu cattāri cittāni arūpīsuyeva honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Rūpeva rūpapākā vāruppapākā arūpisu;</gatha>
+  <gatha type="last">Nava mahaggatā pākā, rūpārūpeva jāyare.</gatha>
+  <paragraph nr="192"> Kāmarūpabhavesveva aṭṭhārasa cittāni bhavanti.</paragraph>
+  <paragraph>Taṃ  yathā –</paragraph>
+  <gatha type="1">Puññarūpāni pañceva, puññajaṃ sampaṭicchanaṃ;</gatha>
+  <gatha type="last">Cakkhusotadvayaṃ puññapākaṃ santīraṇadvayaṃ.</gatha>
+  <gatha type="1">Puññapākaṃ hasituppādamanodhātukriyāpi ca;</gatha>
+  <gatha type="2">Aṭṭhārasādimaggena, pañca rūpakriyāpi ca;</gatha>
+  <gatha type="last">Kāmarūpabhavesveva, etāneva sadā siyuṃ.</gatha>
+  <paragraph>Dvecattālīsa cittāni, honti tīsu bhavesupi dvecattālīsa cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Paṭighadvayavajjitāni , apuññāni daseva ca;</gatha>
+  <gatha type="last">Mahāpuññāni aṭṭheva, voṭṭhabbanakriyāni ca.</gatha>
+  <gatha type="1">Puññāruppāni cattāri, āruppakiriyāni ca;</gatha>
+  <gatha type="2">Kaniṭṭhamaggavajjāni, satta lokuttarāni ca;</gatha>
+  <gatha type="last">Dvecattālīsa cittāni, honti tīsu bhavesupi.</gatha>
+  <paragraph nr="193">Ṭhapetvā pana sabbesaṃ, catassopāyabhūmiyo catasso apāyabhūmiyo ṭhapetvā vajjetvā apāyato sesānaṃ sabbesaṃ puggalānaṃ chabbīsabhūmīsu terasa eva cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Catutthārūpāvacaraṃ, anāgāmiphalādayo;</gatha>
+  <gatha type="last">Mahākriyā ca jāyanti, terasāpāyavajjitā.</gatha>
+  <paragraph>Anāgāmiphalādayoti ādi-saddena hi arahattaphalāni gahitāni.</paragraph>
+  <paragraph nr="194">Aparāni catassopi, ṭhapetvāruppabhūmiyo catasso arūpabhūmiyo ṭhapetvā sesāsu chabbīsabhūmīsu aparāni cha cittāni jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Manodhātukriyañceva , puññajaṃ sampaṭicchanaṃ;</gatha>
+  <gatha type="2">Cakkhusotadvayaṃ puññapākaṃ santīraṇadvayaṃ;</gatha>
+  <gatha type="last">Cheva cittāni jāyanti, tathā uparivajjite.</gatha>
+  <paragraph nr="195">Suddhāvāsikadevānaṃ, ṭhapetvā pañca bhūmiyo pañca bhūmiyo ṭhapetvā pañcavīsatibhūmīsu pañca cittāni jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Diṭṭhiyā sampayuttānaṃ, vicikicchāyutaṃ tathā;</gatha>
+  <gatha type="last">Pañca sabbattha jāyanti, suddhāvāsavivajjite.</gatha>
+  <hangnum nr="196"/>
+  <gatha type="1">Aparāniduve honti, pañcavīsatibhūmisu;</gatha>
+  <gatha type="last">Ṭhapetvā nevasaññañca, catassopāyabhūmiyo.</gatha>
+  <paragraph type="unindented">Catassopāyabhūmiyo nevasaññānāsaññañca ṭhapetvāyeva pañcavīsatibhūmīsu aparāni duve cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Ṭhapetvā nevasaññañca, catassopāyabhūmiyo;</gatha>
+  <gatha type="last">Sesāsu tatiyāruppajavanaṃ jāyati dvayaṃ.</gatha>
+  <paragraph nr="197">Dvepi cittāni jāyanti, catuvīsatibhūmisu catassopāyabhūmiyo ākiñcaññañca nevasaññañca ṭhapetvā sesāsu catuvīsatibhūmīsu dvepi cittāni jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Catutthatatiyāruppaṃ, ṭhapetvāpāyabhūmiyo;</gatha>
+  <gatha type="last">Sesāsu dutiyāruppa-javanaṃ jāyati dvayaṃ.</gatha>
+  <paragraph nr="198">Apāyabhūmiyo hitvā catasso apāyabhūmiyo tisso upari arūpabhūmiyo hitvā chaḍḍetvā sesāsu tevīsatibhūmīsu dveyeva pana cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Apāyabhūmiyo  hitvā, tissocāruppabhūmiyo;</gatha>
+  <gatha type="last">Sesāsu paṭhamāruppaṃ, javanadvayaṃ jāyati.</gatha>
+  <paragraph nr="199">Arūpe ca apāye ca aṭṭha bhūmiyo ṭhapetvā sesāsu bāvīsatibhūmīsu ekādasavidhaṃ cittaṃ hoti. Taṃ yathā –</paragraph>
+  <gatha type="1">Sabbaṃ rūpañca vipākaṃ, ṭhapetvā sitamānasaṃ;</gatha>
+  <gatha type="last">Ekādaseva jāyati, apāyārūpavajjite.</gatha>
+  <paragraph nr="200">Suddhāvāseapāye ca nava bhūmiyo ṭhapetvā sesāsu ekavīsāsu bhūmīsu niccampi cattāro eva mānasā honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Sotāpattiphalañceva, sakadāgāmiphalampi ca;</gatha>
+  <gatha type="2">Sakadāgāmimaggo ca, ṭhapetvāpāyasuddhake;</gatha>
+  <gatha type="last">Anāgāmimaggo ceva, ekavīsāsu honti hi.</gatha>
+  <paragraph nr="201">Ekaṃ sattarasasveva, cittaṃ jāyati bhūmisu suddhāvāsaapāyāruppabhūmiyo ṭhapetvā avasesāsu sattarasasu bhūmīsu ekaṃ cittaṃ jāyati. Taṃ yathā –</paragraph>
+  <gatha type="1">Suddhāvāse apāye ca, ṭhapetvāruppabhūmiyo;</gatha>
+  <gatha type="last">Ādimaggo eko hoti, sattarasasu bhūmisu.</gatha>
+  <hangnum nr="202"/>
+  <gatha type="1">Dvādaseva tu jāyante, ekādasasu bhūmisu;</gatha>
+  <gatha type="last">Ṭhapetvā pana sabbāpi, bhūmiyo hi mahaggatā. –</gatha>
+  <paragraph type="unindented">Ekūnavīsatibhūmiyo ṭhapetvā sesāsu ekādasasu bhūmīsu dvādasa cittāni jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Domanassadvayāpuññapākā satta ca puññajaṃ;</gatha>
+  <gatha type="last">Ghānādittayaṃ sesāsu, hitvā sabbā mahaggatā.</gatha>
+  <paragraph nr="203">Kāmāvacaradevānaṃ vasena ca manussānaṃ vasena ca sattasu kāmāvacarabhūmīsu aṭṭha cittāni sabbadā jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Kāme devamanussānaṃ, mahāpākāni jāyare;</gatha>
+  <gatha type="last">Sadā sattasu etāni, hitvā tevīsa bhūmiyo.</gatha>
+  <paragraph nr="204">Pañcamajjhānapākeko, jāyate chasu bhūmisu eko pañcamajjhānavipāko vehapphalādīsu chasu bhūmīsu jāyati. Cattāri pana rūpavipākacittāni tīsu tīsu bhūmīsu jāyanti. Ayametthādhippāyo – eko paṭhamarūpavipāko brahmapārisajjabrahmapurohitamahābrahmānaṃ tīsu bhūmīsu jāyati, eko dutiyarūpavipāko, eko tatiyarūpavipāko ca parittābhāappamāṇābhāābhassarānaṃ tīsu bhūmīsu jāyati, eko catuttharūpavipāko parittasubhaappamāṇasubhasubhakiṇhānaṃ tīsu bhūmīsu jāyati.</paragraph>
+  <paragraph nr="205">Cattāri pana cittāni, honti ekekabhūmisu arūpāvacaravipākānaṃ vasena cattāri pana cittāni ekekabhūmīsu ekekāsu bhūmīsu honti, iti evaṃ iminā mayā vuttappakārena sabbāsu bhūmīsu cittuppādaṃ paridīpaye paṇḍito katheyya.</paragraph>
+  <paragraph nr="206-7">Kusalākusalā kāme kāme vīsati kusalākusalā, tesaṃ pākā ahetukā tesaṃ kusalākusalānaṃ ahetukā pañcadasa vipākā āvajjanadvayañca iti evaṃ iminā mayā vuttappakārena sattatiṃsa mānasā narakādīsu catūsu apāyesupi jāyare. Avasesāni dvipaññāsa cittāni kadācipi kismiñci kālepi nuppajjanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Pañcadasāni  rūpe tu, arūpe dvādasīritā;</gatha>
+  <gatha type="last">Aṭṭha lokuttarāneva, kāmapākā sahetukā.</gatha>
+  <gatha type="1">Aṭṭha mahākriyā ceva, hasituppādamānasaṃ;</gatha>
+  <gatha type="last">Dvipaññāsāni cittāni, apāyesu na jāyare.</gatha>
+  <paragraph nr="208">Kāme devamanussānaṃ kāmāvacare devamanussānaṃ mahaggatā nava pākā neva jāyanti, asīti hadayā mānasā sadā jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Dvādasākusalāneva, kusalānekavīsati;</gatha>
+  <gatha type="last">Sattavīsati pākā ca, mahaggatavivajjitā.</gatha>
+  <gatha type="1">Kāme  devamanussānaṃ, kriyacittāni vīsati;</gatha>
+  <gatha type="last">Honti asīti cittāni, viññeyyāni vibhāvinā.</gatha>
+  <paragraph nr="209-12">Kāme kāmāvacare aṭṭha mahāvipākā domanassadvayampi ca tathā ghānādiviññāṇattayaṃ kusalavipākaṃ apuññajā satta pākā. Natthi āruppapākā ca, rūpāvacarabhūmiyaṃ arūpapākā ca cattāro rūpāvacarabhūmiyaṃ natthi. Ayametthādhippāyo – rūpāvacarabhūmiyaṃ aṭṭha mahāvipākā kāmasugatisattānaṃ dvinnaṃ vipākacittattā na honti, jhānena vikkhambhitattā domanassadvayampi natthi, ghānajivhākāyapasādavirahitattā kusalavipākaṃ ghānādittayaṃ natthi, aniṭṭhārammaṇānaṃ abhāvato satta akusalavipākā ca natthi, arūpapākā ca natthi. Kasmā? Arūpānaṃ vipākacittattā. Imehi saha cittehi imehi catuvīsaticittehi saha tayo maggā phaladvayaṃ sotāpattimaggo sakadāgāmimaggo anāgāmimaggo ca sotāpattiphalasakadāgāmiphalāni ca cattāro diṭṭhisaṃyuttā vicikicchāsaṃyuttampi ca cattāro heṭṭhimā pākā ca suddhāvāse na labbhare na labbhanti. Ayametthādhippāyo – puthujjanasotāpannasakadāgāmipuggalānaṃ asādhāraṇattā suddho ca āvāso, atha vā  ghorātikkamaṭṭhitattā anāgāmipuggalā suddhā nāma, caturoghatiṇṇattā khīṇāsavā suddhā nāma, tesaṃ suddhānaṃ dvinnaṃ uttamasattānaṃ āvāsotipi suddhāvāso, tasmiṃ.</paragraph>
+  <paragraph>Ayametthādhippāyo – suddhāvāse pana sotāpattimaggasotāpattiphalasakadāgāmimaggasakadāgāmiphalaanāgāmimaggā na vijjanti. Kasmāti ce? Anāgāmiphalaṭṭhānaṃyeva tasmiṃ uppajjanato cattāro diṭṭhisaṃyuttā ca vicikicchāyuttañca pañca akusalacittānaṃ sotāpannena vināsitattā, iti tasmā kāraṇā na jāyanti. Cattāro heṭṭhimavipākā heṭṭhimānaṃ rūpabrahmānaṃ vipākacittattā natthi. Sesāni ekapaññāsa cittāni suddhāvāse pana labbhanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Diṭṭhiyā vippayuttāni, uddhaccasahagataṃ tathā;</gatha>
+  <gatha type="last">Kāmapuññāni aṭṭha ca, rūpapuññāni pañca vā.</gatha>
+  <gatha type="1">Arūpakusalāneva, maggo khīṇāsavassa ca;</gatha>
+  <gatha type="last">Cakkhusotamanodhātu, puññajā tīraṇā duve.</gatha>
+  <gatha type="1">Pañcamajjhānapāko  ca, anāgāmiphalādayo;</gatha>
+  <gatha type="last">Suddhāvāsesu labbhanti, kriyacittāni vīsati.</gatha>
+  <paragraph>Rūpāvacarikā sabbe sabbāni rūpāvacarāni pañcadasa cittāni, kāmadhātuyā sabbe tevīsati vipākā.</paragraph>
+  <paragraph nr="213">Domanassādimaggo ca domanassadvayañca ādimaggo ca sotāpattimaggo ca, kriyā ca dve ahetukā pañcadvārāvajjanahasituppādāni kiriyāni cāti tecattālīsa cittāni arūpabhūmiyaṃ natthi. Pañca rūpāvacaravipākā rūpīnaṃ vipākacittattā natthi. Rūpajavanāni heṭṭhimajhānānaṃ virattattā natthi. Cakkhusotaviññāṇāni puññajāni pasādarahitattā natthi. Ghānādiviññāṇāni pakatiyāyeva natthi. Kusalavipākā manodhātu cakkhādiggahitapañcārammaṇattā arūpānaṃ dhammārammaṇattā natthi, asati cakkhādiviññāṇe sā ca puññajā manodhātu  tāya ca asatiyā cakkhādiviññāṇampi natthiyeva. Kiriyāmanodhātupi pañcārammaṇattāyeva natthi, hasituppādopi rūpakāyābhāvā sitassābhāvā natthi, pubbeva diṭṭhasaccā ariyā rūpabhūmikā, tasmā ādimaggopi natthi.</paragraph>
+  <paragraph nr="214">Evaṃ bhūmivaseneva, cittuppattiṃ vibhāvaye evaṃ iminā mayā vuttappakārena bhūmivasena cittuppattiṃ vibhāvaye dhīro katheyya. Tathā evaṃ ekādasannaṃ puggalānaṃ vasena cittuppattiṃ dhīro vibhāvaye katheyya.</paragraph>
+  <hangnum nr="215"/>
+  <gatha type="1">Kusalākusalā kāme,</gatha>
+  <gatha type="2">Tesaṃ pākā ahetukā;</gatha>
+  <gatha type="3">Āvajjanadvayañcāti,</gatha>
+  <gatha type="last">Sattatiṃseva mānasāti. –</gatha>
+  <paragraph type="unindented">Ayaṃ vuttatthā.</paragraph>
+  <paragraph nr="216"> Evaṃ catūsvapāyabhūmīsu manussabhūmiyañcāti pañcabhūmīsu ahetukassa sattassa jāyante uppajjanti. Dvepaññāsāvasesāni, na jāyanti kadācipi avasesāni dvepaññāsa cittāni kadācipi na jāyanti na uppajjanti, tāni sarūpato vuttāneva.</paragraph>
+  <paragraph nr="217">Ahetukassa sattassa uppajjantehi sattatiṃsacittehi saha duhetukā, catumahāvipākā cāti cattālīsa cittāni tathā ekakaṃ duhetukassa sattassa jāyanti.</paragraph>
+  <paragraph nr="218-23">Sabbe mahaggatā ceva sabbe sattavīsatividhā mahaggatā ceva sabbepi ca anāsavā sabbe aṭṭha lokuttarā ceva cattāro tihetukavipākā ca kāme hasituppādo sahetukamahākiriyā cāti nava kriyāpi ceti cattālīsaṃ tathā aṭṭha ca duhetuno sattassa na jāyanti.</paragraph>
+  <paragraph>Ayametthādhippāyo  – duhetuno rūpārūpasamāpattiyā asamatthatāya sattavīsa mahaggatā na jāyanti, maggaphalaṃ adhigantuṃ asamatthatāya aṭṭha lokuttarā na jāyanti, tihetukavipākā tihetukānaṃ sattānaṃ vipākacittattā na jāyanti, nava kiriyāni khīṇāsavānaṃyeva uppajjamānattā na jāyantīti. Kāmāvacarasattassa, tihetupaṭisandhino puthujjanassa catupaññāsa mānasā jāyanti. Katamāni tāni? Duhetukassa vuttāni cattālīsa cittāni tathā ekañca kāmadhātuyaṃ cattāro ñāṇasampayuttavipākā rūpārūpesu nava puññāni cāti catupaññāsa mānasā jāyanti. Puthujjanassa tihetuno kāmasattassa pañcatiṃsa cittāni na jāyare na jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Āvajjanadvayaṃ hitvā, aṭṭhārasa kriyāpi ca;</gatha>
+  <gatha type="last">Nava mahaggatā pākā, aṭṭha lokuttarāni ca.</gatha>
+  <gatha type="1">Kāmaputhujjanasseva, tihetupaṭisandhino;</gatha>
+  <gatha type="last">Pañcatiṃseva cittāni, na jāyanti kadācipi.</gatha>
+  <paragraph>Chadevesu manussesu cāti sattasu bhūmīsu jātassa sotāpannassa dehino sattassa paññāsa cittāni jāyanti. Iti vacanaṃ dhīro niddise katheyya. Taṃ yathā –</paragraph>
+  <gatha type="1">Diṭṭhiyā  vippayuttāni, domanassadvayampi ca;</gatha>
+  <gatha type="last">Uddhaccasahitañceva, kāmapuññāni aṭṭha ca.</gatha>
+  <gatha type="1">Nava mahaggatapuññāni, āvajjanadvayampi ca;</gatha>
+  <gatha type="last">Sabbe kāmavipākā ca, sotāpattiphalampi ca.</gatha>
+  <paragraph>Assa sotāpannassa navatiṃseva cittāni na uppajjanti. Iti vacanaṃ dhīro dīpaye deseyya. Taṃ yathā –</paragraph>
+  <gatha type="1">Āvajjanadvayaṃ hitvā, aṭṭhārasa kriyāpi ca;</gatha>
+  <gatha type="last">Nava mahaggatā pākā, satta lokuttarāni ca.</gatha>
+  <gatha type="1">Diṭṭhiyā  sampayuttāni, vicikicchāyutaṃ tathā;</gatha>
+  <gatha type="last">Navatiṃsa na jāyanti, sotāpannassa dehino.</gatha>
+  <paragraph nr="224"> Paṭhamaṃ phalaṃ ṭhapetvā sotāpannassa puggalassa vuttāni cittāni attano sakadāgāmino phalena sakadāgāmiphalena saha sakadāgāmipuggalassa siyuṃ.</paragraph>
+  <paragraph nr="225">Sotāpannassa vuttāni, ṭhapetvā paṭighadvayaṃ dutiyañca phalaṃ sakadāgāmiphalañca hitvā attano anāgāmiphalena saha sotāpannassa sattassa vuttāni yāni aṭṭhacattālīsa cittāni atthi, tāni anāgāmissa sattassa jāyanti. Iti vacanaṃ dhīro viniddise.</paragraph>
+  <paragraph nr="226">Kati cittāni jāyanti, kāme arahato pana kāme sattasu kāmabhūmīsu jātassa arahato khīṇāsavassa kati cittāni jāyanti? Cattāri ca cattārīsañca cittāni kāme sattasu kāmabhūmīsu jātassa arahato siyuṃ bhaveyyuṃ. Taṃ yathā –</paragraph>
+  <gatha type="1">Tevīsa kāmapākāni, kriyacittāni vīsati;</gatha>
+  <gatha type="last">Arahattaphaleneva, kāme arahato siyuṃ.</gatha>
+  <paragraph nr="227">Maggaṭṭhānaṃcatunnampi tesaṃ puggalānaṃ sakaṃ sakaṃ maggacittaṃ siyā bhaveyya. Ekacittakkhaṇā hi te hi saccaṃ taṃ mayā vuttaṃ vacanaṃ. Te maggā ekacittakkhaṇā.</paragraph>
+  <paragraph nr="228">Puthujjanassa tīsveva, paṭhamajjhānabhūmisu tīsu eva paṭhamajjhānabhūmīsu jātassa puthujjanassa brahmuno pañcatiṃsa eva cittāni jāyanti. Iti vacanaṃ dhīro viniddise uccāreyya. Taṃ yathā –</paragraph>
+  <gatha type="1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</gatha>
+  <gatha type="last">Kāmapuññāni aṭṭheva, nava puññā mahaggatā.</gatha>
+  <gatha type="1">Cakkhusotadvayaṃ  puññapākaṃ santīraṇadvayaṃ;</gatha>
+  <gatha type="2">Āvajjanadvayañceva, puññajaṃ sampaṭicchanaṃ;</gatha>
+  <gatha type="last">Paṭhamajjhānapāko ca, pañcatiṃseva jāyare.</gatha>
+  <paragraph nr="229-234">Ghānādīsu pasādesu pavattaṃ kusalavipākaṃ viññāṇattayaṃ satta apuññajā pākā aṭṭha mahāpākā tathā uparijhānabhūmīsu jātā pākā āruppā cattāro vipākāpi ca domanassadvayampi ca āvajjanadvayavajjā aṭṭhārasa kriyā ceva aṭṭha lokuttarāni ca etāni catupaññāsa cittāni paṭhamajjhānabhūmīsu tīsu nibbattassa puthujjanassa dehino sattassa na ca labbhare na labbhanti. Tāsu tīsu bhūmīsu nibbattassa puthujjanassa brahmuno vuttesu cittesu apuññapañcakaṃ hitvā tattha tīsu paṭhamajjhānabhūmīsu nibbattassa sotāpannassa brahmuno paṭhamaphalena saha ekatiṃsa cittāni jāyare jāyanti. Sakadāgāmino tattha tīsu paṭhamajjhānabhūmīsu jātassa sakadāgāmino brahmuno tesu cittesu paṭhamaṃ phalaṃ ṭhapetvā sakadāgāmiphalaṃ pakkhipitvā ekatiṃseva cittāni jāyare. Anāgāmissa tattheva tīsu paṭhamajjhānabhūmīsu eva jātassa anāgāmissa dutiyaṃ phalaṃ ṭhapetvā attano phalacittena saha ekatiṃseva cittāni jāyanti.</paragraph>
+  <hangnum nr="235"/>
+  <gatha type="1">Viññāṇaṃ cakkhusotānaṃ, puññajaṃ sampaṭicchanaṃ;</gatha>
+  <gatha type="last">Santīraṇadvayañceva, kriyacittāni vīsati.</gatha>
+  <paragraph nr="236-7"> Arahattaphalaṃ  paṭhamajjhānato sambhavo pāko sattavīsati cittāni arahantassa khīṇāsavassa jāyare. Puthujjanassa tīsveva tīsu eva dutiyajjhānabhūmīsu jātassa puthujjanassa brahmuno dutiyajjhānatatiyajjhānapākena saha chattiṃsa cittāni jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Domanassadvayaṃ  hitvā, apuññāni daseva ca;</gatha>
+  <gatha type="last">Kāmapuññāni aṭṭheva, nava puññamahaggatā.</gatha>
+  <gatha type="1">Cakkhusotadvayaṃ puññapākaṃ santīraṇadvayaṃ;</gatha>
+  <gatha type="last">Āvajjanadvayañceva, puññajaṃ sampaṭicchanaṃ.</gatha>
+  <gatha type="1">Dutiyajjhānapākena, tatiyajjhānapākato;</gatha>
+  <gatha type="last">Chattiṃseva ca cittāni, dutiyajjhānadehino.</gatha>
+  <paragraph nr="238-241">Puthujjanassa vuttesu, hitvā vāpuññapañcakaṃ attano phalena saha bāttiṃsa cittāni sotāpannassa jāyanti. Sotāpannassa vuttesu, ṭhapetvā paṭhamaṃ phalaṃ sotāpannassa vuttesu paṭhamaṃ phalaṃ ṭhapetvā attano phalacittena saha bāttiṃsa cittāni, sakadāgāmissa vuttesu dutiyaṃ phalaṃ ṭhapetvā anāgāmiphalena saha bāttiṃseva cittāni assa anāgāmino bhavanti. Arahantassa tīsveva, aṭṭhavīsati attano tīsu eva dutiyajjhānabhūmīsu jātassa arahato attano phalena dutiyajjhānatatiyajjhānapākato pākehi saha aṭṭhavīsati cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Viññāṇaṃ cakkhusotānaṃ, puññajaṃ sampaṭicchanaṃ;</gatha>
+  <gatha type="last">Santīraṇadvayañceva, kriyacittāni vīsati.</gatha>
+  <gatha type="1">Arahattaphalaṃ pāko, dutiyajjhānasambhavo;</gatha>
+  <gatha type="last">Tatiyajjhānapāko ca, aṭṭhavīsati mānasā.</gatha>
+  <paragraph nr="242-6">Parittakasubhādīnaṃ, devānaṃ tīsu bhūmīsu catutthajjhānavipākena saha pañcatiṃseva cittāni  jāyanti. Sotāpannassa tattheka-tiṃsa cittāni jāyaretattha tāsu tīsu parittakasubhādīnaṃ bhūmīsu sotāpannassa ca ekatiṃsa cittāni jāyare. Yathā evaṃ sakadāgāmino ekatiṃsa cittāni jāyare. Tathā anāgāmino ekatiṃsa jāyare. Tattheva tāsu tīsu bhūmīsu eva jātassa khīṇāsavassa sattavīsati mānasā honti, tathā evaṃ vehapphale vehapphalabhūmiyaṃ jātānaṃ puthujjanasekkhānaṃ pañcannaṃ sabbesaṃ puggalānaṃ mānasā honti. Pañcasu suddhāvāsikabhūmīsu jātassa anāgāmino sattassa ekatiṃseva cittāni honti. Iti vacanaṃ dhīro paridīpaye deseyya. Tattheva tāsu suddhāvāsabhūmīsu eva jātassa arahato sattavīsati mānasā honti. Evaṃ iminā mayā vuttappakārena rūpīsu pañcadasasu rūpibhūmīsu jātānaṃ sabbesaṃ puggalānaṃ cittāni vibhāvinā dhīrena viññeyyāni jānitabbāni.</paragraph>
+  <paragraph nr="247">Catuvīsati cittāni, paṭhamāruppabhūmiyaṃ paṭhamaāruppabhūmiyaṃ jātassa puthujjanassa catuvīsati cittāni jāyanti. Iti vacanaṃ dhīro viniddise. Taṃ yathā –</paragraph>
+  <gatha type="1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</gatha>
+  <gatha type="2">Kāmapuññāni aṭṭheva, āruppakusalāni ca;</gatha>
+  <gatha type="last">Paṭhamāruppapāko ca, kriyāvoṭṭhabbanampi ca.</gatha>
+  <paragraph nr="248-251">Sotāpannassa tattheva, ṭhapetvāpuññapañcakaṃtattha tissaṃ paṭhamāruppabhūmiyaṃ eva sotāpannassa puggalassa apuññapañcakaṃ hitvā attano phalena saha vīsati cittāni honti. Tathā tattha tissaṃ paṭhamāruppabhūmiyaṃ sakadāgāmino, anāgāminopi ca puggalassa pubbaṃ pubbaṃ phalaṃ vinā vajjetvā attano phalena saha vīsati cittāni jāyanti. Khīṇāsavassa tattheva tattha tissaṃ paṭhamāruppabhūmiyaṃ eva jātassa khīṇāsavassa dasa pañca mānasā ca jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Mahākriyāni aṭṭheva, catvāruppakriyāni ca;</gatha>
+  <gatha type="last">Arahattaphalaṃ pāko, voṭṭhabbañcāpi mānasaṃ.</gatha>
+  <paragraph>Dutiyāruppabhūmiyaṃ  jātassa puthujjanassa sattassa tevīsati cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Domanassadvayaṃ  hitvā, apuññāni daseva ca;</gatha>
+  <gatha type="2">Kāmapuññāni aṭṭheva, puññārūpūparī tayo;</gatha>
+  <gatha type="last">Dutiyāruppapāko ca, voṭṭhabbañcāpi mānasaṃ.</gatha>
+  <paragraph>Iti evaṃ iminā pakārena vatvā kathetvā dhīro paṇḍito vibhāvaye deseyya. Ettha etissaṃ dutiyāruppabhūmiyaṃ jātānaṃ tiṇṇannaṃ sekkhānampi ekūnavīsati cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Diṭṭhiyā vippayuttāni, uddhaccasahitaṃ tathā;</gatha>
+  <gatha type="last">Kāmapuññāni aṭṭheva, puññārūpūparī tayo.</gatha>
+  <gatha type="1">Dutiyāruppapāko ca, voṭṭhabbañcāpi mānasaṃ;</gatha>
+  <gatha type="last">Sakasakaphaleneva, cittānekūnavīsati.</gatha>
+  <paragraph nr="252">Cuddaseva tu cittāni dutiyāruppabhūmiyaṃ jātassa khīṇāsavassa kiriyacittāni dvādasa eko pāko arahattaphalañcāti cuddaseva cittāni honti. Taṃ yathā –</paragraph>
+  <gatha type="1">Mahākriyāni aṭṭheva, kriyārūpūparī tayo;</gatha>
+  <gatha type="last">Voṭṭhabbañca sako pāko, arahattaphalampi ca.</gatha>
+  <paragraph nr="253">Puthujjanassa sattassa, tatiyāruppabhūmiyaṃ tatiyaarūpabhūmiyaṃ jātassa puthujjanassa sattassa bāvīsati cittāni bhavanti. Iti vacanaṃ dhīro pakāsaye. Taṃ yathā –</paragraph>
+  <gatha type="1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</gatha>
+  <gatha type="1">Kāmapuññāni aṭṭheva, puññārūpūparī duve;</gatha>
+  <gatha type="last">Tatiyāruppapāko ca, voṭṭhabbañcāpi mānasaṃ.</gatha>
+  <paragraph nr="254-5">Aṭṭhāraseva cittāni, sotāpannassa puggalassa aṭṭhārasa eva cittāni jāyare. Taṃ yathā –</paragraph>
+  <gatha type="1">Diṭṭhiyā  vippayuttāni, uddhaccasahitaṃ tathā;</gatha>
+  <gatha type="last">Mahāpuññāni aṭṭheva, puññārūpūparī duve.</gatha>
+  <gatha type="1">Aṭṭhāraseva pākena, sotāpattiphalena ca;</gatha>
+  <gatha type="last">Voṭṭhabbañcāpi mānasaṃ, sotāpannassa jāyare.</gatha>
+  <paragraph>Sakadāgāmino paṭhamaṃ phalaṃ ṭhapetvā attano phalena tāni aṭṭhārasa cittāni honti. Sakadāgāmino vuttesu cittesu dutiyaṃ phalaṃ ṭhapetvā attano phalena saha aṭṭhārasa cittāni eva anāgāmissa jāyare.</paragraph>
+  <paragraph nr="256">Teraseva ca cittāni, tatiyāruppabhūmiyaṃ tatiyaarūpabhūmiyaṃ jātassa khīṇāsavassa teraseva cittāni jāyanti. Iti vacanaṃ dhīro viniddise. Taṃ yathā –</paragraph>
+  <gatha type="1">Mahākriyāni aṭṭheva, kriyārūpūparī duve;</gatha>
+  <gatha type="last">Arahattaphalaṃ pāko, voṭṭhabbañcāpi mānasaṃ.</gatha>
+  <paragraph nr="257">Ekavīsati cittāni, catutthāruppabhūmiyaṃ catutthaarūpabhūmiyaṃ jātassa puthujjanassa sattassa ekavīsati cittāni jāyanti. Iti idaṃ vacanaṃ dhīro viniddise. Taṃ yathā –</paragraph>
+  <gatha type="1">Domanassadvayaṃ hitvā, apuññāni daseva ca;</gatha>
+  <gatha type="1">Kāmapuññāni aṭṭheva, voṭṭhabbañcāpi mānasaṃ;</gatha>
+  <gatha type="last">Catutthāruppapuññañca, sapākenekavīsati.</gatha>
+  <paragraph nr="258-260">Sotāpannassa sattassa, sattarasa cittāni dhīro pakāsaye. Taṃ yathā –</paragraph>
+  <gatha type="1">Diṭṭhiyā vippayuttāni, uddhaccasahitaṃ tathā;</gatha>
+  <gatha type="2">Kāmapuññāni aṭṭheva, sotāpattiphalampi ca;</gatha>
+  <gatha type="last">Catutthāruppapuññañca, sapāko voṭṭhabbampi ca.</gatha>
+  <paragraph>Sakadāgāmino  paṭhamaṃ phalaṃ ṭhapetvā tāni eva cittāni saphalena honti. Sakadāgāmino vuttesu cittesu dutiyaṃ  phalaṃ ṭhapetvā attano phalena sattarasa mānasā anāgāmissa honti. Dvādaseva tu cittāni, catutthāruppabhūmiyaṃ jātassa arahantassa dvādasa eva cittāni jāyanti. Taṃ yathā –</paragraph>
+  <gatha type="1">Mahākriyāni aṭṭheva, voṭṭhabbañcāpi mānasaṃ;</gatha>
+  <gatha type="last">Catutthañca kriyārūpaṃ, pāko arahato phalaṃ.</gatha>
+  <paragraph>Iti evaṃ iminā mayā vuttappakārena puggalānaṃ vasena bhūmīsu cittappavattiṃ vidū dhīro vibhāvaye.</paragraph>
+  <paragraph nr="261-2">Heṭṭhimānaṃ arūpīnaṃ, brahmānaṃ uparūpari jātā arūpakusalā ceva kiriyāpi ca uppajjanti. Uddhaṃ uddhaṃ bhāge jātānaṃ arūpīnaṃ brahmānaṃ heṭṭhimā heṭṭhimā āruppā heṭṭhābhāge jātā arūpāvacarā pana neva jāyanti. Kasmā kāraṇāti? Kira mayā sutaṃ, heṭṭhimajhānesu diṭṭhādīnavato diṭṭhadosabhāvato neva jāyanti.</paragraph>
+  <paragraph nr="263-5">Ṭhapetvā paṭhamaṃ maggaṃ sotāpattimaggaṃ ṭhapetvā kusalānuttarā tayo tayo anuttarā kusalā tayo maggā, kāmāvacarapuññāni aṭṭha, tathā dasa apuññāni cittāni, arūpapuññāni cattāri. Sabbe pākā anuttarā sabbāni lokuttaraphalāni, paṭhamāruppapāko ca nava kāmakiriyāpi ca, arūpāpi sabbā kiriyā, etāni pana tecattālīsa mānasā paṭhamāruppabhūmiyaṃ uppajjanti.</paragraph>
+  <paragraph nr="266-7"> Sabbo tevīsatikāmavipāko, sabbo pannarasavidho mahaggato rūpo cittuppādo, manodhātu kiriyāmanodhātu, domanassadvayampi ca ādimaggo ca tathā upari jātā tayo arūpapākā cāti chacattālīsa cittāni ettha etissaṃ paṭhamāruppabhūmiyaṃ natthi.</paragraph>
+  <paragraph nr="268-9">Vuttesupana cittesu, paṭhamāruppabhūmiyaṃ vuttesu cittesu kusalapākakiriyāvasena paṭhamāruppattayaṃ ṭhapetvā attano pāko cāti cattālīsa cittāni dutiyāruppabhūmiyaṃ  jāyanti. Evaṃ iminā mayā vuttappakārena sesadvaye paṭhamadutiyāruppato sesaākiñcaññāyatananevasaññānāsaññāyatanabhūmidvaye heṭṭhimaheṭṭhimaṃ kusalavipākakiriyāvasena heṭṭhābhāge jātaṃ arūpattayaṃ hitvā attano attano pākā evaṃ iminā mayā vuttappakārena paṇḍitena ñeyyā jānitabbā.</paragraph>
+  <paragraph nr="270-3">Cattāro ca anāsavā, vipākā cattāri lokuttaraphalacittāni, sabbe sabbāni ca catūsu āruppabhūmīsu honti. Voṭṭhabbanena cittena saha kāme aṭṭha mahākiriyā, catasso arūpakiriyāpi cāti terasa eva kiriyā paṭhamāruppabhūmiyaṃ jātassa khīṇāsavassa jāyanti. Dutiyāruppabhūmiyaṃ jātassa khīṇāsavassa paṭhamāruppakiriyaṃ hitvā dvādasa eva kiriyā honti. Tatiyāruppabhūmiyaṃ jātassa khīṇāsavassa paṭhamadutiyāruppakiriyāni hitvā ekādasa kiriyā honti. Catutthāruppabhūmiyaṃ jātassa khīṇāsavassa paṭhamadutiyatatiyāruppakiriyāni hitvā daseva kiriyā ñeyyā jānitabbā.</paragraph>
+  <hangnum nr="274"/>
+  <gatha type="1">Arahato pana cittāni, honti ekūnavīsati;</gatha>
+  <gatha type="last">Arahattaṃ kriyā sabbā, ṭhapetvāvajjanadvayaṃ.</gatha>
+  <paragraph>Āvajjanadvayaṃ ṭhapetvā sabbā kiriyā, arahattaphalañcāti ekūnavīsati cittāni arahato pana honti. Āvajjanadvayaṃ kiñcāpi khīṇāsavassa honti, evampi aññesaṃ puthujjanasekkhānampi hontiyeva. Ekūnavīsati cittāni khīṇāsavassa eva honti, na aññesanti ñāpanatthaṃ ‘‘āvajjanadvayaṃ ṭhapetvā’’ti vuttaṃ.</paragraph>
+  <paragraph nr="275-6">Catunnaṃphalaṭṭhānaṃ puggalānañca tihetukaputhujjane ca teraseva cittāni bhavanti. Iti vacanaṃ dhīro pakāsaye. Taṃ yathā – cattāro ñāṇasampayuttā mahāvipākāni, nava rūpārūpapākā ca ime teraseva cittāni bhavanti.</paragraph>
+  <paragraph nr="277-9">Catunnaṃ phalaṭṭhānaṃ puggalānañca duhetukaputhujjane ca ñāṇaparihīnāni cattāri vipākāni eva jāyare. Puthujjanānaṃ tiṇṇampi, catunnaṃ ariyadehinaṃ ariyagatānaṃ sattannaṃ puggalānaṃ  sattaraseva cittāni bhavanti. Taṃ yathā – duve pañcaviññāṇāni, manodhātuttayasantīraṇāni, voṭṭhabbanañca ime sattarasa eva honti.</paragraph>
+  <paragraph nr="280-5">Heṭṭhā tiṇṇaṃ phalaṭṭhānaṃ, tihetukaputhujjane catunnaṃ puggalānaṃ mahaggatāni eva kusalāni honti. Tiṇṇaṃ puthujjanānañca, ādito tiṇṇaṃ ariyānaṃ heṭṭhā ariyānaṃ teraseva cittāni uppajjanti. Iti vacanaṃ dhīro niddise. Aṭṭheva kāmapuññāni, apuññato akusalavasena diṭṭhihīnā cattāro cittuppādāpi, uddhaccasampayuttañcāti terasa cittāni honti. Heṭṭhā dvinnaṃ phalaṭṭhānaṃ sotāpannasakadāgāmipuggalānaṃ sabbaputhujjane ahetukaduhetukatihetukaputhujjane domanassayuttaṃ dvayameva cittaṃ jāyate. Tiṇṇaṃ puthujjanānañca pañca eva jāyare. Taṃ yathā –</paragraph>
+  <gatha type="1">Cattāri diṭṭhiyuttāni, vicikicchāyutampi ca;</gatha>
+  <gatha type="last">Maggaṭṭhānaṃ catunnampi, maggacittaṃ sakaṃ sakaṃ.</gatha>
+  <paragraph>Tesaṃ catunnaṃ maggaṭṭhānaṃ puggalānaṃ sakaṃ sakaṃ ekameva maggacittaṃ bhave bhaveyya. Iti evaṃ iminā mayā vuttappakārena dhīro paṇḍito vibhāvaye cittappavattiṃ pakāsaye.</paragraph>
+  <paragraph nr="286-9">Mayā bhavesu cittānaṃ, puggalānaṃ vasena ca. Bhavesu sabbabhavesu cittānaṃ, puggalānaṃ vasena ca cittappavatti bhikkhūnaṃ ābhidhammikabhikkhūnaṃ pāṭavatthāya chekabhāvāya mayā pakāsitā. Evaṃ sabbamidaṃ cittaṃ, bhūmipuggalabhedato evaṃ iminā mayā vuttappakārena bhūmipuggalabhedato idaṃ sabbaṃ cittaṃ bahudhāpi ca bahuppakārampi ca hoti. Iti gahaṇaṃ vibhāvinā viññātabbaṃ. Sakkā vuttānusārena mayā vuttassa anusārena bhedo cittabhedo vibhāvinā ñātuṃ vijānituṃ sakkā. Ganthavitthārabhītena mayā idaṃ cittappavattidīpakavacanaṃ saṃkhittaṃ, pubbāparaṃ viloketvā, cintetvā ca punappunaṃ atthaṃ upaparikkhitvā vibhāvinā gahetabbaṃ.</paragraph>
+  <paragraph nr="290">Imañcābhidhammāvatāraṃ susāraṃ, varaṃ sattamohandhakārappadīpaṃ imañca abhidhammāvatārappakaraṇaṃ susāraṃ sundarasārabhūtaṃ varaṃ sattaandhakārasadise mohe padīpaṃ pajjotappadīpaṃ yo naro sādhukaṃ cinteti vācetipi, taṃ naraṃ rāgadosā ciraṃ cirakālaṃ nopayanti na upagacchanti.</paragraph>
+  <centered>Iti abhidhammāvatāraṭīkāya</centered>
+  <centered>Bhūmipuggalacittuppattiniddesavaṇṇanā niṭṭhitā.</centered>
+  <centered>Pañcamo paricchedo.</centered>
 </text>
-</TEI.2>

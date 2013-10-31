@@ -1,27 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Yamakappakaraṇa-aṭṭhakathā</p>
-
-<p rend="gatha1">Saṅkhepeneva <pb ed="M" n="0.0287" /><pb ed="P" n="0.0052" /><pb ed="V" n="0.0286" /> devānaṃ, devadevo surālaye;</p>
-
-<p rend="gathalast">Kathāvatthuppakaraṇaṃ, desayitvā raṇañjaho.</p>
-
-<p rend="gatha1">Yamassa visayātīto, nānāyamakamaṇḍitaṃ;</p>
-
-<p rend="gathalast">Abhidhammappakaraṇaṃ, chaṭṭhaṃ chaṭṭhāna desako.</p>
-
-<p rend="gatha1">Yamakaṃ ayamāvatta-nīlāmalatanūruho;</p>
-
-<p rend="gatha2">Yaṃ desayi anuppatto, tassa saṃvaṇṇanākkamo;</p>
-
-<p rend="gathalast">Idāni yasmā tasmāssa, hoti saṃvaṇṇanā ayanti.</p>
-</body>
-<back></back>
+  <chapter>Yamakappakaraṇa-aṭṭhakathā</chapter>
+  <gatha type="1">Saṅkhepeneva  devānaṃ, devadevo surālaye;</gatha>
+  <gatha type="last">Kathāvatthuppakaraṇaṃ, desayitvā raṇañjaho.</gatha>
+  <gatha type="1">Yamassa visayātīto, nānāyamakamaṇḍitaṃ;</gatha>
+  <gatha type="last">Abhidhammappakaraṇaṃ, chaṭṭhaṃ chaṭṭhāna desako.</gatha>
+  <gatha type="1">Yamakaṃ ayamāvatta-nīlāmalatanūruho;</gatha>
+  <gatha type="2">Yaṃ desayi anuppatto, tassa saṃvaṇṇanākkamo;</gatha>
+  <gatha type="last">Idāni yasmā tasmāssa, hoti saṃvaṇṇanā ayanti.</gatha>
 </text>
-</TEI.2>

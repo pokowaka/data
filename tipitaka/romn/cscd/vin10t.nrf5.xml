@@ -1,37 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Uttaravinicchayo</p>
-
-<p rend="subsubhead">Ganthārambhakathā</p>
-
-<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sabbasattuttamaṃ <pb ed="M" n="0.0305" /><pb ed="V" n="0.0269" /> dhīraṃ, vanditvā sirasā jinaṃ;</p>
-
-<p rend="gathalast">Dhammañcādhammaviddhaṃsaṃ, gaṇamaṅgaṇanāsanaṃ.</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yo mayā racito sāro, vinayassa vinicchayo;</p>
-
-<p rend="gathalast">Tassa dāni karissāmi, sabbānuttaramuttaraṃ.</p>
-
-<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Bhaṇato paṭhato payuñjato;</p>
-
-<p rend="gatha2">Suṇato cintayato panuttaraṃ;</p>
-
-<p rend="gatha3">Paramaṃ abuddha buddhivaḍḍhanaṃ;</p>
-
-<p rend="gathalast">Vadato me niratā nibodhatha.</p>
-</body>
-<back></back>
+  <chapter>Uttaravinicchayo</chapter>
+  <subsubhead>Ganthārambhakathā</subsubhead>
+  <hangnum nr="1"/>
+  <gatha type="1"> Sabbasattuttamaṃ  dhīraṃ, vanditvā sirasā jinaṃ;</gatha>
+  <gatha type="last">Dhammañcādhammaviddhaṃsaṃ, gaṇamaṅgaṇanāsanaṃ.</gatha>
+  <hangnum nr="2"/>
+  <gatha type="1"> Yo mayā racito sāro, vinayassa vinicchayo;</gatha>
+  <gatha type="last">Tassa dāni karissāmi, sabbānuttaramuttaraṃ.</gatha>
+  <hangnum nr="3"/>
+  <gatha type="1"> Bhaṇato paṭhato payuñjato;</gatha>
+  <gatha type="2">Suṇato cintayato panuttaraṃ;</gatha>
+  <gatha type="3">Paramaṃ abuddha buddhivaḍḍhanaṃ;</gatha>
+  <gatha type="last">Vadato me niratā nibodhatha.</gatha>
 </text>
-</TEI.2>

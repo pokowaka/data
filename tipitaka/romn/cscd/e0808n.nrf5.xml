@@ -1,93 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">6. Chappaccayavibhāga-chaṭṭhapariccheda</p>
-
-<p rend="title">Patthāranaya</p>
-
-<p rend="hangnum" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Patthāre <pb ed="M" n="0.0200" /> sabbage pāde, pubbagā’dho lpa’re samā;</p>
-
-<p rend="gathalast">Pubbe garu te ca mime, kattabbā yāva sabbalā.</p>
-
-<p rend="title">Naṭṭhanaya</p>
-
-<p rend="hangnum" n="130"><hi rend="paranum">130</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Naṭṭhassa yo bhaveyya’ṅko, tasmiṃ lo’ddhikate same;</p>
-
-<p rend="gathalast">Visame tve’kasahite, bhaveyya’ddhikate garu.</p>
-
-<p rend="title">Uddiṭṭhanaya</p>
-
-<p rend="hangnum" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ekā’dinukkamena’ṅke, pubbādho dviguṇe likhe;</p>
-
-<p rend="gathalast">Missakehi lahuṭṭhehi, se’kehu’ddiṭṭhakaṃ bhave.</p>
-
-<p rend="title">Sabbagalakriyanaya</p>
-
-<p rend="hangnum" n="132"><hi rend="paranum">132</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vutta’kkhara samā saṅkhyā, likkhya seko’parū’pari;</p>
-
-<p rend="gathalast">Ekekahīna mekādi, nu’ṭṭhāne sabbagādikaṃ.</p>
-
-<p rend="title">Vuttasaṅkhyānaya</p>
-
-<p rend="hangnum" n="133"><hi rend="paranum">133</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Garukriyā’ṅka sandohe, bhave saṅkhyā vimissite;</p>
-
-<p rend="gathalast">Uddiṭṭha’ṅka samāhāro, se’ko ve’maṃ samā’naye.</p>
-
-<p rend="title">Vuttaaddhānaya</p>
-
-<p rend="hangnum" n="134"><hi rend="paranum">134</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saṅkhyeva dviguṇe’kūnā, vitthārā’yāmasambhavā;</p>
-
-<p rend="gathalast">Vuttassa’ddha’ntarānañca, garulānañca aṅgulaṃ.</p>
-
-<p rend="centre">Iti vuttodaye chandasi chappaccayavibhāgo nāma</p>
-
-<p rend="centre">Chaṭṭho paricchedo.</p>
-
-<p rend="title">Nigamana</p>
-
-<p rend="hangnum" n="135"><hi rend="paranum">135</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sela’ntarā’yatana <pb ed="M" n="0.0201" /> vāsika <hi rend="bold">sīla’</hi>tthera,</p>
-
-<p rend="gatha2">Pādo garu gguṇagaru jjayataṃ mame’so;</p>
-
-<p rend="gatha3">Yassa ppabhāva’mavalamba maye’disopi,</p>
-
-<p rend="gathalast">Sampādito’bhimata siddhikaro parattho.</p>
-
-<p rend="hangnum" n="136"><hi rend="paranum">136</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Parattha sampādanato, puññenā’dhigatena’haṃ;</p>
-
-<p rend="gathalast">Parattha sampādanako, bhaveyyaṃ jāti jātiyaṃ.</p>
-
-<p rend="hangnum" n="137"><hi rend="paranum">137</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Avalokita mattena, yathā chappaccayā mayā;</p>
-
-<p rend="gathalast">Sādhitā sādhayante’va, micchitatthampi pāṇinoti.</p>
-
-<p rend="centre">Iti saṅgharakkhitamahāsāmittherena viracitaṃ</p>
-
-<p rend="centre">Vuttodayappakaraṇaṃ pariniṭṭhitaṃ.</p>
-</body>
-<back></back>
+  <chapter>6. Chappaccayavibhāga-chaṭṭhapariccheda</chapter>
+  <title>Patthāranaya</title>
+  <hangnum nr="129"/>
+  <gatha type="1"> Patthāre  sabbage pāde, pubbagā’dho lpa’re samā;</gatha>
+  <gatha type="last">Pubbe garu te ca mime, kattabbā yāva sabbalā.</gatha>
+  <title>Naṭṭhanaya</title>
+  <hangnum nr="130"/>
+  <gatha type="1"> Naṭṭhassa yo bhaveyya’ṅko, tasmiṃ lo’ddhikate same;</gatha>
+  <gatha type="last">Visame tve’kasahite, bhaveyya’ddhikate garu.</gatha>
+  <title>Uddiṭṭhanaya</title>
+  <hangnum nr="131"/>
+  <gatha type="1"> Ekā’dinukkamena’ṅke, pubbādho dviguṇe likhe;</gatha>
+  <gatha type="last">Missakehi lahuṭṭhehi, se’kehu’ddiṭṭhakaṃ bhave.</gatha>
+  <title>Sabbagalakriyanaya</title>
+  <hangnum nr="132"/>
+  <gatha type="1"> Vutta’kkhara samā saṅkhyā, likkhya seko’parū’pari;</gatha>
+  <gatha type="last">Ekekahīna mekādi, nu’ṭṭhāne sabbagādikaṃ.</gatha>
+  <title>Vuttasaṅkhyānaya</title>
+  <hangnum nr="133"/>
+  <gatha type="1"> Garukriyā’ṅka sandohe, bhave saṅkhyā vimissite;</gatha>
+  <gatha type="last">Uddiṭṭha’ṅka samāhāro, se’ko ve’maṃ samā’naye.</gatha>
+  <title>Vuttaaddhānaya</title>
+  <hangnum nr="134"/>
+  <gatha type="1"> Saṅkhyeva dviguṇe’kūnā, vitthārā’yāmasambhavā;</gatha>
+  <gatha type="last">Vuttassa’ddha’ntarānañca, garulānañca aṅgulaṃ.</gatha>
+  <centered>Iti vuttodaye chandasi chappaccayavibhāgo nāma</centered>
+  <centered>Chaṭṭho paricchedo.</centered>
+  <title>Nigamana</title>
+  <hangnum nr="135"/>
+  <gatha type="1"> Sela’ntarā’yatana  vāsika sīla’tthera,</gatha>
+  <gatha type="2">Pādo garu gguṇagaru jjayataṃ mame’so;</gatha>
+  <gatha type="3">Yassa ppabhāva’mavalamba maye’disopi,</gatha>
+  <gatha type="last">Sampādito’bhimata siddhikaro parattho.</gatha>
+  <hangnum nr="136"/>
+  <gatha type="1"> Parattha sampādanato, puññenā’dhigatena’haṃ;</gatha>
+  <gatha type="last">Parattha sampādanako, bhaveyyaṃ jāti jātiyaṃ.</gatha>
+  <hangnum nr="137"/>
+  <gatha type="1"> Avalokita mattena, yathā chappaccayā mayā;</gatha>
+  <gatha type="last">Sādhitā sādhayante’va, micchitatthampi pāṇinoti.</gatha>
+  <centered>Iti saṅgharakkhitamahāsāmittherena viracitaṃ</centered>
+  <centered>Vuttodayappakaraṇaṃ pariniṭṭhitaṃ.</centered>
 </text>
-</TEI.2>

@@ -1,111 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">4. Pupphavaggo</p>
-
-<p rend="hangnum" n="44"><hi rend="paranum">44</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ko <pb ed="V" n="0.0019" /><pb ed="P" n="0.0007" /><pb ed="T" n="0.0021" /> imaṃ <note>komaṃ (ka.)</note> pathaviṃ vicessati <note>vijessati (sī. syā. pī.)</note>, yamalokañca imaṃ sadevakaṃ;</p>
-
-<p rend="gathalast">Ko dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati <note>pupphamivappacessati (ka.)</note>.</p>
-
-<p rend="hangnum" n="45"><hi rend="paranum">45</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sekho pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ;</p>
-
-<p rend="gathalast">Sekho dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.</p>
-
-<p rend="hangnum" n="46"><hi rend="paranum">46</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pheṇūpamaṃ <pb ed="M" n="0.0020" /> kāyamimaṃ viditvā, marīcidhammaṃ abhisambudhāno;</p>
-
-<p rend="gathalast">Chetvāna mārassa papupphakāni <note>sapupphakāni (ṭīkā)</note>, adassanaṃ maccurājassa gacche.</p>
-
-<p rend="hangnum" n="47"><hi rend="paranum">47</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pupphāni heva pacinantaṃ, byāsattamanasaṃ <note>byāsattamānasaṃ (ka.)</note> naraṃ;</p>
-
-<p rend="gathalast">Suttaṃ gāmaṃ mahoghova, maccu ādāya gacchati.</p>
-
-<p rend="hangnum" n="48"><hi rend="paranum">48</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pupphāni heva pacinantaṃ, byāsattamanasaṃ naraṃ;</p>
-
-<p rend="gathalast">Atittaññeva kāmesu, antako kurute vasaṃ.</p>
-
-<p rend="hangnum" n="49"><hi rend="paranum">49</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yathāpi bhamaro pupphaṃ, vaṇṇagandhamaheṭhayaṃ <note>vaṇṇagandhamapoṭhayaṃ (ka.)</note>;</p>
-
-<p rend="gathalast">Paleti rasamādāya, evaṃ gāme munī care.</p>
-
-<p rend="hangnum" n="50"><hi rend="paranum">50</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na paresaṃ vilomāni, na paresaṃ katākataṃ;</p>
-
-<p rend="gathalast">Attanova avekkheyya, katāni akatāni ca.</p>
-
-<p rend="hangnum" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yathāpi <pb ed="P" n="0.0008" /><pb ed="T" n="0.0022" /> ruciraṃ pupphaṃ, vaṇṇavantaṃ agandhakaṃ;</p>
-
-<p rend="gathalast">Evaṃ subhāsitā vācā, aphalā hoti akubbato.</p>
-
-<p rend="hangnum" n="52"><hi rend="paranum">52</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yathāpi <pb ed="V" n="0.0020" /> ruciraṃ pupphaṃ, vaṇṇavantaṃ sugandhakaṃ <note>sagandhakaṃ (sī. syā. kaṃ. pī.)</note>;</p>
-
-<p rend="gathalast">Evaṃ subhāsitā vācā, saphalā hoti kubbato <note>sakubbato (sī. pī.), pakubbato (sī. aṭṭha.), sukubbato (syā. kaṃ.)</note>.</p>
-
-<p rend="hangnum" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yathāpi <pb ed="M" n="0.0021" /> puppharāsimhā, kayirā mālāguṇe bahū;</p>
-
-<p rend="gathalast">Evaṃ jātena maccena, kattabbaṃ kusalaṃ bahuṃ.</p>
-
-<p rend="hangnum" n="54"><hi rend="paranum">54</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na pupphagandho paṭivātameti, na candanaṃ tagaramallikā <note>tagaramallikā (sī. syā. kaṃ. pī.)</note>;</p>
-
-<p rend="gathalast">Satañca gandho paṭivātameti, sabbā disā sappuriso pavāyati.</p>
-
-<p rend="hangnum" n="55"><hi rend="paranum">55</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Candanaṃ tagaraṃ vāpi, uppalaṃ atha vassikī;</p>
-
-<p rend="gathalast">Etesaṃ gandhajātānaṃ, sīlagandho anuttaro.</p>
-
-<p rend="hangnum" n="56"><hi rend="paranum">56</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Appamatto ayaṃ gandho, yvāyaṃ tagaracandanaṃ <note>yāyaṃ tagaracandanī (sī. syā. kaṃ. pī.)</note>;</p>
-
-<p rend="gathalast">Yo ca sīlavataṃ gandho, vāti devesu uttamo.</p>
-
-<p rend="hangnum" n="57"><hi rend="paranum">57</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tesaṃ sampannasīlānaṃ, appamādavihārinaṃ;</p>
-
-<p rend="gathalast">Sammadaññā vimuttānaṃ, māro maggaṃ na vindati.</p>
-
-<p rend="hangnum" n="58"><hi rend="paranum">58</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yathā saṅkāraṭhānasmiṃ <note>saṅkāradhānasmiṃ (sī. syā. kaṃ. pī.)</note>, ujjhitasmiṃ mahāpathe;</p>
-
-<p rend="gathalast">Padumaṃ tattha jāyetha, sucigandhaṃ manoramaṃ.</p>
-
-<p rend="hangnum" n="59"><hi rend="paranum">59</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evaṃ <pb ed="P" n="0.0009" /> saṅkārabhūtesu, andhabhūte <note>andhībhūte (ka.)</note> puthujjane;</p>
-
-<p rend="gathalast">Atirocati paññāya, sammāsambuddhasāvako.</p>
-
-<p rend="centre">Pupphavaggo catuttho niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>4. Pupphavaggo</chapter>
+  <hangnum nr="44"/>
+  <gatha type="1"> Ko  imaṃ <note>[komaṃ (ka.)]</note> pathaviṃ vicessati <note>[vijessati (sī. syā. pī.)]</note>, yamalokañca imaṃ sadevakaṃ;</gatha>
+  <gatha type="last">Ko dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati <note>[pupphamivappacessati (ka.)]</note>.</gatha>
+  <hangnum nr="45"/>
+  <gatha type="1"> Sekho pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ;</gatha>
+  <gatha type="last">Sekho dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.</gatha>
+  <hangnum nr="46"/>
+  <gatha type="1"> Pheṇūpamaṃ  kāyamimaṃ viditvā, marīcidhammaṃ abhisambudhāno;</gatha>
+  <gatha type="last">Chetvāna mārassa papupphakāni <note>[sapupphakāni (ṭīkā)]</note>, adassanaṃ maccurājassa gacche.</gatha>
+  <hangnum nr="47"/>
+  <gatha type="1"> Pupphāni heva pacinantaṃ, byāsattamanasaṃ <note>[byāsattamānasaṃ (ka.)]</note> naraṃ;</gatha>
+  <gatha type="last">Suttaṃ gāmaṃ mahoghova, maccu ādāya gacchati.</gatha>
+  <hangnum nr="48"/>
+  <gatha type="1"> Pupphāni heva pacinantaṃ, byāsattamanasaṃ naraṃ;</gatha>
+  <gatha type="last">Atittaññeva kāmesu, antako kurute vasaṃ.</gatha>
+  <hangnum nr="49"/>
+  <gatha type="1"> Yathāpi bhamaro pupphaṃ, vaṇṇagandhamaheṭhayaṃ <note>[vaṇṇagandhamapoṭhayaṃ (ka.)]</note>;</gatha>
+  <gatha type="last">Paleti rasamādāya, evaṃ gāme munī care.</gatha>
+  <hangnum nr="50"/>
+  <gatha type="1"> Na paresaṃ vilomāni, na paresaṃ katākataṃ;</gatha>
+  <gatha type="last">Attanova avekkheyya, katāni akatāni ca.</gatha>
+  <hangnum nr="51"/>
+  <gatha type="1"> Yathāpi  ruciraṃ pupphaṃ, vaṇṇavantaṃ agandhakaṃ;</gatha>
+  <gatha type="last">Evaṃ subhāsitā vācā, aphalā hoti akubbato.</gatha>
+  <hangnum nr="52"/>
+  <gatha type="1"> Yathāpi  ruciraṃ pupphaṃ, vaṇṇavantaṃ sugandhakaṃ <note>[sagandhakaṃ (sī. syā. kaṃ. pī.)]</note>;</gatha>
+  <gatha type="last">Evaṃ subhāsitā vācā, saphalā hoti kubbato <note>[sakubbato (sī. pī.), pakubbato (sī. aṭṭha.), sukubbato (syā. kaṃ.)]</note>.</gatha>
+  <hangnum nr="53"/>
+  <gatha type="1"> Yathāpi  puppharāsimhā, kayirā mālāguṇe bahū;</gatha>
+  <gatha type="last">Evaṃ jātena maccena, kattabbaṃ kusalaṃ bahuṃ.</gatha>
+  <hangnum nr="54"/>
+  <gatha type="1"> Na pupphagandho paṭivātameti, na candanaṃ tagaramallikā <note>[tagaramallikā (sī. syā. kaṃ. pī.)]</note>;</gatha>
+  <gatha type="last">Satañca gandho paṭivātameti, sabbā disā sappuriso pavāyati.</gatha>
+  <hangnum nr="55"/>
+  <gatha type="1"> Candanaṃ tagaraṃ vāpi, uppalaṃ atha vassikī;</gatha>
+  <gatha type="last">Etesaṃ gandhajātānaṃ, sīlagandho anuttaro.</gatha>
+  <hangnum nr="56"/>
+  <gatha type="1"> Appamatto ayaṃ gandho, yvāyaṃ tagaracandanaṃ <note>[yāyaṃ tagaracandanī (sī. syā. kaṃ. pī.)]</note>;</gatha>
+  <gatha type="last">Yo ca sīlavataṃ gandho, vāti devesu uttamo.</gatha>
+  <hangnum nr="57"/>
+  <gatha type="1"> Tesaṃ sampannasīlānaṃ, appamādavihārinaṃ;</gatha>
+  <gatha type="last">Sammadaññā vimuttānaṃ, māro maggaṃ na vindati.</gatha>
+  <hangnum nr="58"/>
+  <gatha type="1"> Yathā saṅkāraṭhānasmiṃ <note>[saṅkāradhānasmiṃ (sī. syā. kaṃ. pī.)]</note>, ujjhitasmiṃ mahāpathe;</gatha>
+  <gatha type="last">Padumaṃ tattha jāyetha, sucigandhaṃ manoramaṃ.</gatha>
+  <hangnum nr="59"/>
+  <gatha type="1"> Evaṃ  saṅkārabhūtesu, andhabhūte <note>[andhībhūte (ka.)]</note> puthujjane;</gatha>
+  <gatha type="last">Atirocati paññāya, sammāsambuddhasāvako.</gatha>
+  <centered>Pupphavaggo catuttho niṭṭhito.</centered>
 </text>
-</TEI.2>

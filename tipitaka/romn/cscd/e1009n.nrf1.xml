@@ -1,69 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="book">Naradakkhadīpanī</p>
-
-<p rend="gatha1">Pālito <pb ed="M" n="0.0008" /> yeva saddhammo,</p>
-
-<p rend="gatha2">Pālitena varena ca;</p>
-
-<p rend="gatha3">Pālite suṭṭhu yaṃ sīlaṃ,</p>
-
-<p rend="gathalast">Pālitaṃ dhamma-sundaraṃ.</p>
-
-<p rend="gatha1">Sammā <pb ed="M" n="0.0010" /> āraddhaṃ sabba-sampattīnaṃ,</p>
-
-<p rend="gathalast">Mūlaṃ hotīti daṭṭhabbaṃ.</p>
-
-<p rend="gatha1">Vīriyārabbho <pb ed="M" n="0.0011" /> bhikkhave,</p>
-
-<p rend="gathalast">Mahato atthāya saṃvattatīti.</p>
-
-<p rend="gatha1">Tasmā <pb ed="M" n="0.0012" /> vīriyameva kattabbaṃ,</p>
-
-<p rend="gathalast">Vīriyavato hi acintitaṃpi hoti.</p>
-
-<p rend="gatha1">Yathā <pb ed="M" n="0.0021" /> hi tacchakānaṃ suttaṃ,</p>
-
-<p rend="gatha2">Pamāṇaṃ hoti;</p>
-
-<p rend="gathalast">Eva metampi viññūnaṃ.</p>
-
-<p rend="gatha1">Suvijāno <pb ed="M" n="0.0024" /> bhavaṃ hoti,</p>
-
-<p rend="gatha2">Dubbijāno parābhavo;</p>
-
-<p rend="gatha3">Dhammakāmo bhavaṃ hoti,</p>
-
-<p rend="gathalast">Dhammadessī parābhavo.</p>
-
-<p rend="gatha1">Ayaṃ <pb ed="M" n="0.0026" /> dhammatāti ayaṃ sabhāvo,</p>
-
-<p rend="gathalast">Ayaṃ niyāmoti vuttaṃ hoti.</p>
-
-<p rend="gatha1">Ye <pb ed="M" n="0.0028" /> dhammā hetupabhavā,</p>
-
-<p rend="gathalast">Tesaṃ hetuṃ tathāgato.</p>
-
-<p rend="gatha1">Ratanattayaṃ <pb ed="M" n="0.0035" />, santataṃ, ahaṃ vandāmi;</p>
-
-<p rend="gatha2">Ācariyaṃ, so ahaṃ, niccaṃ namāmi;</p>
-
-<p rend="gathalast">‘‘Hotu sabbaṃ, maṅgalaṃ, mamaṃ sabbadhi’’.</p>
-
-<p rend="title">Naradakkhadīpanī</p>
-
-<p rend="centre">Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="chapter">Paṇāma</p>
-</body>
-<back></back>
+  <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <book>Naradakkhadīpanī</book>
+  <gatha type="1">Pālito  yeva saddhammo,</gatha>
+  <gatha type="2">Pālitena varena ca;</gatha>
+  <gatha type="3">Pālite suṭṭhu yaṃ sīlaṃ,</gatha>
+  <gatha type="last">Pālitaṃ dhamma-sundaraṃ.</gatha>
+  <gatha type="1">Sammā  āraddhaṃ sabba-sampattīnaṃ,</gatha>
+  <gatha type="last">Mūlaṃ hotīti daṭṭhabbaṃ.</gatha>
+  <gatha type="1">Vīriyārabbho  bhikkhave,</gatha>
+  <gatha type="last">Mahato atthāya saṃvattatīti.</gatha>
+  <gatha type="1">Tasmā  vīriyameva kattabbaṃ,</gatha>
+  <gatha type="last">Vīriyavato hi acintitaṃpi hoti.</gatha>
+  <gatha type="1">Yathā  hi tacchakānaṃ suttaṃ,</gatha>
+  <gatha type="2">Pamāṇaṃ hoti;</gatha>
+  <gatha type="last">Eva metampi viññūnaṃ.</gatha>
+  <gatha type="1">Suvijāno  bhavaṃ hoti,</gatha>
+  <gatha type="2">Dubbijāno parābhavo;</gatha>
+  <gatha type="3">Dhammakāmo bhavaṃ hoti,</gatha>
+  <gatha type="last">Dhammadessī parābhavo.</gatha>
+  <gatha type="1">Ayaṃ  dhammatāti ayaṃ sabhāvo,</gatha>
+  <gatha type="last">Ayaṃ niyāmoti vuttaṃ hoti.</gatha>
+  <gatha type="1">Ye  dhammā hetupabhavā,</gatha>
+  <gatha type="last">Tesaṃ hetuṃ tathāgato.</gatha>
+  <gatha type="1">Ratanattayaṃ , santataṃ, ahaṃ vandāmi;</gatha>
+  <gatha type="2">Ācariyaṃ, so ahaṃ, niccaṃ namāmi;</gatha>
+  <gatha type="last">‘‘Hotu sabbaṃ, maṅgalaṃ, mamaṃ sabbadhi’’.</gatha>
+  <title>Naradakkhadīpanī</title>
+  <centered>Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <chapter>Paṇāma</chapter>
 </text>
-</TEI.2>

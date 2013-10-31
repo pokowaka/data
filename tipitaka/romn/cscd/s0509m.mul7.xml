@@ -1,69 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">8. Aṭṭhakanipāto</p>
-
-<p rend="subhead">1. Sīsūpacālātherīgāthā</p>
-
-<p rend="hangnum" n="196"><hi rend="paranum">196</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Bhikkhunī <pb ed="T" n="0.0468" /><pb ed="M" n="0.0401" /><pb ed="V" n="0.0327" /> sīlasampannā, indriyesu susaṃvutā;</p>
-
-<p rend="gatha2">Adhigacche padaṃ santaṃ, asecanakamojavaṃ’’.</p>
-
-<p rend="hangnum" n="197"><hi rend="paranum">197</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Tāvatiṃsā ca yāmā ca, tusitā cāpi devatā;</p>
-
-<p rend="gatha2">Nimmānaratino devā, ye devā vasavattino;</p>
-
-<p rend="gathalast">Tattha cittaṃ paṇīdhehi, yattha te vusitaṃ pure’’.</p>
-
-<p rend="hangnum" n="198"><hi rend="paranum">198</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Tāvatiṃsā ca yāmā ca, tusitā cāpi devatā;</p>
-
-<p rend="gatha2">Nimmānaratino devā, ye devā vasavattino.</p>
-
-<p rend="hangnum" n="199"><hi rend="paranum">199</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Kālaṃ kālaṃ bhavābhavaṃ, sakkāyasmiṃ purakkhatā;</p>
-
-<p rend="gatha2">Avītivattā sakkāyaṃ, jātimaraṇasārino.</p>
-
-<p rend="hangnum" n="200"><hi rend="paranum">200</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Sabbo ādīpito loko, sabbo loko padīpito;</p>
-
-<p rend="gatha2">Sabbo pajjalito loko, sabbo loko pakampito.</p>
-
-<p rend="hangnum" n="201"><hi rend="paranum">201</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Akampiyaṃ atuliyaṃ, aputhujjanasevitaṃ;</p>
-
-<p rend="gatha2">Buddho dhammamadesesi, tattha me nirato mano.</p>
-
-<p rend="hangnum" n="202"><hi rend="paranum">202</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Tassāhaṃ vacanaṃ sutvā, vihariṃ sāsane ratā;</p>
-
-<p rend="gathalast">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</p>
-
-<p rend="hangnum" n="203"><hi rend="paranum">203</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Sabbattha vihatā nandī, tamokhandho padālito;</p>
-
-<p rend="gathalast">Evaṃ jānāhi pāpima, nihato tvamasi antaka’’.</p>
-
-<p rend="centre">… Sīsūpacālā therī….</p>
-
-<p rend="centre">Aṭṭhakanipāto niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>8. Aṭṭhakanipāto</chapter>
+  <subhead>1. Sīsūpacālātherīgāthā</subhead>
+  <hangnum nr="196"/>
+  <gatha type="1"> ‘‘Bhikkhunī  sīlasampannā, indriyesu susaṃvutā;</gatha>
+  <gatha type="2">Adhigacche padaṃ santaṃ, asecanakamojavaṃ’’.</gatha>
+  <hangnum nr="197"/>
+  <gatha type="1"> ‘‘Tāvatiṃsā ca yāmā ca, tusitā cāpi devatā;</gatha>
+  <gatha type="2">Nimmānaratino devā, ye devā vasavattino;</gatha>
+  <gatha type="last">Tattha cittaṃ paṇīdhehi, yattha te vusitaṃ pure’’.</gatha>
+  <hangnum nr="198"/>
+  <gatha type="1"> ‘‘Tāvatiṃsā ca yāmā ca, tusitā cāpi devatā;</gatha>
+  <gatha type="2">Nimmānaratino devā, ye devā vasavattino.</gatha>
+  <hangnum nr="199"/>
+  <gatha type="1"> ‘‘Kālaṃ kālaṃ bhavābhavaṃ, sakkāyasmiṃ purakkhatā;</gatha>
+  <gatha type="2">Avītivattā sakkāyaṃ, jātimaraṇasārino.</gatha>
+  <hangnum nr="200"/>
+  <gatha type="1"> ‘‘Sabbo ādīpito loko, sabbo loko padīpito;</gatha>
+  <gatha type="2">Sabbo pajjalito loko, sabbo loko pakampito.</gatha>
+  <hangnum nr="201"/>
+  <gatha type="1"> ‘‘Akampiyaṃ atuliyaṃ, aputhujjanasevitaṃ;</gatha>
+  <gatha type="2">Buddho dhammamadesesi, tattha me nirato mano.</gatha>
+  <hangnum nr="202"/>
+  <gatha type="1"> ‘‘Tassāhaṃ vacanaṃ sutvā, vihariṃ sāsane ratā;</gatha>
+  <gatha type="last">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</gatha>
+  <hangnum nr="203"/>
+  <gatha type="1"> ‘‘Sabbattha vihatā nandī, tamokhandho padālito;</gatha>
+  <gatha type="last">Evaṃ jānāhi pāpima, nihato tvamasi antaka’’.</gatha>
+  <centered>… Sīsūpacālā therī….</centered>
+  <centered>Aṭṭhakanipāto niṭṭhito.</centered>
 </text>
-</TEI.2>

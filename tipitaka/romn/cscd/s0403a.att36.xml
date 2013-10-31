@@ -1,31 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">11. Tikavaggo</p>
-
-<p rend="subhead">1. Rāgasuttavaṇṇanā</p>
-
-<p rend="bodytext" n="107"><hi rend="paranum">107</hi><hi rend="dot">.</hi> Ekādasamassa <pb ed="M" n="3.0142" /> paṭhame <hi rend="bold">asubhā</hi>ti asubhakammaṭṭhānaṃ. <hi rend="bold">Mettā</hi>ti mettākammaṭṭhānaṃ. <hi rend="bold">Paññā</hi>ti sahavipassanā maggapaññā.</p>
-
-<p rend="subhead">6. Assādasuttavaṇṇanā</p>
-
-<p rend="bodytext" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi> Chaṭṭhe <pb ed="V" n="3.0145" /><hi rend="bold">assādadiṭṭhī</hi>ti sassatadiṭṭhi. <hi rend="bold">Attānudiṭṭhī</hi>ti attānaṃ anugatā vīsativatthukā sakkāyadiṭṭhi. <hi rend="bold">Micchādiṭṭhī</hi>ti dvāsaṭṭhividhāpi diṭṭhi. <hi rend="bold">Sammādiṭṭhī</hi>ti maggasammādiṭṭhi, natthi dinnantiādikā vā micchādiṭṭhi, kammassakatañāṇaṃ sammādiṭṭhi.</p>
-
-<p rend="subhead">7. Aratisuttavaṇṇanā</p>
-
-<p rend="bodytext" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi> Sattame <hi rend="bold">adhammacariyā</hi>ti dasa akusalakammapathā.</p>
-
-<p rend="subhead">10. Uddhaccasuttavaṇṇanā</p>
-
-<p rend="bodytext" n="116"><hi rend="paranum">116</hi><hi rend="dot">.</hi> Dasame <hi rend="bold">asaṃvaro</hi>ti anadhivāsakabhāvo. Sesaṃ sabbattha uttānamevāti.</p>
-
-<p rend="centre">Tikavaggo ekādasamo.</p>
-</body>
-<back></back>
+  <chapter>11. Tikavaggo</chapter>
+  <subhead>1. Rāgasuttavaṇṇanā</subhead>
+  <paragraph nr="107"> Ekādasamassa  paṭhame asubhāti asubhakammaṭṭhānaṃ. Mettāti mettākammaṭṭhānaṃ. Paññāti sahavipassanā maggapaññā.</paragraph>
+  <subhead>6. Assādasuttavaṇṇanā</subhead>
+  <paragraph nr="112"> Chaṭṭhe assādadiṭṭhīti sassatadiṭṭhi. Attānudiṭṭhīti attānaṃ anugatā vīsativatthukā sakkāyadiṭṭhi. Micchādiṭṭhīti dvāsaṭṭhividhāpi diṭṭhi. Sammādiṭṭhīti maggasammādiṭṭhi, natthi dinnantiādikā vā micchādiṭṭhi, kammassakatañāṇaṃ sammādiṭṭhi.</paragraph>
+  <subhead>7. Aratisuttavaṇṇanā</subhead>
+  <paragraph nr="113"> Sattame adhammacariyāti dasa akusalakammapathā.</paragraph>
+  <subhead>10. Uddhaccasuttavaṇṇanā</subhead>
+  <paragraph nr="116"> Dasame asaṃvaroti anadhivāsakabhāvo. Sesaṃ sabbattha uttānamevāti.</paragraph>
+  <centered>Tikavaggo ekādasamo.</centered>
 </text>
-</TEI.2>

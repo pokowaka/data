@@ -1,21 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Naradakkhadīpakassa,</p>
-
-<p rend="gatha1">Namo samantacakkhuno;</p>
-
-<p rend="gatha2">Saṃsārā vippamuttassa,</p>
-
-<p rend="gatha3">Saṃsārā vippamuttassa,</p>
-
-<p rend="gathalast">Sa-saddhammassa saṅghino.</p>
-</body>
-<back></back>
+  <chapter>Naradakkhadīpakassa,</chapter>
+  <gatha type="1">Namo samantacakkhuno;</gatha>
+  <gatha type="2">Saṃsārā vippamuttassa,</gatha>
+  <gatha type="3">Saṃsārā vippamuttassa,</gatha>
+  <gatha type="last">Sa-saddhammassa saṅghino.</gatha>
 </text>
-</TEI.2>

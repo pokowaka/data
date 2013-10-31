@@ -1,27 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Rudhādayo</p>
-
-<p rend="hangnum" n="101"><hi rend="paranum">101</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Rudhi āvaraṇe muca mocane rica recane,</p>
-
-<p rend="gathalast">Sica seke yuja yoge bhuja pālanabhojane;</p>
-
-<p rend="hangnum" n="102"><hi rend="paranum">102</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Katicchede chidi dvedhākaraṇe bhida vidāraṇe</p>
-
-<p rend="gatha2">Vida lābhe lupacchede vināse lipalimpane</p>
-
-<p rend="gathalast">Pisa saṃcuṇṇane hisi vihiṃsāyaṃ (rudhādayo;)</p>
-</body>
-<back></back>
+  <chapter>Rudhādayo</chapter>
+  <hangnum nr="101"/>
+  <gatha type="1"> Rudhi āvaraṇe muca mocane rica recane,</gatha>
+  <gatha type="last">Sica seke yuja yoge bhuja pālanabhojane;</gatha>
+  <hangnum nr="102"/>
+  <gatha type="1"> Katicchede chidi dvedhākaraṇe bhida vidāraṇe</gatha>
+  <gatha type="2">Vida lābhe lupacchede vināse lipalimpane</gatha>
+  <gatha type="last">Pisa saṃcuṇṇane hisi vihiṃsāyaṃ (rudhādayo;)</gatha>
 </text>
-</TEI.2>

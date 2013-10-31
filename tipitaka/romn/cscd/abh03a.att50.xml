@@ -1,29 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Paṭṭhānappakaraṇa-aṭṭhakathā</p>
-
-<p rend="gatha1">Devātidevo <pb ed="M" n="0.0341" /><pb ed="V" n="0.0340" /> devānaṃ, devadānavapūjito,</p>
-
-<p rend="gathalast">Desayitvā pakaraṇaṃ, yamakaṃ suddhasaṃyamo.</p>
-
-<p rend="gatha1">Atthato dhammato ceva, gambhīrassātha tassa yaṃ,</p>
-
-<p rend="gathalast">Anantaraṃ mahāvīro, sattamaṃ isisattamo.</p>
-
-<p rend="gatha1">Paṭṭhānaṃ nāma nāmena, nāmarūpanirodhano,</p>
-
-<p rend="gathalast">Desesi atigambhīra-nayamaṇḍitadesanaṃ.</p>
-
-<p rend="gatha1">Idāni <pb ed="V" n="0.0341" /> tassa sampatto, yasmā saṃvaṇṇanākkamo,</p>
-
-<p rend="gathalast">Tasmā naṃ vaṇṇayissāmi, taṃ suṇātha samāhitāti.</p>
-</body>
-<back></back>
+  <chapter>Paṭṭhānappakaraṇa-aṭṭhakathā</chapter>
+  <gatha type="1">Devātidevo  devānaṃ, devadānavapūjito,</gatha>
+  <gatha type="last">Desayitvā pakaraṇaṃ, yamakaṃ suddhasaṃyamo.</gatha>
+  <gatha type="1">Atthato dhammato ceva, gambhīrassātha tassa yaṃ,</gatha>
+  <gatha type="last">Anantaraṃ mahāvīro, sattamaṃ isisattamo.</gatha>
+  <gatha type="1">Paṭṭhānaṃ nāma nāmena, nāmarūpanirodhano,</gatha>
+  <gatha type="last">Desesi atigambhīra-nayamaṇḍitadesanaṃ.</gatha>
+  <gatha type="1">Idāni  tassa sampatto, yasmā saṃvaṇṇanākkamo,</gatha>
+  <gatha type="last">Tasmā naṃ vaṇṇayissāmi, taṃ suṇātha samāhitāti.</gatha>
 </text>
-</TEI.2>

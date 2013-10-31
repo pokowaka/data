@@ -1,125 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">4. Bāladujjanakaṇḍo</p>
-
-<p rend="hangnum" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Atippiyo na kātabbo,</p>
-
-<p rend="gatha2">Khalo kotūhalaṃ karo;</p>
-
-<p rend="gatha3">Sirasā vahyamānopi,</p>
-
-<p rend="gathalast">Aḍḍhapūro ghaṭo yathā.</p>
-
-<p rend="hangnum" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sappo duṭṭho khalo duṭṭho,</p>
-
-<p rend="gatha2">Sappo duṭṭhataro khalo;</p>
-
-<p rend="gatha3">Mantosadhehi so sappo,</p>
-
-<p rend="gathalast">Khalo kenupasammati.</p>
-
-<p rend="hangnum" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yo bālo maññati bālyaṃ,</p>
-
-<p rend="gatha2">Paṇḍito vāpi tena so;</p>
-
-<p rend="gatha3">Bālova paṇḍitamānī,</p>
-
-<p rend="gathalast">So ve bāloti vuccati.</p>
-
-<p rend="hangnum" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Madhuṃva maññatī bālo,</p>
-
-<p rend="gatha2">Yāva pāpaṃ na paccati;</p>
-
-<p rend="gatha3">Yadāca <pb ed="M" n="0.0016" /> paccatī pāpaṃ,</p>
-
-<p rend="gathalast">Atha dukkhaṃ nigacchati.</p>
-
-<p rend="hangnum" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na sādhu balavā bālo,</p>
-
-<p rend="gatha2">Sahasā vindate dhanaṃ;</p>
-
-<p rend="gatha3">Kāyassa bhedā duppañño,</p>
-
-<p rend="gathalast">Nirayaṃ sopapajjati.</p>
-
-<p rend="hangnum" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ghare duṭṭho ca mūsīko ca,</p>
-
-<p rend="gatha2">Vane duṭṭho ca vānaro;</p>
-
-<p rend="gatha3">Sakuṇe ca duṭṭho kāko,</p>
-
-<p rend="gathalast">Nare duṭṭhoca brāhmaṇo.</p>
-
-<p rend="hangnum" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dīghā jāgarato ratti,</p>
-
-<p rend="gatha2">Dīghaṃ santassa yojanaṃ;</p>
-
-<p rend="gatha3">Dīgho bālāna saṃsāro,</p>
-
-<p rend="gathalast">Saddhammaṃ a-vijānataṃ.</p>
-
-<p rend="hangnum" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tila mattaṃ paresaṃva,</p>
-
-<p rend="gatha2">Appa dosañca passati;</p>
-
-<p rend="gatha3">Nāḷikerampi sadosaṃ,</p>
-
-<p rend="gathalast">Khala-jāto na passati.</p>
-
-<p rend="hangnum" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nattadosaṃ pare jaññā,</p>
-
-<p rend="gatha2">Jaññā dosaṃ parassatu;</p>
-
-<p rend="gatha3">Guyhe <pb ed="M" n="0.0017" /> kummo aṅgāni,</p>
-
-<p rend="gathalast">Para dosañca lakkhaye.</p>
-
-<p rend="hangnum" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Paṇḍitassa pasaṃsāya,</p>
-
-<p rend="gatha2">Daṇḍo bālena dīyate;</p>
-
-<p rend="gatha3">Paṇḍito paṇḍiteneva,</p>
-
-<p rend="gathalast">Vaṇṇitova suvaṇṇito.</p>
-
-<p rend="hangnum" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Luddhaṃ atthena gaṇheyya,</p>
-
-<p rend="gatha2">Thaddhaṃ añjali kammunā;</p>
-
-<p rend="gatha3">Chandānuvattiyā mūḷhaṃ,</p>
-
-<p rend="gathalast">Yathābhūtena paṇḍitaṃ.</p>
-
-<p rend="centre">Bāladujjanakaṇḍo niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>4. Bāladujjanakaṇḍo</chapter>
+  <hangnum nr="68"/>
+  <gatha type="1"> Atippiyo na kātabbo,</gatha>
+  <gatha type="2">Khalo kotūhalaṃ karo;</gatha>
+  <gatha type="3">Sirasā vahyamānopi,</gatha>
+  <gatha type="last">Aḍḍhapūro ghaṭo yathā.</gatha>
+  <hangnum nr="69"/>
+  <gatha type="1"> Sappo duṭṭho khalo duṭṭho,</gatha>
+  <gatha type="2">Sappo duṭṭhataro khalo;</gatha>
+  <gatha type="3">Mantosadhehi so sappo,</gatha>
+  <gatha type="last">Khalo kenupasammati.</gatha>
+  <hangnum nr="70"/>
+  <gatha type="1"> Yo bālo maññati bālyaṃ,</gatha>
+  <gatha type="2">Paṇḍito vāpi tena so;</gatha>
+  <gatha type="3">Bālova paṇḍitamānī,</gatha>
+  <gatha type="last">So ve bāloti vuccati.</gatha>
+  <hangnum nr="71"/>
+  <gatha type="1"> Madhuṃva maññatī bālo,</gatha>
+  <gatha type="2">Yāva pāpaṃ na paccati;</gatha>
+  <gatha type="3">Yadāca  paccatī pāpaṃ,</gatha>
+  <gatha type="last">Atha dukkhaṃ nigacchati.</gatha>
+  <hangnum nr="72"/>
+  <gatha type="1"> Na sādhu balavā bālo,</gatha>
+  <gatha type="2">Sahasā vindate dhanaṃ;</gatha>
+  <gatha type="3">Kāyassa bhedā duppañño,</gatha>
+  <gatha type="last">Nirayaṃ sopapajjati.</gatha>
+  <hangnum nr="73"/>
+  <gatha type="1"> Ghare duṭṭho ca mūsīko ca,</gatha>
+  <gatha type="2">Vane duṭṭho ca vānaro;</gatha>
+  <gatha type="3">Sakuṇe ca duṭṭho kāko,</gatha>
+  <gatha type="last">Nare duṭṭhoca brāhmaṇo.</gatha>
+  <hangnum nr="74"/>
+  <gatha type="1"> Dīghā jāgarato ratti,</gatha>
+  <gatha type="2">Dīghaṃ santassa yojanaṃ;</gatha>
+  <gatha type="3">Dīgho bālāna saṃsāro,</gatha>
+  <gatha type="last">Saddhammaṃ a-vijānataṃ.</gatha>
+  <hangnum nr="75"/>
+  <gatha type="1"> Tila mattaṃ paresaṃva,</gatha>
+  <gatha type="2">Appa dosañca passati;</gatha>
+  <gatha type="3">Nāḷikerampi sadosaṃ,</gatha>
+  <gatha type="last">Khala-jāto na passati.</gatha>
+  <hangnum nr="76"/>
+  <gatha type="1"> Nattadosaṃ pare jaññā,</gatha>
+  <gatha type="2">Jaññā dosaṃ parassatu;</gatha>
+  <gatha type="3">Guyhe  kummo aṅgāni,</gatha>
+  <gatha type="last">Para dosañca lakkhaye.</gatha>
+  <hangnum nr="77"/>
+  <gatha type="1"> Paṇḍitassa pasaṃsāya,</gatha>
+  <gatha type="2">Daṇḍo bālena dīyate;</gatha>
+  <gatha type="3">Paṇḍito paṇḍiteneva,</gatha>
+  <gatha type="last">Vaṇṇitova suvaṇṇito.</gatha>
+  <hangnum nr="78"/>
+  <gatha type="1"> Luddhaṃ atthena gaṇheyya,</gatha>
+  <gatha type="2">Thaddhaṃ añjali kammunā;</gatha>
+  <gatha type="3">Chandānuvattiyā mūḷhaṃ,</gatha>
+  <gatha type="last">Yathābhūtena paṇḍitaṃ.</gatha>
+  <centered>Bāladujjanakaṇḍo niṭṭhito.</centered>
 </text>
-</TEI.2>

@@ -1,29 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">13-18. Anulomapaccanīyapaṭṭhānavaṇṇanā</p>
-
-<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Idāni kusalādīsu dhammesu paccayadhammaṃ appaṭikkhipitvā paccayuppannassa kusalādibhāvapaṭikkhepavasena dhammānaṃ anulomapaccanīyatāya laddhanāmaṃ <hi rend="bold">anulomapaccanīyapaṭṭhānaṃ</hi> dassetuṃ <hi rend="bold">kusalaṃ dhammaṃ paṭicca na kusalo dhammo uppajjati hetupaccayā</hi>tiādi āraddhaṃ. Tattha <hi rend="bold">kusalaṃ dhammaṃ paṭiccā</hi>ti kusalassa paccayabhāvaṃ anujānāti. <hi rend="bold">Na kusalo dhammo uppajjatī</hi>ti kusalasseva uppattiṃ vāreti. Tasmā ‘‘kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpa’’ntiādinā nayena vissajjanaṃ dassitaṃ, taṃ sabbaṃ pāḷiṃ oloketvā sādhukaṃ sallakkhetabbaṃ. Yampi yena sadisaṃ, yañca yattha labbhati, yo ca yesaṃ vissajjanānaṃ yesu paccayesu gaṇanaparicchedo, so sabbo pāḷiyaṃ dassito, tasmā pāḷiyeva ettha attho. Yathā cettha, evaṃ dukapaṭṭhānādīsupīti.</p>
-
-<p rend="bodytext">Ettāvatā –</p>
-
-<p rend="gatha1">Tikañca <pb ed="V" n="0.0490" /> paṭṭhānavaraṃ dukuttamaṃ,</p>
-
-<p rend="gatha2">Dukaṃ tikañceva tikaṃ dukañca;</p>
-
-<p rend="gatha3">Tikaṃ tikañceva dukaṃ dukañca,</p>
-
-<p rend="gathalast">Cha anulomapaccanīyamhi nayā sugambhīrāti. –</p>
-
-<p rend="unindented">Aṭṭhakathāyaṃ vuttagāthāya dīpitā <hi rend="bold">dhammānulomapaccanīyapaṭṭhāne</hi> cha nayā niddiṭṭhā honti. Paccayavasena panettha ekekasmiṃ paṭṭhāne anulomādayo cattāro cattāro nayāti ekena pariyāyena catuvīsatinayapaṭimaṇḍitaṃ anulomapaccanīyapaṭṭhānaññeva veditabbaṃ.</p>
-
-<p rend="centre">Anulomapaccanīyapaṭṭhānavaṇṇanā.</p>
-</body>
-<back></back>
+  <chapter>13-18. Anulomapaccanīyapaṭṭhānavaṇṇanā</chapter>
+  <paragraph nr="1"> Idāni kusalādīsu dhammesu paccayadhammaṃ appaṭikkhipitvā paccayuppannassa kusalādibhāvapaṭikkhepavasena dhammānaṃ anulomapaccanīyatāya laddhanāmaṃ anulomapaccanīyapaṭṭhānaṃ dassetuṃ kusalaṃ dhammaṃ paṭicca na kusalo dhammo uppajjati hetupaccayātiādi āraddhaṃ. Tattha kusalaṃ dhammaṃ paṭiccāti kusalassa paccayabhāvaṃ anujānāti. Na kusalo dhammo uppajjatīti kusalasseva uppattiṃ vāreti. Tasmā ‘‘kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpa’’ntiādinā nayena vissajjanaṃ dassitaṃ, taṃ sabbaṃ pāḷiṃ oloketvā sādhukaṃ sallakkhetabbaṃ. Yampi yena sadisaṃ, yañca yattha labbhati, yo ca yesaṃ vissajjanānaṃ yesu paccayesu gaṇanaparicchedo, so sabbo pāḷiyaṃ dassito, tasmā pāḷiyeva ettha attho. Yathā cettha, evaṃ dukapaṭṭhānādīsupīti.</paragraph>
+  <paragraph>Ettāvatā –</paragraph>
+  <gatha type="1">Tikañca  paṭṭhānavaraṃ dukuttamaṃ,</gatha>
+  <gatha type="2">Dukaṃ tikañceva tikaṃ dukañca;</gatha>
+  <gatha type="3">Tikaṃ tikañceva dukaṃ dukañca,</gatha>
+  <gatha type="last">Cha anulomapaccanīyamhi nayā sugambhīrāti. –</gatha>
+  <paragraph type="unindented">Aṭṭhakathāyaṃ vuttagāthāya dīpitā dhammānulomapaccanīyapaṭṭhāne cha nayā niddiṭṭhā honti. Paccayavasena panettha ekekasmiṃ paṭṭhāne anulomādayo cattāro cattāro nayāti ekena pariyāyena catuvīsatinayapaṭimaṇḍitaṃ anulomapaccanīyapaṭṭhānaññeva veditabbaṃ.</paragraph>
+  <centered>Anulomapaccanīyapaṭṭhānavaṇṇanā.</centered>
 </text>
-</TEI.2>

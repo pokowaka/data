@@ -1,253 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">20. Vīsatimo paricchedo</p>
-
-<p rend="subhead">Maggāmaggañāṇadassanavisuddhiniddeso</p>
-
-<p rend="hangnum" n="1263"><hi rend="paranum">1263</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kalāpasammasaneneva <pb ed="M" n="0.0163" /><pb ed="P" n="0.0120" />,</p>
-
-<p rend="gatha2">Yogo karaṇiyo siyā;</p>
-
-<p rend="gatha3">Maggāmagge tu ñāṇaṃ ta-</p>
-
-<p rend="gathalast">Madhigantuṃ panicchatā.</p>
-
-<p rend="hangnum" n="1264"><hi rend="paranum">1264</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Paccuppannassa dhammassa, nibbatti udayo mato;</p>
-
-<p rend="gathalast">Vayo vipariṇāmoti, tasseva samudīritā.</p>
-
-<p rend="hangnum" n="1265"><hi rend="paranum">1265</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anupassanāpi <pb ed="V" n="0.0158" /> ñāṇanti, varañāṇena desitaṃ;</p>
-
-<p rend="gathalast">So panevaṃ pajānāti, yogāvacaramāṇavo.</p>
-
-<p rend="hangnum" n="1266"><hi rend="paranum">1266</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Imassa nāmarūpassa, pubbe uppattito pana;</p>
-
-<p rend="gathalast">Nicayo rāsi vā natthi, tathā uppajjatopi ca.</p>
-
-<p rend="hangnum" n="1267"><hi rend="paranum">1267</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Rāsito nicayā vāpi, natthi āgamananti ca;</p>
-
-<p rend="gathalast">Tathā nirujjhamānassa, na disāgamananti ca.</p>
-
-<p rend="hangnum" n="1268"><hi rend="paranum">1268</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Niruddhassāpi ekasmiṃ, ṭhāne natthi cayoti ca;</p>
-
-<p rend="gathalast">Ettha vīṇūpamā vuttā, etassatthassa dīpane.</p>
-
-<p rend="hangnum" n="1269"><hi rend="paranum">1269</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Udabbayamanakkāramevaṃ saṅkhepato pana;</p>
-
-<p rend="gathalast">Katvā tasseva ñāṇassa, vibhaṅgassa vasena tu.</p>
-
-<p rend="hangnum" n="1270"><hi rend="paranum">1270</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Avijjāsamudayā rūpasamudayo’’ti hi ādinā;</p>
-
-<p rend="gathalast">Nayenekekakhandhassa, udayabbayadassane.</p>
-
-<p rend="hangnum" n="1271"><hi rend="paranum">1271</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dasa dasāti katvāna, vuttā paññāsalakkhaṇā;</p>
-
-<p rend="gathalast">Tesaṃ pana vasenāpi, dhamme samanupassati.</p>
-
-<p rend="hangnum" n="1272"><hi rend="paranum">1272</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evaṃ rūpudayo hoti, evamassa vayo iti;</p>
-
-<p rend="gathalast">Udeti evaṃ rūpampi, evaṃ rūpaṃ tu veti ca.</p>
-
-<p rend="hangnum" n="1273"><hi rend="paranum">1273</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evaṃ <pb ed="M" n="0.0164" /> paccayatopettha, khaṇato udayabbayaṃ;</p>
-
-<p rend="gathalast">Passato sabbadhammā ca, pākaṭā honti tassa te.</p>
-
-<p rend="hangnum" n="1274"><hi rend="paranum">1274</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Udake daṇḍarājīva, āraggeriva sāsapo;</p>
-
-<p rend="gathalast">Vijjuppādāva dhammā te, parittaṭṭhāyino siyuṃ.</p>
-
-<p rend="hangnum" n="1275"><hi rend="paranum">1275</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kadalīsupinālātacakkamāyupamā ime;</p>
-
-<p rend="gathalast">Asārā pana nissārā, hutvā khāyanti yogino.</p>
-
-<p rend="hangnum" n="1276"><hi rend="paranum">1276</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evamettāvatā <pb ed="P" n="0.0121" /> tena, udayabbayadassanaṃ;</p>
-
-<p rend="gathalast">Lakkhaṇāni ca paññāsa, paṭivijjha ṭhitaṃ pana.</p>
-
-<p rend="hangnum" n="1277"><hi rend="paranum">1277</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ñāṇaṃ <pb ed="V" n="0.0159" /> adhigataṃ hoti, taruṇaṃ paṭhamaṃ pana;</p>
-
-<p rend="gathalast">Yassa cādhigamā yogī, hotāraddhavipassako.</p>
-
-<p rend="hangnum" n="1278"><hi rend="paranum">1278</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vipassanāya hetāya,</p>
-
-<p rend="gatha2">Karuṇāyātha yogino;</p>
-
-<p rend="gatha3">Vipassakassa jāyante,</p>
-
-<p rend="gathalast">Upaklesā dasevime.</p>
-
-<p rend="hangnum" n="1279"><hi rend="paranum">1279</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Obhāso pīti passaddhi, ñāṇaṃ saddhā satī sukhaṃ;</p>
-
-<p rend="gathalast">Upekkhā vīriyaṃ nikantīti, upaklesā dasevime.</p>
-
-<p rend="hangnum" n="1280"><hi rend="paranum">1280</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sampattapaṭivedhassa, sotāpannādinopi ca;</p>
-
-<p rend="gathalast">Tathā vippaṭipannassa, upaklesā na jāyare.</p>
-
-<p rend="hangnum" n="1281"><hi rend="paranum">1281</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sammāva paṭipannassa, yuttayogassa bhikkhuno;</p>
-
-<p rend="gathalast">Sadā vipassakasseva, uppajjanti kirassu te.</p>
-
-<p rend="hangnum" n="1282"><hi rend="paranum">1282</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vipassanāya obhāso, <hi rend="bold">obhāso</hi>ti pavuccati;</p>
-
-<p rend="gathalast">Tasmiṃ pana samuppanne, yogāvacarabhikkhu so.</p>
-
-<p rend="hangnum" n="1283"><hi rend="paranum">1283</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Maggappatto phalappatto, ahamasmīti gaṇhati;</p>
-
-<p rend="gathalast">Amaggaṃyeva maggoti, tassevaṃ pana gaṇhato.</p>
-
-<p rend="hangnum" n="1284"><hi rend="paranum">1284</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evaṃ <pb ed="M" n="0.0165" /> vipassanāvīthi,</p>
-
-<p rend="gatha2">Okkantā nāma hoti sā;</p>
-
-<p rend="gatha3">Obhāsameva so bhikkhu,</p>
-
-<p rend="gathalast">Assādento nisīdati.</p>
-
-<p rend="hangnum" n="1285"><hi rend="paranum">1285</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Pīti</hi> vippassanāpīti, tassa tasmiṃ khaṇe pana;</p>
-
-<p rend="gathalast">Tadā pañcavidhā pīti, jāyante khuddikādikā.</p>
-
-<p rend="hangnum" n="1286"><hi rend="paranum">1286</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vipassanāya passaddhi, <hi rend="bold">passaddhī</hi>ti pavuccati;</p>
-
-<p rend="gathalast">Yogino kāyacittāni, passaddhāneva honti hi.</p>
-
-<p rend="hangnum" n="1287"><hi rend="paranum">1287</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Lahūni <pb ed="V" n="0.0160" /> ca mudūneva, kammaññāneva honti hi;</p>
-
-<p rend="gathalast">Passaddhādīhi so bhikkhu, anuggahitamānaso.</p>
-
-<p rend="hangnum" n="1288"><hi rend="paranum">1288</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Amānusiṃ ratiṃ nāma,</p>
-
-<p rend="gatha2">Anubhoti anuttaraṃ;</p>
-
-<p rend="gatha3">Yaṃ sandhāya ca gāthāyo,</p>
-
-<p rend="gathalast">Bhāsitā hi mahesinā.</p>
-
-<p rend="hangnum" n="1289"><hi rend="paranum">1289</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Suññāgāraṃ paviṭṭhassa, santacittassa bhikkhuno;</p>
-
-<p rend="gathalast">Amānusī rati hoti, sammā dhammaṃ vipassato.</p>
-
-<p rend="hangnum" n="1290"><hi rend="paranum">1290</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Yato yato sammasati, khandhānaṃ udayabbayaṃ;</p>
-
-<p rend="gathalast">Labhatī pītipāmojjaṃ, amataṃ taṃ vijānata’’nti.</p>
-
-<p rend="hangnum" n="1291"><hi rend="paranum">1291</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Ñāṇādayo</hi> upaklesā, ñeyyā vuttanayenidha;</p>
-
-<p rend="gathalast">Ete dasa upaklesā, vajjanīyāva yoginā.</p>
-
-<p rend="hangnum" n="1292"><hi rend="paranum">1292</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Etthobhāsādayo dhammā,</p>
-
-<p rend="gatha2">Upaklesassa vatthuto;</p>
-
-<p rend="gatha3">Upaklesāti niddiṭṭhā,</p>
-
-<p rend="gathalast">Upaklesanikanti tu.</p>
-
-<p rend="hangnum" n="1293"><hi rend="paranum">1293</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Taṃ <pb ed="M" n="0.0166" /> tamāvajjamānassa, bhāvanā parihāyati;</p>
-
-<p rend="gathalast">Asatte sattasaññī ca, hoti appassuto naro.</p>
-
-<p rend="hangnum" n="1294"><hi rend="paranum">1294</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sabbobhāsādayo <pb ed="P" n="0.0122" /> dhamme, na maggoti vicārayaṃ;</p>
-
-<p rend="gathalast">Maggo vipassanāñāṇaṃ, iccevaṃ pana paṇḍito.</p>
-
-<p rend="hangnum" n="1295"><hi rend="paranum">1295</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vavatthapeti maggañca, amaggañceva cetasā;</p>
-
-<p rend="gathalast">Tassa cevaṃ ayaṃ maggo, nāyaṃ maggoti yogino.</p>
-
-<p rend="hangnum" n="1296"><hi rend="paranum">1296</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Maggāmaggañca viññāya, ṭhitañāṇamidaṃ pana;</p>
-
-<p rend="gathalast"><hi rend="bold">Maggāmaggesuñāṇa</hi>nti, bhūriñāṇena desitaṃ.</p>
-
-<p rend="hangnum" n="1297"><hi rend="paranum">1297</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Maggāmaggañāṇadassanesu <pb ed="V" n="0.0161" /> kovidā,</p>
-
-<p rend="gatha2">Sārāsāravedino samāhitāhitā;</p>
-
-<p rend="gatha3">Maggāmaggañāṇadassananti taṃ idaṃ,</p>
-
-<p rend="gathalast">Buddhā buddhasāvakā vadanti vādino.</p>
-
-<p rend="centre">Iti abhidhammāvatāre maggāmaggañāṇadassanavisuddhiniddeso</p>
-
-<p rend="centre">Nāma vīsatimo paricchedo.</p>
-</body>
-<back></back>
+  <chapter>20. Vīsatimo paricchedo</chapter>
+  <subhead>Maggāmaggañāṇadassanavisuddhiniddeso</subhead>
+  <hangnum nr="1263"/>
+  <gatha type="1"> Kalāpasammasaneneva ,</gatha>
+  <gatha type="2">Yogo karaṇiyo siyā;</gatha>
+  <gatha type="3">Maggāmagge tu ñāṇaṃ ta-</gatha>
+  <gatha type="last">Madhigantuṃ panicchatā.</gatha>
+  <hangnum nr="1264"/>
+  <gatha type="1"> Paccuppannassa dhammassa, nibbatti udayo mato;</gatha>
+  <gatha type="last">Vayo vipariṇāmoti, tasseva samudīritā.</gatha>
+  <hangnum nr="1265"/>
+  <gatha type="1"> Anupassanāpi  ñāṇanti, varañāṇena desitaṃ;</gatha>
+  <gatha type="last">So panevaṃ pajānāti, yogāvacaramāṇavo.</gatha>
+  <hangnum nr="1266"/>
+  <gatha type="1"> Imassa nāmarūpassa, pubbe uppattito pana;</gatha>
+  <gatha type="last">Nicayo rāsi vā natthi, tathā uppajjatopi ca.</gatha>
+  <hangnum nr="1267"/>
+  <gatha type="1"> Rāsito nicayā vāpi, natthi āgamananti ca;</gatha>
+  <gatha type="last">Tathā nirujjhamānassa, na disāgamananti ca.</gatha>
+  <hangnum nr="1268"/>
+  <gatha type="1"> Niruddhassāpi ekasmiṃ, ṭhāne natthi cayoti ca;</gatha>
+  <gatha type="last">Ettha vīṇūpamā vuttā, etassatthassa dīpane.</gatha>
+  <hangnum nr="1269"/>
+  <gatha type="1"> Udabbayamanakkāramevaṃ saṅkhepato pana;</gatha>
+  <gatha type="last">Katvā tasseva ñāṇassa, vibhaṅgassa vasena tu.</gatha>
+  <hangnum nr="1270"/>
+  <gatha type="1"> ‘‘Avijjāsamudayā rūpasamudayo’’ti hi ādinā;</gatha>
+  <gatha type="last">Nayenekekakhandhassa, udayabbayadassane.</gatha>
+  <hangnum nr="1271"/>
+  <gatha type="1"> Dasa dasāti katvāna, vuttā paññāsalakkhaṇā;</gatha>
+  <gatha type="last">Tesaṃ pana vasenāpi, dhamme samanupassati.</gatha>
+  <hangnum nr="1272"/>
+  <gatha type="1"> Evaṃ rūpudayo hoti, evamassa vayo iti;</gatha>
+  <gatha type="last">Udeti evaṃ rūpampi, evaṃ rūpaṃ tu veti ca.</gatha>
+  <hangnum nr="1273"/>
+  <gatha type="1"> Evaṃ  paccayatopettha, khaṇato udayabbayaṃ;</gatha>
+  <gatha type="last">Passato sabbadhammā ca, pākaṭā honti tassa te.</gatha>
+  <hangnum nr="1274"/>
+  <gatha type="1"> Udake daṇḍarājīva, āraggeriva sāsapo;</gatha>
+  <gatha type="last">Vijjuppādāva dhammā te, parittaṭṭhāyino siyuṃ.</gatha>
+  <hangnum nr="1275"/>
+  <gatha type="1"> Kadalīsupinālātacakkamāyupamā ime;</gatha>
+  <gatha type="last">Asārā pana nissārā, hutvā khāyanti yogino.</gatha>
+  <hangnum nr="1276"/>
+  <gatha type="1"> Evamettāvatā  tena, udayabbayadassanaṃ;</gatha>
+  <gatha type="last">Lakkhaṇāni ca paññāsa, paṭivijjha ṭhitaṃ pana.</gatha>
+  <hangnum nr="1277"/>
+  <gatha type="1"> Ñāṇaṃ  adhigataṃ hoti, taruṇaṃ paṭhamaṃ pana;</gatha>
+  <gatha type="last">Yassa cādhigamā yogī, hotāraddhavipassako.</gatha>
+  <hangnum nr="1278"/>
+  <gatha type="1"> Vipassanāya hetāya,</gatha>
+  <gatha type="2">Karuṇāyātha yogino;</gatha>
+  <gatha type="3">Vipassakassa jāyante,</gatha>
+  <gatha type="last">Upaklesā dasevime.</gatha>
+  <hangnum nr="1279"/>
+  <gatha type="1"> Obhāso pīti passaddhi, ñāṇaṃ saddhā satī sukhaṃ;</gatha>
+  <gatha type="last">Upekkhā vīriyaṃ nikantīti, upaklesā dasevime.</gatha>
+  <hangnum nr="1280"/>
+  <gatha type="1"> Sampattapaṭivedhassa, sotāpannādinopi ca;</gatha>
+  <gatha type="last">Tathā vippaṭipannassa, upaklesā na jāyare.</gatha>
+  <hangnum nr="1281"/>
+  <gatha type="1"> Sammāva paṭipannassa, yuttayogassa bhikkhuno;</gatha>
+  <gatha type="last">Sadā vipassakasseva, uppajjanti kirassu te.</gatha>
+  <hangnum nr="1282"/>
+  <gatha type="1"> Vipassanāya obhāso, obhāsoti pavuccati;</gatha>
+  <gatha type="last">Tasmiṃ pana samuppanne, yogāvacarabhikkhu so.</gatha>
+  <hangnum nr="1283"/>
+  <gatha type="1"> Maggappatto phalappatto, ahamasmīti gaṇhati;</gatha>
+  <gatha type="last">Amaggaṃyeva maggoti, tassevaṃ pana gaṇhato.</gatha>
+  <hangnum nr="1284"/>
+  <gatha type="1"> Evaṃ  vipassanāvīthi,</gatha>
+  <gatha type="2">Okkantā nāma hoti sā;</gatha>
+  <gatha type="3">Obhāsameva so bhikkhu,</gatha>
+  <gatha type="last">Assādento nisīdati.</gatha>
+  <hangnum nr="1285"/>
+  <gatha type="1">Pīti vippassanāpīti, tassa tasmiṃ khaṇe pana;</gatha>
+  <gatha type="last">Tadā pañcavidhā pīti, jāyante khuddikādikā.</gatha>
+  <hangnum nr="1286"/>
+  <gatha type="1"> Vipassanāya passaddhi, passaddhīti pavuccati;</gatha>
+  <gatha type="last">Yogino kāyacittāni, passaddhāneva honti hi.</gatha>
+  <hangnum nr="1287"/>
+  <gatha type="1"> Lahūni  ca mudūneva, kammaññāneva honti hi;</gatha>
+  <gatha type="last">Passaddhādīhi so bhikkhu, anuggahitamānaso.</gatha>
+  <hangnum nr="1288"/>
+  <gatha type="1"> Amānusiṃ ratiṃ nāma,</gatha>
+  <gatha type="2">Anubhoti anuttaraṃ;</gatha>
+  <gatha type="3">Yaṃ sandhāya ca gāthāyo,</gatha>
+  <gatha type="last">Bhāsitā hi mahesinā.</gatha>
+  <hangnum nr="1289"/>
+  <gatha type="1"> ‘‘Suññāgāraṃ paviṭṭhassa, santacittassa bhikkhuno;</gatha>
+  <gatha type="last">Amānusī rati hoti, sammā dhammaṃ vipassato.</gatha>
+  <hangnum nr="1290"/>
+  <gatha type="1"> ‘‘Yato yato sammasati, khandhānaṃ udayabbayaṃ;</gatha>
+  <gatha type="last">Labhatī pītipāmojjaṃ, amataṃ taṃ vijānata’’nti.</gatha>
+  <hangnum nr="1291"/>
+  <gatha type="1">Ñāṇādayo upaklesā, ñeyyā vuttanayenidha;</gatha>
+  <gatha type="last">Ete dasa upaklesā, vajjanīyāva yoginā.</gatha>
+  <hangnum nr="1292"/>
+  <gatha type="1"> Etthobhāsādayo dhammā,</gatha>
+  <gatha type="2">Upaklesassa vatthuto;</gatha>
+  <gatha type="3">Upaklesāti niddiṭṭhā,</gatha>
+  <gatha type="last">Upaklesanikanti tu.</gatha>
+  <hangnum nr="1293"/>
+  <gatha type="1"> Taṃ  tamāvajjamānassa, bhāvanā parihāyati;</gatha>
+  <gatha type="last">Asatte sattasaññī ca, hoti appassuto naro.</gatha>
+  <hangnum nr="1294"/>
+  <gatha type="1"> Sabbobhāsādayo  dhamme, na maggoti vicārayaṃ;</gatha>
+  <gatha type="last">Maggo vipassanāñāṇaṃ, iccevaṃ pana paṇḍito.</gatha>
+  <hangnum nr="1295"/>
+  <gatha type="1"> Vavatthapeti maggañca, amaggañceva cetasā;</gatha>
+  <gatha type="last">Tassa cevaṃ ayaṃ maggo, nāyaṃ maggoti yogino.</gatha>
+  <hangnum nr="1296"/>
+  <gatha type="1"> Maggāmaggañca viññāya, ṭhitañāṇamidaṃ pana;</gatha>
+  <gatha type="last">Maggāmaggesuñāṇanti, bhūriñāṇena desitaṃ.</gatha>
+  <hangnum nr="1297"/>
+  <gatha type="1"> Maggāmaggañāṇadassanesu  kovidā,</gatha>
+  <gatha type="2">Sārāsāravedino samāhitāhitā;</gatha>
+  <gatha type="3">Maggāmaggañāṇadassananti taṃ idaṃ,</gatha>
+  <gatha type="last">Buddhā buddhasāvakā vadanti vādino.</gatha>
+  <centered>Iti abhidhammāvatāre maggāmaggañāṇadassanavisuddhiniddeso</centered>
+  <centered>Nāma vīsatimo paricchedo.</centered>
 </text>
-</TEI.2>

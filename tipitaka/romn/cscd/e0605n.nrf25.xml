@@ -1,33 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Pāṭihāriyadīpanīgāthā</p>
-
-<p rend="hangnum" n="175"><hi rend="paranum">175</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Brahmassa saddaṃ karavīkabhāṇiṃ,</p>
-
-<p rend="gatha2">Yathicchitaṃ sāvayituṃ samatthaṃ;</p>
-
-<p rend="gatha3">Saccaṃ piyaṃ bhūtahitaṃ vadantaṃ,</p>
-
-<p rend="gathalast">Na pūjaye ko hi naro sacetano.</p>
-
-<p rend="hangnum" n="176"><hi rend="paranum">176</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Iddhi ca ādesanānusāsanī,</p>
-
-<p rend="gatha2">Pāṭihīre bhagavā vasī ahu;</p>
-
-<p rend="gatha3">Katvāna accherasupāṭihīraṃ,</p>
-
-<p rend="gathalast">Desesi dhammaṃ anukampimaṃ pajaṃ.</p>
-</body>
-<back></back>
+  <chapter>Pāṭihāriyadīpanīgāthā</chapter>
+  <hangnum nr="175"/>
+  <gatha type="1"> Brahmassa saddaṃ karavīkabhāṇiṃ,</gatha>
+  <gatha type="2">Yathicchitaṃ sāvayituṃ samatthaṃ;</gatha>
+  <gatha type="3">Saccaṃ piyaṃ bhūtahitaṃ vadantaṃ,</gatha>
+  <gatha type="last">Na pūjaye ko hi naro sacetano.</gatha>
+  <hangnum nr="176"/>
+  <gatha type="1"> Iddhi ca ādesanānusāsanī,</gatha>
+  <gatha type="2">Pāṭihīre bhagavā vasī ahu;</gatha>
+  <gatha type="3">Katvāna accherasupāṭihīraṃ,</gatha>
+  <gatha type="last">Desesi dhammaṃ anukampimaṃ pajaṃ.</gatha>
 </text>
-</TEI.2>

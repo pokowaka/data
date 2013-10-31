@@ -1,61 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Guṇadīpanīgāthā</p>
-
-<p rend="hangnum" n="184"><hi rend="paranum">184</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na tassa adiṭṭhanamidhatthi kiñci,</p>
-
-<p rend="gatha2">Ato aviññātamajānitabbaṃ;</p>
-
-<p rend="gatha3">Sabbaṃ abhiññāsi yadatthi ñeyyaṃ,</p>
-
-<p rend="gathalast">Tathāgato tena samantacakkhu.</p>
-
-<p rend="hangnum" n="185"><hi rend="paranum">185</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Iti mahitamanantākittisambhārasāraṃ,</p>
-
-<p rend="gatha2">Sakaladasasahassīlokadhātumhi niccaṃ;</p>
-
-<p rend="gatha3">Upacitasubhahetupayutānantakālaṃ,</p>
-
-<p rend="gathalast">Tadiha sugatabodhisādhukaṃ cintanīyaṃ;</p>
-
-<p rend="hangnum" n="186"><hi rend="paranum">186</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Takkabyākaraṇañca dhammavinayaṃ sutvā pi yo paññavā,</p>
-
-<p rend="gatha2">Tenāyaṃ sucisārabhūtavacanaṃ viññāyate kevalaṃ;</p>
-
-<p rend="gathalast">Hetuñcāpi phalena tena saphalaṃ sampassamāno tato bodhiṃ saddahateva tassa mahatāvāyamato sambhavaṃ.</p>
-
-<p rend="hangnum" n="187"><hi rend="paranum">187</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yo saddahanto pana tassa bodhiṃ,</p>
-
-<p rend="gatha2">Vuttānusārena guṇerahādī;</p>
-
-<p rend="gatha3">Katheti cintenti ca so muhuttaṃ,</p>
-
-<p rend="gathalast">Ohāya pāpāni upeti santiṃ.</p>
-
-<p rend="hangnum" n="188"><hi rend="paranum">188</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saddheyyā te cinteyyā te,</p>
-
-<p rend="gatha2">Vandeyyā te pūjeyyāte;</p>
-
-<p rend="gatha3">Buddholokāloke loke,</p>
-
-<p rend="gathalast">Jāte netaṃ patthentena.</p>
-</body>
-<back></back>
+  <chapter>Guṇadīpanīgāthā</chapter>
+  <hangnum nr="184"/>
+  <gatha type="1"> Na tassa adiṭṭhanamidhatthi kiñci,</gatha>
+  <gatha type="2">Ato aviññātamajānitabbaṃ;</gatha>
+  <gatha type="3">Sabbaṃ abhiññāsi yadatthi ñeyyaṃ,</gatha>
+  <gatha type="last">Tathāgato tena samantacakkhu.</gatha>
+  <hangnum nr="185"/>
+  <gatha type="1"> Iti mahitamanantākittisambhārasāraṃ,</gatha>
+  <gatha type="2">Sakaladasasahassīlokadhātumhi niccaṃ;</gatha>
+  <gatha type="3">Upacitasubhahetupayutānantakālaṃ,</gatha>
+  <gatha type="last">Tadiha sugatabodhisādhukaṃ cintanīyaṃ;</gatha>
+  <hangnum nr="186"/>
+  <gatha type="1"> Takkabyākaraṇañca dhammavinayaṃ sutvā pi yo paññavā,</gatha>
+  <gatha type="2">Tenāyaṃ sucisārabhūtavacanaṃ viññāyate kevalaṃ;</gatha>
+  <gatha type="last">Hetuñcāpi phalena tena saphalaṃ sampassamāno tato bodhiṃ saddahateva tassa mahatāvāyamato sambhavaṃ.</gatha>
+  <hangnum nr="187"/>
+  <gatha type="1"> Yo saddahanto pana tassa bodhiṃ,</gatha>
+  <gatha type="2">Vuttānusārena guṇerahādī;</gatha>
+  <gatha type="3">Katheti cintenti ca so muhuttaṃ,</gatha>
+  <gatha type="last">Ohāya pāpāni upeti santiṃ.</gatha>
+  <hangnum nr="188"/>
+  <gatha type="1"> Saddheyyā te cinteyyā te,</gatha>
+  <gatha type="2">Vandeyyā te pūjeyyāte;</gatha>
+  <gatha type="3">Buddholokāloke loke,</gatha>
+  <gatha type="last">Jāte netaṃ patthentena.</gatha>
 </text>
-</TEI.2>

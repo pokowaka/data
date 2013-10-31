@@ -1,35 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">(26) 6. Abhiññāvaggo</p>
-
-<p rend="subhead">1-3. Abhiññāsuttādivaṇṇanā</p>
-
-<p rend="bodytext" n="254-256"><hi rend="paranum">254-256</hi><hi rend="dot">.</hi> Chaṭṭhassa <pb ed="V" n="2.0361" /> paṭhame paccanīkasamanato <hi rend="bold">samatho,</hi> samādhīti āha <hi rend="bold">‘‘cittekaggatā’’</hi>ti. Aniccādinā vividhenākārena dassanato <hi rend="bold">vipassanā,</hi> saṅkhārapariggāhakañāṇaṃ. Tenāha <hi rend="bold">‘‘saṅkhārapariggahavipassanāñāṇa’’</hi>nti.</p>
-
-<p rend="bodytext">Dutiye anariyehi pariyesitabbattā anariyānaṃ pariyesanāti <hi rend="bold">anariyapariyesanā</hi>. Sayaṃ lāmakatāya anariyānaṃ pariyesanāti vā <hi rend="bold">anariyapariyesanā. Jarāsabhāva</hi>nti jīraṇapakatikaṃ. Tatiyaṃ uttānameva.</p>
-
-<p rend="centre">Abhiññāsuttādivaṇṇanā niṭṭhitā.</p>
-
-<p rend="subhead">4-10. Mālukyaputtasuttādivaṇṇanā</p>
-
-<p rend="bodytext" n="257-263"><hi rend="paranum">257-263</hi><hi rend="dot">.</hi> Catutthe <pb ed="M" n="2.0396" /><hi rend="bold">apasādetī</hi>ti niggaṇhāti. <hi rend="bold">Ussādetī</hi>ti paggaṇhāti. Apasādanākāraṃ ussādanākārañca vibhāvetuṃ <hi rend="bold">‘‘katha’’</hi>ntiādi āraddhaṃ. Pañcamādīni uttānāneva. Sesaṃ suviññeyyameva.</p>
-
-<p rend="centre">Mālukyaputtasuttādivaṇṇanā niṭṭhitā.</p>
-
-<p rend="centre">Abhiññāvaggavaṇṇanā niṭṭhitā.</p>
-
-<p rend="centre">Iti manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
-
-<p rend="centre">Catukkanipātavaṇṇanāya anuttānatthadīpanā samattā.</p>
-
-<p rend="centre">Dutiyo bhāgo niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>(26) 6. Abhiññāvaggo</chapter>
+  <subhead>1-3. Abhiññāsuttādivaṇṇanā</subhead>
+  <paragraph nr="254-256"> Chaṭṭhassa  paṭhame paccanīkasamanato samatho, samādhīti āha ‘‘cittekaggatā’’ti. Aniccādinā vividhenākārena dassanato vipassanā, saṅkhārapariggāhakañāṇaṃ. Tenāha ‘‘saṅkhārapariggahavipassanāñāṇa’’nti.</paragraph>
+  <paragraph>Dutiye anariyehi pariyesitabbattā anariyānaṃ pariyesanāti anariyapariyesanā. Sayaṃ lāmakatāya anariyānaṃ pariyesanāti vā anariyapariyesanā. Jarāsabhāvanti jīraṇapakatikaṃ. Tatiyaṃ uttānameva.</paragraph>
+  <centered>Abhiññāsuttādivaṇṇanā niṭṭhitā.</centered>
+  <subhead>4-10. Mālukyaputtasuttādivaṇṇanā</subhead>
+  <paragraph nr="257-263"> Catutthe apasādetīti niggaṇhāti. Ussādetīti paggaṇhāti. Apasādanākāraṃ ussādanākārañca vibhāvetuṃ ‘‘katha’’ntiādi āraddhaṃ. Pañcamādīni uttānāneva. Sesaṃ suviññeyyameva.</paragraph>
+  <centered>Mālukyaputtasuttādivaṇṇanā niṭṭhitā.</centered>
+  <centered>Abhiññāvaggavaṇṇanā niṭṭhitā.</centered>
+  <centered>Iti manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</centered>
+  <centered>Catukkanipātavaṇṇanāya anuttānatthadīpanā samattā.</centered>
+  <centered>Dutiyo bhāgo niṭṭhito.</centered>
 </text>
-</TEI.2>

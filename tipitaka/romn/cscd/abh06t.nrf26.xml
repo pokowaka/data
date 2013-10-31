@@ -1,25 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Ganthārambhakathā</p>
-
-<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sammā <pb ed="M" n="0.0001" /><pb ed="V" n="0.0001" /> sammābhisambuddhaṃ, dhammaṃ dhammappakāsanaṃ;</p>
-
-<p rend="gathalast">Saṃghaṃ saṃghuttamaṃ loke, vanditvā vandanārahaṃ.</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Nāmarūpaparicchedaṃ,</hi> pavakkhāmi samāsato;</p>
-
-<p rend="gathalast">Mahāvihāravāsīnaṃ, vaṇṇanānayanissitaṃ.</p>
-</body>
-<back></back>
+  <chapter>Ganthārambhakathā</chapter>
+  <hangnum nr="1"/>
+  <gatha type="1"> Sammā  sammābhisambuddhaṃ, dhammaṃ dhammappakāsanaṃ;</gatha>
+  <gatha type="last">Saṃghaṃ saṃghuttamaṃ loke, vanditvā vandanārahaṃ.</gatha>
+  <hangnum nr="2"/>
+  <gatha type="1">Nāmarūpaparicchedaṃ, pavakkhāmi samāsato;</gatha>
+  <gatha type="last">Mahāvihāravāsīnaṃ, vaṇṇanānayanissitaṃ.</gatha>
 </text>
-</TEI.2>

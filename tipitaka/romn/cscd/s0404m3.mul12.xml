@@ -1,59 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">(13) 3. Parisuddhavaggo</p>
-
-<p rend="subhead">1. Paṭhamasuttaṃ</p>
-
-<p rend="bodytext" n="123"><hi rend="paranum">123</hi><hi rend="dot">.</hi> ‘‘Dasayime <pb ed="V" n="3.0205" />, bhikkhave, dhammā parisuddhā pariyodātā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – ime kho, bhikkhave, dasa dhammā parisuddhā pariyodātā, nāññatra sugatavinayā’’ti. Paṭhamaṃ.</p>
-
-<p rend="subhead">2. Dutiyasuttaṃ</p>
-
-<p rend="bodytext" n="124"><hi rend="paranum">124</hi><hi rend="dot">.</hi> ‘‘Dasayime, bhikkhave, dhammā anuppannā uppajjanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi <pb ed="P" n="5.0238" />…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā anuppannā uppajjanti, nāññatra sugatavinayā’’ti. Dutiyaṃ.</p>
-
-<p rend="subhead">3. Tatiyasuttaṃ</p>
-
-<p rend="bodytext" n="125"><hi rend="paranum">125</hi><hi rend="dot">.</hi> ‘‘Dasayime <pb ed="M" n="3.0451" />, bhikkhave, dhammā mahapphalā mahānisaṃsā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho <pb ed="T" n="5.0256" />, bhikkhave, dasa dhammā mahapphalā mahānisaṃsā, nāññatra sugatavinayā’’ti. Tatiyaṃ.</p>
-
-<p rend="subhead">4. Catutthasuttaṃ</p>
-
-<p rend="bodytext" n="126"><hi rend="paranum">126</hi><hi rend="dot">.</hi> ‘‘Dasayime, bhikkhave, dhammā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā rāgavinayapariyosānā <pb ed="V" n="3.0206" /> honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā’’ti. Catutthaṃ.</p>
-
-<p rend="subhead">5. Pañcamasuttaṃ</p>
-
-<p rend="bodytext" n="127"><hi rend="paranum">127</hi><hi rend="dot">.</hi> ‘‘Dasayime, bhikkhave, dhammā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā’’ti. Pañcamaṃ.</p>
-
-<p rend="subhead">6. Chaṭṭhasuttaṃ</p>
-
-<p rend="bodytext" n="128"><hi rend="paranum">128</hi><hi rend="dot">.</hi> ‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi <pb ed="P" n="5.0239" />…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā’’ti. Chaṭṭhaṃ.</p>
-
-<p rend="subhead">7. Sattamasuttaṃ</p>
-
-<p rend="bodytext" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi> ‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā, nāññatra sugatavinayā’’ti. Sattamaṃ.</p>
-
-<p rend="subhead">8. Aṭṭhamasuttaṃ</p>
-
-<p rend="bodytext" n="130"><hi rend="paranum">130</hi><hi rend="dot">.</hi> ‘‘Dasayime <pb ed="T" n="5.0257" /><pb ed="M" n="3.0452" />, bhikkhave, dhammā bhāvitā bahulīkatā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā <pb ed="V" n="3.0207" /> rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā’’ti. Aṭṭhamaṃ.</p>
-
-<p rend="subhead">9. Navamasuttaṃ</p>
-
-<p rend="bodytext" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi> ‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā’’ti. Navamaṃ.</p>
-
-<p rend="subhead">10. Dasamasuttaṃ</p>
-
-<p rend="bodytext" n="132"><hi rend="paranum">132</hi><hi rend="dot">.</hi> ‘‘Dasayime <pb ed="P" n="5.0240" />, bhikkhave, micchattā. Katame dasa? Micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṃ, micchāvimutti – ime kho, bhikkhave, dasa micchattā’’ti. Dasamaṃ.</p>
-
-<p rend="subhead">11. Ekādasamasuttaṃ</p>
-
-<p rend="bodytext" n="133"><hi rend="paranum">133</hi><hi rend="dot">.</hi> ‘‘Dasayime, bhikkhave, sammattā. Katame dasa? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – ime kho <pb ed="T" n="5.0258" />, bhikkhave, dasa sammattā’’ti. Ekādasamaṃ.</p>
-
-<p rend="centre">Parisuddhavaggo tatiyo.</p>
-</body>
-<back></back>
+  <chapter>(13) 3. Parisuddhavaggo</chapter>
+  <subhead>1. Paṭhamasuttaṃ</subhead>
+  <paragraph nr="123"> ‘‘Dasayime , bhikkhave, dhammā parisuddhā pariyodātā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – ime kho, bhikkhave, dasa dhammā parisuddhā pariyodātā, nāññatra sugatavinayā’’ti. Paṭhamaṃ.</paragraph>
+  <subhead>2. Dutiyasuttaṃ</subhead>
+  <paragraph nr="124"> ‘‘Dasayime, bhikkhave, dhammā anuppannā uppajjanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi …pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā anuppannā uppajjanti, nāññatra sugatavinayā’’ti. Dutiyaṃ.</paragraph>
+  <subhead>3. Tatiyasuttaṃ</subhead>
+  <paragraph nr="125"> ‘‘Dasayime , bhikkhave, dhammā mahapphalā mahānisaṃsā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho , bhikkhave, dasa dhammā mahapphalā mahānisaṃsā, nāññatra sugatavinayā’’ti. Tatiyaṃ.</paragraph>
+  <subhead>4. Catutthasuttaṃ</subhead>
+  <paragraph nr="126"> ‘‘Dasayime, bhikkhave, dhammā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā rāgavinayapariyosānā  honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā’’ti. Catutthaṃ.</paragraph>
+  <subhead>5. Pañcamasuttaṃ</subhead>
+  <paragraph nr="127"> ‘‘Dasayime, bhikkhave, dhammā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā’’ti. Pañcamaṃ.</paragraph>
+  <subhead>6. Chaṭṭhasuttaṃ</subhead>
+  <paragraph nr="128"> ‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi …pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā’’ti. Chaṭṭhaṃ.</paragraph>
+  <subhead>7. Sattamasuttaṃ</subhead>
+  <paragraph nr="129"> ‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā, nāññatra sugatavinayā’’ti. Sattamaṃ.</paragraph>
+  <subhead>8. Aṭṭhamasuttaṃ</subhead>
+  <paragraph nr="130"> ‘‘Dasayime , bhikkhave, dhammā bhāvitā bahulīkatā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā  rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā’’ti. Aṭṭhamaṃ.</paragraph>
+  <subhead>9. Navamasuttaṃ</subhead>
+  <paragraph nr="131"> ‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā’’ti. Navamaṃ.</paragraph>
+  <subhead>10. Dasamasuttaṃ</subhead>
+  <paragraph nr="132"> ‘‘Dasayime , bhikkhave, micchattā. Katame dasa? Micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṃ, micchāvimutti – ime kho, bhikkhave, dasa micchattā’’ti. Dasamaṃ.</paragraph>
+  <subhead>11. Ekādasamasuttaṃ</subhead>
+  <paragraph nr="133"> ‘‘Dasayime, bhikkhave, sammattā. Katame dasa? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – ime kho , bhikkhave, dasa sammattā’’ti. Ekādasamaṃ.</paragraph>
+  <centered>Parisuddhavaggo tatiyo.</centered>
 </text>
-</TEI.2>

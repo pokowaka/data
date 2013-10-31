@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Matthanā</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pālitehi <pb ed="M" n="0.0036" /> varuttamaṃ,</p>
-
-<p rend="gatha2">Pālitaṃ sīla-pāramiṃ;</p>
-
-<p rend="gatha3">Pāletu varasambuddho,</p>
-
-<p rend="gathalast">Pālitaṃ gantha-kāraṇaṃ.</p>
-</body>
-<back></back>
+  <chapter>Matthanā</chapter>
+  <hangnum nr="2"/>
+  <gatha type="1"> Pālitehi  varuttamaṃ,</gatha>
+  <gatha type="2">Pālitaṃ sīla-pāramiṃ;</gatha>
+  <gatha type="3">Pāletu varasambuddho,</gatha>
+  <gatha type="last">Pālitaṃ gantha-kāraṇaṃ.</gatha>
 </text>
-</TEI.2>

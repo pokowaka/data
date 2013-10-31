@@ -1,43 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">20. Amatavaggo</p>
-
-<p rend="bodytext" n="600"><hi rend="paranum">600</hi><hi rend="dot">.</hi> ‘‘Amataṃ <pb ed="T" n="1.0059" /><pb ed="V" n="1.0061" /><pb ed="M" n="1.0047" /> te, bhikkhave, na paribhuñjanti ye kāyagatāsatiṃ na paribhuñjanti. Amataṃ te, bhikkhave, paribhuñjanti ye kāyagatāsatiṃ paribhuñjantī’’ti.</p>
-
-<p rend="bodytext" n="601"><hi rend="paranum">601</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, aparibhuttaṃ yesaṃ kāyagatāsati aparibhuttā. Amataṃ tesaṃ, bhikkhave, paribhuttaṃ yesaṃ kāyagatāsati paribhuttā’’ti.</p>
-
-<p rend="bodytext" n="602"><hi rend="paranum">602</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, parihīnaṃ yesaṃ kāyagatāsati parihīnā. Amataṃ tesaṃ, bhikkhave, aparihīnaṃ yesaṃ kāyagatāsati aparihīnā’’ti.</p>
-
-<p rend="bodytext" n="603"><hi rend="paranum">603</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, viraddhaṃ yesaṃ kāyagatāsati <pb ed="P" n="1.0046" /> viraddhā. Amataṃ tesaṃ, bhikkhave, āraddhaṃ <note>aviraddhaṃ (ka.)</note> yesaṃ kāyagatāsati āraddhā’’ti.</p>
-
-<p rend="bodytext" n="604"><hi rend="paranum">604</hi><hi rend="dot">.</hi> ‘‘Amataṃ te, bhikkhave, pamādiṃsu ye kāyagatāsatiṃ pamādiṃsu. Amataṃ te, bhikkhave, na pamādiṃsu ye kāyagatāsatiṃ na pamādiṃsu’’.</p>
-
-<p rend="bodytext" n="605"><hi rend="paranum">605</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, pamuṭṭhaṃ yesaṃ kāyagatāsati pamuṭṭhā. Amataṃ tesaṃ, bhikkhave, appamuṭṭhaṃ yesaṃ kāyagatāsati appamuṭṭhā’’ti.</p>
-
-<p rend="bodytext" n="606"><hi rend="paranum">606</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, anāsevitaṃ yesaṃ kāyagatāsati anāsevitā. Amataṃ tesaṃ, bhikkhave, āsevitaṃ yesaṃ kāyagatāsati āsevitā’’ti.</p>
-
-<p rend="bodytext" n="607"><hi rend="paranum">607</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, abhāvitaṃ yesaṃ kāyagatāsati abhāvitā. Amataṃ tesaṃ, bhikkhave, bhāvitaṃ yesaṃ kāyagatāsati bhāvitā’’ti.</p>
-
-<p rend="bodytext" n="608"><hi rend="paranum">608</hi><hi rend="dot">.</hi> ‘‘Amataṃ <pb ed="V" n="1.0062" /><pb ed="M" n="1.0048" /> tesaṃ, bhikkhave, abahulīkataṃ yesaṃ kāyagatāsati abahulīkatā <pb ed="T" n="1.0060" />. Amataṃ tesaṃ, bhikkhave, bahulīkataṃ yesaṃ kāyagatāsati bahulīkatā’’ti.</p>
-
-<p rend="bodytext" n="609"><hi rend="paranum">609</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, anabhiññātaṃ yesaṃ kāyagatāsati anabhiññātā. Amataṃ tesaṃ, bhikkhave, abhiññātaṃ yesaṃ kāyagatāsati abhiññātā’’ti.</p>
-
-<p rend="bodytext" n="610"><hi rend="paranum">610</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, apariññātaṃ yesaṃ kāyagatāsati apariññātā. Amataṃ tesaṃ, bhikkhave, pariññātaṃ yesaṃ kāyagatāsati pariññātā’’ti.</p>
-
-<p rend="bodytext" n="611"><hi rend="paranum">611</hi><hi rend="dot">.</hi> ‘‘Amataṃ tesaṃ, bhikkhave, asacchikataṃ yesaṃ kāyagatāsati asacchikatā. Amataṃ tesaṃ, bhikkhave, sacchikataṃ yesaṃ kāyagatāsati sacchikatā’’ti. (….) <note>(ekakanipātassa suttasahassaṃ samattaṃ.) (sī. syā. kaṃ. pī.)</note></p>
-
-<p rend="bodytext">(Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.) <note>( ) etthantare pāṭho sī. syā. kaṃ. pī. potthakesu natthi</note></p>
-
-<p rend="centre">Amatavaggo vīsatimo.</p>
-
-<p rend="centre">Ekakanipātapāḷi niṭṭhitā.</p>
-</body>
-<back></back>
+  <chapter>20. Amatavaggo</chapter>
+  <paragraph nr="600"> ‘‘Amataṃ  te, bhikkhave, na paribhuñjanti ye kāyagatāsatiṃ na paribhuñjanti. Amataṃ te, bhikkhave, paribhuñjanti ye kāyagatāsatiṃ paribhuñjantī’’ti.</paragraph>
+  <paragraph nr="601"> ‘‘Amataṃ tesaṃ, bhikkhave, aparibhuttaṃ yesaṃ kāyagatāsati aparibhuttā. Amataṃ tesaṃ, bhikkhave, paribhuttaṃ yesaṃ kāyagatāsati paribhuttā’’ti.</paragraph>
+  <paragraph nr="602"> ‘‘Amataṃ tesaṃ, bhikkhave, parihīnaṃ yesaṃ kāyagatāsati parihīnā. Amataṃ tesaṃ, bhikkhave, aparihīnaṃ yesaṃ kāyagatāsati aparihīnā’’ti.</paragraph>
+  <paragraph nr="603"> ‘‘Amataṃ tesaṃ, bhikkhave, viraddhaṃ yesaṃ kāyagatāsati  viraddhā. Amataṃ tesaṃ, bhikkhave, āraddhaṃ <note>[aviraddhaṃ (ka.)]</note> yesaṃ kāyagatāsati āraddhā’’ti.</paragraph>
+  <paragraph nr="604"> ‘‘Amataṃ te, bhikkhave, pamādiṃsu ye kāyagatāsatiṃ pamādiṃsu. Amataṃ te, bhikkhave, na pamādiṃsu ye kāyagatāsatiṃ na pamādiṃsu’’.</paragraph>
+  <paragraph nr="605"> ‘‘Amataṃ tesaṃ, bhikkhave, pamuṭṭhaṃ yesaṃ kāyagatāsati pamuṭṭhā. Amataṃ tesaṃ, bhikkhave, appamuṭṭhaṃ yesaṃ kāyagatāsati appamuṭṭhā’’ti.</paragraph>
+  <paragraph nr="606"> ‘‘Amataṃ tesaṃ, bhikkhave, anāsevitaṃ yesaṃ kāyagatāsati anāsevitā. Amataṃ tesaṃ, bhikkhave, āsevitaṃ yesaṃ kāyagatāsati āsevitā’’ti.</paragraph>
+  <paragraph nr="607"> ‘‘Amataṃ tesaṃ, bhikkhave, abhāvitaṃ yesaṃ kāyagatāsati abhāvitā. Amataṃ tesaṃ, bhikkhave, bhāvitaṃ yesaṃ kāyagatāsati bhāvitā’’ti.</paragraph>
+  <paragraph nr="608"> ‘‘Amataṃ  tesaṃ, bhikkhave, abahulīkataṃ yesaṃ kāyagatāsati abahulīkatā . Amataṃ tesaṃ, bhikkhave, bahulīkataṃ yesaṃ kāyagatāsati bahulīkatā’’ti.</paragraph>
+  <paragraph nr="609"> ‘‘Amataṃ tesaṃ, bhikkhave, anabhiññātaṃ yesaṃ kāyagatāsati anabhiññātā. Amataṃ tesaṃ, bhikkhave, abhiññātaṃ yesaṃ kāyagatāsati abhiññātā’’ti.</paragraph>
+  <paragraph nr="610"> ‘‘Amataṃ tesaṃ, bhikkhave, apariññātaṃ yesaṃ kāyagatāsati apariññātā. Amataṃ tesaṃ, bhikkhave, pariññātaṃ yesaṃ kāyagatāsati pariññātā’’ti.</paragraph>
+  <paragraph nr="611"> ‘‘Amataṃ tesaṃ, bhikkhave, asacchikataṃ yesaṃ kāyagatāsati asacchikatā. Amataṃ tesaṃ, bhikkhave, sacchikataṃ yesaṃ kāyagatāsati sacchikatā’’ti. (….) <note>[(ekakanipātassa suttasahassaṃ samattaṃ.) (sī. syā. kaṃ. pī.)]</note></paragraph>
+  <paragraph>(Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.) <note>[( ) etthantare pāṭho sī. syā. kaṃ. pī. potthakesu natthi]</note></paragraph>
+  <centered>Amatavaggo vīsatimo.</centered>
+  <centered>Ekakanipātapāḷi niṭṭhitā.</centered>
 </text>
-</TEI.2>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Marammaraṭṭhikabhāvakathā</p>
-
-<p rend="bodytext">Ekacce pana marammaraṭṭhikā ‘‘ācariyabuddhaghoso marammaraṭṭhe <hi rend="bold">sathuṃ</hi> nāma nagarato <hi rend="bold">sīhaḷadīpaṃ</hi> gantvā saṅgahaṭṭhakathāyo akāsī’’ti vadanti. Taṃ dhammānandena anujānitvā ‘‘tampi thokaṃ yuttisampannaṃ, ahaṃ evaṃ saddahāmi ‘buddhaghoso dakkhiṇaindiyaraṭṭhe <hi rend="bold">telaṅga</hi>jātiko’ti, telaṅgajātikā ca bahū janā <hi rend="bold">maramma</hi>raṭṭhe ca <hi rend="bold">indocina</hi> raṭṭhe ca gantvā vasanti, <hi rend="bold">talhiṅa?</hi> Iti vohāro ca tatoyeva telaṅgapadato uppanno. Tathā ‘buddhaghoso aṭṭhakathāyo katvā sīhaḷadīpato marammaraṭṭhaṃ gantvā pacchimabhāge tattheva vasī’tipi gahetuṃ sakkā, tassa hi ganthā marammaraṭṭhe sīhaḷaraṭṭhatopi surakkhitatarā hontī’’ti ca vatvā patiṭṭhāpitaṃ.</p>
-</body>
-<back></back>
+  <chapter>Marammaraṭṭhikabhāvakathā</chapter>
+  <paragraph>Ekacce pana marammaraṭṭhikā ‘‘ācariyabuddhaghoso marammaraṭṭhe sathuṃ nāma nagarato sīhaḷadīpaṃ gantvā saṅgahaṭṭhakathāyo akāsī’’ti vadanti. Taṃ dhammānandena anujānitvā ‘‘tampi thokaṃ yuttisampannaṃ, ahaṃ evaṃ saddahāmi ‘buddhaghoso dakkhiṇaindiyaraṭṭhe telaṅgajātiko’ti, telaṅgajātikā ca bahū janā marammaraṭṭhe ca indocina raṭṭhe ca gantvā vasanti, talhiṅa? Iti vohāro ca tatoyeva telaṅgapadato uppanno. Tathā ‘buddhaghoso aṭṭhakathāyo katvā sīhaḷadīpato marammaraṭṭhaṃ gantvā pacchimabhāge tattheva vasī’tipi gahetuṃ sakkā, tassa hi ganthā marammaraṭṭhe sīhaḷaraṭṭhatopi surakkhitatarā hontī’’ti ca vatvā patiṭṭhāpitaṃ.</paragraph>
 </text>
-</TEI.2>

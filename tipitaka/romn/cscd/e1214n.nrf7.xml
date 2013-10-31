@@ -1,247 +1,121 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Tanādayo <pb ed="V" n="0.0028" /></p>
-
-<p rend="hangnum" n="120"><hi rend="paranum">120</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tanu vitthāre saka sattismiṃ-du paritāpe sanu dānasmiṃ,</p>
-
-<p rend="gatha2">Vana yācāyaṃ manu bodhasmiṃ-hi gate apa pāpuṇanasmiṃ (hi,)</p>
-
-<p rend="gathalast">Kara karaṇasmiṃ(bhavati)si bandhe-su abhissavane(tanu ādīni;)</p>
-
-<p rend="centre">Niccaṃ ṇeṇayantā curādayo.</p>
-
-<p rend="hangnum" n="121"><hi rend="paranum">121</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cura theyye loka (dhātu) dassane aki lakkhaṇe,</p>
-
-<p rend="gathalast">Siyā thaka patighāte (puna) takka vitakkaṇe;</p>
-
-<p rend="hangnum" n="122"><hi rend="paranum">122</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Lakkha dassanaaṅkesu (vattate) makkha makkhaṇe,</p>
-
-<p rend="gathalast">Bhakkhā’dane mokkha moce sukha-dukkha (ca) takiraye;</p>
-
-<p rend="hangnum" n="123"><hi rend="paranum">123</hi><hi rend="dot">.</hi><pb ed="V" n="0.0029" /></p>
-
-<p rend="gatha1"> Liṅga cittakirayā’dīsu maga-magga gavesane,</p>
-
-<p rend="gathalast">(Punā’pi) paca vitthāre klese vañca palambhane.</p>
-
-<p rend="hangnum" n="124"><hi rend="paranum">124</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vacca ajjhāyane acca pūjāyaṃ vaca bhāsane,</p>
-
-<p rend="gathalast">Raca patiyatane suca pesuññe ruca rocane;</p>
-
-<p rend="hangnum" n="125"><hi rend="paranum">125</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Mucappamocane loca dassane kaca dittiyaṃ,</p>
-
-<p rend="gathalast">Sajjā’jja ajjane tajja tajjane vajja vajjane;</p>
-
-<p rend="hangnum" n="126"><hi rend="paranum">126</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yuja saṃyamane pūja pūjāyaṃ tija tejane,</p>
-
-<p rend="gathalast">Paja magga saṃvaraṇe gate bhaja vibhājane;</p>
-
-<p rend="hangnum" n="127"><hi rend="paranum">127</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> (Atho) bhāja puthakkāre sabhāja pītidassane,</p>
-
-<p rend="gathalast">(Atho tu) ghaṭa saṅghāte ghaṭṭa sañcalanā’disu;</p>
-
-<p rend="hangnum" n="128"><hi rend="paranum">128</hi><hi rend="dot">.</hi><pb ed="V" n="0.0030" /></p>
-
-<p rend="gatha1"> Kuṭa-koṭṭacchedane (dve) kuṭa ākoṭanā’disu,</p>
-
-<p rend="gathalast">Naṭa nacce caṭa-puṭa bhede vaṇṭa vibhājane;</p>
-
-<p rend="hangnum" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tuvaṭṭa ekasayane ghaṭo visaraṇe (siyā),</p>
-
-<p rend="gatha2">Guṇṭha oguṇṭhane heṭha bādhāyaṃ veṭha veṭhane</p>
-
-<p rend="gathalast">Guḍi veṭhe kaḍi-khaḍi bhedane maḍi bhūsane;</p>
-
-<p rend="hangnum" n="130"><hi rend="paranum">130</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Paṇḍa-bhaṇḍa paribhāse daḍi āṇāya (mīrito),</p>
-
-<p rend="gathalast">Taḍi saṃtāḷane piṇḍa saṅghāte chaḍḍa chaḍḍane;</p>
-
-<p rend="hangnum" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vaṇṇa saṃvaṇṇane cuṇṇa cuṇṇane āṇa pesane,</p>
-
-<p rend="gathalast">Gaṇa saṃkalane kaṇṇa savaṇe cinta cintane;</p>
-
-<p rend="hangnum" n="132"><hi rend="paranum">132</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Santa saṅkocane manta gutta bhāsana jānane,</p>
-
-<p rend="gathalast">Cita saṃcetanā’disu kitta saṃsaddane (bhave;)</p>
-
-<p rend="hangnum" n="133"><hi rend="paranum">133</hi><hi rend="dot">.</hi><pb ed="V" n="0.0031" /></p>
-
-<p rend="gatha1"> Yata nīyyātane gantha sandabbhe attha yācane,</p>
-
-<p rend="gathalast">Katha vākyappabandhe (ca) vida ñāṇe nude cuda;</p>
-
-<p rend="hangnum" n="134"><hi rend="paranum">134</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Chadā’pavāraṇe chadda vamane chanda icchayaṃ,</p>
-
-<p rend="gathalast">Vadī’bhivāda thomesu bhadikalyāṇakammani;</p>
-
-<p rend="hangnum" n="135"><hi rend="paranum">135</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Hiḷāda (tu) sukhe gandha sūcane vidha kampane,</p>
-
-<p rend="gathalast">Randha pāke (atho) māna pūjāyaṃ nu tthutimhi (tu;)</p>
-
-<p rend="hangnum" n="136"><hi rend="paranum">136</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Thana devasadde ūna parihāne thena coriye,</p>
-
-<p rend="gathalast">Dhana sadde ñapa tosa nisāna māraṇā’disu;</p>
-
-<p rend="hangnum" n="137"><hi rend="paranum">137</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Lapa vākye jhapa dāhe rupa ropaṇaādisu,</p>
-
-<p rend="gathalast">Pī tappane (siyā) kappa vitakke labhi vañcane;</p>
-
-<p rend="hangnum" n="138"><hi rend="paranum">138</hi><hi rend="dot">.</hi><pb ed="V" n="0.0032" /></p>
-
-<p rend="gatha1"> (Atho) vahi garahāyaṃ samu sāntvana dassane,</p>
-
-<p rend="gathalast">Kamu icchāya kantimhi (siyā) thoma silāghane;</p>
-
-<p rend="hangnum" n="139"><hi rend="paranum">139</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Timu temana saṅkāsu ama rogagatā’disu,</p>
-
-<p rend="gathalast">Saṃgāma yuddhe (vatteyya) īra vācā pakampane;</p>
-
-<p rend="hangnum" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vara āvaraṇi’cchāsu yācāyaṃ dhara dhāraṇe,</p>
-
-<p rend="gathalast">Tīra kamma samattimhi pāra sāmatthiyā’disu;</p>
-
-<p rend="hangnum" n="141"><hi rend="paranum">141</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tulu’mmāne khala sove sañcaye pālarakkhaṇe,</p>
-
-<p rend="gathalast">Kala saṅkalanā’dīsu (bhave) mīla nimīlane;</p>
-
-<p rend="hangnum" n="142"><hi rend="paranum">142</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sīlū’padhāraṇe mūla rohaṇe lala icchane,</p>
-
-<p rend="gathalast">Dula ukkhepaṇe pūla mahattana samussaye;</p>
-
-<p rend="hangnum" n="143"><hi rend="paranum">143</hi><hi rend="dot">.</hi><pb ed="V" n="0.0033" /></p>
-
-<p rend="gatha1"> Ghusa sadde pisa pese bhusā’laṅkaraṇe (siyā,)</p>
-
-<p rend="gathalast">Rusa pārusiye khuṃsa akkose pusa posane;</p>
-
-<p rend="hangnum" n="144"><hi rend="paranum">144</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Disa uccāraṇā’dīsu vasa acchādane (siyā,)</p>
-
-<p rend="gathalast">Rasa’ssāde rave snehe (atho) sisa visesane;</p>
-
-<p rend="hangnum" n="145"><hi rend="paranum">145</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Si bandhe missa sammisse kuha vimbhāpane siyā,</p>
-
-<p rend="gathalast">Raha cāge gate (cā’pi) maha pūjāya (mīrito;)</p>
-
-<p rend="hangnum" n="146"><hi rend="paranum">146</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pihi’cchāyaṃ siyā vīḷa lajjāyaṃ eḷa phāḷane</p>
-
-<p rend="gatha2">Hīḷa gārahiye pīḷa bādhāyaṃ taḷa tāḷane</p>
-
-<p rend="gathalast">Laḷa (dhātū)’pasevā’yaṃ (vattatī’mecurādayo;)</p>
-
-<p rend="centre">Samattā sattagaṇā.</p>
-
-<p rend="hangnum" n="147"><hi rend="paranum">147</hi><hi rend="dot">.</hi><pb ed="V" n="0.0034" /></p>
-
-<p rend="gatha1"> Bhuvādī ca rudhādī ca-divādi svā’dayo gaṇā,</p>
-
-<p rend="gathalast">Kiyādī ca tanādī ca-curādītī’dha sattadhā;</p>
-
-<p rend="hangnum" n="148"><hi rend="paranum">148</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kirayāvācittamakkhātu-me’kekattho bahū’dito,</p>
-
-<p rend="gathalast">Payogato’nugantabbā-anekatthā hi dhātavo;</p>
-
-<p rend="hangnum" n="149"><hi rend="paranum">149</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Hitāya mandabuddhīnaṃ-vyattaṃ vaṇṇakkamā lahuṃ,</p>
-
-<p rend="gathalast">Racitā dhātumañjusā-sīlavaṃsena dhīmatā;</p>
-
-<p rend="hangnum" n="150"><hi rend="paranum">150</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saddhammapaṅkeruharājahaṃso,</p>
-
-<p rend="gatha2">Āsiṭṭhadhammaṭṭhiti sīlavaṃso;</p>
-
-<p rend="gatha3">Yakkhaddilenākhya nivāsavāsī,</p>
-
-<p rend="gathalast">Yatissaro soyamidaṃ akāsi;</p>
-
-<p rend="centre">Kaccāyana dhātumañjūsā samattā.</p>
-
-<p rend="subhead">Sācariyānusiṭṭhā <pb ed="V" n="0.0035" /> parisiṭṭhaparibhāsā</p>
-
-<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ekā nekassa rānantū-’bhayesaṃ antimā sarā,</p>
-
-<p rend="gathalast">Aṅgānubandhā dhātūnaṃ-vuccante’pi yathākkamaṃ;</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dhātuno vyāñjanā pubbe-niggahītaṃ sama’ntimā,</p>
-
-<p rend="gathalast">Ivaṇṇenā’rudhādīna-manubandhena ciṇhitaṃ;</p>
-
-<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sesā’nubandhā sabbesaṃ-hontī’dhu’ccāraṇapphalā,</p>
-
-<p rend="gathalast">Uccāvacapphalā bhāsa-ntarampatvā bha vanti’pi;</p>
-
-<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi><pb ed="V" n="0.0036" /></p>
-
-<p rend="gatha1"> Nāmadhātuka bhāvo’pi-kirayāya adhikārato,</p>
-
-<p rend="gathalast">Viruddhantarābhāvā-kvacideva payujjate;</p>
-
-<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dvandayuttivasā kvāpi-ādeso yovibhattiyā,</p>
-
-<p rend="gathalast">Guṇādibhāva saddo’pi-takirayatthe vidhīyate;</p>
-</body>
-<back></back>
+  <chapter>Tanādayo </chapter>
+  <hangnum nr="120"/>
+  <gatha type="1"> Tanu vitthāre saka sattismiṃ-du paritāpe sanu dānasmiṃ,</gatha>
+  <gatha type="2">Vana yācāyaṃ manu bodhasmiṃ-hi gate apa pāpuṇanasmiṃ (hi,)</gatha>
+  <gatha type="last">Kara karaṇasmiṃ(bhavati)si bandhe-su abhissavane(tanu ādīni;)</gatha>
+  <centered>Niccaṃ ṇeṇayantā curādayo.</centered>
+  <hangnum nr="121"/>
+  <gatha type="1"> Cura theyye loka (dhātu) dassane aki lakkhaṇe,</gatha>
+  <gatha type="last">Siyā thaka patighāte (puna) takka vitakkaṇe;</gatha>
+  <hangnum nr="122"/>
+  <gatha type="1"> Lakkha dassanaaṅkesu (vattate) makkha makkhaṇe,</gatha>
+  <gatha type="last">Bhakkhā’dane mokkha moce sukha-dukkha (ca) takiraye;</gatha>
+  <hangnum nr="123"/>
+  <gatha type="1"> Liṅga cittakirayā’dīsu maga-magga gavesane,</gatha>
+  <gatha type="last">(Punā’pi) paca vitthāre klese vañca palambhane.</gatha>
+  <hangnum nr="124"/>
+  <gatha type="1"> Vacca ajjhāyane acca pūjāyaṃ vaca bhāsane,</gatha>
+  <gatha type="last">Raca patiyatane suca pesuññe ruca rocane;</gatha>
+  <hangnum nr="125"/>
+  <gatha type="1"> Mucappamocane loca dassane kaca dittiyaṃ,</gatha>
+  <gatha type="last">Sajjā’jja ajjane tajja tajjane vajja vajjane;</gatha>
+  <hangnum nr="126"/>
+  <gatha type="1"> Yuja saṃyamane pūja pūjāyaṃ tija tejane,</gatha>
+  <gatha type="last">Paja magga saṃvaraṇe gate bhaja vibhājane;</gatha>
+  <hangnum nr="127"/>
+  <gatha type="1"> (Atho) bhāja puthakkāre sabhāja pītidassane,</gatha>
+  <gatha type="last">(Atho tu) ghaṭa saṅghāte ghaṭṭa sañcalanā’disu;</gatha>
+  <hangnum nr="128"/>
+  <gatha type="1"> Kuṭa-koṭṭacchedane (dve) kuṭa ākoṭanā’disu,</gatha>
+  <gatha type="last">Naṭa nacce caṭa-puṭa bhede vaṇṭa vibhājane;</gatha>
+  <hangnum nr="129"/>
+  <gatha type="1"> Tuvaṭṭa ekasayane ghaṭo visaraṇe (siyā),</gatha>
+  <gatha type="2">Guṇṭha oguṇṭhane heṭha bādhāyaṃ veṭha veṭhane</gatha>
+  <gatha type="last">Guḍi veṭhe kaḍi-khaḍi bhedane maḍi bhūsane;</gatha>
+  <hangnum nr="130"/>
+  <gatha type="1"> Paṇḍa-bhaṇḍa paribhāse daḍi āṇāya (mīrito),</gatha>
+  <gatha type="last">Taḍi saṃtāḷane piṇḍa saṅghāte chaḍḍa chaḍḍane;</gatha>
+  <hangnum nr="131"/>
+  <gatha type="1"> Vaṇṇa saṃvaṇṇane cuṇṇa cuṇṇane āṇa pesane,</gatha>
+  <gatha type="last">Gaṇa saṃkalane kaṇṇa savaṇe cinta cintane;</gatha>
+  <hangnum nr="132"/>
+  <gatha type="1"> Santa saṅkocane manta gutta bhāsana jānane,</gatha>
+  <gatha type="last">Cita saṃcetanā’disu kitta saṃsaddane (bhave;)</gatha>
+  <hangnum nr="133"/>
+  <gatha type="1"> Yata nīyyātane gantha sandabbhe attha yācane,</gatha>
+  <gatha type="last">Katha vākyappabandhe (ca) vida ñāṇe nude cuda;</gatha>
+  <hangnum nr="134"/>
+  <gatha type="1"> Chadā’pavāraṇe chadda vamane chanda icchayaṃ,</gatha>
+  <gatha type="last">Vadī’bhivāda thomesu bhadikalyāṇakammani;</gatha>
+  <hangnum nr="135"/>
+  <gatha type="1"> Hiḷāda (tu) sukhe gandha sūcane vidha kampane,</gatha>
+  <gatha type="last">Randha pāke (atho) māna pūjāyaṃ nu tthutimhi (tu;)</gatha>
+  <hangnum nr="136"/>
+  <gatha type="1"> Thana devasadde ūna parihāne thena coriye,</gatha>
+  <gatha type="last">Dhana sadde ñapa tosa nisāna māraṇā’disu;</gatha>
+  <hangnum nr="137"/>
+  <gatha type="1"> Lapa vākye jhapa dāhe rupa ropaṇaādisu,</gatha>
+  <gatha type="last">Pī tappane (siyā) kappa vitakke labhi vañcane;</gatha>
+  <hangnum nr="138"/>
+  <gatha type="1"> (Atho) vahi garahāyaṃ samu sāntvana dassane,</gatha>
+  <gatha type="last">Kamu icchāya kantimhi (siyā) thoma silāghane;</gatha>
+  <hangnum nr="139"/>
+  <gatha type="1"> Timu temana saṅkāsu ama rogagatā’disu,</gatha>
+  <gatha type="last">Saṃgāma yuddhe (vatteyya) īra vācā pakampane;</gatha>
+  <hangnum nr="140"/>
+  <gatha type="1"> Vara āvaraṇi’cchāsu yācāyaṃ dhara dhāraṇe,</gatha>
+  <gatha type="last">Tīra kamma samattimhi pāra sāmatthiyā’disu;</gatha>
+  <hangnum nr="141"/>
+  <gatha type="1"> Tulu’mmāne khala sove sañcaye pālarakkhaṇe,</gatha>
+  <gatha type="last">Kala saṅkalanā’dīsu (bhave) mīla nimīlane;</gatha>
+  <hangnum nr="142"/>
+  <gatha type="1"> Sīlū’padhāraṇe mūla rohaṇe lala icchane,</gatha>
+  <gatha type="last">Dula ukkhepaṇe pūla mahattana samussaye;</gatha>
+  <hangnum nr="143"/>
+  <gatha type="1"> Ghusa sadde pisa pese bhusā’laṅkaraṇe (siyā,)</gatha>
+  <gatha type="last">Rusa pārusiye khuṃsa akkose pusa posane;</gatha>
+  <hangnum nr="144"/>
+  <gatha type="1"> Disa uccāraṇā’dīsu vasa acchādane (siyā,)</gatha>
+  <gatha type="last">Rasa’ssāde rave snehe (atho) sisa visesane;</gatha>
+  <hangnum nr="145"/>
+  <gatha type="1"> Si bandhe missa sammisse kuha vimbhāpane siyā,</gatha>
+  <gatha type="last">Raha cāge gate (cā’pi) maha pūjāya (mīrito;)</gatha>
+  <hangnum nr="146"/>
+  <gatha type="1"> Pihi’cchāyaṃ siyā vīḷa lajjāyaṃ eḷa phāḷane</gatha>
+  <gatha type="2">Hīḷa gārahiye pīḷa bādhāyaṃ taḷa tāḷane</gatha>
+  <gatha type="last">Laḷa (dhātū)’pasevā’yaṃ (vattatī’mecurādayo;)</gatha>
+  <centered>Samattā sattagaṇā.</centered>
+  <hangnum nr="147"/>
+  <gatha type="1"> Bhuvādī ca rudhādī ca-divādi svā’dayo gaṇā,</gatha>
+  <gatha type="last">Kiyādī ca tanādī ca-curādītī’dha sattadhā;</gatha>
+  <hangnum nr="148"/>
+  <gatha type="1"> Kirayāvācittamakkhātu-me’kekattho bahū’dito,</gatha>
+  <gatha type="last">Payogato’nugantabbā-anekatthā hi dhātavo;</gatha>
+  <hangnum nr="149"/>
+  <gatha type="1"> Hitāya mandabuddhīnaṃ-vyattaṃ vaṇṇakkamā lahuṃ,</gatha>
+  <gatha type="last">Racitā dhātumañjusā-sīlavaṃsena dhīmatā;</gatha>
+  <hangnum nr="150"/>
+  <gatha type="1"> Saddhammapaṅkeruharājahaṃso,</gatha>
+  <gatha type="2">Āsiṭṭhadhammaṭṭhiti sīlavaṃso;</gatha>
+  <gatha type="3">Yakkhaddilenākhya nivāsavāsī,</gatha>
+  <gatha type="last">Yatissaro soyamidaṃ akāsi;</gatha>
+  <centered>Kaccāyana dhātumañjūsā samattā.</centered>
+  <subhead>Sācariyānusiṭṭhā  parisiṭṭhaparibhāsā</subhead>
+  <hangnum nr="1"/>
+  <gatha type="1"> Ekā nekassa rānantū-’bhayesaṃ antimā sarā,</gatha>
+  <gatha type="last">Aṅgānubandhā dhātūnaṃ-vuccante’pi yathākkamaṃ;</gatha>
+  <hangnum nr="2"/>
+  <gatha type="1"> Dhātuno vyāñjanā pubbe-niggahītaṃ sama’ntimā,</gatha>
+  <gatha type="last">Ivaṇṇenā’rudhādīna-manubandhena ciṇhitaṃ;</gatha>
+  <hangnum nr="3"/>
+  <gatha type="1"> Sesā’nubandhā sabbesaṃ-hontī’dhu’ccāraṇapphalā,</gatha>
+  <gatha type="last">Uccāvacapphalā bhāsa-ntarampatvā bha vanti’pi;</gatha>
+  <hangnum nr="4"/>
+  <gatha type="1"> Nāmadhātuka bhāvo’pi-kirayāya adhikārato,</gatha>
+  <gatha type="last">Viruddhantarābhāvā-kvacideva payujjate;</gatha>
+  <hangnum nr="5"/>
+  <gatha type="1"> Dvandayuttivasā kvāpi-ādeso yovibhattiyā,</gatha>
+  <gatha type="last">Guṇādibhāva saddo’pi-takirayatthe vidhīyate;</gatha>
 </text>
-</TEI.2>

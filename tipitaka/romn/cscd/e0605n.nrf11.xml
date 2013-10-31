@@ -1,103 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Apunarāvattigamanadīpanīyamakagāthā</p>
-
-<p rend="hangnum" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anantakālopacitena tena,</p>
-
-<p rend="gatha2">Puññena nibbattavimānayāne;</p>
-
-<p rend="gatha3">Tasmiṃ dine jātasutaṃ pajāpatiṃ,</p>
-
-<p rend="gathalast">Hitvā gato so sugato gato va.</p>
-
-<p rend="hangnum" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Taṃ jīvamānaṃ pitarañca mātaraṃ,</p>
-
-<p rend="gatha2">Te ñātake tādisiyo ca itthiyo;</p>
-
-<p rend="gatha3">Te tādise rammakare nikete,</p>
-
-<p rend="gathalast">Hitvā gato so sugato gato va.</p>
-
-<p rend="hangnum" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Khomañca pattuṇṇadukūlacīnaṃ,</p>
-
-<p rend="gatha2">Sakāsikaṃ sādhusugandhavāsitaṃ;</p>
-
-<p rend="gatha3">Nivāsito sobhati vāsavo va,</p>
-
-<p rend="gathalast">Hitvā gato so sugato gato va.</p>
-
-<p rend="hangnum" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vidhippakāsā nidhiyo catasso,</p>
-
-<p rend="gatha2">Samuggatā bhūtadharā vasundharā;</p>
-
-<p rend="gatha3">Sattāvasattāvasudhā sudhāsā,</p>
-
-<p rend="gathalast">Hitvā gato so sugato gato va.</p>
-
-<p rend="hangnum" n="82"><hi rend="paranum">82</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Suvaṇṇathāle satarājike subhe,</p>
-
-<p rend="gatha2">Sādhuṃ sugandhaṃ sucisālibhojanaṃ;</p>
-
-<p rend="gatha3">Bhutvā savāsīhi vilāsinīhi,</p>
-
-<p rend="gathalast">Hitvā gata so sugato gato va.</p>
-
-<p rend="hangnum" n="83"><hi rend="paranum">83</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Manuññagandhena asuññagandho,</p>
-
-<p rend="gatha2">Sugandhagandhena vilittagatto;</p>
-
-<p rend="gatha3">Sugandhavātena suvijjitaṅgo,</p>
-
-<p rend="gathalast">Hitvā gato so sugato gato va.</p>
-
-<p rend="hangnum" n="84"><hi rend="paranum">84</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sulakkhaṇe hevabhilakkhitaṅgo,</p>
-
-<p rend="gatha2">Pasādhito devapasādhanena;</p>
-
-<p rend="gatha3">Virocamāno samarājinīhi,</p>
-
-<p rend="gathalast">Hitvā gato so sugato gato va.</p>
-
-<p rend="hangnum" n="85"><hi rend="paranum">85</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nānāsanāni sayanāni nivesanāni,</p>
-
-<p rend="gatha2">Bhābhānibhāni ratanākarasannibhāni;</p>
-
-<p rend="gatha3">Tatrussitāni ratanaddhajabhūsitāni,</p>
-
-<p rend="gathalast">Hitvā va tāni himabindusamāni tāni.</p>
-
-<p rend="hangnum" n="86"><hi rend="paranum">86</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nānāvidhehi ratanehi samujjalehi,</p>
-
-<p rend="gatha2">Nārīhi niccamupagāyitahammiyehi;</p>
-
-<p rend="gatha3">Rajjehi cakkaratanādivibhūsitehi,</p>
-
-<p rend="gathalast">Yāto tato hi mahito purisassarehi.</p>
-</body>
-<back></back>
+  <chapter>Apunarāvattigamanadīpanīyamakagāthā</chapter>
+  <hangnum nr="78"/>
+  <gatha type="1"> Anantakālopacitena tena,</gatha>
+  <gatha type="2">Puññena nibbattavimānayāne;</gatha>
+  <gatha type="3">Tasmiṃ dine jātasutaṃ pajāpatiṃ,</gatha>
+  <gatha type="last">Hitvā gato so sugato gato va.</gatha>
+  <hangnum nr="79"/>
+  <gatha type="1"> Taṃ jīvamānaṃ pitarañca mātaraṃ,</gatha>
+  <gatha type="2">Te ñātake tādisiyo ca itthiyo;</gatha>
+  <gatha type="3">Te tādise rammakare nikete,</gatha>
+  <gatha type="last">Hitvā gato so sugato gato va.</gatha>
+  <hangnum nr="80"/>
+  <gatha type="1"> Khomañca pattuṇṇadukūlacīnaṃ,</gatha>
+  <gatha type="2">Sakāsikaṃ sādhusugandhavāsitaṃ;</gatha>
+  <gatha type="3">Nivāsito sobhati vāsavo va,</gatha>
+  <gatha type="last">Hitvā gato so sugato gato va.</gatha>
+  <hangnum nr="81"/>
+  <gatha type="1"> Vidhippakāsā nidhiyo catasso,</gatha>
+  <gatha type="2">Samuggatā bhūtadharā vasundharā;</gatha>
+  <gatha type="3">Sattāvasattāvasudhā sudhāsā,</gatha>
+  <gatha type="last">Hitvā gato so sugato gato va.</gatha>
+  <hangnum nr="82"/>
+  <gatha type="1"> Suvaṇṇathāle satarājike subhe,</gatha>
+  <gatha type="2">Sādhuṃ sugandhaṃ sucisālibhojanaṃ;</gatha>
+  <gatha type="3">Bhutvā savāsīhi vilāsinīhi,</gatha>
+  <gatha type="last">Hitvā gata so sugato gato va.</gatha>
+  <hangnum nr="83"/>
+  <gatha type="1"> Manuññagandhena asuññagandho,</gatha>
+  <gatha type="2">Sugandhagandhena vilittagatto;</gatha>
+  <gatha type="3">Sugandhavātena suvijjitaṅgo,</gatha>
+  <gatha type="last">Hitvā gato so sugato gato va.</gatha>
+  <hangnum nr="84"/>
+  <gatha type="1"> Sulakkhaṇe hevabhilakkhitaṅgo,</gatha>
+  <gatha type="2">Pasādhito devapasādhanena;</gatha>
+  <gatha type="3">Virocamāno samarājinīhi,</gatha>
+  <gatha type="last">Hitvā gato so sugato gato va.</gatha>
+  <hangnum nr="85"/>
+  <gatha type="1"> Nānāsanāni sayanāni nivesanāni,</gatha>
+  <gatha type="2">Bhābhānibhāni ratanākarasannibhāni;</gatha>
+  <gatha type="3">Tatrussitāni ratanaddhajabhūsitāni,</gatha>
+  <gatha type="last">Hitvā va tāni himabindusamāni tāni.</gatha>
+  <hangnum nr="86"/>
+  <gatha type="1"> Nānāvidhehi ratanehi samujjalehi,</gatha>
+  <gatha type="2">Nārīhi niccamupagāyitahammiyehi;</gatha>
+  <gatha type="3">Rajjehi cakkaratanādivibhūsitehi,</gatha>
+  <gatha type="last">Yāto tato hi mahito purisassarehi.</gatha>
 </text>
-</TEI.2>

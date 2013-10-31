@@ -1,143 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Pāduddhāravimhayadīpanīgāthā</p>
-
-<p rend="hangnum" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yāvañcayaṃ ravi caratyacalena ruddhe,</p>
-
-<p rend="gatha2">Yāvañca cakkaratanañca payāti loke;</p>
-
-<p rend="gatha3">Tāvissaro nabhacaro jitacāturanto,</p>
-
-<p rend="gathalast">Hitvā kathaṃ nu padamuddhari so nirāso.</p>
-
-<p rend="hangnum" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dīpe mahā ca caturādhikadvesahasse,</p>
-
-<p rend="gatha2">Tatrāpi seṭṭhabhajitaṃ varajambudīpaṃ;</p>
-
-<p rend="gatha3">Bhūnābhikaṃ kapilavatthupuraṃ surammaṃ,</p>
-
-<p rend="gathalast">Hitvā kathaṃ nu padamuddhari so nirāso.</p>
-
-<p rend="hangnum" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ñātīnasīti kulato hi sahassa sākye,</p>
-
-<p rend="gatha2">Hatthissadhaññadhanino vijitārisaṇghe;</p>
-
-<p rend="gatha3">Gottena gotamabhavaṃ pitarañjanaggaṃ,</p>
-
-<p rend="gathalast">Hitvā kathaṃ nu padamuddhari so nirāso.</p>
-
-<p rend="hangnum" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Rammaṃ surammavasatiṃ ratanujjalantaṃ,</p>
-
-<p rend="gatha2">Gimhepi vimhayakaraṃ suramandirābhaṃ;</p>
-
-<p rend="gatha3">Ussāpitaddhajapaṭākasitātapattaṃ,</p>
-
-<p rend="gathalast">Hitvā kathaṃ nu padamuddhari so nirāso.</p>
-
-<p rend="hangnum" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sapokkharā pokkharaṇī catasso,</p>
-
-<p rend="gatha2">Supupphitā mandirato samantā;</p>
-
-<p rend="gatha3">Kokā nadantūpari kokanāde,</p>
-
-<p rend="gathalast">Hitvā kathaṃ nu padamuddhari so nirāso.</p>
-
-<p rend="hangnum" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sare saroje ruditāḷipāḷi,</p>
-
-<p rend="gatha2">Samantato passati pañjarañjasā;</p>
-
-<p rend="gatha3">Disvāravindāni mukhāravindaṃ</p>
-
-<p rend="gathalast">Nāthassa lajjā viya saṃkujanti.</p>
-
-<p rend="hangnum" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Madhurā madhurābhirutā,</p>
-
-<p rend="gatha2">Caritā padume padumeḷigaṇā;</p>
-
-<p rend="gatha3">Vasatiṃ adhunā madhunā,</p>
-
-<p rend="gathalast">Akaruṃ jahitaṃ kimidaṃ patinā.</p>
-
-<p rend="hangnum" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tamhā rasaṃ madhukarā bhavanaṃ haritvā,</p>
-
-<p rend="gatha2">Ninnādino samadhuraṃ madhuraṃ karonti;</p>
-
-<p rend="gatha3">Nādena nādamatiriccupavīṇayanti,</p>
-
-<p rend="gathalast">Naccanti tā surapure vaṇitā va tāva.</p>
-
-<p rend="hangnum" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sañcoditā pīṇapayodharādharā,</p>
-
-<p rend="gatha2">Virājitānaṅgajamekhalākhalā;</p>
-
-<p rend="gatha3">Suraṅgaṇā vaṅgajaphassadā sadā,</p>
-
-<p rend="gathalast">Ramā ramāpenti varaṅgadāgadā.</p>
-
-<p rend="hangnum" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Karātirattā ratirattarāmā,</p>
-
-<p rend="gatha2">Tāḷenti tāḷāvacare samantā;</p>
-
-<p rend="gatha3">Naccuggatānekasahassahatthā,</p>
-
-<p rend="gathalast">Sakkopi kiṃ sakyasamoti codayuṃ.</p>
-
-<p rend="hangnum" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Visālanettā hasulā sumajjhā,</p>
-
-<p rend="gatha2">Nimbatthanī vimhayagītasaddā;</p>
-
-<p rend="gatha3">Alaṅkatā malladharā suvatthā,</p>
-
-<p rend="gathalast">Naccanti tāḷāvacarehi ghuṭṭhā.</p>
-
-<p rend="hangnum" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yāsaṃ hi loke upamā natthi,</p>
-
-<p rend="gatha2">Tāsaṃ hi phassesu kathāvakāsā;</p>
-
-<p rend="gatha3">Taṃ tādisaṃ kāmaratiṃnubhonto,</p>
-
-<p rend="gathalast">Hitvā kathaṃ nu padamuddhari so nirāso.</p>
-
-<p rend="hangnum" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pādepāde valayaviravāmekhalāvīṇānādā,</p>
-
-<p rend="gatha2">Gītaṃgītaṃ patiratikaraṃ gāyatī gāyatī sā;</p>
-
-<p rend="gatha3">Hatthehatthe valayacalitā sambhamaṃ sambhamanti,</p>
-
-<p rend="gathalast">Disvādisvā iti ratikaraṃ yāti hāhā kimīhā.</p>
-</body>
-<back></back>
+  <chapter>Pāduddhāravimhayadīpanīgāthā</chapter>
+  <hangnum nr="65"/>
+  <gatha type="1"> Yāvañcayaṃ ravi caratyacalena ruddhe,</gatha>
+  <gatha type="2">Yāvañca cakkaratanañca payāti loke;</gatha>
+  <gatha type="3">Tāvissaro nabhacaro jitacāturanto,</gatha>
+  <gatha type="last">Hitvā kathaṃ nu padamuddhari so nirāso.</gatha>
+  <hangnum nr="66"/>
+  <gatha type="1"> Dīpe mahā ca caturādhikadvesahasse,</gatha>
+  <gatha type="2">Tatrāpi seṭṭhabhajitaṃ varajambudīpaṃ;</gatha>
+  <gatha type="3">Bhūnābhikaṃ kapilavatthupuraṃ surammaṃ,</gatha>
+  <gatha type="last">Hitvā kathaṃ nu padamuddhari so nirāso.</gatha>
+  <hangnum nr="67"/>
+  <gatha type="1"> Ñātīnasīti kulato hi sahassa sākye,</gatha>
+  <gatha type="2">Hatthissadhaññadhanino vijitārisaṇghe;</gatha>
+  <gatha type="3">Gottena gotamabhavaṃ pitarañjanaggaṃ,</gatha>
+  <gatha type="last">Hitvā kathaṃ nu padamuddhari so nirāso.</gatha>
+  <hangnum nr="68"/>
+  <gatha type="1"> Rammaṃ surammavasatiṃ ratanujjalantaṃ,</gatha>
+  <gatha type="2">Gimhepi vimhayakaraṃ suramandirābhaṃ;</gatha>
+  <gatha type="3">Ussāpitaddhajapaṭākasitātapattaṃ,</gatha>
+  <gatha type="last">Hitvā kathaṃ nu padamuddhari so nirāso.</gatha>
+  <hangnum nr="69"/>
+  <gatha type="1"> Sapokkharā pokkharaṇī catasso,</gatha>
+  <gatha type="2">Supupphitā mandirato samantā;</gatha>
+  <gatha type="3">Kokā nadantūpari kokanāde,</gatha>
+  <gatha type="last">Hitvā kathaṃ nu padamuddhari so nirāso.</gatha>
+  <hangnum nr="70"/>
+  <gatha type="1"> Sare saroje ruditāḷipāḷi,</gatha>
+  <gatha type="2">Samantato passati pañjarañjasā;</gatha>
+  <gatha type="3">Disvāravindāni mukhāravindaṃ</gatha>
+  <gatha type="last">Nāthassa lajjā viya saṃkujanti.</gatha>
+  <hangnum nr="71"/>
+  <gatha type="1"> Madhurā madhurābhirutā,</gatha>
+  <gatha type="2">Caritā padume padumeḷigaṇā;</gatha>
+  <gatha type="3">Vasatiṃ adhunā madhunā,</gatha>
+  <gatha type="last">Akaruṃ jahitaṃ kimidaṃ patinā.</gatha>
+  <hangnum nr="72"/>
+  <gatha type="1"> Tamhā rasaṃ madhukarā bhavanaṃ haritvā,</gatha>
+  <gatha type="2">Ninnādino samadhuraṃ madhuraṃ karonti;</gatha>
+  <gatha type="3">Nādena nādamatiriccupavīṇayanti,</gatha>
+  <gatha type="last">Naccanti tā surapure vaṇitā va tāva.</gatha>
+  <hangnum nr="73"/>
+  <gatha type="1"> Sañcoditā pīṇapayodharādharā,</gatha>
+  <gatha type="2">Virājitānaṅgajamekhalākhalā;</gatha>
+  <gatha type="3">Suraṅgaṇā vaṅgajaphassadā sadā,</gatha>
+  <gatha type="last">Ramā ramāpenti varaṅgadāgadā.</gatha>
+  <hangnum nr="74"/>
+  <gatha type="1"> Karātirattā ratirattarāmā,</gatha>
+  <gatha type="2">Tāḷenti tāḷāvacare samantā;</gatha>
+  <gatha type="3">Naccuggatānekasahassahatthā,</gatha>
+  <gatha type="last">Sakkopi kiṃ sakyasamoti codayuṃ.</gatha>
+  <hangnum nr="75"/>
+  <gatha type="1"> Visālanettā hasulā sumajjhā,</gatha>
+  <gatha type="2">Nimbatthanī vimhayagītasaddā;</gatha>
+  <gatha type="3">Alaṅkatā malladharā suvatthā,</gatha>
+  <gatha type="last">Naccanti tāḷāvacarehi ghuṭṭhā.</gatha>
+  <hangnum nr="76"/>
+  <gatha type="1"> Yāsaṃ hi loke upamā natthi,</gatha>
+  <gatha type="2">Tāsaṃ hi phassesu kathāvakāsā;</gatha>
+  <gatha type="3">Taṃ tādisaṃ kāmaratiṃnubhonto,</gatha>
+  <gatha type="last">Hitvā kathaṃ nu padamuddhari so nirāso.</gatha>
+  <hangnum nr="77"/>
+  <gatha type="1"> Pādepāde valayaviravāmekhalāvīṇānādā,</gatha>
+  <gatha type="2">Gītaṃgītaṃ patiratikaraṃ gāyatī gāyatī sā;</gatha>
+  <gatha type="3">Hatthehatthe valayacalitā sambhamaṃ sambhamanti,</gatha>
+  <gatha type="last">Disvādisvā iti ratikaraṃ yāti hāhā kimīhā.</gatha>
 </text>
-</TEI.2>

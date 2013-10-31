@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Cūḷavaggavaṇṇanā</p>
-</body>
-<back></back>
+  <chapter>Cūḷavaggavaṇṇanā</chapter>
 </text>
-</TEI.2>

@@ -1,103 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Patthanādīpanīgāthā</p>
-
-<p rend="hangnum" n="242"><hi rend="paranum">242</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Asmiṃ ca pubbepi ca attabhāve,</p>
-
-<p rend="gatha2">Sabbehi puññehi mayā katehi;</p>
-
-<p rend="gatha3">Pūjāvidhānehi ca saññamehi,</p>
-
-<p rend="gathalast">Bhave bhave pemaniyo bhaveyyaṃ.</p>
-
-<p rend="hangnum" n="243"><hi rend="paranum">243</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saddhā hirottappabahussutattaṃ,</p>
-
-<p rend="gatha2">Parakkamo ceva satissamādhi;</p>
-
-<p rend="gatha3">Nibbedhabhāgī vajirūpamāti,</p>
-
-<p rend="gathalast">Paññā ca me sijjhatu yāva bodhiṃ.</p>
-
-<p rend="hangnum" n="244"><hi rend="paranum">244</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Rāgañca dosañca pahāya mohaṃ,</p>
-
-<p rend="gatha2">Diṭṭhiñca mānaṃ vicikicchitañca;</p>
-
-<p rend="gatha3">Macchereissāmalavippahīno,</p>
-
-<p rend="gathalast">Anuddhato accapalo bhaveyyaṃ.</p>
-
-<p rend="hangnum" n="245"><hi rend="paranum">245</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Bhaveyyahaṃ kenaci nappaseyho,</p>
-
-<p rend="gatha2">Bhogo ca dinnehi paṭehi;</p>
-
-<p rend="gatha3">Bhogo ca kāyo ca mamesa laddho,</p>
-
-<p rend="gathalast">Parūpakārāya bhaveyyaṃ nūna.</p>
-
-<p rend="hangnum" n="246"><hi rend="paranum">246</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dhammenā mālāpitaro bhareyyaṃ,</p>
-
-<p rend="gatha2">Vuḍḍhapacāyī ca bahūpakārī;</p>
-
-<p rend="gatha3">Ñātīsu mittesu sapattakesu,</p>
-
-<p rend="gathalast">Vuḍḍhiṃ kareyyaṃ hitamattano ca.</p>
-
-<p rend="hangnum" n="247"><hi rend="paranum">247</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Metteyyanāthaṃ upasaṅkamitvā,</p>
-
-<p rend="gatha2">Tassattabhāvaṃ abhipūjayitvā;</p>
-
-<p rend="gatha3">Laddhāna veyyākaraṇaṃ anūnaṃ,</p>
-
-<p rend="gathalast">Buddho ayaṃ hessatināgatesu.</p>
-
-<p rend="hangnum" n="248"><hi rend="paranum">248</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Lokena kenāpi anupalitto,</p>
-
-<p rend="gatha2">Dāne rato sīlaguṇe susāṇṭhito;</p>
-
-<p rend="gatha3">Nekkhammabhāgi varañāṇalābhī,</p>
-
-<p rend="gathalast">Bhaveyyahaṃ thāmabalupapanno.</p>
-
-<p rend="hangnum" n="249"><hi rend="paranum">249</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sīsaṃ samaṃsamaṃ mama hatthapāde,</p>
-
-<p rend="gatha2">Saṃchinadamānepi kareyyakhantiṃ;</p>
-
-<p rend="gatha3">Sacce ṭhito kālumadhiṭṭhite va,</p>
-
-<p rend="gathalast">Mettāyupekkhāya yuto bhaveyyaṃ.</p>
-
-<p rend="hangnum" n="250"><hi rend="paranum">250</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Mahāpariccāgaṃ katvā pañca,</p>
-
-<p rend="gatha2">Sambodhimaggaṃ avirādhayanto;</p>
-
-<p rend="gatha3">Chetvā kilese citapañcamāro,</p>
-
-<p rend="gathalast">Buddho bhavissāmi anāgatesu.</p>
-</body>
-<back></back>
+  <chapter>Patthanādīpanīgāthā</chapter>
+  <hangnum nr="242"/>
+  <gatha type="1"> Asmiṃ ca pubbepi ca attabhāve,</gatha>
+  <gatha type="2">Sabbehi puññehi mayā katehi;</gatha>
+  <gatha type="3">Pūjāvidhānehi ca saññamehi,</gatha>
+  <gatha type="last">Bhave bhave pemaniyo bhaveyyaṃ.</gatha>
+  <hangnum nr="243"/>
+  <gatha type="1"> Saddhā hirottappabahussutattaṃ,</gatha>
+  <gatha type="2">Parakkamo ceva satissamādhi;</gatha>
+  <gatha type="3">Nibbedhabhāgī vajirūpamāti,</gatha>
+  <gatha type="last">Paññā ca me sijjhatu yāva bodhiṃ.</gatha>
+  <hangnum nr="244"/>
+  <gatha type="1"> Rāgañca dosañca pahāya mohaṃ,</gatha>
+  <gatha type="2">Diṭṭhiñca mānaṃ vicikicchitañca;</gatha>
+  <gatha type="3">Macchereissāmalavippahīno,</gatha>
+  <gatha type="last">Anuddhato accapalo bhaveyyaṃ.</gatha>
+  <hangnum nr="245"/>
+  <gatha type="1"> Bhaveyyahaṃ kenaci nappaseyho,</gatha>
+  <gatha type="2">Bhogo ca dinnehi paṭehi;</gatha>
+  <gatha type="3">Bhogo ca kāyo ca mamesa laddho,</gatha>
+  <gatha type="last">Parūpakārāya bhaveyyaṃ nūna.</gatha>
+  <hangnum nr="246"/>
+  <gatha type="1"> Dhammenā mālāpitaro bhareyyaṃ,</gatha>
+  <gatha type="2">Vuḍḍhapacāyī ca bahūpakārī;</gatha>
+  <gatha type="3">Ñātīsu mittesu sapattakesu,</gatha>
+  <gatha type="last">Vuḍḍhiṃ kareyyaṃ hitamattano ca.</gatha>
+  <hangnum nr="247"/>
+  <gatha type="1"> Metteyyanāthaṃ upasaṅkamitvā,</gatha>
+  <gatha type="2">Tassattabhāvaṃ abhipūjayitvā;</gatha>
+  <gatha type="3">Laddhāna veyyākaraṇaṃ anūnaṃ,</gatha>
+  <gatha type="last">Buddho ayaṃ hessatināgatesu.</gatha>
+  <hangnum nr="248"/>
+  <gatha type="1"> Lokena kenāpi anupalitto,</gatha>
+  <gatha type="2">Dāne rato sīlaguṇe susāṇṭhito;</gatha>
+  <gatha type="3">Nekkhammabhāgi varañāṇalābhī,</gatha>
+  <gatha type="last">Bhaveyyahaṃ thāmabalupapanno.</gatha>
+  <hangnum nr="249"/>
+  <gatha type="1"> Sīsaṃ samaṃsamaṃ mama hatthapāde,</gatha>
+  <gatha type="2">Saṃchinadamānepi kareyyakhantiṃ;</gatha>
+  <gatha type="3">Sacce ṭhito kālumadhiṭṭhite va,</gatha>
+  <gatha type="last">Mettāyupekkhāya yuto bhaveyyaṃ.</gatha>
+  <hangnum nr="250"/>
+  <gatha type="1"> Mahāpariccāgaṃ katvā pañca,</gatha>
+  <gatha type="2">Sambodhimaggaṃ avirādhayanto;</gatha>
+  <gatha type="3">Chetvā kilese citapañcamāro,</gatha>
+  <gatha type="last">Buddho bhavissāmi anāgatesu.</gatha>
 </text>
-</TEI.2>

@@ -1,21 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Uposathādipucchāvissajjanāvaṇṇanā</p>
-
-<p rend="bodytext" n="332"><hi rend="paranum">332</hi><hi rend="dot">.</hi> Uposathādipucchāsu <pb ed="V" n="2.0276" /><hi rend="bold">pavāraṇagāthā</hi>ti diṭṭhādīhi tīhi ṭhānehi pavāraṇāvācā eva. Evaṃ vuttānaṃ pana chandovicitilakkhaṇena vuttajātibhedā gāthā.</p>
-
-<p rend="centre">Chakkavārādivaṇṇanā niṭṭhitā.</p>
-
-<p rend="centre">Mahāvaggavaṇṇanānayo niṭṭhito.</p>
-
-<p rend="title">Paññattivaggo</p>
-</body>
-<back></back>
+  <chapter>Uposathādipucchāvissajjanāvaṇṇanā</chapter>
+  <paragraph nr="332"> Uposathādipucchāsu pavāraṇagāthāti diṭṭhādīhi tīhi ṭhānehi pavāraṇāvācā eva. Evaṃ vuttānaṃ pana chandovicitilakkhaṇena vuttajātibhedā gāthā.</paragraph>
+  <centered>Chakkavārādivaṇṇanā niṭṭhitā.</centered>
+  <centered>Mahāvaggavaṇṇanānayo niṭṭhito.</centered>
+  <title>Paññattivaggo</title>
 </text>
-</TEI.2>

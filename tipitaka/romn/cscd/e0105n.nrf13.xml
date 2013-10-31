@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Sāgaliyanikāyuppatti</p>
-
-<p rend="bodytext">Punapi te abhayagirivāsino <hi rend="bold">goṭhābhaya</hi>rañño kāle (797-810-bu-va) vetullavādaṃ tatheva dassenti. Tadā pana tesu <hi rend="bold">ussiliyātisso</hi> nāma mahāthero <hi rend="bold">vohārakatissa</hi>rājakāle vetullavādīnaṃ bhikkhūnaṃ kataniggahaṃ sutvā ‘‘vicāraṇasampannassa rañño samaye tatheva bhaveyya, na bhaddakameta’’nti cintetvā ‘‘na mayaṃ tehi ekato homā’’ti tisatamatte bhikkhū gahetvā dakkhiṇagirivihāraṃ gantvā <hi rend="bold">dhammarucinikāya</hi>to visuṃ hutvā vasi. Tesu <hi rend="bold">sāgalo</hi> nāma mahāthero tattheva dakkhiṇagirimhi vasanto āgamabyākhyānamakāsi. Tato paṭṭhāya taṃ theramārabbha tassantevāsino <hi rend="bold">sāgaliyā</hi> nāma ahesuṃ. Tesampi <pb ed="M" n="0.0026" /> vādo pacchā <hi rend="bold">mahāsena</hi>rājakāle <hi rend="bold">jetavanavihāre</hi> patthari <note>nikāya 13-piṭṭhe</note>.</p>
-</body>
-<back></back>
+  <chapter>Sāgaliyanikāyuppatti</chapter>
+  <paragraph>Punapi te abhayagirivāsino goṭhābhayarañño kāle (797-810-bu-va) vetullavādaṃ tatheva dassenti. Tadā pana tesu ussiliyātisso nāma mahāthero vohārakatissarājakāle vetullavādīnaṃ bhikkhūnaṃ kataniggahaṃ sutvā ‘‘vicāraṇasampannassa rañño samaye tatheva bhaveyya, na bhaddakameta’’nti cintetvā ‘‘na mayaṃ tehi ekato homā’’ti tisatamatte bhikkhū gahetvā dakkhiṇagirivihāraṃ gantvā dhammarucinikāyato visuṃ hutvā vasi. Tesu sāgalo nāma mahāthero tattheva dakkhiṇagirimhi vasanto āgamabyākhyānamakāsi. Tato paṭṭhāya taṃ theramārabbha tassantevāsino sāgaliyā nāma ahesuṃ. Tesampi  vādo pacchā mahāsenarājakāle jetavanavihāre patthari <note>[nikāya 13-piṭṭhe]</note>.</paragraph>
 </text>
-</TEI.2>

@@ -1,181 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">3. Samavuttiniddesa-tatiyapariccheda</p>
-
-<p rend="bodytext" n="46"><hi rend="paranum">46</hi><hi rend="dot">.</hi> Tyā’ ce <hi rend="bold">tanumajjhā.</hi></p>
-
-<p rend="centre">Gāyattī.</p>
-
-<p rend="bodytext" n="47"><hi rend="paranum">47</hi><hi rend="dot">.</hi><hi rend="bold">Kumāra lalitā</hi> jsgā.</p>
-
-<p rend="centre">Uṇhikā.</p>
-
-<p rend="bodytext" n="48"><hi rend="paranum">48</hi><hi rend="dot">.</hi><hi rend="bold">Citrapadā</hi> yadi bhā gā.</p>
-
-<p rend="bodytext" n="49"><hi rend="paranum">49</hi><hi rend="dot">.</hi> Mo mo go go <hi rend="bold">vijjummālā.</hi></p>
-
-<p rend="bodytext" n="50"><hi rend="paranum">50</hi><hi rend="dot">.</hi> Bhā ta, la, gā <hi rend="bold">māṇavakaṃ.</hi></p>
-
-<p rend="bodytext" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi> Glā <hi rend="bold">samānikā</hi> ra,jā ca.</p>
-
-<p rend="bodytext" n="52"><hi rend="paranum">52</hi><hi rend="dot">.</hi><hi rend="bold">Pamāṇikā</hi> ja, rā la, gā.</p>
-
-<p rend="centre">Anuṭṭhubhā.</p>
-
-<p rend="bodytext" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi> Rā na,sā yadi <hi rend="bold">halamukhī.</hi></p>
-
-<p rend="bodytext" n="54"><hi rend="paranum">54</hi><hi rend="dot">.</hi><hi rend="bold">Bhujaga susu saṭā</hi> nā mo.</p>
-
-<p rend="centre">Brahatī.</p>
-
-<p rend="bodytext" n="55"><hi rend="paranum">55</hi><hi rend="dot">.</hi> Msājgā <hi rend="bold">suddhavirājitaṃ</hi> mataṃ.</p>
-
-<p rend="bodytext" n="56"><hi rend="paranum">56</hi><hi rend="dot">.</hi> Mnā yo go yadi <hi rend="bold">paṇavo</hi> khyāto.</p>
-
-<p rend="bodytext" n="57"><hi rend="paranum">57</hi><hi rend="dot">.</hi> Mbhā sa,gayuttā <hi rend="bold">rummavatī</hi> sā.</p>
-
-<p rend="bodytext" n="58"><hi rend="paranum">58</hi><hi rend="dot">.</hi> Ñeyyā <hi rend="bold">mattā</hi> ma, bha, sa, gayuttā.</p>
-
-<p rend="bodytext" n="59"><hi rend="paranum">59</hi><hi rend="dot">.</hi><hi rend="bold">Campakamālā</hi> ce bha, ma, sā go <note>idaṃ nāmantarañāpanatthameva puna vuttaṃ (ṭī.)</note>.</p>
-
-<p rend="bodytext" n="60"><hi rend="paranum">60</hi><hi rend="dot">.</hi> Na, ra, ja, gehi sā <hi rend="bold">manoramā.</hi></p>
-
-<p rend="bodytext" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi><hi rend="bold">Ubbhāsakaṃ</hi> taṃ ce to ma, rā lca.</p>
-
-<p rend="bodytext" n="62"><hi rend="paranum">62</hi><hi rend="dot">.</hi> To jā garunā’ya’<hi rend="bold">mupaṭṭhitā.</hi></p>
-
-<p rend="centre">Panti.</p>
-
-<p rend="bodytext" n="63"><hi rend="paranum">63</hi><hi rend="dot">.</hi><hi rend="bold">Indā</hi>dikā <pb ed="M" n="0.0196" /> tā <hi rend="bold">vajirā</hi> ja, gā go.</p>
-
-<p rend="bodytext" n="64"><hi rend="paranum">64</hi><hi rend="dot">.</hi><hi rend="bold">Upādi</hi>kā sā’va ja,tā ja,gā go.</p>
-
-<p rend="hangnum" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anantaro’dīrita lakkhaṇā ce, (upendavajira)</p>
-
-<p rend="gatha2">Pādā vimissā <hi rend="bold">upajātiyo</hi> tā; (Indavajira)</p>
-
-<p rend="gatha3">Evaṃ kila’ññāsupi missitāsu, (indavajira)</p>
-
-<p rend="gathalast">Vadanti jātisvida’ meva nāmaṃ. (upendavajira)</p>
-
-<p rend="bodytext" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi> Na, ja, ja, la, gā gaditā <hi rend="bold">sumukhī.</hi></p>
-
-<p rend="bodytext" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi><hi rend="bold">Dodhaka</hi> micchati ce bha,bha,bhā gā.</p>
-
-<p rend="bodytext" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi> Veda,ssehi,dhtā tgagā,<hi rend="bold">sālinī</hi> sā.</p>
-
-<p rend="bodytext" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi><hi rend="bold">Vātommī</hi> sā, yati sā mbhā ta, gā go.</p>
-
-<p rend="bodytext" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi> Bhā ta, na, gā go’su, rasa <hi rend="bold">sirī</hi> sā.</p>
-
-<p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> Ro na, rā iha <hi rend="bold">rathoddhatā</hi> la, gā.</p>
-
-<p rend="bodytext" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi><hi rend="bold">Svāgate’</hi>ti ra, na, bhā garukā dve.</p>
-
-<p rend="bodytext" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi> Na,na,ra,lahu,garūhi <hi rend="bold">bhaddikā.</hi></p>
-
-<p rend="centre">Tiṭṭhubhā.</p>
-
-<p rend="bodytext" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi> Vadanti <hi rend="bold">vaṃsaṭṭhami’</hi>daṃ ja, tā ja, rā.</p>
-
-<p rend="bodytext" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi> Sā <hi rend="bold">indavaṃsā</hi> khalu yattha tā ja,rā.</p>
-
-<p rend="bodytext" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi> Idha <hi rend="bold">toṭaka</hi> mambudhi,sehi mitaṃ.</p>
-
-<p rend="bodytext" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi><hi rend="bold">Dutavilambita</hi> māha na, bhā bha,rā.</p>
-
-<p rend="bodytext" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi> Vasu yuga viratī nā,myā’ <hi rend="bold">puṭo’</hi>yaṃ.</p>
-
-<p rend="bodytext" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi> Na, ya, sahitā nyā’ <hi rend="bold">kusumavicittā.</hi></p>
-
-<p rend="bodytext" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi><hi rend="bold">Bhujaṅga’ppayātaṃ</hi> bhave veda, yehi.</p>
-
-<p rend="bodytext" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi> Na, bha, ja, rehi bhavati’<hi rend="bold">ppiyaṃvadā.</hi></p>
-
-<p rend="bodytext" n="82"><hi rend="paranum">82</hi><hi rend="dot">.</hi> Vuttā sudhīhi <hi rend="bold">lalitā</hi> ta, bhā ja, rā.</p>
-
-<p rend="bodytext" n="83"><hi rend="paranum">83</hi><hi rend="dot">.</hi><hi rend="bold">Pamitakkharā</hi> sa, ja, sa,sehu’ditā.</p>
-
-<p rend="bodytext" n="84"><hi rend="paranum">84</hi><hi rend="dot">.</hi> Na,na,bha,ra,sahitā’bhihitu’<hi rend="bold">jjalā.</hi></p>
-
-<p rend="bodytext" n="85"><hi rend="paranum">85</hi><hi rend="dot">.</hi> Pañca’ssa’cchinnā, <hi rend="bold">vessadevī</hi> ma,mā yā.</p>
-
-<p rend="bodytext" n="86"><hi rend="paranum">86</hi><hi rend="dot">.</hi> Bhavati <pb ed="M" n="0.0197" /> hi <hi rend="bold">tāmarasaṃ</hi> na, ja, jā yo.</p>
-
-<p rend="bodytext" n="87"><hi rend="paranum">87</hi><hi rend="dot">.</hi><hi rend="bold">‘Kamalā’</hi>ti ñeyyā sa,ya,sehi yo ce.</p>
-
-<p rend="centre">Jagatī.</p>
-
-<p rend="bodytext" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi> Mnā jrā go, tidasayati’<hi rend="bold">ppahassiṇī</hi> sā.</p>
-
-<p rend="bodytext" n="89"><hi rend="paranum">89</hi><hi rend="dot">.</hi> Catu,ggahe,hi’ha <hi rend="bold">rucirā,</hi> ja,bhā sja,gā.</p>
-
-<p rend="centre">Atijagatī.</p>
-
-<p rend="bodytext" n="90"><hi rend="paranum">90</hi><hi rend="dot">.</hi> Na,na,ra,sa,lahu,gā,sarehi’<hi rend="bold">parājitā.</hi></p>
-
-<p rend="bodytext" n="91"><hi rend="paranum">91</hi><hi rend="dot">.</hi> Na,na,bha,na,la,gi’ti,<hi rend="bold">ppaharaṇakalikā.</hi></p>
-
-<p rend="bodytext" n="92"><hi rend="paranum">92</hi><hi rend="dot">.</hi> Vuttā <hi rend="bold">vasantatilakā</hi> ta,bha,jā ja,gā go.</p>
-
-<p rend="centre">Sakkarī.</p>
-
-<p rend="bodytext" n="93"><hi rend="paranum">93</hi><hi rend="dot">.</hi> Dvihata haya lahu ra’tha gi’ti <hi rend="bold">sasikalā.</hi></p>
-
-<p rend="bodytext" n="94"><hi rend="paranum">94</hi><hi rend="dot">.</hi> Vasu,haya,yati ri’ha,<hi rend="bold">maṇiguṇanikaro.</hi></p>
-
-<p rend="bodytext" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi> Na,na,ma,ya,ya,yutā’yaṃ,<hi rend="bold">mālinī</hi> bhogi’sīhi.</p>
-
-<p rend="bodytext" n="96"><hi rend="paranum">96</hi><hi rend="dot">.</hi> Bhavati na,jā,bha,jā rasahitā <hi rend="bold">pabhaddakaṃ.</hi></p>
-
-<p rend="centre">Atisakkarī.</p>
-
-<p rend="bodytext" n="97"><hi rend="paranum">97</hi><hi rend="dot">.</hi> Na,ja,bha,ja,rā sadā bhavati <hi rend="bold">vāṇinī</hi> ga, yuttā.</p>
-
-<p rend="centre">Aṭṭhi.</p>
-
-<p rend="bodytext" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi> Ya, mā no so bhalgā, rasa, haravirāmā <hi rend="bold">sikharaṇī.</hi></p>
-
-<p rend="bodytext" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi> Rasa, yugi, sito, no so mrā slā, gya’dā <hi rend="bold">hariṇī</hi> tadā.</p>
-
-<p rend="bodytext" n="100"><hi rend="paranum">100</hi><hi rend="dot">.</hi><hi rend="bold">Mandakkantā,</hi> ma,bha,na,ta,ta,gā, go yugu,tva,ssakehi.</p>
-
-<p rend="centre">Accaṭṭhi.</p>
-
-<p rend="bodytext" n="101"><hi rend="paranum">101</hi><hi rend="dot">.</hi> Mo to no yo yā, <hi rend="bold">kusumitalatā, vellitā’</hi> kkhu,tvi,sīhi.</p>
-
-<p rend="centre">Dhuti.</p>
-
-<p rend="bodytext" n="102"><hi rend="paranum">102</hi><hi rend="dot">.</hi> Rasu,tva,ssehi ymā, na,sa,ra,ra,garū, <hi rend="bold">meghavipphujjitā</hi> sā.</p>
-
-<p rend="bodytext" n="103"><hi rend="paranum">103</hi><hi rend="dot">.</hi> Akkassehi yati msa,jāsa,ta,ta,gā, <hi rend="bold">saddūlavikkīḷitaṃ.</hi></p>
-
-<p rend="centre">Atidhuti.</p>
-
-<p rend="bodytext" n="104"><hi rend="paranum">104</hi><hi rend="dot">.</hi><hi rend="bold">Vutta</hi><pb ed="M" n="0.0198" /> mīdisaṃ tu nāmato ra,jā ra,jā ra,jā garū,lahū ca.</p>
-
-<p rend="centre">Kati.</p>
-
-<p rend="bodytext" n="105"><hi rend="paranum">105</hi><hi rend="dot">.</hi> Mrā bhnā yo yo’tra yena,tti,muni, yatiyutā, <hi rend="bold">sandharā</hi> kittitā’yaṃ.</p>
-
-<p rend="centre">Pakati.</p>
-
-<p rend="bodytext" n="106"><hi rend="paranum">106</hi><hi rend="dot">.</hi> O na,ra,nā ra,nā ca tha garū dasa,kka,viramañhi <hi rend="bold">bhaddaka’</hi>midaṃ.</p>
-
-<p rend="centre">Ākati.</p>
-
-<p rend="centre">Iti vuttodaye chandasi samavuttiniddeso nāma</p>
-
-<p rend="centre">Tatiyo paricchedo.</p>
-</body>
-<back></back>
+  <chapter>3. Samavuttiniddesa-tatiyapariccheda</chapter>
+  <paragraph nr="46"> Tyā’ ce tanumajjhā.</paragraph>
+  <centered>Gāyattī.</centered>
+  <paragraph nr="47">Kumāra lalitā jsgā.</paragraph>
+  <centered>Uṇhikā.</centered>
+  <paragraph nr="48">Citrapadā yadi bhā gā.</paragraph>
+  <paragraph nr="49"> Mo mo go go vijjummālā.</paragraph>
+  <paragraph nr="50"> Bhā ta, la, gā māṇavakaṃ.</paragraph>
+  <paragraph nr="51"> Glā samānikā ra,jā ca.</paragraph>
+  <paragraph nr="52">Pamāṇikā ja, rā la, gā.</paragraph>
+  <centered>Anuṭṭhubhā.</centered>
+  <paragraph nr="53"> Rā na,sā yadi halamukhī.</paragraph>
+  <paragraph nr="54">Bhujaga susu saṭā nā mo.</paragraph>
+  <centered>Brahatī.</centered>
+  <paragraph nr="55"> Msājgā suddhavirājitaṃ mataṃ.</paragraph>
+  <paragraph nr="56"> Mnā yo go yadi paṇavo khyāto.</paragraph>
+  <paragraph nr="57"> Mbhā sa,gayuttā rummavatī sā.</paragraph>
+  <paragraph nr="58"> Ñeyyā mattā ma, bha, sa, gayuttā.</paragraph>
+  <paragraph nr="59">Campakamālā ce bha, ma, sā go <note>[idaṃ nāmantarañāpanatthameva puna vuttaṃ (ṭī.)]</note>.</paragraph>
+  <paragraph nr="60"> Na, ra, ja, gehi sā manoramā.</paragraph>
+  <paragraph nr="61">Ubbhāsakaṃ taṃ ce to ma, rā lca.</paragraph>
+  <paragraph nr="62"> To jā garunā’ya’mupaṭṭhitā.</paragraph>
+  <centered>Panti.</centered>
+  <paragraph nr="63">Indādikā  tā vajirā ja, gā go.</paragraph>
+  <paragraph nr="64">Upādikā sā’va ja,tā ja,gā go.</paragraph>
+  <hangnum nr="65"/>
+  <gatha type="1"> Anantaro’dīrita lakkhaṇā ce, (upendavajira)</gatha>
+  <gatha type="2">Pādā vimissā upajātiyo tā; (Indavajira)</gatha>
+  <gatha type="3">Evaṃ kila’ññāsupi missitāsu, (indavajira)</gatha>
+  <gatha type="last">Vadanti jātisvida’ meva nāmaṃ. (upendavajira)</gatha>
+  <paragraph nr="66"> Na, ja, ja, la, gā gaditā sumukhī.</paragraph>
+  <paragraph nr="67">Dodhaka micchati ce bha,bha,bhā gā.</paragraph>
+  <paragraph nr="68"> Veda,ssehi,dhtā tgagā,sālinī sā.</paragraph>
+  <paragraph nr="69">Vātommī sā, yati sā mbhā ta, gā go.</paragraph>
+  <paragraph nr="70"> Bhā ta, na, gā go’su, rasa sirī sā.</paragraph>
+  <paragraph nr="71"> Ro na, rā iha rathoddhatā la, gā.</paragraph>
+  <paragraph nr="72">Svāgate’ti ra, na, bhā garukā dve.</paragraph>
+  <paragraph nr="73"> Na,na,ra,lahu,garūhi bhaddikā.</paragraph>
+  <centered>Tiṭṭhubhā.</centered>
+  <paragraph nr="74"> Vadanti vaṃsaṭṭhami’daṃ ja, tā ja, rā.</paragraph>
+  <paragraph nr="75"> Sā indavaṃsā khalu yattha tā ja,rā.</paragraph>
+  <paragraph nr="76"> Idha toṭaka mambudhi,sehi mitaṃ.</paragraph>
+  <paragraph nr="77">Dutavilambita māha na, bhā bha,rā.</paragraph>
+  <paragraph nr="78"> Vasu yuga viratī nā,myā’ puṭo’yaṃ.</paragraph>
+  <paragraph nr="79"> Na, ya, sahitā nyā’ kusumavicittā.</paragraph>
+  <paragraph nr="80">Bhujaṅga’ppayātaṃ bhave veda, yehi.</paragraph>
+  <paragraph nr="81"> Na, bha, ja, rehi bhavati’ppiyaṃvadā.</paragraph>
+  <paragraph nr="82"> Vuttā sudhīhi lalitā ta, bhā ja, rā.</paragraph>
+  <paragraph nr="83">Pamitakkharā sa, ja, sa,sehu’ditā.</paragraph>
+  <paragraph nr="84"> Na,na,bha,ra,sahitā’bhihitu’jjalā.</paragraph>
+  <paragraph nr="85"> Pañca’ssa’cchinnā, vessadevī ma,mā yā.</paragraph>
+  <paragraph nr="86"> Bhavati  hi tāmarasaṃ na, ja, jā yo.</paragraph>
+  <paragraph nr="87">‘Kamalā’ti ñeyyā sa,ya,sehi yo ce.</paragraph>
+  <centered>Jagatī.</centered>
+  <paragraph nr="88"> Mnā jrā go, tidasayati’ppahassiṇī sā.</paragraph>
+  <paragraph nr="89"> Catu,ggahe,hi’ha rucirā, ja,bhā sja,gā.</paragraph>
+  <centered>Atijagatī.</centered>
+  <paragraph nr="90"> Na,na,ra,sa,lahu,gā,sarehi’parājitā.</paragraph>
+  <paragraph nr="91"> Na,na,bha,na,la,gi’ti,ppaharaṇakalikā.</paragraph>
+  <paragraph nr="92"> Vuttā vasantatilakā ta,bha,jā ja,gā go.</paragraph>
+  <centered>Sakkarī.</centered>
+  <paragraph nr="93"> Dvihata haya lahu ra’tha gi’ti sasikalā.</paragraph>
+  <paragraph nr="94"> Vasu,haya,yati ri’ha,maṇiguṇanikaro.</paragraph>
+  <paragraph nr="95"> Na,na,ma,ya,ya,yutā’yaṃ,mālinī bhogi’sīhi.</paragraph>
+  <paragraph nr="96"> Bhavati na,jā,bha,jā rasahitā pabhaddakaṃ.</paragraph>
+  <centered>Atisakkarī.</centered>
+  <paragraph nr="97"> Na,ja,bha,ja,rā sadā bhavati vāṇinī ga, yuttā.</paragraph>
+  <centered>Aṭṭhi.</centered>
+  <paragraph nr="98"> Ya, mā no so bhalgā, rasa, haravirāmā sikharaṇī.</paragraph>
+  <paragraph nr="99"> Rasa, yugi, sito, no so mrā slā, gya’dā hariṇī tadā.</paragraph>
+  <paragraph nr="100">Mandakkantā, ma,bha,na,ta,ta,gā, go yugu,tva,ssakehi.</paragraph>
+  <centered>Accaṭṭhi.</centered>
+  <paragraph nr="101"> Mo to no yo yā, kusumitalatā, vellitā’ kkhu,tvi,sīhi.</paragraph>
+  <centered>Dhuti.</centered>
+  <paragraph nr="102"> Rasu,tva,ssehi ymā, na,sa,ra,ra,garū, meghavipphujjitā sā.</paragraph>
+  <paragraph nr="103"> Akkassehi yati msa,jāsa,ta,ta,gā, saddūlavikkīḷitaṃ.</paragraph>
+  <centered>Atidhuti.</centered>
+  <paragraph nr="104">Vutta mīdisaṃ tu nāmato ra,jā ra,jā ra,jā garū,lahū ca.</paragraph>
+  <centered>Kati.</centered>
+  <paragraph nr="105"> Mrā bhnā yo yo’tra yena,tti,muni, yatiyutā, sandharā kittitā’yaṃ.</paragraph>
+  <centered>Pakati.</centered>
+  <paragraph nr="106"> O na,ra,nā ra,nā ca tha garū dasa,kka,viramañhi bhaddaka’midaṃ.</paragraph>
+  <centered>Ākati.</centered>
+  <centered>Iti vuttodaye chandasi samavuttiniddeso nāma</centered>
+  <centered>Tatiyo paricchedo.</centered>
 </text>
-</TEI.2>

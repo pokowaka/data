@@ -1,101 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">17. Kodhavaggo</p>
-
-<p rend="hangnum" n="221"><hi rend="paranum">221</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kodhaṃ <pb ed="M" n="0.0046" /> jahe vippajaheyya mānaṃ, saṃyojanaṃ sabbamatikkameyya;</p>
-
-<p rend="gathalast">Taṃ nāmarūpasmimasajjamānaṃ, akiñcanaṃ nānupatanti dukkhā.</p>
-
-<p rend="hangnum" n="222"><hi rend="paranum">222</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃva vāraye <note>dhāraye (sī. syā. pī.)</note>;</p>
-
-<p rend="gathalast">Tamahaṃ <pb ed="T" n="0.0045" /> sārathiṃ brūmi, rasmiggāho itaro jano.</p>
-
-<p rend="hangnum" n="223"><hi rend="paranum">223</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine;</p>
-
-<p rend="gathalast">Jine kadariyaṃ dānena, saccenālikavādinaṃ.</p>
-
-<p rend="hangnum" n="224"><hi rend="paranum">224</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saccaṃ bhaṇe na kujjheyya, dajjā appampi <note>dajjā’ppasmimpi (sī. pī.), dajjā appasmi (syā. ka.)</note> yācito;</p>
-
-<p rend="gathalast">Etehi tīhi ṭhānehi, gacche devāna santike.</p>
-
-<p rend="hangnum" n="225"><hi rend="paranum">225</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ahiṃsakā <pb ed="V" n="0.0042" /><pb ed="P" n="0.0034" /> ye munayo <note>ahiṃsakāyā munayo (ka.)</note>, niccaṃ kāyena saṃvutā;</p>
-
-<p rend="gathalast">Te yanti accutaṃ ṭhānaṃ, yattha gantvā na socare.</p>
-
-<p rend="hangnum" n="226"><hi rend="paranum">226</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sadā jāgaramānānaṃ, ahorattānusikkhinaṃ;</p>
-
-<p rend="gathalast">Nibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.</p>
-
-<p rend="hangnum" n="227"><hi rend="paranum">227</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Porāṇametaṃ <pb ed="M" n="0.0047" /> atula, netaṃ ajjatanāmiva;</p>
-
-<p rend="gatha2">Nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ;</p>
-
-<p rend="gathalast">Mitabhāṇimpi nindanti, natthi loke anindito.</p>
-
-<p rend="hangnum" n="228"><hi rend="paranum">228</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na cāhu na ca bhavissati, na cetarahi vijjati;</p>
-
-<p rend="gathalast">Ekantaṃ nindito poso, ekantaṃ vā pasaṃsito.</p>
-
-<p rend="hangnum" n="229"><hi rend="paranum">229</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yaṃ ce viññū pasaṃsanti, anuvicca suve suve;</p>
-
-<p rend="gathalast">Acchiddavuttiṃ <note>acchinnavuttiṃ (ka.)</note> medhāviṃ, paññāsīlasamāhitaṃ.</p>
-
-<p rend="hangnum" n="230"><hi rend="paranum">230</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nikkhaṃ <note>nekkhaṃ (sī. syā. pī.)</note> jambonadasseva, ko taṃ ninditumarahati;</p>
-
-<p rend="gathalast">Devāpi naṃ pasaṃsanti, brahmunāpi pasaṃsito.</p>
-
-<p rend="hangnum" n="231"><hi rend="paranum">231</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā;</p>
-
-<p rend="gathalast">Kāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.</p>
-
-<p rend="hangnum" n="232"><hi rend="paranum">232</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vacīpakopaṃ <pb ed="T" n="0.0046" /> rakkheyya, vācāya saṃvuto siyā;</p>
-
-<p rend="gathalast">Vacīduccaritaṃ hitvā, vācāya sucaritaṃ care.</p>
-
-<p rend="hangnum" n="233"><hi rend="paranum">233</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Manopakopaṃ rakkheyya, manasā saṃvuto siyā;</p>
-
-<p rend="gathalast">Manoduccaritaṃ hitvā, manasā sucaritaṃ care.</p>
-
-<p rend="hangnum" n="234"><hi rend="paranum">234</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kāyena <pb ed="V" n="0.0043" /> saṃvutā dhīrā, atho vācāya saṃvutā;</p>
-
-<p rend="gathalast">Manasā saṃvutā dhīrā, te ve suparisaṃvutā.</p>
-
-<p rend="centre">Kodhavaggo sattarasamo niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>17. Kodhavaggo</chapter>
+  <hangnum nr="221"/>
+  <gatha type="1"> Kodhaṃ  jahe vippajaheyya mānaṃ, saṃyojanaṃ sabbamatikkameyya;</gatha>
+  <gatha type="last">Taṃ nāmarūpasmimasajjamānaṃ, akiñcanaṃ nānupatanti dukkhā.</gatha>
+  <hangnum nr="222"/>
+  <gatha type="1"> Yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃva vāraye <note>[dhāraye (sī. syā. pī.)]</note>;</gatha>
+  <gatha type="last">Tamahaṃ  sārathiṃ brūmi, rasmiggāho itaro jano.</gatha>
+  <hangnum nr="223"/>
+  <gatha type="1"> Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine;</gatha>
+  <gatha type="last">Jine kadariyaṃ dānena, saccenālikavādinaṃ.</gatha>
+  <hangnum nr="224"/>
+  <gatha type="1"> Saccaṃ bhaṇe na kujjheyya, dajjā appampi <note>[dajjā’ppasmimpi (sī. pī.), dajjā appasmi (syā. ka.)]</note> yācito;</gatha>
+  <gatha type="last">Etehi tīhi ṭhānehi, gacche devāna santike.</gatha>
+  <hangnum nr="225"/>
+  <gatha type="1"> Ahiṃsakā  ye munayo <note>[ahiṃsakāyā munayo (ka.)]</note>, niccaṃ kāyena saṃvutā;</gatha>
+  <gatha type="last">Te yanti accutaṃ ṭhānaṃ, yattha gantvā na socare.</gatha>
+  <hangnum nr="226"/>
+  <gatha type="1"> Sadā jāgaramānānaṃ, ahorattānusikkhinaṃ;</gatha>
+  <gatha type="last">Nibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.</gatha>
+  <hangnum nr="227"/>
+  <gatha type="1"> Porāṇametaṃ  atula, netaṃ ajjatanāmiva;</gatha>
+  <gatha type="2">Nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ;</gatha>
+  <gatha type="last">Mitabhāṇimpi nindanti, natthi loke anindito.</gatha>
+  <hangnum nr="228"/>
+  <gatha type="1"> Na cāhu na ca bhavissati, na cetarahi vijjati;</gatha>
+  <gatha type="last">Ekantaṃ nindito poso, ekantaṃ vā pasaṃsito.</gatha>
+  <hangnum nr="229"/>
+  <gatha type="1"> Yaṃ ce viññū pasaṃsanti, anuvicca suve suve;</gatha>
+  <gatha type="last">Acchiddavuttiṃ <note>[acchinnavuttiṃ (ka.)]</note> medhāviṃ, paññāsīlasamāhitaṃ.</gatha>
+  <hangnum nr="230"/>
+  <gatha type="1"> Nikkhaṃ <note>[nekkhaṃ (sī. syā. pī.)]</note> jambonadasseva, ko taṃ ninditumarahati;</gatha>
+  <gatha type="last">Devāpi naṃ pasaṃsanti, brahmunāpi pasaṃsito.</gatha>
+  <hangnum nr="231"/>
+  <gatha type="1"> Kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā;</gatha>
+  <gatha type="last">Kāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.</gatha>
+  <hangnum nr="232"/>
+  <gatha type="1"> Vacīpakopaṃ  rakkheyya, vācāya saṃvuto siyā;</gatha>
+  <gatha type="last">Vacīduccaritaṃ hitvā, vācāya sucaritaṃ care.</gatha>
+  <hangnum nr="233"/>
+  <gatha type="1"> Manopakopaṃ rakkheyya, manasā saṃvuto siyā;</gatha>
+  <gatha type="last">Manoduccaritaṃ hitvā, manasā sucaritaṃ care.</gatha>
+  <hangnum nr="234"/>
+  <gatha type="1"> Kāyena  saṃvutā dhīrā, atho vācāya saṃvutā;</gatha>
+  <gatha type="last">Manasā saṃvutā dhīrā, te ve suparisaṃvutā.</gatha>
+  <centered>Kodhavaggo sattarasamo niṭṭhito.</centered>
 </text>
-</TEI.2>

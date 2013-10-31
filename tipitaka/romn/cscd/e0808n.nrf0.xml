@@ -1,131 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="centre">Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="book">Vuttodayaṃ</p>
-
-<p rend="chapter">1. Saññāparibhāsāniddesa-paṭhamapariccheda</p>
-
-<p rend="title">Ratanattayappaṇāma</p>
-
-<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nama’tthu jana santāna, tama santāna bhedino;</p>
-
-<p rend="gathalast">Dhammu’jjalanta rucino, munindo’dāta rocino.</p>
-
-<p rend="title">Nimitta</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Piṅgalā’cariyādīhi, chandaṃ ya muditaṃ purā;</p>
-
-<p rend="gathalast">Suddhamāgadhikānaṃ taṃ, na sādheti yathicchitaṃ <note>ya’dicchitaṃ yati’cchitaṃ (ka.)</note>.</p>
-
-<p rend="title">Ganthaparimāṇa</p>
-
-<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tato māgadhabhāsāya, mattā,vaṇṇa,vibhedanaṃ;</p>
-
-<p rend="gathalast">Lakkhya lakkhaṇa saṃyuttaṃ, pasanna’ttha,pada,kkamaṃ.</p>
-
-<p rend="title">Abhidhānādi</p>
-
-<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Idaṃ <hi rend="bold">vuttodayaṃ</hi> nāma, lokiya’cchandanissitaṃ;</p>
-
-<p rend="gathalast">Ārabhissa’mahaṃ dāni, tesaṃ sukhavibuddhiyā.</p>
-
-<p rend="title">Gaṇasaṅketasaññā</p>
-
-<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sabbaglā mnā,’digalahū, <hi rend="bold">bhyā’</hi>,majjha’nta garū <hi rend="bold">jasā;</hi></p>
-
-<p rend="gathalast">Majjha’ntalā <hi rend="bold">ra,te’</hi>te’ṭṭha, gaṇā go garu,lo lahu.</p>
-
-<p rend="title">Gaṇaniyama</p>
-
-<p rend="hangnum" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Bha,ja,sā <pb ed="M" n="0.0192" /> sabbaga,lahū, pañci’me saṇṭhitā gaṇā;</p>
-
-<p rend="gathalast"><hi rend="bold">Ariyādimhi</hi> viññeyyā, gaṇo idha catu’kkalo.</p>
-
-<p rend="title">Garu,lahusarūpa</p>
-
-<p rend="hangnum" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saṃyogā’di ca, dīgho ca, niggahītaparo ca, yo;</p>
-
-<p rend="gathalast"><hi rend="bold">Garu,</hi> vaṅko, pādanto,vā, rasso’ñño mattiko <hi rend="bold">lu’</hi>ju.</p>
-
-<p rend="hangnum" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pare pādādisaṃyoge, yo pubbo garuka’kkharo;</p>
-
-<p rend="gathalast"><hi rend="bold">Lahu</hi> sa kvaci viññeyyo, tadudāharaṇaṃ yathā.</p>
-
-<p rend="hangnum" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dassanarasā’nubhāvane, nibaddhagedhā jinassa’yaṃ janatā;</p>
-
-<p rend="gathalast">Vimhayajananī sañña<hi rend="bold">ta, kri</hi>yā nu kaṃ nā’nurañjayati.</p>
-
-<p rend="hangnum" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Viññeyyā lokato saññā, <hi rend="bold">samuddo,su,rasā</hi>dinaṃ;</p>
-
-<p rend="gathalast"><hi rend="bold">Pādo</hi>ñeyyo catutthaṃ’so, padacchedo <hi rend="bold">yatī</hi> bhave.</p>
-
-<p rend="hangnum" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Sama,maḍḍhasamaṃ,</hi> vuttaṃ, <hi rend="bold">visamaṃ</hi> cā’paraṃ tidhā;</p>
-
-<p rend="gathalast">Samā lakkhaṇato pādā, cattāro yassa taṃ <hi rend="bold">samaṃ.</hi></p>
-
-<p rend="hangnum" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassa’ntimena dutiyo, tatiyenā’dimo samo;</p>
-
-<p rend="gathalast">Ta’<hi rend="bold">daḍḍhasama, maññaṃ</hi> tu, bhinna lakkhaṇa pādikaṃ.</p>
-
-<p rend="hangnum" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pāda’mekakkharā’rabbha, yāva chabbīsata’kkharā;</p>
-
-<p rend="gathalast">Bhave pādehi taṃ chandaṃ, nānānāmo’ditaṃ tato.</p>
-
-<p rend="hangnum" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"><hi rend="bold">Daṇḍakā</hi> caṇḍavuṭṭhyā’di, pādehi chahi, tīhi tu;</p>
-
-<p rend="gathalast"><hi rend="bold">‘Gāthā’</hi>ti ca paratthe’vaṃ, chando saññā pakāsitā.</p>
-
-<p rend="hangnum" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anantaro’ditaṃ ca’ñña, metaṃ sāmañña nāmato;</p>
-
-<p rend="gathalast"><hi rend="bold">‘Gāthā’</hi>icceva niddiṭṭhaṃ, munindavacane pana.</p>
-
-<p rend="hangnum" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Visesanāmato kiñci, gahetvā sabbatho’citaṃ;</p>
-
-<p rend="gathalast">Dassayissāma’haṃ te’ttha, nāmānā’vi bhavissare.</p>
-
-<p rend="centre">Iti vuttodaye chandasi saññāparibhāsā niddeso nāma</p>
-
-<p rend="centre">Paṭhamo paricchedo.</p>
-</body>
-<back></back>
+  <centered>Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <book>Vuttodayaṃ</book>
+  <chapter>1. Saññāparibhāsāniddesa-paṭhamapariccheda</chapter>
+  <title>Ratanattayappaṇāma</title>
+  <hangnum nr="1"/>
+  <gatha type="1"> Nama’tthu jana santāna, tama santāna bhedino;</gatha>
+  <gatha type="last">Dhammu’jjalanta rucino, munindo’dāta rocino.</gatha>
+  <title>Nimitta</title>
+  <hangnum nr="2"/>
+  <gatha type="1"> Piṅgalā’cariyādīhi, chandaṃ ya muditaṃ purā;</gatha>
+  <gatha type="last">Suddhamāgadhikānaṃ taṃ, na sādheti yathicchitaṃ <note>[ya’dicchitaṃ yati’cchitaṃ (ka.)]</note>.</gatha>
+  <title>Ganthaparimāṇa</title>
+  <hangnum nr="3"/>
+  <gatha type="1"> Tato māgadhabhāsāya, mattā,vaṇṇa,vibhedanaṃ;</gatha>
+  <gatha type="last">Lakkhya lakkhaṇa saṃyuttaṃ, pasanna’ttha,pada,kkamaṃ.</gatha>
+  <title>Abhidhānādi</title>
+  <hangnum nr="4"/>
+  <gatha type="1"> Idaṃ vuttodayaṃ nāma, lokiya’cchandanissitaṃ;</gatha>
+  <gatha type="last">Ārabhissa’mahaṃ dāni, tesaṃ sukhavibuddhiyā.</gatha>
+  <title>Gaṇasaṅketasaññā</title>
+  <hangnum nr="5"/>
+  <gatha type="1"> Sabbaglā mnā,’digalahū, bhyā’,majjha’nta garū jasā;</gatha>
+  <gatha type="last">Majjha’ntalā ra,te’te’ṭṭha, gaṇā go garu,lo lahu.</gatha>
+  <title>Gaṇaniyama</title>
+  <hangnum nr="6"/>
+  <gatha type="1"> Bha,ja,sā  sabbaga,lahū, pañci’me saṇṭhitā gaṇā;</gatha>
+  <gatha type="last">Ariyādimhi viññeyyā, gaṇo idha catu’kkalo.</gatha>
+  <title>Garu,lahusarūpa</title>
+  <hangnum nr="7"/>
+  <gatha type="1"> Saṃyogā’di ca, dīgho ca, niggahītaparo ca, yo;</gatha>
+  <gatha type="last">Garu, vaṅko, pādanto,vā, rasso’ñño mattiko lu’ju.</gatha>
+  <hangnum nr="8"/>
+  <gatha type="1"> Pare pādādisaṃyoge, yo pubbo garuka’kkharo;</gatha>
+  <gatha type="last">Lahu sa kvaci viññeyyo, tadudāharaṇaṃ yathā.</gatha>
+  <hangnum nr="9"/>
+  <gatha type="1"> Dassanarasā’nubhāvane, nibaddhagedhā jinassa’yaṃ janatā;</gatha>
+  <gatha type="last">Vimhayajananī saññata, kriyā nu kaṃ nā’nurañjayati.</gatha>
+  <hangnum nr="10"/>
+  <gatha type="1"> Viññeyyā lokato saññā, samuddo,su,rasādinaṃ;</gatha>
+  <gatha type="last">Pādoñeyyo catutthaṃ’so, padacchedo yatī bhave.</gatha>
+  <hangnum nr="11"/>
+  <gatha type="1">Sama,maḍḍhasamaṃ, vuttaṃ, visamaṃ cā’paraṃ tidhā;</gatha>
+  <gatha type="last">Samā lakkhaṇato pādā, cattāro yassa taṃ samaṃ.</gatha>
+  <hangnum nr="12"/>
+  <gatha type="1"> Yassa’ntimena dutiyo, tatiyenā’dimo samo;</gatha>
+  <gatha type="last">Ta’daḍḍhasama, maññaṃ tu, bhinna lakkhaṇa pādikaṃ.</gatha>
+  <hangnum nr="13"/>
+  <gatha type="1"> Pāda’mekakkharā’rabbha, yāva chabbīsata’kkharā;</gatha>
+  <gatha type="last">Bhave pādehi taṃ chandaṃ, nānānāmo’ditaṃ tato.</gatha>
+  <hangnum nr="14"/>
+  <gatha type="1">Daṇḍakā caṇḍavuṭṭhyā’di, pādehi chahi, tīhi tu;</gatha>
+  <gatha type="last">‘Gāthā’ti ca paratthe’vaṃ, chando saññā pakāsitā.</gatha>
+  <hangnum nr="15"/>
+  <gatha type="1"> Anantaro’ditaṃ ca’ñña, metaṃ sāmañña nāmato;</gatha>
+  <gatha type="last">‘Gāthā’icceva niddiṭṭhaṃ, munindavacane pana.</gatha>
+  <hangnum nr="16"/>
+  <gatha type="1"> Visesanāmato kiñci, gahetvā sabbatho’citaṃ;</gatha>
+  <gatha type="last">Dassayissāma’haṃ te’ttha, nāmānā’vi bhavissare.</gatha>
+  <centered>Iti vuttodaye chandasi saññāparibhāsā niddeso nāma</centered>
+  <centered>Paṭhamo paricchedo.</centered>
 </text>
-</TEI.2>

@@ -1,95 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="nikaya">Saṃyuttanikāye</p>
-
-<p rend="book">Sagāthāvagga-aṭṭhakathā</p>
-
-<p rend="subsubhead">Ganthārambhakathā</p>
-
-<p rend="gatha1">Karuṇāsītalahadayaṃ <pb ed="V" n="1.0001" /><pb ed="P" n="1.0001" /><pb ed="M" n="1.0001" />, paññāpajjotavihatamohatamaṃ;</p>
-
-<p rend="gathalast">Sanarāmaralokagaruṃ, vande <hi rend="bold">sugataṃ</hi> gativimuttaṃ.</p>
-
-<p rend="gatha1">Buddhopi buddhabhāvaṃ, bhāvetvā ceva sacchikatvā ca;</p>
-
-<p rend="gathalast">Yaṃ upagato gatamalaṃ, vande tamanuttaraṃ <hi rend="bold">dhammaṃ</hi>.</p>
-
-<p rend="gatha1">Sugatassa orasānaṃ, puttānaṃ mārasenamathanānaṃ;</p>
-
-<p rend="gathalast">Aṭṭhannampi samūhaṃ, sirasā vande <hi rend="bold">ariyasaṅghaṃ</hi>.</p>
-
-<p rend="gatha1">Iti <pb ed="V" n="1.0002" /> me pasannamatino, ratanattayavandanāmayaṃ puññaṃ;</p>
-
-<p rend="gathalast">Yaṃ suvihatantarāyo, hutvā tassānubhāvena.</p>
-
-<p rend="gatha1">Saṃyuttavaggapaṭimaṇḍitassa, <hi rend="bold">saṃyuttaāgamavarassa</hi>;</p>
-
-<p rend="gathalast">Buddhānubuddhasaṃvaṇṇitassa, ñāṇappabhedajananassa.</p>
-
-<p rend="gatha1">Atthappakāsanatthaṃ, <hi rend="bold">aṭṭhakathā</hi> ādito vasisatehi;</p>
-
-<p rend="gathalast">Pañcahi yā saṅgītā, anusaṅgītā ca pacchāpi.</p>
-
-<p rend="gatha1">Sīhaḷadīpaṃ pana ābhatātha, vasinā mahāmahindena;</p>
-
-<p rend="gathalast">Ṭhapitā sīhaḷabhāsāya, dīpavāsīnamatthāya.</p>
-
-<p rend="gatha1">Apanetvāna <pb ed="M" n="1.0002" /> tatohaṃ, sīhaḷabhāsaṃ manoramaṃ bhāsaṃ;</p>
-
-<p rend="gathalast">Tantinayānucchavikaṃ, āropento vigatadosaṃ.</p>
-
-<p rend="gatha1">Samayaṃ avilomento, therānaṃ theravaṃsadīpānaṃ;</p>
-
-<p rend="gathalast">Sunipuṇavinicchayānaṃ, mahāvihāre nivāsīnaṃ.</p>
-
-<p rend="gatha1">Hitvā <pb ed="P" n="1.0002" /> punappunāgata-matthaṃ, atthaṃ pakāsayissāmi;</p>
-
-<p rend="gathalast">Sujanassa ca tuṭṭhatthaṃ, ciraṭṭhitatthañca dhammassa.</p>
-
-<p rend="gatha1">Sāvatthipabhūtīnaṃ, nagarānaṃ vaṇṇanā katā heṭṭhā;</p>
-
-<p rend="gathalast">Saṅgītīnaṃ dvinnaṃ, yā me atthaṃ vadantena.</p>
-
-<p rend="gatha1">Vitthāravasena sudaṃ, vatthūni ca yāni tattha vuttāni;</p>
-
-<p rend="gathalast">Tesampi na idha bhiyyo, vitthārakathaṃ karissāmi.</p>
-
-<p rend="gatha1">Suttānaṃ <pb ed="V" n="1.0003" /> pana atthā, na vinā vatthūhi ye pakāsanti;</p>
-
-<p rend="gathalast">Tesaṃ pakāsanatthaṃ, vatthūnipi dassayissāmi.</p>
-
-<p rend="gatha1">Sīlakathā dhutadhammā, kammaṭṭhānāni ceva sabbāni;</p>
-
-<p rend="gathalast">Cariyāvidhānasahito, jhānasamāpattivitthāro.</p>
-
-<p rend="gatha1">Sabbā ca abhiññāyo, paññāsaṅkalananicchayo ceva;</p>
-
-<p rend="gathalast">Khandhādhātāyatanindriyāni, ariyāni ceva cattāri.</p>
-
-<p rend="gatha1">Saccāni paccayākāradesanā, suparisuddhanipuṇanayā;</p>
-
-<p rend="gathalast">Avimuttatantimaggā, vipassanābhāvanā ceva.</p>
-
-<p rend="gatha1">Iti pana sabbaṃ yasmā, <hi rend="bold">visuddhimagge</hi> mayā suparisuddhaṃ;</p>
-
-<p rend="gathalast">Vuttaṃ tasmā bhiyyo, na taṃ idha vicārayissāmi.</p>
-
-<p rend="gatha1">‘‘Majjhe <hi rend="bold">visuddhimaggo,</hi> esa catunnampi āgamānañhi;</p>
-
-<p rend="gathalast">Ṭhatvā pakāsayissati, tattha yathābhāsitamatthaṃ’’.</p>
-
-<p rend="gatha1">Icceva kato tasmā, tampi gahetvāna saddhimetāya;</p>
-
-<p rend="gathalast">Aṭṭhakathāya vijānatha, saṃyuttavinissitaṃ atthanti.</p>
-</body>
-<back></back>
+  <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <nikaya>Saṃyuttanikāye</nikaya>
+  <book>Sagāthāvagga-aṭṭhakathā</book>
+  <subsubhead>Ganthārambhakathā</subsubhead>
+  <gatha type="1">Karuṇāsītalahadayaṃ , paññāpajjotavihatamohatamaṃ;</gatha>
+  <gatha type="last">Sanarāmaralokagaruṃ, vande sugataṃ gativimuttaṃ.</gatha>
+  <gatha type="1">Buddhopi buddhabhāvaṃ, bhāvetvā ceva sacchikatvā ca;</gatha>
+  <gatha type="last">Yaṃ upagato gatamalaṃ, vande tamanuttaraṃ dhammaṃ.</gatha>
+  <gatha type="1">Sugatassa orasānaṃ, puttānaṃ mārasenamathanānaṃ;</gatha>
+  <gatha type="last">Aṭṭhannampi samūhaṃ, sirasā vande ariyasaṅghaṃ.</gatha>
+  <gatha type="1">Iti  me pasannamatino, ratanattayavandanāmayaṃ puññaṃ;</gatha>
+  <gatha type="last">Yaṃ suvihatantarāyo, hutvā tassānubhāvena.</gatha>
+  <gatha type="1">Saṃyuttavaggapaṭimaṇḍitassa, saṃyuttaāgamavarassa;</gatha>
+  <gatha type="last">Buddhānubuddhasaṃvaṇṇitassa, ñāṇappabhedajananassa.</gatha>
+  <gatha type="1">Atthappakāsanatthaṃ, aṭṭhakathā ādito vasisatehi;</gatha>
+  <gatha type="last">Pañcahi yā saṅgītā, anusaṅgītā ca pacchāpi.</gatha>
+  <gatha type="1">Sīhaḷadīpaṃ pana ābhatātha, vasinā mahāmahindena;</gatha>
+  <gatha type="last">Ṭhapitā sīhaḷabhāsāya, dīpavāsīnamatthāya.</gatha>
+  <gatha type="1">Apanetvāna  tatohaṃ, sīhaḷabhāsaṃ manoramaṃ bhāsaṃ;</gatha>
+  <gatha type="last">Tantinayānucchavikaṃ, āropento vigatadosaṃ.</gatha>
+  <gatha type="1">Samayaṃ avilomento, therānaṃ theravaṃsadīpānaṃ;</gatha>
+  <gatha type="last">Sunipuṇavinicchayānaṃ, mahāvihāre nivāsīnaṃ.</gatha>
+  <gatha type="1">Hitvā  punappunāgata-matthaṃ, atthaṃ pakāsayissāmi;</gatha>
+  <gatha type="last">Sujanassa ca tuṭṭhatthaṃ, ciraṭṭhitatthañca dhammassa.</gatha>
+  <gatha type="1">Sāvatthipabhūtīnaṃ, nagarānaṃ vaṇṇanā katā heṭṭhā;</gatha>
+  <gatha type="last">Saṅgītīnaṃ dvinnaṃ, yā me atthaṃ vadantena.</gatha>
+  <gatha type="1">Vitthāravasena sudaṃ, vatthūni ca yāni tattha vuttāni;</gatha>
+  <gatha type="last">Tesampi na idha bhiyyo, vitthārakathaṃ karissāmi.</gatha>
+  <gatha type="1">Suttānaṃ  pana atthā, na vinā vatthūhi ye pakāsanti;</gatha>
+  <gatha type="last">Tesaṃ pakāsanatthaṃ, vatthūnipi dassayissāmi.</gatha>
+  <gatha type="1">Sīlakathā dhutadhammā, kammaṭṭhānāni ceva sabbāni;</gatha>
+  <gatha type="last">Cariyāvidhānasahito, jhānasamāpattivitthāro.</gatha>
+  <gatha type="1">Sabbā ca abhiññāyo, paññāsaṅkalananicchayo ceva;</gatha>
+  <gatha type="last">Khandhādhātāyatanindriyāni, ariyāni ceva cattāri.</gatha>
+  <gatha type="1">Saccāni paccayākāradesanā, suparisuddhanipuṇanayā;</gatha>
+  <gatha type="last">Avimuttatantimaggā, vipassanābhāvanā ceva.</gatha>
+  <gatha type="1">Iti pana sabbaṃ yasmā, visuddhimagge mayā suparisuddhaṃ;</gatha>
+  <gatha type="last">Vuttaṃ tasmā bhiyyo, na taṃ idha vicārayissāmi.</gatha>
+  <gatha type="1">‘‘Majjhe visuddhimaggo, esa catunnampi āgamānañhi;</gatha>
+  <gatha type="last">Ṭhatvā pakāsayissati, tattha yathābhāsitamatthaṃ’’.</gatha>
+  <gatha type="1">Icceva kato tasmā, tampi gahetvāna saddhimetāya;</gatha>
+  <gatha type="last">Aṭṭhakathāya vijānatha, saṃyuttavinissitaṃ atthanti.</gatha>
 </text>
-</TEI.2>

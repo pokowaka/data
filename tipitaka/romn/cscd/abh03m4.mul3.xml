@@ -1,541 +1,268 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">4. Dhātuyamakaṃ</p>
-
-<p rend="title">1. Paṇṇattivāro</p>
-
-<p rend="subhead">(Ka) uddeso</p>
-
-<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Aṭṭhārasa <pb ed="T" n="1.0264" /><pb ed="V" n="1.0283" /><pb ed="M" n="1.0195" /> dhātuyo – cakkhudhātu, sotadhātu, ghānadhātu, jivhādhātu, kāyadhātu, rūpadhātu, saddadhātu, gandhadhātu, rasadhātu, phoṭṭhabbadhātu, cakkhuviññāṇadhātu, sotaviññāṇadhātu, ghānaviññāṇadhātu, jivhāviññāṇadhātu, kāyaviññāṇadhātu, manodhātu, manoviññāṇadhātu, dhammadhātu.</p>
-
-<p rend="title">1. Padasodhanavāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> (Ka) cakkhu cakkhudhātu?</p>
-
-<p rend="bodytext">(Kha) cakkhudhātu cakkhu?</p>
-
-<p rend="bodytext">(Ka) sotaṃ sotadhātu?</p>
-
-<p rend="bodytext">(Kha) sotadhātu sotaṃ?…Pe…</p>
-
-<p rend="bodytext">(Ka) cakkhuviññāṇaṃ <pb ed="V" n="1.0284" /> cakkhuviññāṇadhātu?</p>
-
-<p rend="bodytext">(Kha) cakkhuviññāṇadhātu cakkhuviññāṇaṃ?…Pe…</p>
-
-<p rend="bodytext">(Ka) mano manodhātu?</p>
-
-<p rend="bodytext">(Kha) manodhātu mano?</p>
-
-<p rend="bodytext">(Ka) manoviññāṇaṃ manoviññāṇadhātu?</p>
-
-<p rend="bodytext">(Kha) manoviññāṇadhātu manoviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) dhammo dhammadhātu?</p>
-
-<p rend="bodytext">(Kha) dhammadhātu dhammo?</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> (Ka) na <pb ed="M" n="1.0196" /> cakkhu na cakkhudhātu?</p>
-
-<p rend="bodytext">(Kha) na cakkhudhātu na cakkhu?</p>
-
-<p rend="bodytext">(Ka) na sotaṃ na sotadhātu?</p>
-
-<p rend="bodytext">(Kha) na sotadhātu na sotaṃ?…Pe…</p>
-
-<p rend="bodytext">(Ka) na cakkhuviññāṇaṃ na cakkhuviññāṇadhātu?</p>
-
-<p rend="bodytext">(Kha) na cakkhuviññāṇadhātu na cakkhuviññāṇaṃ?…Pe…</p>
-
-<p rend="bodytext">(Ka) na mano na manodhātu?</p>
-
-<p rend="bodytext">(Kha) na manodhātu na mano?</p>
-
-<p rend="bodytext">(Ka) na manoviññāṇaṃ na manoviññāṇadhātu?</p>
-
-<p rend="bodytext">(Kha) na manoviññāṇadhātu na manoviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhammadhātu?</p>
-
-<p rend="bodytext">(Kha) na dhammadhātu na dhammo?</p>
-
-<p rend="title">2. Padasodhanamūlacakkavāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> (Ka) cakkhu <pb ed="T" n="1.0265" /><pb ed="V" n="1.0285" /> cakkhudhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū <note>dhātu (sī. ka.) aññehi yamakehi saṃsanditabbaṃ</note> sotadhātu?…Pe…</p>
-
-<p rend="bodytext">(Ka) cakkhu cakkhudhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū dhammadhātu?</p>
-
-<p rend="bodytext">(Yathā āyatanayamake cakkaṃ bandhitaṃ evamidha cakkaṃ bandhitabbaṃ.)</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> (Ka) na cakkhu na cakkhudhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na sotadhātu?</p>
-
-<p rend="bodytext">(Ka) na cakkhu na cakkhudhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na ghānadhātu?…Pe…</p>
-
-<p rend="bodytext">(Ka) na cakkhu na cakkhudhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na dhammadhātu?…Pe…</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhammadhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na cakkhudhātu?…Pe…</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhammadhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na manoviññāṇadhātu? (Cakkaṃ bandhitabbaṃ).</p>
-
-<p rend="title">3. Suddhadhātuvāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> (Ka) cakkhu <pb ed="V" n="1.0286" /><pb ed="M" n="1.0197" /> dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū cakkhu?</p>
-
-<p rend="bodytext">(Ka) sotaṃ dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū sotaṃ?</p>
-
-<p rend="bodytext">Ghānaṃ dhātu?…Pe… jivhā dhātu?… Kāyo dhātu?… Rūpaṃ dhātu?… Saddo dhātu?… Gandho dhātu?… Raso dhātu?… Phoṭṭhabbo dhātu?…</p>
-
-<p rend="bodytext">(Ka) cakkhuviññāṇaṃ dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū cakkhuviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) sotaviññāṇaṃ dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū sotaviññāṇaṃ?</p>
-
-<p rend="bodytext">… Ghānaviññāṇaṃ?…Pe… jivhāviññāṇaṃ?… Kāyaviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) mano dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū mano?</p>
-
-<p rend="bodytext">(Ka) manoviññāṇaṃ dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū manoviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) dhammo dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū dhammo?</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> (Ka) na <pb ed="V" n="1.0287" /> cakkhu na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na cakkhu?</p>
-
-<p rend="bodytext">(Ka) na sotaṃ na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na sotaṃ?</p>
-
-<p rend="bodytext">… Na ghānaṃ?… Na jivhā?… Na kāyo?… Na rūpaṃ? … Na saddo?… Na gandho?… Na raso?… Na phoṭṭhabbo?</p>
-
-<p rend="bodytext">(Ka) na cakkhuviññāṇaṃ na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na cakkhuviññāṇaṃ?</p>
-
-<p rend="bodytext">… Na sotaviññāṇaṃ?…Pe… na ghānaviññāṇaṃ?… Na jivhāviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) na kāyaviññāṇaṃ na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na kāyaviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) na mano na dhātu?</p>
-
-<p rend="bodytext">(Kha) na <pb ed="T" n="1.0266" /> dhātū na mano?</p>
-
-<p rend="bodytext">(Ka) na manoviññāṇaṃ na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na manoviññāṇaṃ?</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na dhammo?</p>
-
-<p rend="title">4. Suddhadhātumūlacakkavāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> (Ka) cakkhu dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū sotaṃ?…Pe…</p>
-
-<p rend="bodytext">(Ka) cakkhu dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū dhammo?…Pe…</p>
-
-<p rend="bodytext">(Ka) dhammo <pb ed="V" n="1.0288" /> dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū cakkhu?…Pe…</p>
-
-<p rend="bodytext">(Ka) dhammo dhātu?</p>
-
-<p rend="bodytext">(Kha) dhātū manoviññāṇaṃ? (Cakkaṃ bandhitabbaṃ).</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> (Ka) na <pb ed="M" n="1.0198" /> cakkhu na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na sotaṃ?</p>
-
-<p rend="bodytext">(Ka) na cakkhu na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na ghānaṃ?…Pe….</p>
-
-<p rend="bodytext">(Ka) na cakkhu na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na dhammo?…Pe…</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na cakkhu?…Pe…</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhātu?</p>
-
-<p rend="bodytext">(Kha) na dhātū na manoviññāṇaṃ? (Cakkaṃ bandhitabbaṃ).</p>
-
-<p rend="centre">Paṇṇattiuddesavāro.</p>
-
-<p rend="subhead">(Kha) niddeso</p>
-
-<p rend="title">1. Padasodhanavāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> (Ka) cakkhu <pb ed="V" n="1.0289" /> cakkhudhātūti?</p>
-
-<p rend="bodytext">Dibbacakkhu paññācakkhu cakkhu, na cakkhudhātu. Cakkhudhātu cakkhu ceva cakkhudhātu ca.</p>
-
-<p rend="bodytext">(Kha) cakkhudhātu cakkhūti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) sotaṃ sotadhātūti?</p>
-
-<p rend="bodytext">Dibbasotaṃ taṇhāsotaṃ sotaṃ, na sotadhātu. Sotadhātu sotañceva sotadhātu ca.</p>
-
-<p rend="bodytext">(Kha) sotadhātu sotanti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) ghānaṃ ghānadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) ghānadhātu ghānanti? Āmantā. (Jivhāpi ghānadhātusadisā).</p>
-
-<p rend="bodytext">(Ka) kāyo kāyadhātūti?</p>
-
-<p rend="bodytext">Kāyadhātuṃ ṭhapetvā avaseso kāyo <note>avaseso kāyo kāyo (syā.)</note>, na kāyadhātu. Kāyadhātu kāyo <pb ed="T" n="1.0267" /> ceva kāyadhātu ca.</p>
-
-<p rend="bodytext">(Kha) kāyadhātu kāyoti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) rūpaṃ rūpadhātūti?</p>
-
-<p rend="bodytext">Rūpadhātuṃ ṭhapetvā avasesaṃ rūpaṃ, na rūpadhātu. Rūpadhātu rūpañceva rūpadhātu ca.</p>
-
-<p rend="bodytext">(Kha) rūpadhātu rūpanti? Āmantā. (Saddo ghānasadiso).</p>
-
-<p rend="bodytext">(Ka) gandho <pb ed="V" n="1.0290" /><pb ed="M" n="1.0199" /> gandhadhātūti?</p>
-
-<p rend="bodytext">Sīlagandho samādhigandho paññāgandho gandho, na gandhadhātu. Gandhadhātu gandho ceva gandhadhātu ca.</p>
-
-<p rend="bodytext">(Kha) gandhadhātu gandhoti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) raso rasadhātūti?</p>
-
-<p rend="bodytext">Attharaso dhammaraso vimuttiraso raso, na rasadhātu. Rasadhātu raso ceva rasadhātu ca.</p>
-
-<p rend="bodytext">(Kha) rasadhātu rasoti? Āmantā. (Phoṭṭhabbo ghānasadiso).</p>
-
-<p rend="bodytext">(Ka) cakkhuviññāṇaṃ cakkhuviññāṇadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) cakkhuviññāṇadhātu cakkhuviññāṇanti? Āmantā.</p>
-
-<p rend="bodytext">Sotaviññāṇaṃ…pe… ghānaviññāṇaṃ… jivhāviññāṇaṃ… kāyaviññāṇaṃ….</p>
-
-<p rend="bodytext">(Ka) mano manodhātūti?</p>
-
-<p rend="bodytext">Manodhātuṃ ṭhapetvā avaseso mano, na manodhātu. Manodhātu mano ceva manodhātu ca.</p>
-
-<p rend="bodytext">(Kha) manodhātu manoti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) manoviññāṇaṃ manoviññāṇadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) manoviññāṇadhātu manoviññāṇanti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) dhammo dhammadhātūti?</p>
-
-<p rend="bodytext">Dhammadhātuṃ ṭhapetvā avaseso dhammo, na dhammadhātu. Dhammadhātu dhammo ceva dhammadhātu ca.</p>
-
-<p rend="bodytext">(Kha) dhammadhātu dhammoti? Āmantā.</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> (Ka) na <pb ed="V" n="1.0291" /> cakkhu na cakkhudhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na cakkhudhātu na cakkhūti?</p>
-
-<p rend="bodytext">Dibbacakkhu paññācakkhu na cakkhudhātu, cakkhu. Cakkhuñca cakkhudhātuñca ṭhapetvā avasesaṃ na ceva cakkhu na ca cakkhudhātu.</p>
-
-<p rend="bodytext">(Ka) na sotaṃ na <pb ed="T" n="1.0268" /> sotadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na sotadhātu na sotanti?</p>
-
-<p rend="bodytext">Dibbasotaṃ taṇhāsotaṃ na sotadhātu, sotaṃ. Sotañca sotadhātuñca ṭhapetvā avasesaṃ na ceva sotaṃ na ca sotadhātu.</p>
-
-<p rend="bodytext">(Ka) na <pb ed="M" n="1.0200" /> ghānaṃ na ghānadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na ghānadhātu na ghānanti? Āmantā.</p>
-
-<p rend="bodytext">Na jivhā… (saṃkhittaṃ <note>yaṃ saṃkhittaṃ (syā.)</note>, ubhato āmantā).</p>
-
-<p rend="bodytext">(Ka) na kāyo na kāyadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na kāyadhātu na kāyoti?</p>
-
-<p rend="bodytext">Kāyadhātuṃ ṭhapetvā avaseso na kāyadhātu, kāyo. Kāyañca kāyadhātuñca ṭhapetvā avaseso <note>avaseso kāyo (syā.)</note> na ceva kāyo na ca kāyadhātu.</p>
-
-<p rend="bodytext">(Ka) na rūpaṃ na rūpadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na rūpadhātu na rūpanti?</p>
-
-<p rend="bodytext">Rūpadhātuṃ ṭhapetvā avasesaṃ na rūpadhātu, rūpaṃ. Rūpañca rūpadhātuñca ṭhapetvā avasesaṃ na ceva rūpaṃ na ca rūpadhātu.</p>
-
-<p rend="bodytext">Na saddo…pe… na gandho na gandhadhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na gandhadhātu na gandhoti?</p>
-
-<p rend="bodytext">Sīlagandho samādhigandho paññāgandho na gandhadhātu, gandho. Gandhañca gandhadhātuñca ṭhapetvā avaseso na ceva gandho na ca gandhadhātu.</p>
-
-<p rend="bodytext">(Ka) na <pb ed="V" n="1.0292" /> raso na rasadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na rasadhātu na rasoti?</p>
-
-<p rend="bodytext">Attharaso dhammaraso vimuttiraso na rasadhātu, raso. Rasañca rasadhātuñca ṭhapetvā avaseso na ceva raso na ca rasadhātu.</p>
-
-<p rend="bodytext">Na phoṭṭhabbo…pe… na cakkhuviññāṇaṃ na cakkhuviññāṇadhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na cakkhuviññāṇadhātu na cakkhuviññāṇanti? Āmantā.</p>
-
-<p rend="bodytext">Na sotaviññāṇaṃ…pe… na ghānaviññāṇaṃ… na jivhāviññāṇaṃ… na kāyaviññāṇaṃ….</p>
-
-<p rend="bodytext">(Ka) na mano na manodhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na manodhātu na manoti?</p>
-
-<p rend="bodytext">Manodhātuṃ ṭhapetvā <pb ed="T" n="1.0269" /> avaseso na manodhātu, mano. Manañca manodhātuñca ṭhapetvā avaseso na ceva mano na ca manodhātu.</p>
-
-<p rend="bodytext">(Ka) na manoviññāṇaṃ na manoviññāṇadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na manoviññāṇadhātu na manoviññāṇanti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhammadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na dhammadhātu na dhammoti?</p>
-
-<p rend="bodytext">Dhammadhātuṃ ṭhapetvā avaseso na dhammadhātu, dhammo. Dhammañca dhammadhātuñca ṭhapetvā avaseso na ceva dhammo na ca dhammadhātu.</p>
-
-<p rend="title">2. Padasodhanamūlacakkavāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> (Ka) cakkhu <pb ed="M" n="1.0201" /> cakkhudhātūti?</p>
-
-<p rend="bodytext">Dibbacakkhu paññācakkhu cakkhu, na cakkhudhātu. Cakkhudhātu cakkhu ceva cakkhudhātu ca.</p>
-
-<p rend="bodytext">(Kha) dhātū <pb ed="V" n="1.0293" /> sotadhātūti?</p>
-
-<p rend="bodytext">Sotadhātu dhātu ceva sotadhātu ca. Avasesā dhātū <note>avasesā dhātū dhātū (syā.)</note> na sotadhātu.</p>
-
-<p rend="bodytext">(Ka) cakkhu cakkhudhātūti?</p>
-
-<p rend="bodytext">Dibbacakkhu paññācakkhu cakkhu, na cakkhudhātu. Cakkhudhātu cakkhu ceva cakkhudhātu ca. Dhātū ghānadhātu…pe… dhātū dhammadhātūti?</p>
-
-<p rend="bodytext">Dhammadhātu dhātu ceva dhammadhātu ca. Avasesā dhātū na dhammadhātu.</p>
-
-<p rend="bodytext">(Yathā āyatanayamake paṇṇatti evaṃ dhātuyamakepi paṇṇatti. Cakkaṃ bandhitabbaṃ).</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> (Ka) na cakkhu na cakkhudhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na dhātū na sotadhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na cakkhu na cakkhudhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na dhātū na ghānadhātu…pe… na dhātū na dhammadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Cakkaṃ bandhitabbaṃ, sabbe āmantā ubhatopi sesepi).</p>
-
-<p rend="title">3. Suddhadhātuvāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> (Ka) cakkhu <pb ed="T" n="1.0270" /> dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) dhātū cakkhudhātūti?</p>
-
-<p rend="bodytext">Cakkhudhātu dhātu ceva cakkhudhātu ca. Avasesā dhātū na cakkhudhātu.</p>
-
-<p rend="bodytext">Sotaṃ dhātūti? Āmantā.</p>
-
-<p rend="bodytext">Ghānaṃ…pe… jivhā… kāyo… rūpaṃ… saddo… gandho… raso… phoṭṭhabbo….</p>
-
-<p rend="bodytext">(Ka) cakkhuviññāṇaṃ dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) dhātū cakkhuviññāṇadhātūti?</p>
-
-<p rend="bodytext">Cakkhuviññāṇadhātu dhātu ceva cakkhuviññāṇadhātu ca. Avasesā dhātū <pb ed="V" n="1.0294" /> na <pb ed="M" n="1.0202" /> cakkhuviññāṇadhātu. Sotaviññāṇaṃ…pe… ghānaviññāṇaṃ… jivhāviññāṇaṃ… kāyaviññāṇaṃ….</p>
-
-<p rend="bodytext">(Ka) mano dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) dhātū manodhātūti?</p>
-
-<p rend="bodytext">Manodhātu dhātu ceva manodhātu ca. Avasesā dhātū na manodhātu.</p>
-
-<p rend="bodytext">(Ka) manoviññāṇaṃ dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) dhātū manoviññāṇadhātūti?</p>
-
-<p rend="bodytext">Manoviññāṇadhātu dhātu ceva manoviññāṇadhātu ca. Avasesā dhātū na manoviññāṇadhātu.</p>
-
-<p rend="bodytext">(Ka) dhammo dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) dhātū dhammadhātūti?</p>
-
-<p rend="bodytext">Dhammadhātu dhātu ceva dhammadhātu ca. Avasesā dhātū na dhammadhātu.</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> (Ka) na cakkhu na dhātūti?</p>
-
-<p rend="bodytext">Cakkhuṃ ṭhapetvā avasesā dhātū na cakkhu, dhātu. Cakkhuñca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātū.</p>
-
-<p rend="bodytext">(Kha) na dhātū na cakkhūti? Āmantā.</p>
-
-<p rend="bodytext">Na sotaṃ na dhātūti?</p>
-
-<p rend="bodytext">Sotaṃ ṭhapetvā…pe… ghānaṃ ṭhapetvā…pe… jivha ṭhapetvā…pe….</p>
-
-<p rend="bodytext">(Ka) na kāyo na dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na dhātū na kāyadhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na rūpaṃ na dhātūti?</p>
-
-<p rend="bodytext">Rūpaṃ ṭhapetvā…pe… saddaṃ… gandhaṃ… rasaṃ… phoṭṭhabbaṃ… cakkhuviññāṇaṃ…pe… <pb ed="T" n="1.0271" /> manoviññāṇaṃ ṭhapetvā…pe….</p>
-
-<p rend="bodytext">(Ka) na <pb ed="V" n="1.0295" /> dhammo na dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na dhātū na dhammadhātūti? Āmantā.</p>
-
-<p rend="title">4. Suddhadhātumūlacakkavāro</p>
-
-<p rend="subhead">(Ka) anulomaṃ</p>
-
-<p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> (Ka) cakkhu dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) dhātū sotadhātūti?</p>
-
-<p rend="bodytext">Sotadhātu dhātu ceva sotadhātu ca. Avasesā dhātū na sotadhātu.</p>
-
-<p rend="bodytext">Cakkhu dhātūti? Āmantā.</p>
-
-<p rend="bodytext">Dhātū ghānadhātu…pe… dhātū dhammadhātūti?</p>
-
-<p rend="bodytext">Dhammadhātu dhātu ceva dhammadhātu ca. Avasesā dhātū na dhammadhātu. (Cakkaṃ bandhitabbaṃ).</p>
-
-<p rend="subhead">(Kha) paccanīkaṃ</p>
-
-<p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> (Ka) na <pb ed="M" n="1.0203" /> cakkhu na dhātūti?</p>
-
-<p rend="bodytext">Cakkhuṃ ṭhapetvā avasesā dhātū na cakkhudhātu. Cakkhuñca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātu.</p>
-
-<p rend="bodytext">(Kha) na dhātū na sotadhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na cakkhu na dhātūti?</p>
-
-<p rend="bodytext">Cakkhuṃ ṭhapetvā avasesā dhātū na cakkhu, dhātu. Cakkhu ca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātu. Na dhātū na ghānadhātu…pe… na dhātū na dhammadhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Ka) na dhammo na dhātūti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) na dhātū na cakkhudhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na dhammo na dhātūti? Āmantā.</p>
-
-<p rend="bodytext">Na <pb ed="V" n="1.0296" /> dhātū na sotadhātu…pe… na dhātū na manoviññāṇadhātūti? Āmantā. (Cakkaṃ bandhitabbaṃ).</p>
-
-<p rend="bodytext">(Yathā āyatanayamakassa paṇṇatti evaṃ dhātuyamakassa paṇṇatti vitthāretabbā)</p>
-
-<p rend="centre">Paṇṇattiniddesavāro.</p>
-
-<p rend="title">2. Pavattivāro 1. uppādavāro</p>
-
-<p rend="title">(1) Paccuppannavāro</p>
-
-<p rend="subhead">(Ka) anulomapuggalo</p>
-
-<p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> (Ka) yassa <pb ed="T" n="1.0272" /> cakkhudhātu uppajjati tassa sotadhātu uppajjatīti?</p>
-
-<p rend="bodytext">Sacakkhukānaṃ asotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu uppajjati, no ca tesaṃ sotadhātu uppajjati. Sacakkhukānaṃ sasotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu ca uppajjati sotadhātu ca uppajjati.</p>
-
-<p rend="bodytext">(Kha) yassa vā pana sotadhātu uppajjati tassa cakkhudhātu uppajjatīti?</p>
-
-<p rend="bodytext">Sasotakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ sotadhātu uppajjati, no ca tesaṃ cakkhudhātu uppajjati. Sasotakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ sotadhātu ca uppajjati cakkhudhātu ca uppajjati.</p>
-
-<p rend="bodytext">(Ka) yassa <pb ed="V" n="1.0297" /> cakkhudhātu uppajjati tassa ghānadhātu uppajjatīti?</p>
-
-<p rend="bodytext">Sacakkhukānaṃ aghānakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu uppajjati, no ca tesaṃ ghānadhātu <pb ed="M" n="1.0204" /> uppajjati. Sacakkhukānaṃ saghānakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu ca uppajjati ghānadhātu ca uppajjati.</p>
-
-<p rend="bodytext">(Kha) yassa vā pana ghānadhātu uppajjati tassa cakkhudhātu uppajjatīti?</p>
-
-<p rend="bodytext">Saghānakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ ghānadhātu uppajjati, no ca tesaṃ cakkhudhātu uppajjati. Saghānakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ ghānadhātu ca uppajjati cakkhudhātu ca uppajjati.</p>
-
-<p rend="bodytext">(Ka) yassa cakkhudhātu uppajjati tassa rūpadhātu uppajjatīti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) yassa vā pana rūpadhātu uppajjati tassa cakkhudhātu uppajjatīti?</p>
-
-<p rend="bodytext">Sarūpakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ rūpadhātu uppajjati <pb ed="T" n="1.0273" />, no ca tesaṃ cakkhudhātu uppajjati. Sacakkhukānaṃ upapajjantānaṃ tesaṃ rūpadhātu ca uppajjati cakkhudhātu ca uppajjati.</p>
-
-<p rend="bodytext">(Ka) yassa cakkhudhātu uppajjati tassa manoviññāṇadhātu uppajjatīti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) yassa vā pana manoviññāṇadhātu uppajjati tassa cakkhudhātu uppajjatīti?</p>
-
-<p rend="bodytext">Sacittakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ manoviññāṇadhātu uppajjati, no ca tesaṃ cakkhudhātu uppajjati. Sacakkhukānaṃ upapajjantānaṃ tesaṃ manoviññāṇadhātu ca uppajjati cakkhudhātu ca uppajjati.</p>
-
-<p rend="bodytext">(Ka) yassa cakkhudhātu uppajjati tassa dhammadhātu uppajjatīti? Āmantā.</p>
-
-<p rend="bodytext">(Kha) yassa vā pana dhammadhātu uppajjati tassa cakkhudhātu uppajjatīti?</p>
-
-<p rend="bodytext">Acakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu uppajjati, no ca tesaṃ <pb ed="V" n="1.0298" /> cakkhudhātu uppajjati. Sacakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu ca uppajjati cakkhudhātu ca uppajjati.</p>
-
-<p rend="bodytext">(Yathā āyatanayamakaṃ vibhattaṃ evaṃ dhātuyamakampi vibhajitabbaṃ, sadisaṃ kātabbaṃ).</p>
-
-<p rend="title">3. Pariññāvāro</p>
-
-<p rend="bodytext" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi> Yo cakkhudhātuṃ parijānāti so sotadhātuṃ parijānātīti? Āmantā.…Pe… (dhātuyamakaṃ paripuṇṇaṃ peyyālena).</p>
-
-<p rend="centre">Dhātuyamakaṃ niṭṭhitaṃ.</p>
-
-<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
-</body>
-<back></back>
+  <chapter>4. Dhātuyamakaṃ</chapter>
+  <title>1. Paṇṇattivāro</title>
+  <subhead>(Ka) uddeso</subhead>
+  <paragraph nr="1"> Aṭṭhārasa  dhātuyo – cakkhudhātu, sotadhātu, ghānadhātu, jivhādhātu, kāyadhātu, rūpadhātu, saddadhātu, gandhadhātu, rasadhātu, phoṭṭhabbadhātu, cakkhuviññāṇadhātu, sotaviññāṇadhātu, ghānaviññāṇadhātu, jivhāviññāṇadhātu, kāyaviññāṇadhātu, manodhātu, manoviññāṇadhātu, dhammadhātu.</paragraph>
+  <title>1. Padasodhanavāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="2"> (Ka) cakkhu cakkhudhātu?</paragraph>
+  <paragraph>(Kha) cakkhudhātu cakkhu?</paragraph>
+  <paragraph>(Ka) sotaṃ sotadhātu?</paragraph>
+  <paragraph>(Kha) sotadhātu sotaṃ?…Pe…</paragraph>
+  <paragraph>(Ka) cakkhuviññāṇaṃ  cakkhuviññāṇadhātu?</paragraph>
+  <paragraph>(Kha) cakkhuviññāṇadhātu cakkhuviññāṇaṃ?…Pe…</paragraph>
+  <paragraph>(Ka) mano manodhātu?</paragraph>
+  <paragraph>(Kha) manodhātu mano?</paragraph>
+  <paragraph>(Ka) manoviññāṇaṃ manoviññāṇadhātu?</paragraph>
+  <paragraph>(Kha) manoviññāṇadhātu manoviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) dhammo dhammadhātu?</paragraph>
+  <paragraph>(Kha) dhammadhātu dhammo?</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="3"> (Ka) na  cakkhu na cakkhudhātu?</paragraph>
+  <paragraph>(Kha) na cakkhudhātu na cakkhu?</paragraph>
+  <paragraph>(Ka) na sotaṃ na sotadhātu?</paragraph>
+  <paragraph>(Kha) na sotadhātu na sotaṃ?…Pe…</paragraph>
+  <paragraph>(Ka) na cakkhuviññāṇaṃ na cakkhuviññāṇadhātu?</paragraph>
+  <paragraph>(Kha) na cakkhuviññāṇadhātu na cakkhuviññāṇaṃ?…Pe…</paragraph>
+  <paragraph>(Ka) na mano na manodhātu?</paragraph>
+  <paragraph>(Kha) na manodhātu na mano?</paragraph>
+  <paragraph>(Ka) na manoviññāṇaṃ na manoviññāṇadhātu?</paragraph>
+  <paragraph>(Kha) na manoviññāṇadhātu na manoviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) na dhammo na dhammadhātu?</paragraph>
+  <paragraph>(Kha) na dhammadhātu na dhammo?</paragraph>
+  <title>2. Padasodhanamūlacakkavāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="4"> (Ka) cakkhu  cakkhudhātu?</paragraph>
+  <paragraph>(Kha) dhātū <note>[dhātu (sī. ka.) aññehi yamakehi saṃsanditabbaṃ]</note> sotadhātu?…Pe…</paragraph>
+  <paragraph>(Ka) cakkhu cakkhudhātu?</paragraph>
+  <paragraph>(Kha) dhātū dhammadhātu?</paragraph>
+  <paragraph>(Yathā āyatanayamake cakkaṃ bandhitaṃ evamidha cakkaṃ bandhitabbaṃ.)</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="5"> (Ka) na cakkhu na cakkhudhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na sotadhātu?</paragraph>
+  <paragraph>(Ka) na cakkhu na cakkhudhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na ghānadhātu?…Pe…</paragraph>
+  <paragraph>(Ka) na cakkhu na cakkhudhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na dhammadhātu?…Pe…</paragraph>
+  <paragraph>(Ka) na dhammo na dhammadhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na cakkhudhātu?…Pe…</paragraph>
+  <paragraph>(Ka) na dhammo na dhammadhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na manoviññāṇadhātu? (Cakkaṃ bandhitabbaṃ).</paragraph>
+  <title>3. Suddhadhātuvāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="6"> (Ka) cakkhu  dhātu?</paragraph>
+  <paragraph>(Kha) dhātū cakkhu?</paragraph>
+  <paragraph>(Ka) sotaṃ dhātu?</paragraph>
+  <paragraph>(Kha) dhātū sotaṃ?</paragraph>
+  <paragraph>Ghānaṃ dhātu?…Pe… jivhā dhātu?… Kāyo dhātu?… Rūpaṃ dhātu?… Saddo dhātu?… Gandho dhātu?… Raso dhātu?… Phoṭṭhabbo dhātu?…</paragraph>
+  <paragraph>(Ka) cakkhuviññāṇaṃ dhātu?</paragraph>
+  <paragraph>(Kha) dhātū cakkhuviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) sotaviññāṇaṃ dhātu?</paragraph>
+  <paragraph>(Kha) dhātū sotaviññāṇaṃ?</paragraph>
+  <paragraph>… Ghānaviññāṇaṃ?…Pe… jivhāviññāṇaṃ?… Kāyaviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) mano dhātu?</paragraph>
+  <paragraph>(Kha) dhātū mano?</paragraph>
+  <paragraph>(Ka) manoviññāṇaṃ dhātu?</paragraph>
+  <paragraph>(Kha) dhātū manoviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) dhammo dhātu?</paragraph>
+  <paragraph>(Kha) dhātū dhammo?</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="7"> (Ka) na  cakkhu na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na cakkhu?</paragraph>
+  <paragraph>(Ka) na sotaṃ na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na sotaṃ?</paragraph>
+  <paragraph>… Na ghānaṃ?… Na jivhā?… Na kāyo?… Na rūpaṃ? … Na saddo?… Na gandho?… Na raso?… Na phoṭṭhabbo?</paragraph>
+  <paragraph>(Ka) na cakkhuviññāṇaṃ na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na cakkhuviññāṇaṃ?</paragraph>
+  <paragraph>… Na sotaviññāṇaṃ?…Pe… na ghānaviññāṇaṃ?… Na jivhāviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) na kāyaviññāṇaṃ na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na kāyaviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) na mano na dhātu?</paragraph>
+  <paragraph>(Kha) na  dhātū na mano?</paragraph>
+  <paragraph>(Ka) na manoviññāṇaṃ na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na manoviññāṇaṃ?</paragraph>
+  <paragraph>(Ka) na dhammo na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na dhammo?</paragraph>
+  <title>4. Suddhadhātumūlacakkavāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="8"> (Ka) cakkhu dhātu?</paragraph>
+  <paragraph>(Kha) dhātū sotaṃ?…Pe…</paragraph>
+  <paragraph>(Ka) cakkhu dhātu?</paragraph>
+  <paragraph>(Kha) dhātū dhammo?…Pe…</paragraph>
+  <paragraph>(Ka) dhammo  dhātu?</paragraph>
+  <paragraph>(Kha) dhātū cakkhu?…Pe…</paragraph>
+  <paragraph>(Ka) dhammo dhātu?</paragraph>
+  <paragraph>(Kha) dhātū manoviññāṇaṃ? (Cakkaṃ bandhitabbaṃ).</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="9"> (Ka) na  cakkhu na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na sotaṃ?</paragraph>
+  <paragraph>(Ka) na cakkhu na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na ghānaṃ?…Pe….</paragraph>
+  <paragraph>(Ka) na cakkhu na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na dhammo?…Pe…</paragraph>
+  <paragraph>(Ka) na dhammo na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na cakkhu?…Pe…</paragraph>
+  <paragraph>(Ka) na dhammo na dhātu?</paragraph>
+  <paragraph>(Kha) na dhātū na manoviññāṇaṃ? (Cakkaṃ bandhitabbaṃ).</paragraph>
+  <centered>Paṇṇattiuddesavāro.</centered>
+  <subhead>(Kha) niddeso</subhead>
+  <title>1. Padasodhanavāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="10"> (Ka) cakkhu  cakkhudhātūti?</paragraph>
+  <paragraph>Dibbacakkhu paññācakkhu cakkhu, na cakkhudhātu. Cakkhudhātu cakkhu ceva cakkhudhātu ca.</paragraph>
+  <paragraph>(Kha) cakkhudhātu cakkhūti? Āmantā.</paragraph>
+  <paragraph>(Ka) sotaṃ sotadhātūti?</paragraph>
+  <paragraph>Dibbasotaṃ taṇhāsotaṃ sotaṃ, na sotadhātu. Sotadhātu sotañceva sotadhātu ca.</paragraph>
+  <paragraph>(Kha) sotadhātu sotanti? Āmantā.</paragraph>
+  <paragraph>(Ka) ghānaṃ ghānadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) ghānadhātu ghānanti? Āmantā. (Jivhāpi ghānadhātusadisā).</paragraph>
+  <paragraph>(Ka) kāyo kāyadhātūti?</paragraph>
+  <paragraph>Kāyadhātuṃ ṭhapetvā avaseso kāyo <note>[avaseso kāyo kāyo (syā.)]</note>, na kāyadhātu. Kāyadhātu kāyo  ceva kāyadhātu ca.</paragraph>
+  <paragraph>(Kha) kāyadhātu kāyoti? Āmantā.</paragraph>
+  <paragraph>(Ka) rūpaṃ rūpadhātūti?</paragraph>
+  <paragraph>Rūpadhātuṃ ṭhapetvā avasesaṃ rūpaṃ, na rūpadhātu. Rūpadhātu rūpañceva rūpadhātu ca.</paragraph>
+  <paragraph>(Kha) rūpadhātu rūpanti? Āmantā. (Saddo ghānasadiso).</paragraph>
+  <paragraph>(Ka) gandho  gandhadhātūti?</paragraph>
+  <paragraph>Sīlagandho samādhigandho paññāgandho gandho, na gandhadhātu. Gandhadhātu gandho ceva gandhadhātu ca.</paragraph>
+  <paragraph>(Kha) gandhadhātu gandhoti? Āmantā.</paragraph>
+  <paragraph>(Ka) raso rasadhātūti?</paragraph>
+  <paragraph>Attharaso dhammaraso vimuttiraso raso, na rasadhātu. Rasadhātu raso ceva rasadhātu ca.</paragraph>
+  <paragraph>(Kha) rasadhātu rasoti? Āmantā. (Phoṭṭhabbo ghānasadiso).</paragraph>
+  <paragraph>(Ka) cakkhuviññāṇaṃ cakkhuviññāṇadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) cakkhuviññāṇadhātu cakkhuviññāṇanti? Āmantā.</paragraph>
+  <paragraph>Sotaviññāṇaṃ…pe… ghānaviññāṇaṃ… jivhāviññāṇaṃ… kāyaviññāṇaṃ….</paragraph>
+  <paragraph>(Ka) mano manodhātūti?</paragraph>
+  <paragraph>Manodhātuṃ ṭhapetvā avaseso mano, na manodhātu. Manodhātu mano ceva manodhātu ca.</paragraph>
+  <paragraph>(Kha) manodhātu manoti? Āmantā.</paragraph>
+  <paragraph>(Ka) manoviññāṇaṃ manoviññāṇadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) manoviññāṇadhātu manoviññāṇanti? Āmantā.</paragraph>
+  <paragraph>(Ka) dhammo dhammadhātūti?</paragraph>
+  <paragraph>Dhammadhātuṃ ṭhapetvā avaseso dhammo, na dhammadhātu. Dhammadhātu dhammo ceva dhammadhātu ca.</paragraph>
+  <paragraph>(Kha) dhammadhātu dhammoti? Āmantā.</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="11"> (Ka) na  cakkhu na cakkhudhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na cakkhudhātu na cakkhūti?</paragraph>
+  <paragraph>Dibbacakkhu paññācakkhu na cakkhudhātu, cakkhu. Cakkhuñca cakkhudhātuñca ṭhapetvā avasesaṃ na ceva cakkhu na ca cakkhudhātu.</paragraph>
+  <paragraph>(Ka) na sotaṃ na  sotadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na sotadhātu na sotanti?</paragraph>
+  <paragraph>Dibbasotaṃ taṇhāsotaṃ na sotadhātu, sotaṃ. Sotañca sotadhātuñca ṭhapetvā avasesaṃ na ceva sotaṃ na ca sotadhātu.</paragraph>
+  <paragraph>(Ka) na  ghānaṃ na ghānadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na ghānadhātu na ghānanti? Āmantā.</paragraph>
+  <paragraph>Na jivhā… (saṃkhittaṃ <note>[yaṃ saṃkhittaṃ (syā.)]</note>, ubhato āmantā).</paragraph>
+  <paragraph>(Ka) na kāyo na kāyadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na kāyadhātu na kāyoti?</paragraph>
+  <paragraph>Kāyadhātuṃ ṭhapetvā avaseso na kāyadhātu, kāyo. Kāyañca kāyadhātuñca ṭhapetvā avaseso <note>[avaseso kāyo (syā.)]</note> na ceva kāyo na ca kāyadhātu.</paragraph>
+  <paragraph>(Ka) na rūpaṃ na rūpadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na rūpadhātu na rūpanti?</paragraph>
+  <paragraph>Rūpadhātuṃ ṭhapetvā avasesaṃ na rūpadhātu, rūpaṃ. Rūpañca rūpadhātuñca ṭhapetvā avasesaṃ na ceva rūpaṃ na ca rūpadhātu.</paragraph>
+  <paragraph>Na saddo…pe… na gandho na gandhadhātūti? Āmantā.</paragraph>
+  <paragraph>Na gandhadhātu na gandhoti?</paragraph>
+  <paragraph>Sīlagandho samādhigandho paññāgandho na gandhadhātu, gandho. Gandhañca gandhadhātuñca ṭhapetvā avaseso na ceva gandho na ca gandhadhātu.</paragraph>
+  <paragraph>(Ka) na  raso na rasadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na rasadhātu na rasoti?</paragraph>
+  <paragraph>Attharaso dhammaraso vimuttiraso na rasadhātu, raso. Rasañca rasadhātuñca ṭhapetvā avaseso na ceva raso na ca rasadhātu.</paragraph>
+  <paragraph>Na phoṭṭhabbo…pe… na cakkhuviññāṇaṃ na cakkhuviññāṇadhātūti? Āmantā.</paragraph>
+  <paragraph>Na cakkhuviññāṇadhātu na cakkhuviññāṇanti? Āmantā.</paragraph>
+  <paragraph>Na sotaviññāṇaṃ…pe… na ghānaviññāṇaṃ… na jivhāviññāṇaṃ… na kāyaviññāṇaṃ….</paragraph>
+  <paragraph>(Ka) na mano na manodhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na manodhātu na manoti?</paragraph>
+  <paragraph>Manodhātuṃ ṭhapetvā  avaseso na manodhātu, mano. Manañca manodhātuñca ṭhapetvā avaseso na ceva mano na ca manodhātu.</paragraph>
+  <paragraph>(Ka) na manoviññāṇaṃ na manoviññāṇadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na manoviññāṇadhātu na manoviññāṇanti? Āmantā.</paragraph>
+  <paragraph>(Ka) na dhammo na dhammadhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na dhammadhātu na dhammoti?</paragraph>
+  <paragraph>Dhammadhātuṃ ṭhapetvā avaseso na dhammadhātu, dhammo. Dhammañca dhammadhātuñca ṭhapetvā avaseso na ceva dhammo na ca dhammadhātu.</paragraph>
+  <title>2. Padasodhanamūlacakkavāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="12"> (Ka) cakkhu  cakkhudhātūti?</paragraph>
+  <paragraph>Dibbacakkhu paññācakkhu cakkhu, na cakkhudhātu. Cakkhudhātu cakkhu ceva cakkhudhātu ca.</paragraph>
+  <paragraph>(Kha) dhātū  sotadhātūti?</paragraph>
+  <paragraph>Sotadhātu dhātu ceva sotadhātu ca. Avasesā dhātū <note>[avasesā dhātū dhātū (syā.)]</note> na sotadhātu.</paragraph>
+  <paragraph>(Ka) cakkhu cakkhudhātūti?</paragraph>
+  <paragraph>Dibbacakkhu paññācakkhu cakkhu, na cakkhudhātu. Cakkhudhātu cakkhu ceva cakkhudhātu ca. Dhātū ghānadhātu…pe… dhātū dhammadhātūti?</paragraph>
+  <paragraph>Dhammadhātu dhātu ceva dhammadhātu ca. Avasesā dhātū na dhammadhātu.</paragraph>
+  <paragraph>(Yathā āyatanayamake paṇṇatti evaṃ dhātuyamakepi paṇṇatti. Cakkaṃ bandhitabbaṃ).</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="13"> (Ka) na cakkhu na cakkhudhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na dhātū na sotadhātūti? Āmantā.</paragraph>
+  <paragraph>Na cakkhu na cakkhudhātūti? Āmantā.</paragraph>
+  <paragraph>Na dhātū na ghānadhātu…pe… na dhātū na dhammadhātūti? Āmantā.</paragraph>
+  <paragraph>(Cakkaṃ bandhitabbaṃ, sabbe āmantā ubhatopi sesepi).</paragraph>
+  <title>3. Suddhadhātuvāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="14"> (Ka) cakkhu  dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) dhātū cakkhudhātūti?</paragraph>
+  <paragraph>Cakkhudhātu dhātu ceva cakkhudhātu ca. Avasesā dhātū na cakkhudhātu.</paragraph>
+  <paragraph>Sotaṃ dhātūti? Āmantā.</paragraph>
+  <paragraph>Ghānaṃ…pe… jivhā… kāyo… rūpaṃ… saddo… gandho… raso… phoṭṭhabbo….</paragraph>
+  <paragraph>(Ka) cakkhuviññāṇaṃ dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) dhātū cakkhuviññāṇadhātūti?</paragraph>
+  <paragraph>Cakkhuviññāṇadhātu dhātu ceva cakkhuviññāṇadhātu ca. Avasesā dhātū  na  cakkhuviññāṇadhātu. Sotaviññāṇaṃ…pe… ghānaviññāṇaṃ… jivhāviññāṇaṃ… kāyaviññāṇaṃ….</paragraph>
+  <paragraph>(Ka) mano dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) dhātū manodhātūti?</paragraph>
+  <paragraph>Manodhātu dhātu ceva manodhātu ca. Avasesā dhātū na manodhātu.</paragraph>
+  <paragraph>(Ka) manoviññāṇaṃ dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) dhātū manoviññāṇadhātūti?</paragraph>
+  <paragraph>Manoviññāṇadhātu dhātu ceva manoviññāṇadhātu ca. Avasesā dhātū na manoviññāṇadhātu.</paragraph>
+  <paragraph>(Ka) dhammo dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) dhātū dhammadhātūti?</paragraph>
+  <paragraph>Dhammadhātu dhātu ceva dhammadhātu ca. Avasesā dhātū na dhammadhātu.</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="15"> (Ka) na cakkhu na dhātūti?</paragraph>
+  <paragraph>Cakkhuṃ ṭhapetvā avasesā dhātū na cakkhu, dhātu. Cakkhuñca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātū.</paragraph>
+  <paragraph>(Kha) na dhātū na cakkhūti? Āmantā.</paragraph>
+  <paragraph>Na sotaṃ na dhātūti?</paragraph>
+  <paragraph>Sotaṃ ṭhapetvā…pe… ghānaṃ ṭhapetvā…pe… jivha ṭhapetvā…pe….</paragraph>
+  <paragraph>(Ka) na kāyo na dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na dhātū na kāyadhātūti? Āmantā.</paragraph>
+  <paragraph>Na rūpaṃ na dhātūti?</paragraph>
+  <paragraph>Rūpaṃ ṭhapetvā…pe… saddaṃ… gandhaṃ… rasaṃ… phoṭṭhabbaṃ… cakkhuviññāṇaṃ…pe…  manoviññāṇaṃ ṭhapetvā…pe….</paragraph>
+  <paragraph>(Ka) na  dhammo na dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na dhātū na dhammadhātūti? Āmantā.</paragraph>
+  <title>4. Suddhadhātumūlacakkavāro</title>
+  <subhead>(Ka) anulomaṃ</subhead>
+  <paragraph nr="16"> (Ka) cakkhu dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) dhātū sotadhātūti?</paragraph>
+  <paragraph>Sotadhātu dhātu ceva sotadhātu ca. Avasesā dhātū na sotadhātu.</paragraph>
+  <paragraph>Cakkhu dhātūti? Āmantā.</paragraph>
+  <paragraph>Dhātū ghānadhātu…pe… dhātū dhammadhātūti?</paragraph>
+  <paragraph>Dhammadhātu dhātu ceva dhammadhātu ca. Avasesā dhātū na dhammadhātu. (Cakkaṃ bandhitabbaṃ).</paragraph>
+  <subhead>(Kha) paccanīkaṃ</subhead>
+  <paragraph nr="17"> (Ka) na  cakkhu na dhātūti?</paragraph>
+  <paragraph>Cakkhuṃ ṭhapetvā avasesā dhātū na cakkhudhātu. Cakkhuñca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātu.</paragraph>
+  <paragraph>(Kha) na dhātū na sotadhātūti? Āmantā.</paragraph>
+  <paragraph>Na cakkhu na dhātūti?</paragraph>
+  <paragraph>Cakkhuṃ ṭhapetvā avasesā dhātū na cakkhu, dhātu. Cakkhu ca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātu. Na dhātū na ghānadhātu…pe… na dhātū na dhammadhātūti? Āmantā.</paragraph>
+  <paragraph>(Ka) na dhammo na dhātūti? Āmantā.</paragraph>
+  <paragraph>(Kha) na dhātū na cakkhudhātūti? Āmantā.</paragraph>
+  <paragraph>Na dhammo na dhātūti? Āmantā.</paragraph>
+  <paragraph>Na  dhātū na sotadhātu…pe… na dhātū na manoviññāṇadhātūti? Āmantā. (Cakkaṃ bandhitabbaṃ).</paragraph>
+  <paragraph>(Yathā āyatanayamakassa paṇṇatti evaṃ dhātuyamakassa paṇṇatti vitthāretabbā)</paragraph>
+  <centered>Paṇṇattiniddesavāro.</centered>
+  <title>2. Pavattivāro 1. uppādavāro</title>
+  <title>(1) Paccuppannavāro</title>
+  <subhead>(Ka) anulomapuggalo</subhead>
+  <paragraph nr="18"> (Ka) yassa  cakkhudhātu uppajjati tassa sotadhātu uppajjatīti?</paragraph>
+  <paragraph>Sacakkhukānaṃ asotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu uppajjati, no ca tesaṃ sotadhātu uppajjati. Sacakkhukānaṃ sasotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu ca uppajjati sotadhātu ca uppajjati.</paragraph>
+  <paragraph>(Kha) yassa vā pana sotadhātu uppajjati tassa cakkhudhātu uppajjatīti?</paragraph>
+  <paragraph>Sasotakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ sotadhātu uppajjati, no ca tesaṃ cakkhudhātu uppajjati. Sasotakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ sotadhātu ca uppajjati cakkhudhātu ca uppajjati.</paragraph>
+  <paragraph>(Ka) yassa  cakkhudhātu uppajjati tassa ghānadhātu uppajjatīti?</paragraph>
+  <paragraph>Sacakkhukānaṃ aghānakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu uppajjati, no ca tesaṃ ghānadhātu  uppajjati. Sacakkhukānaṃ saghānakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu ca uppajjati ghānadhātu ca uppajjati.</paragraph>
+  <paragraph>(Kha) yassa vā pana ghānadhātu uppajjati tassa cakkhudhātu uppajjatīti?</paragraph>
+  <paragraph>Saghānakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ ghānadhātu uppajjati, no ca tesaṃ cakkhudhātu uppajjati. Saghānakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ ghānadhātu ca uppajjati cakkhudhātu ca uppajjati.</paragraph>
+  <paragraph>(Ka) yassa cakkhudhātu uppajjati tassa rūpadhātu uppajjatīti? Āmantā.</paragraph>
+  <paragraph>(Kha) yassa vā pana rūpadhātu uppajjati tassa cakkhudhātu uppajjatīti?</paragraph>
+  <paragraph>Sarūpakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ rūpadhātu uppajjati , no ca tesaṃ cakkhudhātu uppajjati. Sacakkhukānaṃ upapajjantānaṃ tesaṃ rūpadhātu ca uppajjati cakkhudhātu ca uppajjati.</paragraph>
+  <paragraph>(Ka) yassa cakkhudhātu uppajjati tassa manoviññāṇadhātu uppajjatīti? Āmantā.</paragraph>
+  <paragraph>(Kha) yassa vā pana manoviññāṇadhātu uppajjati tassa cakkhudhātu uppajjatīti?</paragraph>
+  <paragraph>Sacittakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ manoviññāṇadhātu uppajjati, no ca tesaṃ cakkhudhātu uppajjati. Sacakkhukānaṃ upapajjantānaṃ tesaṃ manoviññāṇadhātu ca uppajjati cakkhudhātu ca uppajjati.</paragraph>
+  <paragraph>(Ka) yassa cakkhudhātu uppajjati tassa dhammadhātu uppajjatīti? Āmantā.</paragraph>
+  <paragraph>(Kha) yassa vā pana dhammadhātu uppajjati tassa cakkhudhātu uppajjatīti?</paragraph>
+  <paragraph>Acakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu uppajjati, no ca tesaṃ  cakkhudhātu uppajjati. Sacakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu ca uppajjati cakkhudhātu ca uppajjati.</paragraph>
+  <paragraph>(Yathā āyatanayamakaṃ vibhattaṃ evaṃ dhātuyamakampi vibhajitabbaṃ, sadisaṃ kātabbaṃ).</paragraph>
+  <title>3. Pariññāvāro</title>
+  <paragraph nr="19"> Yo cakkhudhātuṃ parijānāti so sotadhātuṃ parijānātīti? Āmantā.…Pe… (dhātuyamakaṃ paripuṇṇaṃ peyyālena).</paragraph>
+  <centered>Dhātuyamakaṃ niṭṭhitaṃ.</centered>
+  <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
 </text>
-</TEI.2>

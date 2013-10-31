@@ -1,121 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Sattamo paricchedo</p>
-
-<p rend="subhead">7. Bhūmipuggalasambhavakathā</p>
-
-<p rend="hangnum" n="270"><hi rend="paranum">270</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dvihetukāhetukānaṃ <pb ed="M" n="0.0024" />, na sampajjati appanā;</p>
-
-<p rend="gathalast">Arahattañca natthīti, nattheva javanakriyā.</p>
-
-<p rend="hangnum" n="271"><hi rend="paranum">271</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ñāṇapākā na vattanti, jaḷattā mūlasandhiyā;</p>
-
-<p rend="gathalast">Dvihetukatadālambaṃ, siyā sugatiyaṃ na vā.</p>
-
-<p rend="hangnum" n="272"><hi rend="paranum">272</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tihetukānaṃ sattānaṃ, samathañca vipassanaṃ;</p>
-
-<p rend="gathalast">Bhāventānaṃ pavattanti, chabbīsatipi appanā.</p>
-
-<p rend="hangnum" n="273"><hi rend="paranum">273</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Arahantāna sattānaṃ, bhavanti javanakriyā;</p>
-
-<p rend="gathalast">Yathābhūminiyāmena, ñāṇapākā ca labbhare.</p>
-
-<p rend="hangnum" n="274"><hi rend="paranum">274</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vajjhā <pb ed="V" n="0.0027" /> paṭhamamaggena, kaṅkhādiṭṭhiyutā pana;</p>
-
-<p rend="gathalast">Paṭighaṃ tatiyeneva, kammamantena sāsavaṃ.</p>
-
-<p rend="hangnum" n="275"><hi rend="paranum">275</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tasmā tesaṃ na vattanti, tāni cittāni sabbathā;</p>
-
-<p rend="gathalast">Maggaṭṭhānaṃ tu maggova, nāññaṃ sambhoti kiñcipi.</p>
-
-<p rend="hangnum" n="276"><hi rend="paranum">276</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ahetukavipākāni, labbhamānāya vīthiyā;</p>
-
-<p rend="gathalast">Sabbathāpi ca sabbesaṃ, sambhavanti yathārahaṃ.</p>
-
-<p rend="hangnum" n="277"><hi rend="paranum">277</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pañcadvāre manodvāre, dhuvamāvajjanadvayaṃ;</p>
-
-<p rend="gathalast">Parittapuññāpuññāni, labbhanti lahuvuttito.</p>
-
-<p rend="hangnum" n="278"><hi rend="paranum">278</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kriyājavanamappanā, natthāpāyesu kāraṇaṃ;</p>
-
-<p rend="gathalast">Natthi sahetukā pākā, duggatattā hi sandhiyā.</p>
-
-<p rend="hangnum" n="279"><hi rend="paranum">279</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Brahmānaṃ paṭighaṃ natthi, jhānavikkhambhitaṃ tathā;</p>
-
-<p rend="gathalast">Heṭṭhājhānaṃ virattattā, na bhāventi arūpino.</p>
-
-<p rend="hangnum" n="280"><hi rend="paranum">280</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pubbeva diṭṭhasaccāva, ariyārūpabhūmakā;</p>
-
-<p rend="gathalast">Tasmādimaggo natthettha, kāyābhāvā sitaṃ tathā.</p>
-
-<p rend="hangnum" n="281"><hi rend="paranum">281</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Suddhāvāsāpi pattāva, heṭṭhānuttarapañcakaṃ;</p>
-
-<p rend="gathalast">Sattapāpapahīnā ca, tasmā natthettha tāni ca.</p>
-
-<p rend="hangnum" n="282"><hi rend="paranum">282</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pañcadvārikacittāni <pb ed="M" n="0.0025" />, dvārābhāve na vijjare;</p>
-
-<p rend="gathalast">Sahetukavipākā ca, yathābhūmivavatthitā.</p>
-
-<p rend="hangnum" n="283"><hi rend="paranum">283</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sambhavāsambhavañcevaṃ, ñatvā puggalabhūmisu;</p>
-
-<p rend="gathalast">Labbhamānavasā tattha, cittasaṅgahamuddise.</p>
-
-<p rend="hangnum" n="284"><hi rend="paranum">284</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kusalādippabhedā ca, tathā bhūmādibhedato;</p>
-
-<p rend="gathalast">Vatthudvārārammaṇato, bhūmipuggalatopi ca.</p>
-
-<p rend="hangnum" n="285"><hi rend="paranum">285</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vibhāgo yo samuddiṭṭho,</p>
-
-<p rend="gatha2">Cittānañca tu sambhavā;</p>
-
-<p rend="gatha3">Ñeyyo <pb ed="V" n="0.0028" /> cetasikānañca,</p>
-
-<p rend="gathalast">Sampayogānusāratoti.</p>
-
-<p rend="centre">Iti cittavibhāge bhūmipuggalasambhavakathā niṭṭhitā.</p>
-
-<p rend="centre">Sattamo paricchedo.</p>
-
-<p rend="centre">Niṭṭhito ca cittavibhāgo.</p>
-</body>
-<back></back>
+  <chapter>Sattamo paricchedo</chapter>
+  <subhead>7. Bhūmipuggalasambhavakathā</subhead>
+  <hangnum nr="270"/>
+  <gatha type="1"> Dvihetukāhetukānaṃ , na sampajjati appanā;</gatha>
+  <gatha type="last">Arahattañca natthīti, nattheva javanakriyā.</gatha>
+  <hangnum nr="271"/>
+  <gatha type="1"> Ñāṇapākā na vattanti, jaḷattā mūlasandhiyā;</gatha>
+  <gatha type="last">Dvihetukatadālambaṃ, siyā sugatiyaṃ na vā.</gatha>
+  <hangnum nr="272"/>
+  <gatha type="1"> Tihetukānaṃ sattānaṃ, samathañca vipassanaṃ;</gatha>
+  <gatha type="last">Bhāventānaṃ pavattanti, chabbīsatipi appanā.</gatha>
+  <hangnum nr="273"/>
+  <gatha type="1"> Arahantāna sattānaṃ, bhavanti javanakriyā;</gatha>
+  <gatha type="last">Yathābhūminiyāmena, ñāṇapākā ca labbhare.</gatha>
+  <hangnum nr="274"/>
+  <gatha type="1"> Vajjhā  paṭhamamaggena, kaṅkhādiṭṭhiyutā pana;</gatha>
+  <gatha type="last">Paṭighaṃ tatiyeneva, kammamantena sāsavaṃ.</gatha>
+  <hangnum nr="275"/>
+  <gatha type="1"> Tasmā tesaṃ na vattanti, tāni cittāni sabbathā;</gatha>
+  <gatha type="last">Maggaṭṭhānaṃ tu maggova, nāññaṃ sambhoti kiñcipi.</gatha>
+  <hangnum nr="276"/>
+  <gatha type="1"> Ahetukavipākāni, labbhamānāya vīthiyā;</gatha>
+  <gatha type="last">Sabbathāpi ca sabbesaṃ, sambhavanti yathārahaṃ.</gatha>
+  <hangnum nr="277"/>
+  <gatha type="1"> Pañcadvāre manodvāre, dhuvamāvajjanadvayaṃ;</gatha>
+  <gatha type="last">Parittapuññāpuññāni, labbhanti lahuvuttito.</gatha>
+  <hangnum nr="278"/>
+  <gatha type="1"> Kriyājavanamappanā, natthāpāyesu kāraṇaṃ;</gatha>
+  <gatha type="last">Natthi sahetukā pākā, duggatattā hi sandhiyā.</gatha>
+  <hangnum nr="279"/>
+  <gatha type="1"> Brahmānaṃ paṭighaṃ natthi, jhānavikkhambhitaṃ tathā;</gatha>
+  <gatha type="last">Heṭṭhājhānaṃ virattattā, na bhāventi arūpino.</gatha>
+  <hangnum nr="280"/>
+  <gatha type="1"> Pubbeva diṭṭhasaccāva, ariyārūpabhūmakā;</gatha>
+  <gatha type="last">Tasmādimaggo natthettha, kāyābhāvā sitaṃ tathā.</gatha>
+  <hangnum nr="281"/>
+  <gatha type="1"> Suddhāvāsāpi pattāva, heṭṭhānuttarapañcakaṃ;</gatha>
+  <gatha type="last">Sattapāpapahīnā ca, tasmā natthettha tāni ca.</gatha>
+  <hangnum nr="282"/>
+  <gatha type="1"> Pañcadvārikacittāni , dvārābhāve na vijjare;</gatha>
+  <gatha type="last">Sahetukavipākā ca, yathābhūmivavatthitā.</gatha>
+  <hangnum nr="283"/>
+  <gatha type="1"> Sambhavāsambhavañcevaṃ, ñatvā puggalabhūmisu;</gatha>
+  <gatha type="last">Labbhamānavasā tattha, cittasaṅgahamuddise.</gatha>
+  <hangnum nr="284"/>
+  <gatha type="1"> Kusalādippabhedā ca, tathā bhūmādibhedato;</gatha>
+  <gatha type="last">Vatthudvārārammaṇato, bhūmipuggalatopi ca.</gatha>
+  <hangnum nr="285"/>
+  <gatha type="1"> Vibhāgo yo samuddiṭṭho,</gatha>
+  <gatha type="2">Cittānañca tu sambhavā;</gatha>
+  <gatha type="3">Ñeyyo  cetasikānañca,</gatha>
+  <gatha type="last">Sampayogānusāratoti.</gatha>
+  <centered>Iti cittavibhāge bhūmipuggalasambhavakathā niṭṭhitā.</centered>
+  <centered>Sattamo paricchedo.</centered>
+  <centered>Niṭṭhito ca cittavibhāgo.</centered>
 </text>
-</TEI.2>

@@ -1,103 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Bodhisambhāradīpanīgāthā</p>
-
-<p rend="hangnum" n="23"><hi rend="paranum">23</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> So dukkhakhinnajanadassanadukkhakhinno,</p>
-
-<p rend="gatha2">Kāruññameva janatāya akāsi niccaṃ;</p>
-
-<p rend="gatha3">Tesaṃ hi mocanamupāyamidanti ñatvā,</p>
-
-<p rend="gathalast">Tādīparādhamapi attani ropayī so.</p>
-
-<p rend="hangnum" n="24"><hi rend="paranum">24</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dānādinekavarapāramisāgaresu,</p>
-
-<p rend="gatha2">Ogāḷhatāyapi paduṭṭhajanena dinnaṃ;</p>
-
-<p rend="gatha3">Dukkhaṃ tathā atimahantatarampi kiñci,</p>
-
-<p rend="gathalast">Nāññāsi sattahitamevea gavesayanto.</p>
-
-<p rend="hangnum" n="25"><hi rend="paranum">25</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Chetvāna sīsaṃ hi sakaṃ dadanto,</p>
-
-<p rend="gatha2">Maṃsaṃ pacitvāna sakaṃ dadanto;</p>
-
-<p rend="gatha3">So cattagatto paṇidhānakāle,</p>
-
-<p rend="gathalast">Duṭṭhassa kiṃ dussati chedanena.</p>
-
-<p rend="hangnum" n="26"><hi rend="paranum">26</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evaṃ anantamapi jātisatesu dukkhaṃ,</p>
-
-<p rend="gatha2">Patvāna sattahitameva gavesayanto;</p>
-
-<p rend="gatha3">Dīpaṅkare gahitasīlasamādhipaññaṃ,</p>
-
-<p rend="gathalast">Pālesi yāva sakabodhitale suniṭṭho.</p>
-
-<p rend="hangnum" n="27"><hi rend="paranum">27</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yadābhinīhāramakā sumedho,</p>
-
-<p rend="gatha2">Yadā ca maddiṃ adadā sivindo;</p>
-
-<p rend="gatha3">Etthantare jātisu kiñcipekaṃ,</p>
-
-<p rend="gathalast">Niratthakaṃ no agamāsi tassa.</p>
-
-<p rend="hangnum" n="28"><hi rend="paranum">28</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Mahāsamudde jalabindutopi,</p>
-
-<p rend="gatha2">Tadantre jāti anappakā va;</p>
-
-<p rend="gatha3">Nirantaraṃ pūritapāramīnaṃ,</p>
-
-<p rend="gathalast">Kathaṃ pamāṇaṃ upamā kuhiṃ vā.</p>
-
-<p rend="hangnum" n="29"><hi rend="paranum">29</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yo maggapasse madhurambabījaṃ,</p>
-
-<p rend="gatha2">Chāyāphalatthāya mahājanānaṃ;</p>
-
-<p rend="gatha3">Ropesi tasmiṃ hi khaṇeva tena,</p>
-
-<p rend="gathalast">Chāyāphale puññamaladdhamuddhaṃ.</p>
-
-<p rend="hangnum" n="30"><hi rend="paranum">30</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tatheva saṃsārapathe janānaṃ,</p>
-
-<p rend="gatha2">Hitāya attanamabhiropitakkhaṇe;</p>
-
-<p rend="gatha3">Siddhaṃ va puññūpari tassa tasmiṃ,</p>
-
-<p rend="gathalast">Dhanaṅgajīvaṃ pi haranti ye ye.</p>
-
-<p rend="hangnum" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> So sāgare jaladhikaṃ ruhiraṃ adāsi,</p>
-
-<p rend="gatha2">Bhūmāparājiya samaṃsamadāsi dānaṃ;</p>
-
-<p rend="gatha3">Meruppamāṇamadhikañca samoḷisīsaṃ,</p>
-
-<p rend="gathalast">Khe tārakādhikataraṃ nayanaṃ adāsi.</p>
-</body>
-<back></back>
+  <chapter>Bodhisambhāradīpanīgāthā</chapter>
+  <hangnum nr="23"/>
+  <gatha type="1"> So dukkhakhinnajanadassanadukkhakhinno,</gatha>
+  <gatha type="2">Kāruññameva janatāya akāsi niccaṃ;</gatha>
+  <gatha type="3">Tesaṃ hi mocanamupāyamidanti ñatvā,</gatha>
+  <gatha type="last">Tādīparādhamapi attani ropayī so.</gatha>
+  <hangnum nr="24"/>
+  <gatha type="1"> Dānādinekavarapāramisāgaresu,</gatha>
+  <gatha type="2">Ogāḷhatāyapi paduṭṭhajanena dinnaṃ;</gatha>
+  <gatha type="3">Dukkhaṃ tathā atimahantatarampi kiñci,</gatha>
+  <gatha type="last">Nāññāsi sattahitamevea gavesayanto.</gatha>
+  <hangnum nr="25"/>
+  <gatha type="1"> Chetvāna sīsaṃ hi sakaṃ dadanto,</gatha>
+  <gatha type="2">Maṃsaṃ pacitvāna sakaṃ dadanto;</gatha>
+  <gatha type="3">So cattagatto paṇidhānakāle,</gatha>
+  <gatha type="last">Duṭṭhassa kiṃ dussati chedanena.</gatha>
+  <hangnum nr="26"/>
+  <gatha type="1"> Evaṃ anantamapi jātisatesu dukkhaṃ,</gatha>
+  <gatha type="2">Patvāna sattahitameva gavesayanto;</gatha>
+  <gatha type="3">Dīpaṅkare gahitasīlasamādhipaññaṃ,</gatha>
+  <gatha type="last">Pālesi yāva sakabodhitale suniṭṭho.</gatha>
+  <hangnum nr="27"/>
+  <gatha type="1"> Yadābhinīhāramakā sumedho,</gatha>
+  <gatha type="2">Yadā ca maddiṃ adadā sivindo;</gatha>
+  <gatha type="3">Etthantare jātisu kiñcipekaṃ,</gatha>
+  <gatha type="last">Niratthakaṃ no agamāsi tassa.</gatha>
+  <hangnum nr="28"/>
+  <gatha type="1"> Mahāsamudde jalabindutopi,</gatha>
+  <gatha type="2">Tadantre jāti anappakā va;</gatha>
+  <gatha type="3">Nirantaraṃ pūritapāramīnaṃ,</gatha>
+  <gatha type="last">Kathaṃ pamāṇaṃ upamā kuhiṃ vā.</gatha>
+  <hangnum nr="29"/>
+  <gatha type="1"> Yo maggapasse madhurambabījaṃ,</gatha>
+  <gatha type="2">Chāyāphalatthāya mahājanānaṃ;</gatha>
+  <gatha type="3">Ropesi tasmiṃ hi khaṇeva tena,</gatha>
+  <gatha type="last">Chāyāphale puññamaladdhamuddhaṃ.</gatha>
+  <hangnum nr="30"/>
+  <gatha type="1"> Tatheva saṃsārapathe janānaṃ,</gatha>
+  <gatha type="2">Hitāya attanamabhiropitakkhaṇe;</gatha>
+  <gatha type="3">Siddhaṃ va puññūpari tassa tasmiṃ,</gatha>
+  <gatha type="last">Dhanaṅgajīvaṃ pi haranti ye ye.</gatha>
+  <hangnum nr="31"/>
+  <gatha type="1"> So sāgare jaladhikaṃ ruhiraṃ adāsi,</gatha>
+  <gatha type="2">Bhūmāparājiya samaṃsamadāsi dānaṃ;</gatha>
+  <gatha type="3">Meruppamāṇamadhikañca samoḷisīsaṃ,</gatha>
+  <gatha type="last">Khe tārakādhikataraṃ nayanaṃ adāsi.</gatha>
 </text>
-</TEI.2>

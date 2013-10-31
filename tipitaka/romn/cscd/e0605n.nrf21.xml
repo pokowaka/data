@@ -1,53 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Mahāpadhānadīpanīgāthā</p>
-
-<p rend="hangnum" n="111"><hi rend="paranum">111</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Orohitotohitapāpadhammo,</p>
-
-<p rend="gatha2">Channena sa channahayena gantvā;</p>
-
-<p rend="gatha3">Anomatīramhi anomasatto,</p>
-
-<p rend="gathalast">Anomapabbajjamupāgato so.</p>
-
-<p rend="hangnum" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nirāmisaṃ pītisukhaṃ anūpamaṃ,</p>
-
-<p rend="gatha2">Anūpiye ambavane alattha;</p>
-
-<p rend="gatha3">Sarūpasobhāya virūpasobhaṃ,</p>
-
-<p rend="gathalast">Sarājikaṃ rājagahaṃ karittha.</p>
-
-<p rend="hangnum" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tato aḷāra ūdakatāpasānaṃ,</p>
-
-<p rend="gatha2">Jhānenasantuṭṭhamano vihāya;</p>
-
-<p rend="gatha3">Mahāpadhānāya uruvelabhūmiṃ,</p>
-
-<p rend="gathalast">Gato sikhappattamakāsi dukkaraṃ.</p>
-
-<p rend="hangnum" n="114"><hi rend="paranum">114</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Na kāmato nevatidukkaramhi,</p>
-
-<p rend="gatha2">Sabbaññutā sijjhati majjhimāya;</p>
-
-<p rend="gatha3">Ñatvāna taṃ pubbaguṇopaladdhaṃ,</p>
-
-<p rend="gathalast">Dhammaṃ samānetumagā subodhiṃ.</p>
-</body>
-<back></back>
+  <chapter>Mahāpadhānadīpanīgāthā</chapter>
+  <hangnum nr="111"/>
+  <gatha type="1"> Orohitotohitapāpadhammo,</gatha>
+  <gatha type="2">Channena sa channahayena gantvā;</gatha>
+  <gatha type="3">Anomatīramhi anomasatto,</gatha>
+  <gatha type="last">Anomapabbajjamupāgato so.</gatha>
+  <hangnum nr="112"/>
+  <gatha type="1"> Nirāmisaṃ pītisukhaṃ anūpamaṃ,</gatha>
+  <gatha type="2">Anūpiye ambavane alattha;</gatha>
+  <gatha type="3">Sarūpasobhāya virūpasobhaṃ,</gatha>
+  <gatha type="last">Sarājikaṃ rājagahaṃ karittha.</gatha>
+  <hangnum nr="113"/>
+  <gatha type="1"> Tato aḷāra ūdakatāpasānaṃ,</gatha>
+  <gatha type="2">Jhānenasantuṭṭhamano vihāya;</gatha>
+  <gatha type="3">Mahāpadhānāya uruvelabhūmiṃ,</gatha>
+  <gatha type="last">Gato sikhappattamakāsi dukkaraṃ.</gatha>
+  <hangnum nr="114"/>
+  <gatha type="1"> Na kāmato nevatidukkaramhi,</gatha>
+  <gatha type="2">Sabbaññutā sijjhati majjhimāya;</gatha>
+  <gatha type="3">Ñatvāna taṃ pubbaguṇopaladdhaṃ,</gatha>
+  <gatha type="last">Dhammaṃ samānetumagā subodhiṃ.</gatha>
 </text>
-</TEI.2>

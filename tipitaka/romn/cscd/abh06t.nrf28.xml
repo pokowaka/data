@@ -1,371 +1,183 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">2. Dutiyo paricchedo</p>
-
-<p rend="subhead">Lakkhaṇarasupaṭṭhānavibhāgo</p>
-
-<p rend="hangnum" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sabhāvo <pb ed="V" n="0.0008" /> lakkhaṇaṃ nāma, kiccasampajjanā raso;</p>
-
-<p rend="gathalast">Gayhākāro upaṭṭhānaṃ, padaṭṭhānaṃ tu paccayo.</p>
-
-<p rend="hangnum" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attupaladdhisaṅkhātā, sampattā ca panatthato;</p>
-
-<p rend="gathalast">Lakkhaṇarasupaṭṭhānā, vohārābhogabheditā.</p>
-
-<p rend="hangnum" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tepaññāsasabhāvesu, tasmā bhedaṃ yathārahaṃ;</p>
-
-<p rend="gathalast">Lakkhaṇādippakārehi, pavakkhāmi ito paraṃ.</p>
-
-<p rend="hangnum" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cintetīti bhave cittaṃ, cintanamattameva vā;</p>
-
-<p rend="gathalast">Sampayuttātha vā tena, cintentīti ca gocaraṃ.</p>
-
-<p rend="hangnum" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Phusatīti bhave phasso, phusanaṃ vātha kevalaṃ;</p>
-
-<p rend="gathalast">Sampayuttātha vā tena, phusantīti ca gocaraṃ.</p>
-
-<p rend="hangnum" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evaṃ kattari bhāve ca, karaṇe ca yathārahaṃ;</p>
-
-<p rend="gathalast">Tepaññāsasabhāvesu, saddanibbacanaṃ naye.</p>
-
-<p rend="hangnum" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ālambaṇamanaṃ cittaṃ, taṃvijānanalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Sahajādhiṭṭhānarasaṃ, cintākappoti gayhati.</p>
-
-<p rend="hangnum" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ālambaṇasamodhāno <pb ed="M" n="0.0008" />,</p>
-
-<p rend="gatha2">Phasso phusanalakkhaṇo;</p>
-
-<p rend="gatha3">Saṅghaṭṭanaraso tattha,</p>
-
-<p rend="gathalast">Sannipātoti gayhati.</p>
-
-<p rend="hangnum" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vedanālambaṇarasā, sā vedayitalakkhaṇā;</p>
-
-<p rend="gathalast">Gocarānubhavarasā, anubhuttīti gayhati.</p>
-
-<p rend="hangnum" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ākāragahaṇaṃ <pb ed="V" n="0.0009" /> saññā, sā sañjānanalakkhaṇā;</p>
-
-<p rend="gathalast">Nimittuppādanarasā, upalakkhāti gayhati.</p>
-
-<p rend="hangnum" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cetanā cittavipphārā, sāyaṃ byāpāralakkhaṇā;</p>
-
-<p rend="gathalast">Kammantāyūhanarasā, saṃvidhānanti gayhati.</p>
-
-<p rend="hangnum" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ekaggatā avikkhepo, sāvisāhāralakkhaṇā;</p>
-
-<p rend="gathalast">Sampiṇḍanarasā cittaṃ, samodhānanti gayhati.</p>
-
-<p rend="hangnum" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yāpanaṃ sahajātāna-manupālanalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Jīvitaṃ jīvanarasaṃ, āyubandhoti gayhati.</p>
-
-<p rend="hangnum" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sāraṇā manasīkāro, samannāhāralakkhaṇo;</p>
-
-<p rend="gathalast">Saṃyojanaraso citta-paṭipattīti gayhati.</p>
-
-<p rend="hangnum" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saṅkappanalakkhaṇo takko, sahajābhiniropano;</p>
-
-<p rend="gathalast">Ālambāhananaraso, sannirujjhoti gayhati.</p>
-
-<p rend="hangnum" n="82"><hi rend="paranum">82</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vicāro anusandhāno, anumajjanalakkhaṇo;</p>
-
-<p rend="gathalast">Cittānuyojanaraso, anupekkhāti gayhati.</p>
-
-<p rend="hangnum" n="83"><hi rend="paranum">83</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Adhimokkho asaṃsappo, susanniṭṭhānalakkhaṇo;</p>
-
-<p rend="gathalast">Niccalāpādanaraso, daḷhavuttīti gayhati.</p>
-
-<p rend="hangnum" n="84"><hi rend="paranum">84</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vīriyaṃ pana vāyāmo, mahussāhanalakkhaṇo;</p>
-
-<p rend="gathalast">Kiccāsaṃsīdanaraso, upatthambhoti gayhati.</p>
-
-<p rend="hangnum" n="85"><hi rend="paranum">85</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ālambatthikatā <pb ed="M" n="0.0009" /> chando, kattukāmatalakkhaṇo;</p>
-
-<p rend="gathalast">Ālambaṇesanaraso, hatthādānanti gayhati.</p>
-
-<p rend="hangnum" n="86"><hi rend="paranum">86</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sahajātānupharaṇā, sampiyāyanalakkhaṇā;</p>
-
-<p rend="gathalast">Sampīnanarasā pīti, pāmojjamiti gayhati.</p>
-
-<p rend="hangnum" n="87"><hi rend="paranum">87</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cetosaddahanaṃ saddhā, bhūtokappanalakkhaṇā;</p>
-
-<p rend="gathalast">Hitapakkhandanarasā, adhimuttīti gayhati.</p>
-
-<p rend="hangnum" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Asammosā <pb ed="V" n="0.0010" /> sabhāvesu, sati dhāraṇalakkhaṇā;</p>
-
-<p rend="gathalast">Dhammāpilāpanarasā, appamādoti gayhati.</p>
-
-<p rend="hangnum" n="89"><hi rend="paranum">89</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Hirī jegucchā pāpesu, sā harāyanalakkhaṇā;</p>
-
-<p rend="gathalast">Hīḷasaṃkocanarasā, pāpalajjāti gayhati.</p>
-
-<p rend="hangnum" n="90"><hi rend="paranum">90</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pāpasārajjamottappaṃ, ubbeguttāsalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Bhayasaṅkocanarasaṃ, avissāsoti gayhati.</p>
-
-<p rend="hangnum" n="91"><hi rend="paranum">91</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Alobho anabhisaṅgo, apariggahalakkhaṇo;</p>
-
-<p rend="gathalast">Muttappavattanaraso, asaṃsaggoti gayhati.</p>
-
-<p rend="hangnum" n="92"><hi rend="paranum">92</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Adoso cittasākhalyaṃ, abyāpajjanalakkhaṇo;</p>
-
-<p rend="gathalast">Saṇhappavattanaraso, sommabhāvoti gayhati.</p>
-
-<p rend="hangnum" n="93"><hi rend="paranum">93</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Amoho khalitābhāvo, paṭivijjhanalakkhaṇo;</p>
-
-<p rend="gathalast">Visayobhāsanaraso, paṭibodhoti gayhati.</p>
-
-<p rend="hangnum" n="94"><hi rend="paranum">94</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tatramajjhattatopekkhā, samīkaraṇalakkhaṇā;</p>
-
-<p rend="gathalast">Apakkhapātanarasā, samavāhoti gayhati.</p>
-
-<p rend="hangnum" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Passaddhi kāyacittānaṃ, darathābhāvalakkhaṇā;</p>
-
-<p rend="gathalast">Aparipphandanarasā, sītibhāvoti gayhati.</p>
-
-<p rend="hangnum" n="96"><hi rend="paranum">96</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Lahutā kāyacittānaṃ, adandhākāralakkhaṇā;</p>
-
-<p rend="gathalast">Avitthārarasā sallahukavuttīti gayhati.</p>
-
-<p rend="hangnum" n="97"><hi rend="paranum">97</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Mudutā kāyacittānaṃ, kakkhaḷābhāvalakkhaṇā;</p>
-
-<p rend="gathalast">Kiccāvirodhanarasā, anukulyanti gayhati.</p>
-
-<p rend="hangnum" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kammaññatā <pb ed="M" n="0.0010" /> ubhinnampi, alaṃkiccassa lakkhaṇā;</p>
-
-<p rend="gathalast">Pavattisampattirasā, yogabhāvoti gayhati.</p>
-
-<p rend="hangnum" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Tathā pāguññatā dvinnaṃ, visadākāralakkhaṇā;</p>
-
-<p rend="gathalast">Sukhappavattanarasā, seribhāvoti gayhati.</p>
-
-<p rend="hangnum" n="100"><hi rend="paranum">100</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ujutā <pb ed="V" n="0.0011" /> kāyacittānaṃ, kuṭilābhāvalakkhaṇā;</p>
-
-<p rend="gathalast">Jimhanimmadanarasā, ujuvuttīti gayhati.</p>
-
-<p rend="hangnum" n="101"><hi rend="paranum">101</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sammāvācā vacīsuddhi, vācāsaṃyamalakkhaṇā;</p>
-
-<p rend="gathalast">Micchāvācoramarasā, vacīvelāti gayhati.</p>
-
-<p rend="hangnum" n="102"><hi rend="paranum">102</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sammākammaṃ kriyāsuddhaṃ, sammākaraṇalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Micchākammoramarasaṃ, kriyāvelāti gayhati.</p>
-
-<p rend="hangnum" n="103"><hi rend="paranum">103</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sammājīvo visuddheṭṭhi, alliṭṭhājīvalakkhaṇo;</p>
-
-<p rend="gathalast">Micchājīvoramaraso, sammāvuttīti gayhati.</p>
-
-<p rend="hangnum" n="104"><hi rend="paranum">104</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Karuṇā dīnasattesu, dukkhāpanayalakkhaṇā;</p>
-
-<p rend="gathalast">Sotthitāpatthanarasā, anukampāti gayhati.</p>
-
-<p rend="hangnum" n="105"><hi rend="paranum">105</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sukhaṭṭhitesu muditā, anumodanalakkhaṇā;</p>
-
-<p rend="gathalast">Cetovikāsanarasā, avirodhoti gayhati.</p>
-
-<p rend="hangnum" n="106"><hi rend="paranum">106</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cetosārajjanā lobho, apariccāgalakkhaṇo;</p>
-
-<p rend="gathalast">Ālambagijjhanaraso, abhilaggoti gayhati.</p>
-
-<p rend="hangnum" n="107"><hi rend="paranum">107</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cetobyāpajjanaṃ doso, sampadussanalakkhaṇo;</p>
-
-<p rend="gathalast">Ālambaṇaghātaraso, caṇḍikkamiti gayhati.</p>
-
-<p rend="hangnum" n="108"><hi rend="paranum">108</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cetosammuyhanaṃ moho,</p>
-
-<p rend="gatha2">So sammuyhanalakkhaṇo;</p>
-
-<p rend="gatha3">Sabhāvacchādanaraso,</p>
-
-<p rend="gathalast">Andhabhāvoti gayhati.</p>
-
-<p rend="hangnum" n="109"><hi rend="paranum">109</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pāpājigucchāhirikaṃ, nillajjākāralakkhaṇaṃ;</p>
-
-<p rend="gathalast">Pāpopalāpanarasaṃ, malaggāhoti gayhati.</p>
-
-<p rend="hangnum" n="110"><hi rend="paranum">110</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Asārajjanamanottappamanuttāsanalakkhaṇaṃ <pb ed="M" n="0.0011" />;</p>
-
-<p rend="gathalast">Pāpapakkhandanarasaṃ, pāgabbhamiti gayhati.</p>
-
-<p rend="hangnum" n="111"><hi rend="paranum">111</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Diṭṭhi <pb ed="V" n="0.0012" /> daḷhavipallāso, sā parāmāsalakkhaṇā;</p>
-
-<p rend="gathalast">Tucchābhinivesanarasā, micchāgāhoti gayhati.</p>
-
-<p rend="hangnum" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> ‘‘Ahasmī’’ti maññamāno, so samunnatilakkhaṇo;</p>
-
-<p rend="gathalast">Ketusampaggaharaso, ahaṃkāroti gayhati.</p>
-
-<p rend="hangnum" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Parasampattīsu issā, akkhamākāralakkhaṇā;</p>
-
-<p rend="gathalast">Cetovikucanarasā, vimukhattanti gayhati.</p>
-
-<p rend="hangnum" n="114"><hi rend="paranum">114</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pariggahesu maccheraṃ, sannigūhanalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Sāmaññāsahanarasaṃ, vevicchamiti gayhati.</p>
-
-<p rend="hangnum" n="115"><hi rend="paranum">115</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cetopahananaṃ thīnaṃ, taṃ saṃsīdanalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Ussāhabhañjanarasaṃ, saṃkhittattanti gayhati.</p>
-
-<p rend="hangnum" n="116"><hi rend="paranum">116</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vighāto sahajātānaṃ, middhaṃ mohanalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Sattisaṃbhañjanarasaṃ, āturattanti gayhati.</p>
-
-<p rend="hangnum" n="117"><hi rend="paranum">117</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Uddhaccaṃ cittavikkhepo, avūpasamalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Cetonavaṭṭhānarasaṃ, bhantattamiti gayhati.</p>
-
-<p rend="hangnum" n="118"><hi rend="paranum">118</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vippaṭisāro kukkuccamanusocanalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Attānusocanarasaṃ, pacchātāpoti gayhati.</p>
-
-<p rend="hangnum" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kaṅkhāyanā vicikicchā, asanniṭṭhānalakkhaṇā;</p>
-
-<p rend="gathalast">Anekagāhanarasā, appatiṭṭhāti gayhati.</p>
-
-<p rend="hangnum" n="120"><hi rend="paranum">120</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Iccevaṃ lakkhaṇādīhi, vibhāveyya vicakkhaṇo;</p>
-
-<p rend="gathalast">Tepaññāsasabhāvesu, sabhāvākāralakkhaṇaṃ.</p>
-
-<p rend="hangnum" n="121"><hi rend="paranum">121</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Lakkhaṇatthakusalā <pb ed="M" n="0.0012" /> salakkhaṇe,</p>
-
-<p rend="gatha2">Lakkhaṇatthaparamepi kevalaṃ;</p>
-
-<p rend="gatha3">Lakkhaṇuggahasukhāya vaṇṇayuṃ,</p>
-
-<p rend="gathalast">Lakkhaṇādimukhato salakkhaṇaṃ.</p>
-
-<p rend="hangnum" n="122"><hi rend="paranum">122</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Atthaṃ <pb ed="V" n="0.0013" /> tamevamanugamma mayettha vutta-</p>
-
-<p rend="gatha2">Matthānamatthanayanatthamanekadhāpi;</p>
-
-<p rend="gatha3">Pattheyya mettha vacanatthanayehi ñāṇa-</p>
-
-<p rend="gathalast">Matthesu buddhavacanatthanayatthikehi.</p>
-
-<p rend="centre">Iti nāmarūpaparicchede lakkhaṇarasupaṭṭhānavibhāgo nāma</p>
-
-<p rend="centre">Dutiyo paricchedo.</p>
-</body>
-<back></back>
+  <chapter>2. Dutiyo paricchedo</chapter>
+  <subhead>Lakkhaṇarasupaṭṭhānavibhāgo</subhead>
+  <hangnum nr="67"/>
+  <gatha type="1"> Sabhāvo  lakkhaṇaṃ nāma, kiccasampajjanā raso;</gatha>
+  <gatha type="last">Gayhākāro upaṭṭhānaṃ, padaṭṭhānaṃ tu paccayo.</gatha>
+  <hangnum nr="68"/>
+  <gatha type="1"> Attupaladdhisaṅkhātā, sampattā ca panatthato;</gatha>
+  <gatha type="last">Lakkhaṇarasupaṭṭhānā, vohārābhogabheditā.</gatha>
+  <hangnum nr="69"/>
+  <gatha type="1"> Tepaññāsasabhāvesu, tasmā bhedaṃ yathārahaṃ;</gatha>
+  <gatha type="last">Lakkhaṇādippakārehi, pavakkhāmi ito paraṃ.</gatha>
+  <hangnum nr="70"/>
+  <gatha type="1"> Cintetīti bhave cittaṃ, cintanamattameva vā;</gatha>
+  <gatha type="last">Sampayuttātha vā tena, cintentīti ca gocaraṃ.</gatha>
+  <hangnum nr="71"/>
+  <gatha type="1"> Phusatīti bhave phasso, phusanaṃ vātha kevalaṃ;</gatha>
+  <gatha type="last">Sampayuttātha vā tena, phusantīti ca gocaraṃ.</gatha>
+  <hangnum nr="72"/>
+  <gatha type="1"> Evaṃ kattari bhāve ca, karaṇe ca yathārahaṃ;</gatha>
+  <gatha type="last">Tepaññāsasabhāvesu, saddanibbacanaṃ naye.</gatha>
+  <hangnum nr="73"/>
+  <gatha type="1"> Ālambaṇamanaṃ cittaṃ, taṃvijānanalakkhaṇaṃ;</gatha>
+  <gatha type="last">Sahajādhiṭṭhānarasaṃ, cintākappoti gayhati.</gatha>
+  <hangnum nr="74"/>
+  <gatha type="1"> Ālambaṇasamodhāno ,</gatha>
+  <gatha type="2">Phasso phusanalakkhaṇo;</gatha>
+  <gatha type="3">Saṅghaṭṭanaraso tattha,</gatha>
+  <gatha type="last">Sannipātoti gayhati.</gatha>
+  <hangnum nr="75"/>
+  <gatha type="1"> Vedanālambaṇarasā, sā vedayitalakkhaṇā;</gatha>
+  <gatha type="last">Gocarānubhavarasā, anubhuttīti gayhati.</gatha>
+  <hangnum nr="76"/>
+  <gatha type="1"> Ākāragahaṇaṃ  saññā, sā sañjānanalakkhaṇā;</gatha>
+  <gatha type="last">Nimittuppādanarasā, upalakkhāti gayhati.</gatha>
+  <hangnum nr="77"/>
+  <gatha type="1"> Cetanā cittavipphārā, sāyaṃ byāpāralakkhaṇā;</gatha>
+  <gatha type="last">Kammantāyūhanarasā, saṃvidhānanti gayhati.</gatha>
+  <hangnum nr="78"/>
+  <gatha type="1"> Ekaggatā avikkhepo, sāvisāhāralakkhaṇā;</gatha>
+  <gatha type="last">Sampiṇḍanarasā cittaṃ, samodhānanti gayhati.</gatha>
+  <hangnum nr="79"/>
+  <gatha type="1"> Yāpanaṃ sahajātāna-manupālanalakkhaṇaṃ;</gatha>
+  <gatha type="last">Jīvitaṃ jīvanarasaṃ, āyubandhoti gayhati.</gatha>
+  <hangnum nr="80"/>
+  <gatha type="1"> Sāraṇā manasīkāro, samannāhāralakkhaṇo;</gatha>
+  <gatha type="last">Saṃyojanaraso citta-paṭipattīti gayhati.</gatha>
+  <hangnum nr="81"/>
+  <gatha type="1"> Saṅkappanalakkhaṇo takko, sahajābhiniropano;</gatha>
+  <gatha type="last">Ālambāhananaraso, sannirujjhoti gayhati.</gatha>
+  <hangnum nr="82"/>
+  <gatha type="1"> Vicāro anusandhāno, anumajjanalakkhaṇo;</gatha>
+  <gatha type="last">Cittānuyojanaraso, anupekkhāti gayhati.</gatha>
+  <hangnum nr="83"/>
+  <gatha type="1"> Adhimokkho asaṃsappo, susanniṭṭhānalakkhaṇo;</gatha>
+  <gatha type="last">Niccalāpādanaraso, daḷhavuttīti gayhati.</gatha>
+  <hangnum nr="84"/>
+  <gatha type="1"> Vīriyaṃ pana vāyāmo, mahussāhanalakkhaṇo;</gatha>
+  <gatha type="last">Kiccāsaṃsīdanaraso, upatthambhoti gayhati.</gatha>
+  <hangnum nr="85"/>
+  <gatha type="1"> Ālambatthikatā  chando, kattukāmatalakkhaṇo;</gatha>
+  <gatha type="last">Ālambaṇesanaraso, hatthādānanti gayhati.</gatha>
+  <hangnum nr="86"/>
+  <gatha type="1"> Sahajātānupharaṇā, sampiyāyanalakkhaṇā;</gatha>
+  <gatha type="last">Sampīnanarasā pīti, pāmojjamiti gayhati.</gatha>
+  <hangnum nr="87"/>
+  <gatha type="1"> Cetosaddahanaṃ saddhā, bhūtokappanalakkhaṇā;</gatha>
+  <gatha type="last">Hitapakkhandanarasā, adhimuttīti gayhati.</gatha>
+  <hangnum nr="88"/>
+  <gatha type="1"> Asammosā  sabhāvesu, sati dhāraṇalakkhaṇā;</gatha>
+  <gatha type="last">Dhammāpilāpanarasā, appamādoti gayhati.</gatha>
+  <hangnum nr="89"/>
+  <gatha type="1"> Hirī jegucchā pāpesu, sā harāyanalakkhaṇā;</gatha>
+  <gatha type="last">Hīḷasaṃkocanarasā, pāpalajjāti gayhati.</gatha>
+  <hangnum nr="90"/>
+  <gatha type="1"> Pāpasārajjamottappaṃ, ubbeguttāsalakkhaṇaṃ;</gatha>
+  <gatha type="last">Bhayasaṅkocanarasaṃ, avissāsoti gayhati.</gatha>
+  <hangnum nr="91"/>
+  <gatha type="1"> Alobho anabhisaṅgo, apariggahalakkhaṇo;</gatha>
+  <gatha type="last">Muttappavattanaraso, asaṃsaggoti gayhati.</gatha>
+  <hangnum nr="92"/>
+  <gatha type="1"> Adoso cittasākhalyaṃ, abyāpajjanalakkhaṇo;</gatha>
+  <gatha type="last">Saṇhappavattanaraso, sommabhāvoti gayhati.</gatha>
+  <hangnum nr="93"/>
+  <gatha type="1"> Amoho khalitābhāvo, paṭivijjhanalakkhaṇo;</gatha>
+  <gatha type="last">Visayobhāsanaraso, paṭibodhoti gayhati.</gatha>
+  <hangnum nr="94"/>
+  <gatha type="1"> Tatramajjhattatopekkhā, samīkaraṇalakkhaṇā;</gatha>
+  <gatha type="last">Apakkhapātanarasā, samavāhoti gayhati.</gatha>
+  <hangnum nr="95"/>
+  <gatha type="1"> Passaddhi kāyacittānaṃ, darathābhāvalakkhaṇā;</gatha>
+  <gatha type="last">Aparipphandanarasā, sītibhāvoti gayhati.</gatha>
+  <hangnum nr="96"/>
+  <gatha type="1"> Lahutā kāyacittānaṃ, adandhākāralakkhaṇā;</gatha>
+  <gatha type="last">Avitthārarasā sallahukavuttīti gayhati.</gatha>
+  <hangnum nr="97"/>
+  <gatha type="1"> Mudutā kāyacittānaṃ, kakkhaḷābhāvalakkhaṇā;</gatha>
+  <gatha type="last">Kiccāvirodhanarasā, anukulyanti gayhati.</gatha>
+  <hangnum nr="98"/>
+  <gatha type="1"> Kammaññatā  ubhinnampi, alaṃkiccassa lakkhaṇā;</gatha>
+  <gatha type="last">Pavattisampattirasā, yogabhāvoti gayhati.</gatha>
+  <hangnum nr="99"/>
+  <gatha type="1"> Tathā pāguññatā dvinnaṃ, visadākāralakkhaṇā;</gatha>
+  <gatha type="last">Sukhappavattanarasā, seribhāvoti gayhati.</gatha>
+  <hangnum nr="100"/>
+  <gatha type="1"> Ujutā  kāyacittānaṃ, kuṭilābhāvalakkhaṇā;</gatha>
+  <gatha type="last">Jimhanimmadanarasā, ujuvuttīti gayhati.</gatha>
+  <hangnum nr="101"/>
+  <gatha type="1"> Sammāvācā vacīsuddhi, vācāsaṃyamalakkhaṇā;</gatha>
+  <gatha type="last">Micchāvācoramarasā, vacīvelāti gayhati.</gatha>
+  <hangnum nr="102"/>
+  <gatha type="1"> Sammākammaṃ kriyāsuddhaṃ, sammākaraṇalakkhaṇaṃ;</gatha>
+  <gatha type="last">Micchākammoramarasaṃ, kriyāvelāti gayhati.</gatha>
+  <hangnum nr="103"/>
+  <gatha type="1"> Sammājīvo visuddheṭṭhi, alliṭṭhājīvalakkhaṇo;</gatha>
+  <gatha type="last">Micchājīvoramaraso, sammāvuttīti gayhati.</gatha>
+  <hangnum nr="104"/>
+  <gatha type="1"> Karuṇā dīnasattesu, dukkhāpanayalakkhaṇā;</gatha>
+  <gatha type="last">Sotthitāpatthanarasā, anukampāti gayhati.</gatha>
+  <hangnum nr="105"/>
+  <gatha type="1"> Sukhaṭṭhitesu muditā, anumodanalakkhaṇā;</gatha>
+  <gatha type="last">Cetovikāsanarasā, avirodhoti gayhati.</gatha>
+  <hangnum nr="106"/>
+  <gatha type="1"> Cetosārajjanā lobho, apariccāgalakkhaṇo;</gatha>
+  <gatha type="last">Ālambagijjhanaraso, abhilaggoti gayhati.</gatha>
+  <hangnum nr="107"/>
+  <gatha type="1"> Cetobyāpajjanaṃ doso, sampadussanalakkhaṇo;</gatha>
+  <gatha type="last">Ālambaṇaghātaraso, caṇḍikkamiti gayhati.</gatha>
+  <hangnum nr="108"/>
+  <gatha type="1"> Cetosammuyhanaṃ moho,</gatha>
+  <gatha type="2">So sammuyhanalakkhaṇo;</gatha>
+  <gatha type="3">Sabhāvacchādanaraso,</gatha>
+  <gatha type="last">Andhabhāvoti gayhati.</gatha>
+  <hangnum nr="109"/>
+  <gatha type="1"> Pāpājigucchāhirikaṃ, nillajjākāralakkhaṇaṃ;</gatha>
+  <gatha type="last">Pāpopalāpanarasaṃ, malaggāhoti gayhati.</gatha>
+  <hangnum nr="110"/>
+  <gatha type="1"> Asārajjanamanottappamanuttāsanalakkhaṇaṃ ;</gatha>
+  <gatha type="last">Pāpapakkhandanarasaṃ, pāgabbhamiti gayhati.</gatha>
+  <hangnum nr="111"/>
+  <gatha type="1"> Diṭṭhi  daḷhavipallāso, sā parāmāsalakkhaṇā;</gatha>
+  <gatha type="last">Tucchābhinivesanarasā, micchāgāhoti gayhati.</gatha>
+  <hangnum nr="112"/>
+  <gatha type="1"> ‘‘Ahasmī’’ti maññamāno, so samunnatilakkhaṇo;</gatha>
+  <gatha type="last">Ketusampaggaharaso, ahaṃkāroti gayhati.</gatha>
+  <hangnum nr="113"/>
+  <gatha type="1"> Parasampattīsu issā, akkhamākāralakkhaṇā;</gatha>
+  <gatha type="last">Cetovikucanarasā, vimukhattanti gayhati.</gatha>
+  <hangnum nr="114"/>
+  <gatha type="1"> Pariggahesu maccheraṃ, sannigūhanalakkhaṇaṃ;</gatha>
+  <gatha type="last">Sāmaññāsahanarasaṃ, vevicchamiti gayhati.</gatha>
+  <hangnum nr="115"/>
+  <gatha type="1"> Cetopahananaṃ thīnaṃ, taṃ saṃsīdanalakkhaṇaṃ;</gatha>
+  <gatha type="last">Ussāhabhañjanarasaṃ, saṃkhittattanti gayhati.</gatha>
+  <hangnum nr="116"/>
+  <gatha type="1"> Vighāto sahajātānaṃ, middhaṃ mohanalakkhaṇaṃ;</gatha>
+  <gatha type="last">Sattisaṃbhañjanarasaṃ, āturattanti gayhati.</gatha>
+  <hangnum nr="117"/>
+  <gatha type="1"> Uddhaccaṃ cittavikkhepo, avūpasamalakkhaṇaṃ;</gatha>
+  <gatha type="last">Cetonavaṭṭhānarasaṃ, bhantattamiti gayhati.</gatha>
+  <hangnum nr="118"/>
+  <gatha type="1"> Vippaṭisāro kukkuccamanusocanalakkhaṇaṃ;</gatha>
+  <gatha type="last">Attānusocanarasaṃ, pacchātāpoti gayhati.</gatha>
+  <hangnum nr="119"/>
+  <gatha type="1"> Kaṅkhāyanā vicikicchā, asanniṭṭhānalakkhaṇā;</gatha>
+  <gatha type="last">Anekagāhanarasā, appatiṭṭhāti gayhati.</gatha>
+  <hangnum nr="120"/>
+  <gatha type="1"> Iccevaṃ lakkhaṇādīhi, vibhāveyya vicakkhaṇo;</gatha>
+  <gatha type="last">Tepaññāsasabhāvesu, sabhāvākāralakkhaṇaṃ.</gatha>
+  <hangnum nr="121"/>
+  <gatha type="1"> Lakkhaṇatthakusalā  salakkhaṇe,</gatha>
+  <gatha type="2">Lakkhaṇatthaparamepi kevalaṃ;</gatha>
+  <gatha type="3">Lakkhaṇuggahasukhāya vaṇṇayuṃ,</gatha>
+  <gatha type="last">Lakkhaṇādimukhato salakkhaṇaṃ.</gatha>
+  <hangnum nr="122"/>
+  <gatha type="1"> Atthaṃ  tamevamanugamma mayettha vutta-</gatha>
+  <gatha type="2">Matthānamatthanayanatthamanekadhāpi;</gatha>
+  <gatha type="3">Pattheyya mettha vacanatthanayehi ñāṇa-</gatha>
+  <gatha type="last">Matthesu buddhavacanatthanayatthikehi.</gatha>
+  <centered>Iti nāmarūpaparicchede lakkhaṇarasupaṭṭhānavibhāgo nāma</centered>
+  <centered>Dutiyo paricchedo.</centered>
 </text>
-</TEI.2>

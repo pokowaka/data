@@ -1,71 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="nikaya">Khuddakanikāye</p>
-
-<p rend="book">Petavatthu-aṭṭhakathā</p>
-
-<p rend="subsubhead">Ganthārambhakathā</p>
-
-<p rend="gatha1">Mahākāruṇikaṃ <pb ed="M" n="0.0001" /><pb ed="V" n="0.0001" /><pb ed="P" n="0.0001" /><hi rend="bold">nāthaṃ,</hi> ñeyyasāgarapāraguṃ;</p>
-
-<p rend="gathalast">Vande nipuṇagambhīra-vicitranayadesanaṃ.</p>
-
-<p rend="gatha1">Vijjācaraṇasampannā, yena niyyanti lokato;</p>
-
-<p rend="gathalast">Vande tamuttamaṃ <hi rend="bold">dhammaṃ,</hi> sammāsambuddhapūjitaṃ.</p>
-
-<p rend="gatha1">Sīlādiguṇasampanno, ṭhito maggaphalesu yo;</p>
-
-<p rend="gathalast">Vande <hi rend="bold">ariyasaṅghaṃ</hi> taṃ, puññakkhettaṃ anuttaraṃ.</p>
-
-<p rend="gatha1">Vandanājanitaṃ <pb ed="V" n="0.0002" /> puññaṃ, iti yaṃ ratanattaye;</p>
-
-<p rend="gathalast">Hatantarāyo sabbattha, hutvāhaṃ tassa tejasā.</p>
-
-<p rend="gatha1">Petehi ca kataṃ kammaṃ, yaṃ yaṃ purimajātisu;</p>
-
-<p rend="gathalast">Petabhāvāvahaṃ taṃ taṃ, tesañhi phalabhedato.</p>
-
-<p rend="gatha1">Pakāsayantī buddhānaṃ, desanā yā visesato;</p>
-
-<p rend="gathalast">Saṃvegajananī kamma-phalapaccakkhakārinī.</p>
-
-<p rend="gatha1"><hi rend="bold">Petavatthū</hi>ti nāmena, supariññātavatthukā;</p>
-
-<p rend="gathalast">Yaṃ khuddakanikāyasmiṃ, saṅgāyiṃsu mahesayo.</p>
-
-<p rend="gatha1">Tassa sammāvalambitvā, porāṇaṭṭhakathānayaṃ;</p>
-
-<p rend="gathalast">Tattha tattha nidānāni, vibhāvento visesato.</p>
-
-<p rend="gatha1">Suvisuddhaṃ <pb ed="M" n="0.0002" /> asaṃkiṇṇaṃ, nipuṇatthavinicchayaṃ;</p>
-
-<p rend="gathalast">Mahāvihāravāsīnaṃ, samayaṃ avilomayaṃ.</p>
-
-<p rend="gatha1">Yathābalaṃ karissāmi, atthasaṃvaṇṇanaṃ subhaṃ;</p>
-
-<p rend="gathalast">Sakkaccaṃ bhāsato taṃ me, nisāmayatha sādhavoti.</p>
-
-<p rend="bodytext">Tattha <pb ed="P" n="0.0002" /><hi rend="bold">petavatthū</hi>ti seṭṭhiputtādikassa tassa tassa sattassa petabhāvahetubhūtaṃ kammaṃ, tassa pana pakāsanavasena pavatto ‘‘khettūpamā arahanto’’tiādikā pariyattidhammo idha ‘‘petavatthū’’ti adhippeto.</p>
-
-<p rend="bodytext">Tayidaṃ petavatthu kena bhāsitaṃ, kattha bhāsitaṃ, kadā bhāsitaṃ, kasmā ca bhāsitanti? Vuccate – idañhi petavatthu duvidhena pavattaṃ aṭṭhuppattivasena, pucchāvissajjanavasena ca. Tattha yaṃ aṭṭhuppattivasena pavattaṃ, taṃ bhagavatā bhāsitaṃ, itaraṃ nāradattherādīhi pucchitaṃ tehi tehi petehi bhāsitaṃ. Satthā pana yasmā nāradattherādīhi tasmiṃ tasmiṃ pucchāvissajjane ārocite taṃ <pb ed="V" n="0.0003" /> taṃ aṭṭhuppattiṃ katvā sampattaparisāya dhammaṃ desesi, tasmā sabbampetaṃ petavatthu satthārā bhāsitameva nāma jātaṃ. Pavattitavaradhammacakke hi satthari tattha tattha rājagahādīsu viharante yebhuyyena tāya tāya aṭṭhuppattiyā pucchāvissajjanavasena sattānaṃ kammaphalapaccakkhakaraṇāya taṃ taṃ petavatthu desanāruḷhanti ayaṃ tāvettha ‘‘kena bhāsita’’ntiādīnaṃ padānaṃ sādhāraṇato vissajjanā. Asādhāraṇato pana tassa tassa vatthussa atthavaṇṇanāyameva āgamissati.</p>
-
-<p rend="bodytext">Taṃ panetaṃ petavatthu vinayapiṭakaṃ suttantapiṭakaṃ abhidhammapiṭakanti tīsu piṭakesu suttantapiṭakapariyāpannaṃ, dīghanikāyo majjhimanikāyo saṃyuttanikāyo aṅguttaranikāyo khuddakanikāyoti pañcasu nikāyesu khuddakanikāyapariyāpannaṃ, suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallanti navasu sāsanaṅgesu gāthāsaṅgahaṃ.</p>
-
-<p rend="gatha1">‘‘Dvāsīti <pb ed="M" n="0.0003" /> buddhato gaṇhiṃ, dve sahassāni bhikkhuto;</p>
-
-<p rend="gathalast">Caturāsīti sahassāni, ye me dhammā pavattino’’ti. (theragā. 1027) –</p>
-
-<p rend="unindented">Evaṃ dhammabhaṇḍāgārikena paṭiññātesu caturāsītiyā dhammakkhandhasahassesu katipayadhammakkhandhasaṅgahaṃ, bhāṇavārato catubhāṇavāramattaṃ, vaggato – uragavaggo ubbarivaggo cūḷavaggo mahāvaggoti catuvaggasaṅgahaṃ. Tesu paṭhamavagge dvādasa vatthūni, dutiyavagge <pb ed="P" n="0.0003" /> terasa vatthūni, tatiyavagge dasa vatthūni, catutthavagge soḷasa vatthūnīti vatthuto ekapaññāsavatthupaṭimaṇḍitaṃ. Tassa vaggesu uragavaggo ādi, vatthūsu khettūpamapetavatthu ādi, tassāpi ‘‘khettūpamā arahanto’’ti ayaṃ gāthā ādi.</p>
-</body>
-<back></back>
+  <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <nikaya>Khuddakanikāye</nikaya>
+  <book>Petavatthu-aṭṭhakathā</book>
+  <subsubhead>Ganthārambhakathā</subsubhead>
+  <gatha type="1">Mahākāruṇikaṃ nāthaṃ, ñeyyasāgarapāraguṃ;</gatha>
+  <gatha type="last">Vande nipuṇagambhīra-vicitranayadesanaṃ.</gatha>
+  <gatha type="1">Vijjācaraṇasampannā, yena niyyanti lokato;</gatha>
+  <gatha type="last">Vande tamuttamaṃ dhammaṃ, sammāsambuddhapūjitaṃ.</gatha>
+  <gatha type="1">Sīlādiguṇasampanno, ṭhito maggaphalesu yo;</gatha>
+  <gatha type="last">Vande ariyasaṅghaṃ taṃ, puññakkhettaṃ anuttaraṃ.</gatha>
+  <gatha type="1">Vandanājanitaṃ  puññaṃ, iti yaṃ ratanattaye;</gatha>
+  <gatha type="last">Hatantarāyo sabbattha, hutvāhaṃ tassa tejasā.</gatha>
+  <gatha type="1">Petehi ca kataṃ kammaṃ, yaṃ yaṃ purimajātisu;</gatha>
+  <gatha type="last">Petabhāvāvahaṃ taṃ taṃ, tesañhi phalabhedato.</gatha>
+  <gatha type="1">Pakāsayantī buddhānaṃ, desanā yā visesato;</gatha>
+  <gatha type="last">Saṃvegajananī kamma-phalapaccakkhakārinī.</gatha>
+  <gatha type="1">Petavatthūti nāmena, supariññātavatthukā;</gatha>
+  <gatha type="last">Yaṃ khuddakanikāyasmiṃ, saṅgāyiṃsu mahesayo.</gatha>
+  <gatha type="1">Tassa sammāvalambitvā, porāṇaṭṭhakathānayaṃ;</gatha>
+  <gatha type="last">Tattha tattha nidānāni, vibhāvento visesato.</gatha>
+  <gatha type="1">Suvisuddhaṃ  asaṃkiṇṇaṃ, nipuṇatthavinicchayaṃ;</gatha>
+  <gatha type="last">Mahāvihāravāsīnaṃ, samayaṃ avilomayaṃ.</gatha>
+  <gatha type="1">Yathābalaṃ karissāmi, atthasaṃvaṇṇanaṃ subhaṃ;</gatha>
+  <gatha type="last">Sakkaccaṃ bhāsato taṃ me, nisāmayatha sādhavoti.</gatha>
+  <paragraph>Tattha petavatthūti seṭṭhiputtādikassa tassa tassa sattassa petabhāvahetubhūtaṃ kammaṃ, tassa pana pakāsanavasena pavatto ‘‘khettūpamā arahanto’’tiādikā pariyattidhammo idha ‘‘petavatthū’’ti adhippeto.</paragraph>
+  <paragraph>Tayidaṃ petavatthu kena bhāsitaṃ, kattha bhāsitaṃ, kadā bhāsitaṃ, kasmā ca bhāsitanti? Vuccate – idañhi petavatthu duvidhena pavattaṃ aṭṭhuppattivasena, pucchāvissajjanavasena ca. Tattha yaṃ aṭṭhuppattivasena pavattaṃ, taṃ bhagavatā bhāsitaṃ, itaraṃ nāradattherādīhi pucchitaṃ tehi tehi petehi bhāsitaṃ. Satthā pana yasmā nāradattherādīhi tasmiṃ tasmiṃ pucchāvissajjane ārocite taṃ  taṃ aṭṭhuppattiṃ katvā sampattaparisāya dhammaṃ desesi, tasmā sabbampetaṃ petavatthu satthārā bhāsitameva nāma jātaṃ. Pavattitavaradhammacakke hi satthari tattha tattha rājagahādīsu viharante yebhuyyena tāya tāya aṭṭhuppattiyā pucchāvissajjanavasena sattānaṃ kammaphalapaccakkhakaraṇāya taṃ taṃ petavatthu desanāruḷhanti ayaṃ tāvettha ‘‘kena bhāsita’’ntiādīnaṃ padānaṃ sādhāraṇato vissajjanā. Asādhāraṇato pana tassa tassa vatthussa atthavaṇṇanāyameva āgamissati.</paragraph>
+  <paragraph>Taṃ panetaṃ petavatthu vinayapiṭakaṃ suttantapiṭakaṃ abhidhammapiṭakanti tīsu piṭakesu suttantapiṭakapariyāpannaṃ, dīghanikāyo majjhimanikāyo saṃyuttanikāyo aṅguttaranikāyo khuddakanikāyoti pañcasu nikāyesu khuddakanikāyapariyāpannaṃ, suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallanti navasu sāsanaṅgesu gāthāsaṅgahaṃ.</paragraph>
+  <gatha type="1">‘‘Dvāsīti  buddhato gaṇhiṃ, dve sahassāni bhikkhuto;</gatha>
+  <gatha type="last">Caturāsīti sahassāni, ye me dhammā pavattino’’ti. (theragā. 1027) –</gatha>
+  <paragraph type="unindented">Evaṃ dhammabhaṇḍāgārikena paṭiññātesu caturāsītiyā dhammakkhandhasahassesu katipayadhammakkhandhasaṅgahaṃ, bhāṇavārato catubhāṇavāramattaṃ, vaggato – uragavaggo ubbarivaggo cūḷavaggo mahāvaggoti catuvaggasaṅgahaṃ. Tesu paṭhamavagge dvādasa vatthūni, dutiyavagge  terasa vatthūni, tatiyavagge dasa vatthūni, catutthavagge soḷasa vatthūnīti vatthuto ekapaññāsavatthupaṭimaṇḍitaṃ. Tassa vaggesu uragavaggo ādi, vatthūsu khettūpamapetavatthu ādi, tassāpi ‘‘khettūpamā arahanto’’ti ayaṃ gāthā ādi.</paragraph>
 </text>
-</TEI.2>

@@ -1,81 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Anaññasādhāraṇadīpanīgāthā</p>
-
-<p rend="hangnum" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Abbhuggatā yassa guṇā anantā,</p>
-
-<p rend="gatha2">Tibuddhakhettekadivākaroti;</p>
-
-<p rend="gatha3">Jānāti so lokamimaṃ parañca,</p>
-
-<p rend="gatha2">Sacetanañceva acetanañca;</p>
-
-<p rend="gatha3">Sakassa santānagataṃ paresaṃ,</p>
-
-<p rend="gathalast">Byatītamappattakamatrabhūtaṃ.</p>
-
-<p rend="hangnum" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anantasattesu ca lokadhātusu,</p>
-
-<p rend="gatha2">Ekova sabbepi samā na tena;</p>
-
-<p rend="gatha3">Disāsu pubbādisu cakkavāḷā,</p>
-
-<p rend="gatha2">Sahassasaṅkhāyapi appameyyā;</p>
-
-<p rend="gatha3">Ye tesu devā manujā ca brahmā,</p>
-
-<p rend="gathalast">Ekattha saṅgamma hi mantayantā.</p>
-
-<p rend="hangnum" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anādikālāgatanāmarūpinaṃ,</p>
-
-<p rend="gatha2">Yathāsakaṃ hetuphalattavuttinaṃ;</p>
-
-<p rend="gatha3">Tabbhāvabhāvittamasambhuṇantā,</p>
-
-<p rend="gathalast">Nānāvipallāsamanupaviṭṭhā.</p>
-
-<p rend="hangnum" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Kammappavattiñca phalappavattiṃ,</p>
-
-<p rend="gatha2">Ekattanānattanirīhadhammataṃ;</p>
-
-<p rend="gatha3">Viññattisantānaghanena channato,</p>
-
-<p rend="gathalast">Sivañjasaṃ no bhaṇituṃ samatthā.</p>
-
-<p rend="hangnum" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Eko va so santikaro pabhaṅkaro,</p>
-
-<p rend="gatha2">Saṅkhāya ñeyyāni asesitāni;</p>
-
-<p rend="gatha3">Tesañhi majjhe paramāsambhīvadaṃ,</p>
-
-<p rend="gathalast">Sivañjasaṃ dīpayituṃ samattho.</p>
-
-<p rend="hangnum" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> So gotamo sakyasuto munindo,</p>
-
-<p rend="gatha2">Sabbassa lokassa padīpabhūto;</p>
-
-<p rend="gatha3">Anantasatte bhavabandhanamhā,</p>
-
-<p rend="gathalast">Mocesi kāruññaphalānupekkhī.</p>
-</body>
-<back></back>
+  <chapter>Anaññasādhāraṇadīpanīgāthā</chapter>
+  <hangnum nr="7"/>
+  <gatha type="1"> Abbhuggatā yassa guṇā anantā,</gatha>
+  <gatha type="2">Tibuddhakhettekadivākaroti;</gatha>
+  <gatha type="3">Jānāti so lokamimaṃ parañca,</gatha>
+  <gatha type="2">Sacetanañceva acetanañca;</gatha>
+  <gatha type="3">Sakassa santānagataṃ paresaṃ,</gatha>
+  <gatha type="last">Byatītamappattakamatrabhūtaṃ.</gatha>
+  <hangnum nr="8"/>
+  <gatha type="1"> Anantasattesu ca lokadhātusu,</gatha>
+  <gatha type="2">Ekova sabbepi samā na tena;</gatha>
+  <gatha type="3">Disāsu pubbādisu cakkavāḷā,</gatha>
+  <gatha type="2">Sahassasaṅkhāyapi appameyyā;</gatha>
+  <gatha type="3">Ye tesu devā manujā ca brahmā,</gatha>
+  <gatha type="last">Ekattha saṅgamma hi mantayantā.</gatha>
+  <hangnum nr="9"/>
+  <gatha type="1"> Anādikālāgatanāmarūpinaṃ,</gatha>
+  <gatha type="2">Yathāsakaṃ hetuphalattavuttinaṃ;</gatha>
+  <gatha type="3">Tabbhāvabhāvittamasambhuṇantā,</gatha>
+  <gatha type="last">Nānāvipallāsamanupaviṭṭhā.</gatha>
+  <hangnum nr="10"/>
+  <gatha type="1"> Kammappavattiñca phalappavattiṃ,</gatha>
+  <gatha type="2">Ekattanānattanirīhadhammataṃ;</gatha>
+  <gatha type="3">Viññattisantānaghanena channato,</gatha>
+  <gatha type="last">Sivañjasaṃ no bhaṇituṃ samatthā.</gatha>
+  <hangnum nr="11"/>
+  <gatha type="1"> Eko va so santikaro pabhaṅkaro,</gatha>
+  <gatha type="2">Saṅkhāya ñeyyāni asesitāni;</gatha>
+  <gatha type="3">Tesañhi majjhe paramāsambhīvadaṃ,</gatha>
+  <gatha type="last">Sivañjasaṃ dīpayituṃ samattho.</gatha>
+  <hangnum nr="12"/>
+  <gatha type="1"> So gotamo sakyasuto munindo,</gatha>
+  <gatha type="2">Sabbassa lokassa padīpabhūto;</gatha>
+  <gatha type="3">Anantasatte bhavabandhanamhā,</gatha>
+  <gatha type="last">Mocesi kāruññaphalānupekkhī.</gatha>
 </text>
-</TEI.2>

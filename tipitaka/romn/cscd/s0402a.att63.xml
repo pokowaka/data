@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">(28) 8. Rāgapeyyālavaṇṇanā</p>
-
-<p rend="bodytext" n="274-783"><hi rend="paranum">274-783</hi><hi rend="dot">.</hi> Rāgapeyyālaṃ arahattaṃ pāpetvā kathitaṃ. Sesaṃ sabbattha uttānatthamevāti.</p>
-
-<p rend="centre">Manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
-
-<p rend="centre">Catukkanipātassa saṃvaṇṇanā niṭṭhitā.</p>
-</body>
-<back></back>
+  <chapter>(28) 8. Rāgapeyyālavaṇṇanā</chapter>
+  <paragraph nr="274-783"> Rāgapeyyālaṃ arahattaṃ pāpetvā kathitaṃ. Sesaṃ sabbattha uttānatthamevāti.</paragraph>
+  <centered>Manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</centered>
+  <centered>Catukkanipātassa saṃvaṇṇanā niṭṭhitā.</centered>
 </text>
-</TEI.2>

@@ -1,53 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Nāyaka kaṇḍa</p>
-
-<p rend="hangnum" n="276"><hi rend="paranum">276</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Anāyakā <pb ed="M" n="0.0165" /> vinassanti, nassanti bahunāyakā;</p>
-
-<p rend="gathalast">Thīnāyakā vinassanti, nassanti susunāyakā.</p>
-
-<p rend="hangnum" n="277"><hi rend="paranum">277</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Gavaṃ <pb ed="M" n="0.0166" /> ce taramānānaṃ, ujuṃ gacchati puṅgavo;</p>
-
-<p rend="gathalast">Sabbā gāvī ujuṃ yanti, nette ujuṃ gate sati.</p>
-
-<p rend="hangnum" n="278"><hi rend="paranum">278</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Evameva manussesu, yo hoti seṭṭhasammato;</p>
-
-<p rend="gatha2">So sace dhammaṃ carati, pageva itarā pajā.</p>
-
-<p rend="gatha1">Gavaṃ ce taramānānaṃ, ujuṃ gacchati puṅgavo;</p>
-
-<p rend="gathalast">Sabbā gāvī ujuṃyanti, nette ujuṃ gate sati.</p>
-
-<p rend="gatha1">Evameva <pb ed="M" n="0.0167" /> manussesu, yo hoti seṭṭhasammato;</p>
-
-<p rend="gatha2">So sace dhammaṃ carati, pageva itarā pajā;</p>
-
-<p rend="gathalast">Sabbaṃ raṭṭhaṃ sukhaṃ seti, rājā ce hoti dhammiko.</p>
-
-<p rend="hangnum" n="279"><hi rend="paranum">279</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nodayāha vināsāya, bahunāyakatā bhusaṃ;</p>
-
-<p rend="gathalast">Milāyanti vinassanti, padmānyakkehi sattahi.</p>
-
-<p rend="hangnum" n="280"><hi rend="paranum">280</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sutārakkho abhiyogo, kulārakkho vattaṃ bhave;</p>
-
-<p rend="gathalast">Vijjā hi kulaputtassa, nāyakassāpamādako.</p>
-</body>
-<back></back>
+  <chapter>Nāyaka kaṇḍa</chapter>
+  <hangnum nr="276"/>
+  <gatha type="1"> Anāyakā  vinassanti, nassanti bahunāyakā;</gatha>
+  <gatha type="last">Thīnāyakā vinassanti, nassanti susunāyakā.</gatha>
+  <hangnum nr="277"/>
+  <gatha type="1"> Gavaṃ  ce taramānānaṃ, ujuṃ gacchati puṅgavo;</gatha>
+  <gatha type="last">Sabbā gāvī ujuṃ yanti, nette ujuṃ gate sati.</gatha>
+  <hangnum nr="278"/>
+  <gatha type="1"> Evameva manussesu, yo hoti seṭṭhasammato;</gatha>
+  <gatha type="2">So sace dhammaṃ carati, pageva itarā pajā.</gatha>
+  <gatha type="1">Gavaṃ ce taramānānaṃ, ujuṃ gacchati puṅgavo;</gatha>
+  <gatha type="last">Sabbā gāvī ujuṃyanti, nette ujuṃ gate sati.</gatha>
+  <gatha type="1">Evameva  manussesu, yo hoti seṭṭhasammato;</gatha>
+  <gatha type="2">So sace dhammaṃ carati, pageva itarā pajā;</gatha>
+  <gatha type="last">Sabbaṃ raṭṭhaṃ sukhaṃ seti, rājā ce hoti dhammiko.</gatha>
+  <hangnum nr="279"/>
+  <gatha type="1"> Nodayāha vināsāya, bahunāyakatā bhusaṃ;</gatha>
+  <gatha type="last">Milāyanti vinassanti, padmānyakkehi sattahi.</gatha>
+  <hangnum nr="280"/>
+  <gatha type="1"> Sutārakkho abhiyogo, kulārakkho vattaṃ bhave;</gatha>
+  <gatha type="last">Vijjā hi kulaputtassa, nāyakassāpamādako.</gatha>
 </text>
-</TEI.2>

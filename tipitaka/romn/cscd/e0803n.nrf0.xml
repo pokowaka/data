@@ -1,77 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="book">Saddanītippakaraṇaṃ (padamālā)</p>
-
-<p rend="subsubhead">Ganthārambhakathā</p>
-
-<p rend="gatha1">Dhīrehi <pb ed="M" n="0.0001" /> magganāyena, yena buddhena desitaṃ;</p>
-
-<p rend="gathalast">Sitaṃ dhammamidhaññāya, ñāyate amataṃ padaṃ.</p>
-
-<p rend="gatha1">Taṃ namitvā mahāvīraṃ, sabbaññuṃ lokanāyakaṃ;</p>
-
-<p rend="gathalast">Mahākāruṇikaṃ seṭṭhaṃ, visuddhaṃ suddhidāyakaṃ.</p>
-
-<p rend="gatha1">Saddhammañcassa pūjetvā, suddhaṃ santamasaṅkhataṃ;</p>
-
-<p rend="gathalast">Atakkāvacaraṃ suṭṭhu, vibhattaṃ madhuraṃ sivaṃ.</p>
-
-<p rend="gatha1">Saṅghassa ca’ñjaliṃ katvā, puññakkhettassa tādino;</p>
-
-<p rend="gathalast">Sīlasamādhipaññādi-visuddhaguṇajotino.</p>
-
-<p rend="gatha1">Namassanādipuññassa, katassa ratanattaye;</p>
-
-<p rend="gathalast">Tejasāhaṃ pahantvāna, antarāye asesato.</p>
-
-<p rend="gatha1">Lokanītiviyattassa, satthu saddhammanītino;</p>
-
-<p rend="gathalast">Sāsanatthaṃ pavakkhāmi, <hi rend="bold">saddanīti</hi>manākulaṃ.</p>
-
-<p rend="gatha1">Āsavakkhayalābhena, hoti sāsanasampadā;</p>
-
-<p rend="gathalast">Āsavakkhayalābho ca, saccādhigamahetuko.</p>
-
-<p rend="gatha1">Saccādhigamanaṃ <pb ed="M" n="0.0002" /> tañca, paṭipattissitaṃ mataṃ;</p>
-
-<p rend="gathalast">Paṭipatti ca sā kāmaṃ, pariyattiparāyaṇā.</p>
-
-<p rend="gatha1">Pariyattābhiyuttānaṃ, viditvā saddalakkhaṇaṃ;</p>
-
-<p rend="gathalast">Yasmā na hoti sammoho, akkharesu padesu ca.</p>
-
-<p rend="gatha1">Yasmā cāmohabhāvena, akkharesu padesu ca;</p>
-
-<p rend="gathalast">Pāḷiyatthaṃ vijānanti, viññū sugatasāsane.</p>
-
-<p rend="gatha1">Pāḷiyatthāvabodhena, yoniso satthusāsane;</p>
-
-<p rend="gathalast">Sappaññā paṭipajjanti, paṭipattimatandikā.</p>
-
-<p rend="gatha1">Yoniso paṭipajjitvā, dhammaṃ lokuttaraṃ varaṃ;</p>
-
-<p rend="gathalast">Pāpuṇanti visuddhāya, sīlādipaṭipattiyā.</p>
-
-<p rend="gatha1">Tasmā tadatthikā suddhaṃ, nayaṃ nissāya viññunaṃ;</p>
-
-<p rend="gathalast">Bhaññamānaṃ mayā <hi rend="bold">sadda-nītiṃ</hi> gaṇhantu sādhukaṃ.</p>
-
-<p rend="gatha1">Dhātu dhātūhi nipphanna-rūpāni ca salakkhaṇo;</p>
-
-<p rend="gathalast">Sandhināmādibhedo ca, padānaṃ tu vibhatti ca.</p>
-
-<p rend="gatha1">Pāḷinayādayocceva-mettha nānappakārato;</p>
-
-<p rend="gathalast">Sāsanassopakārāya, bhavissati vibhāvanā.</p>
-</body>
-<back></back>
+  <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <book>Saddanītippakaraṇaṃ (padamālā)</book>
+  <subsubhead>Ganthārambhakathā</subsubhead>
+  <gatha type="1">Dhīrehi  magganāyena, yena buddhena desitaṃ;</gatha>
+  <gatha type="last">Sitaṃ dhammamidhaññāya, ñāyate amataṃ padaṃ.</gatha>
+  <gatha type="1">Taṃ namitvā mahāvīraṃ, sabbaññuṃ lokanāyakaṃ;</gatha>
+  <gatha type="last">Mahākāruṇikaṃ seṭṭhaṃ, visuddhaṃ suddhidāyakaṃ.</gatha>
+  <gatha type="1">Saddhammañcassa pūjetvā, suddhaṃ santamasaṅkhataṃ;</gatha>
+  <gatha type="last">Atakkāvacaraṃ suṭṭhu, vibhattaṃ madhuraṃ sivaṃ.</gatha>
+  <gatha type="1">Saṅghassa ca’ñjaliṃ katvā, puññakkhettassa tādino;</gatha>
+  <gatha type="last">Sīlasamādhipaññādi-visuddhaguṇajotino.</gatha>
+  <gatha type="1">Namassanādipuññassa, katassa ratanattaye;</gatha>
+  <gatha type="last">Tejasāhaṃ pahantvāna, antarāye asesato.</gatha>
+  <gatha type="1">Lokanītiviyattassa, satthu saddhammanītino;</gatha>
+  <gatha type="last">Sāsanatthaṃ pavakkhāmi, saddanītimanākulaṃ.</gatha>
+  <gatha type="1">Āsavakkhayalābhena, hoti sāsanasampadā;</gatha>
+  <gatha type="last">Āsavakkhayalābho ca, saccādhigamahetuko.</gatha>
+  <gatha type="1">Saccādhigamanaṃ  tañca, paṭipattissitaṃ mataṃ;</gatha>
+  <gatha type="last">Paṭipatti ca sā kāmaṃ, pariyattiparāyaṇā.</gatha>
+  <gatha type="1">Pariyattābhiyuttānaṃ, viditvā saddalakkhaṇaṃ;</gatha>
+  <gatha type="last">Yasmā na hoti sammoho, akkharesu padesu ca.</gatha>
+  <gatha type="1">Yasmā cāmohabhāvena, akkharesu padesu ca;</gatha>
+  <gatha type="last">Pāḷiyatthaṃ vijānanti, viññū sugatasāsane.</gatha>
+  <gatha type="1">Pāḷiyatthāvabodhena, yoniso satthusāsane;</gatha>
+  <gatha type="last">Sappaññā paṭipajjanti, paṭipattimatandikā.</gatha>
+  <gatha type="1">Yoniso paṭipajjitvā, dhammaṃ lokuttaraṃ varaṃ;</gatha>
+  <gatha type="last">Pāpuṇanti visuddhāya, sīlādipaṭipattiyā.</gatha>
+  <gatha type="1">Tasmā tadatthikā suddhaṃ, nayaṃ nissāya viññunaṃ;</gatha>
+  <gatha type="last">Bhaññamānaṃ mayā sadda-nītiṃ gaṇhantu sādhukaṃ.</gatha>
+  <gatha type="1">Dhātu dhātūhi nipphanna-rūpāni ca salakkhaṇo;</gatha>
+  <gatha type="last">Sandhināmādibhedo ca, padānaṃ tu vibhatti ca.</gatha>
+  <gatha type="1">Pāḷinayādayocceva-mettha nānappakārato;</gatha>
+  <gatha type="last">Sāsanassopakārāya, bhavissati vibhāvanā.</gatha>
 </text>
-</TEI.2>

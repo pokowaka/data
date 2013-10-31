@@ -1,83 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="book">Caturārakkhadīpanī</p>
-
-<p rend="subhead">Kāyapaccavekkhaṇā</p>
-
-<p rend="bodytext" n="1"><hi rend="paranum">1</hi>. Dussīlakathā,</p>
-
-<p rend="bodytext" n="2"><hi rend="paranum">2</hi>. Sīlānisaṃsakathā,</p>
-
-<p rend="bodytext" n="3"><hi rend="paranum">3</hi>. Anūsāsanakathā,</p>
-
-<p rend="bodytext" n="4"><hi rend="paranum">4</hi>. Āvāsikācārakathā,</p>
-
-<p rend="bodytext" n="5"><hi rend="paranum">5</hi>. Paccayanissaggakathā,</p>
-
-<p rend="bodytext" n="6"><hi rend="paranum">6</hi>. Pātimokkhakathā,</p>
-
-<p rend="bodytext" n="7"><hi rend="paranum">7</hi>. Dāyakovādakathā,</p>
-
-<p rend="subhead">Paṇāmapaṭiñā</p>
-
-<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Cakkavāḷa <pb ed="M" n="0.0001" /> nahutā ga, devāli gaṇa cumbito;</p>
-
-<p rend="gathalast">Buddha pādambujo ṭhātu, sīse dayā tigandhajo.</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Nanta <pb ed="M" n="0.0002" /> cakkavāḷa bbhugga, guṇa sanniccitaṃ jinaṃ;</p>
-
-<p rend="gathalast">Vande tappūjitaṃ dhammaṃ, tajjaṃ saṅghañca nimmalaṃ.</p>
-
-<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Vakkhāmi <pb ed="M" n="0.0003" /> caturārakkhaṃ, sambuddha vacana nvayaṃ;</p>
-
-<p rend="gathalast">Appamādāvahaṃ etaṃ, sottabbaṃ bhavabhīruhi.</p>
-
-<p rend="hangnum" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Buddhānussati <pb ed="M" n="0.0004" /> maraṇā, bhubhā mettāca bhāvanā;</p>
-
-<p rend="gathalast">Appamādāya ārakkhā, catasso mānitā sataṃ.</p>
-
-<p rend="bodytext" n="1"><hi rend="paranum">1</hi>. Buddhānūssati bhāvanā,</p>
-
-<p rend="bodytext" n="2"><hi rend="paranum">2</hi>. Maraṇassati bhāvanā,</p>
-
-<p rend="bodytext" n="3"><hi rend="paranum">3</hi>. Asubha bhāvanā,</p>
-
-<p rend="bodytext" n="4"><hi rend="paranum">4</hi>. Mettā bhāvanā,</p>
-
-<p rend="hangnum" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Buddhovādaṃ <pb ed="M" n="0.0005" /> saritvāva, maccubbiggā sukhesino;</p>
-
-<p rend="gathalast">Sītā sītataraṃ yanti, subhamettambusi-ṭṭhitā.</p>
-
-<p rend="hangnum" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Maraṇaggi vāraṇambu, sambuddhavacanaṃ yidaṃ;</p>
-
-<p rend="gathalast">Bahū tadaggi santattā, sītāvāsuṃ tadambunā.</p>
-
-<p rend="hangnum" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Saddhaṃ <pb ed="M" n="0.0006" /> buddhena tejetvā, mānaṃ maraṇacintayā;</p>
-
-<p rend="gathalast">Asubhāya hane rāgaṃ, dosaṃ mettāya paññavā.</p>
-</body>
-<back></back>
+  <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <book>Caturārakkhadīpanī</book>
+  <subhead>Kāyapaccavekkhaṇā</subhead>
+  <paragraph nr="1">. Dussīlakathā,</paragraph>
+  <paragraph nr="2">. Sīlānisaṃsakathā,</paragraph>
+  <paragraph nr="3">. Anūsāsanakathā,</paragraph>
+  <paragraph nr="4">. Āvāsikācārakathā,</paragraph>
+  <paragraph nr="5">. Paccayanissaggakathā,</paragraph>
+  <paragraph nr="6">. Pātimokkhakathā,</paragraph>
+  <paragraph nr="7">. Dāyakovādakathā,</paragraph>
+  <subhead>Paṇāmapaṭiñā</subhead>
+  <hangnum nr="1"/>
+  <gatha type="1"> Cakkavāḷa  nahutā ga, devāli gaṇa cumbito;</gatha>
+  <gatha type="last">Buddha pādambujo ṭhātu, sīse dayā tigandhajo.</gatha>
+  <hangnum nr="2"/>
+  <gatha type="1"> Nanta  cakkavāḷa bbhugga, guṇa sanniccitaṃ jinaṃ;</gatha>
+  <gatha type="last">Vande tappūjitaṃ dhammaṃ, tajjaṃ saṅghañca nimmalaṃ.</gatha>
+  <hangnum nr="3"/>
+  <gatha type="1"> Vakkhāmi  caturārakkhaṃ, sambuddha vacana nvayaṃ;</gatha>
+  <gatha type="last">Appamādāvahaṃ etaṃ, sottabbaṃ bhavabhīruhi.</gatha>
+  <hangnum nr="4"/>
+  <gatha type="1"> Buddhānussati  maraṇā, bhubhā mettāca bhāvanā;</gatha>
+  <gatha type="last">Appamādāya ārakkhā, catasso mānitā sataṃ.</gatha>
+  <paragraph nr="1">. Buddhānūssati bhāvanā,</paragraph>
+  <paragraph nr="2">. Maraṇassati bhāvanā,</paragraph>
+  <paragraph nr="3">. Asubha bhāvanā,</paragraph>
+  <paragraph nr="4">. Mettā bhāvanā,</paragraph>
+  <hangnum nr="5"/>
+  <gatha type="1"> Buddhovādaṃ  saritvāva, maccubbiggā sukhesino;</gatha>
+  <gatha type="last">Sītā sītataraṃ yanti, subhamettambusi-ṭṭhitā.</gatha>
+  <hangnum nr="6"/>
+  <gatha type="1"> Maraṇaggi vāraṇambu, sambuddhavacanaṃ yidaṃ;</gatha>
+  <gatha type="last">Bahū tadaggi santattā, sītāvāsuṃ tadambunā.</gatha>
+  <hangnum nr="7"/>
+  <gatha type="1"> Saddhaṃ  buddhena tejetvā, mānaṃ maraṇacintayā;</gatha>
+  <gatha type="last">Asubhāya hane rāgaṃ, dosaṃ mettāya paññavā.</gatha>
 </text>
-</TEI.2>

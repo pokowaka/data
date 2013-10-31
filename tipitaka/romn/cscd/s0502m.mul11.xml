@@ -1,79 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">12. Attavaggo</p>
-
-<p rend="hangnum" n="157"><hi rend="paranum">157</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attānañce <pb ed="V" n="0.0033" /> piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ;</p>
-
-<p rend="gathalast">Tiṇṇaṃ aññataraṃ yāmaṃ, paṭijaggeyya paṇḍito.</p>
-
-<p rend="hangnum" n="158"><hi rend="paranum">158</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attānameva paṭhamaṃ, patirūpe nivesaye;</p>
-
-<p rend="gathalast">Athaññamanusāseyya, na kilisseyya paṇḍito.</p>
-
-<p rend="hangnum" n="159"><hi rend="paranum">159</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attānaṃ <pb ed="P" n="0.0024" /> ce tathā kayirā, yathāññamanusāsati;</p>
-
-<p rend="gathalast">Sudanto vata dametha, attā hi kira duddamo.</p>
-
-<p rend="hangnum" n="160"><hi rend="paranum">160</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attā hi attano nātho, ko hi nātho paro siyā;</p>
-
-<p rend="gathalast">Attanā hi sudantena, nāthaṃ labhati dullabhaṃ.</p>
-
-<p rend="hangnum" n="161"><hi rend="paranum">161</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attanā hi kataṃ pāpaṃ, attajaṃ attasambhavaṃ;</p>
-
-<p rend="gathalast">Abhimatthati <note>abhimantati (sī. pī.)</note> dummedhaṃ, vajiraṃ vasmamayaṃ <note>vajiraṃva’mhamayaṃ (syā. ka.)</note> maṇiṃ.</p>
-
-<p rend="hangnum" n="162"><hi rend="paranum">162</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yassa <pb ed="T" n="0.0037" /> accantadussīlyaṃ, māluvā sālamivotthataṃ;</p>
-
-<p rend="gathalast">Karoti so tathattānaṃ, yathā naṃ icchatī diso.</p>
-
-<p rend="hangnum" n="163"><hi rend="paranum">163</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Sukarāni <pb ed="M" n="0.0038" /> asādhūni, attano ahitāni ca;</p>
-
-<p rend="gathalast">Yaṃ ve hitañca sādhuñca, taṃ ve paramadukkaraṃ.</p>
-
-<p rend="hangnum" n="164"><hi rend="paranum">164</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Yo sāsanaṃ arahataṃ, ariyānaṃ dhammajīvinaṃ;</p>
-
-<p rend="gatha2">Paṭikkosati dummedho, diṭṭhiṃ nissāya pāpikaṃ;</p>
-
-<p rend="gathalast">Phalāni kaṭṭhakasseva, attaghātāya <note>attaghaññāya (sī. syā. pī.)</note> phallati.</p>
-
-<p rend="hangnum" n="165"><hi rend="paranum">165</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attanā <pb ed="V" n="0.0034" /> hi <note>attanāva (sī. syā. pī.)</note> kataṃ pāpaṃ, attanā saṃkilissati;</p>
-
-<p rend="gatha2">Attanā akataṃ pāpaṃ, attanāva visujjhati;</p>
-
-<p rend="gathalast">Suddhī asuddhi paccattaṃ, nāñño aññaṃ <note>nāññamañño(sī.)</note> visodhaye.</p>
-
-<p rend="hangnum" n="166"><hi rend="paranum">166</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Attadatthaṃ <pb ed="P" n="0.0025" /> paratthena, bahunāpi na hāpaye;</p>
-
-<p rend="gathalast">Attadatthamabhiññāya, sadatthapasuto siyā.</p>
-
-<p rend="centre">Attavaggo dvādasamo niṭṭhito.</p>
-</body>
-<back></back>
+  <chapter>12. Attavaggo</chapter>
+  <hangnum nr="157"/>
+  <gatha type="1"> Attānañce  piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ;</gatha>
+  <gatha type="last">Tiṇṇaṃ aññataraṃ yāmaṃ, paṭijaggeyya paṇḍito.</gatha>
+  <hangnum nr="158"/>
+  <gatha type="1"> Attānameva paṭhamaṃ, patirūpe nivesaye;</gatha>
+  <gatha type="last">Athaññamanusāseyya, na kilisseyya paṇḍito.</gatha>
+  <hangnum nr="159"/>
+  <gatha type="1"> Attānaṃ  ce tathā kayirā, yathāññamanusāsati;</gatha>
+  <gatha type="last">Sudanto vata dametha, attā hi kira duddamo.</gatha>
+  <hangnum nr="160"/>
+  <gatha type="1"> Attā hi attano nātho, ko hi nātho paro siyā;</gatha>
+  <gatha type="last">Attanā hi sudantena, nāthaṃ labhati dullabhaṃ.</gatha>
+  <hangnum nr="161"/>
+  <gatha type="1"> Attanā hi kataṃ pāpaṃ, attajaṃ attasambhavaṃ;</gatha>
+  <gatha type="last">Abhimatthati <note>[abhimantati (sī. pī.)]</note> dummedhaṃ, vajiraṃ vasmamayaṃ <note>[vajiraṃva’mhamayaṃ (syā. ka.)]</note> maṇiṃ.</gatha>
+  <hangnum nr="162"/>
+  <gatha type="1"> Yassa  accantadussīlyaṃ, māluvā sālamivotthataṃ;</gatha>
+  <gatha type="last">Karoti so tathattānaṃ, yathā naṃ icchatī diso.</gatha>
+  <hangnum nr="163"/>
+  <gatha type="1"> Sukarāni  asādhūni, attano ahitāni ca;</gatha>
+  <gatha type="last">Yaṃ ve hitañca sādhuñca, taṃ ve paramadukkaraṃ.</gatha>
+  <hangnum nr="164"/>
+  <gatha type="1"> Yo sāsanaṃ arahataṃ, ariyānaṃ dhammajīvinaṃ;</gatha>
+  <gatha type="2">Paṭikkosati dummedho, diṭṭhiṃ nissāya pāpikaṃ;</gatha>
+  <gatha type="last">Phalāni kaṭṭhakasseva, attaghātāya <note>[attaghaññāya (sī. syā. pī.)]</note> phallati.</gatha>
+  <hangnum nr="165"/>
+  <gatha type="1"> Attanā  hi <note>[attanāva (sī. syā. pī.)]</note> kataṃ pāpaṃ, attanā saṃkilissati;</gatha>
+  <gatha type="2">Attanā akataṃ pāpaṃ, attanāva visujjhati;</gatha>
+  <gatha type="last">Suddhī asuddhi paccattaṃ, nāñño aññaṃ <note>[nāññamañño(sī.)]</note> visodhaye.</gatha>
+  <hangnum nr="166"/>
+  <gatha type="1"> Attadatthaṃ  paratthena, bahunāpi na hāpaye;</gatha>
+  <gatha type="last">Attadatthamabhiññāya, sadatthapasuto siyā.</gatha>
+  <centered>Attavaggo dvādasamo niṭṭhito.</centered>
 </text>
-</TEI.2>

@@ -1,39 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Kaṅkhāvitaraṇīaṭṭhakathākaraṇaṃ</p>
-
-<p rend="bodytext"><hi rend="bold">Kaṅkhāvitaraṇiṃ</hi> nāma pātimokkhaṭṭhakathaṃ ācariyabuddhaghosatthero <hi rend="bold">soṇattherena</hi> yācito mahāvihāravāsīnaṃ vācanāmagganissitaṃ sīhaḷapātimokkhaṭṭhakathānayaṃ nissāya ekampi padaṃ pāḷiyā vā mahāvihāravāsīnaṃ porāṇaṭṭhakathāhi vā avirodhetvā akāsi. Tena vuttaṃ tissaṃ aṭṭhakathāyaṃ –</p>
-
-<p rend="gatha1">‘‘Sūratena nivātena, sucisallekhavuttinā;</p>
-
-<p rend="gathalast">Vinayācārayuttena, <hi rend="bold">soṇattherena</hi> yācito.</p>
-
-<p rend="gatha1">Tattha sañjātakaṅkhānaṃ, bhikkhūnaṃ tassa vaṇṇanaṃ;</p>
-
-<p rend="gathalast">Kaṅkhāvitaraṇatthāya, paripuṇṇavinicchayaṃ.</p>
-
-<p rend="gatha1">Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ;</p>
-
-<p rend="gathalast">Vattayissāmi nāmena, <hi rend="bold">kaṅkhāvitaraṇiṃ</hi> subha’’nti <note>kaṅkhā aṭṭha. ganthārambhakathā</note> ca.</p>
-
-<p rend="gatha1">‘‘Ārabhiṃ yamahaṃ sabbaṃ, sīhaḷaṭṭhakathānayaṃ;</p>
-
-<p rend="gathalast">Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ.</p>
-
-<p rend="gatha1">Nissāya sā ayaṃ niṭṭhaṃ, gatā ādāya sabbaso;</p>
-
-<p rend="gathalast">Sabbaṃ aṭṭhakathāsāraṃ, pāḷiyatthañca kevalaṃ.</p>
-
-<p rend="gatha1">Na hettha taṃ padaṃ atthi, yaṃ virujjheyya pāḷiyā;</p>
-
-<p rend="gathalast">Mahāvihāravāsīnaṃ, porāṇaṭṭhakathāhi vā’’ti <note>kaṅkhā. aṭṭha. nigamanakathā</note> ca.</p>
-</body>
-<back></back>
+  <chapter>Kaṅkhāvitaraṇīaṭṭhakathākaraṇaṃ</chapter>
+  <paragraph>Kaṅkhāvitaraṇiṃ nāma pātimokkhaṭṭhakathaṃ ācariyabuddhaghosatthero soṇattherena yācito mahāvihāravāsīnaṃ vācanāmagganissitaṃ sīhaḷapātimokkhaṭṭhakathānayaṃ nissāya ekampi padaṃ pāḷiyā vā mahāvihāravāsīnaṃ porāṇaṭṭhakathāhi vā avirodhetvā akāsi. Tena vuttaṃ tissaṃ aṭṭhakathāyaṃ –</paragraph>
+  <gatha type="1">‘‘Sūratena nivātena, sucisallekhavuttinā;</gatha>
+  <gatha type="last">Vinayācārayuttena, soṇattherena yācito.</gatha>
+  <gatha type="1">Tattha sañjātakaṅkhānaṃ, bhikkhūnaṃ tassa vaṇṇanaṃ;</gatha>
+  <gatha type="last">Kaṅkhāvitaraṇatthāya, paripuṇṇavinicchayaṃ.</gatha>
+  <gatha type="1">Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ;</gatha>
+  <gatha type="last">Vattayissāmi nāmena, kaṅkhāvitaraṇiṃ subha’’nti <note>[kaṅkhā aṭṭha. ganthārambhakathā]</note> ca.</gatha>
+  <gatha type="1">‘‘Ārabhiṃ yamahaṃ sabbaṃ, sīhaḷaṭṭhakathānayaṃ;</gatha>
+  <gatha type="last">Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ.</gatha>
+  <gatha type="1">Nissāya sā ayaṃ niṭṭhaṃ, gatā ādāya sabbaso;</gatha>
+  <gatha type="last">Sabbaṃ aṭṭhakathāsāraṃ, pāḷiyatthañca kevalaṃ.</gatha>
+  <gatha type="1">Na hettha taṃ padaṃ atthi, yaṃ virujjheyya pāḷiyā;</gatha>
+  <gatha type="last">Mahāvihāravāsīnaṃ, porāṇaṭṭhakathāhi vā’’ti <note>[kaṅkhā. aṭṭha. nigamanakathā]</note> ca.</gatha>
 </text>
-</TEI.2>

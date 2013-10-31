@@ -1,33 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">8. Sattādhikaraṇasamathā</p>
-
-<p rend="bodytext" n="655"><hi rend="paranum">655</hi><hi rend="dot">.</hi> Adhikaraṇasamathesu <pb ed="P" n="4.0899" /><pb ed="V" n="0.0161" /> – <hi rend="bold">sattā</hi>ti tesaṃ dhammānaṃ saṅkhyāparicchedo. Catubbidhaṃ adhikaraṇaṃ samenti vūpasamentīti <hi rend="bold">adhikaraṇasamathā</hi>. Tesaṃ vitthāro khandhake ca parivāre ca vutto, tassatthaṃ tattheva vaṇṇayissāma. Sesaṃ sabbattha uttānamevāti.</p>
-
-<p rend="centre">Samantapāsādikāya vinayasaṃvaṇṇanāya</p>
-
-<p rend="centre">Bhikkhuvibhaṅgavaṇṇanā niṭṭhitā.</p>
-
-<p rend="gatha1">Anantarāyena yathā, niṭṭhitā vaṇṇanā ayaṃ;</p>
-
-<p rend="gathalast">Anantarāyena tathā, santiṃ pappontu pāṇino.</p>
-
-<p rend="gatha1">Ciraṃ tiṭṭhatu saddhammo, kāle vassaṃ ciraṃ pajaṃ;</p>
-
-<p rend="gathalast">Tappetu devo dhammena, rājā rakkhatu medaninti.</p>
-
-<p rend="centre">Mahāvibhaṅgo niṭṭhito.</p>
-
-<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
-
-<p rend="book">Bhikkhunīvibhaṅgavaṇṇanā</p>
-</body>
-<back></back>
+  <chapter>8. Sattādhikaraṇasamathā</chapter>
+  <paragraph nr="655"> Adhikaraṇasamathesu  – sattāti tesaṃ dhammānaṃ saṅkhyāparicchedo. Catubbidhaṃ adhikaraṇaṃ samenti vūpasamentīti adhikaraṇasamathā. Tesaṃ vitthāro khandhake ca parivāre ca vutto, tassatthaṃ tattheva vaṇṇayissāma. Sesaṃ sabbattha uttānamevāti.</paragraph>
+  <centered>Samantapāsādikāya vinayasaṃvaṇṇanāya</centered>
+  <centered>Bhikkhuvibhaṅgavaṇṇanā niṭṭhitā.</centered>
+  <gatha type="1">Anantarāyena yathā, niṭṭhitā vaṇṇanā ayaṃ;</gatha>
+  <gatha type="last">Anantarāyena tathā, santiṃ pappontu pāṇino.</gatha>
+  <gatha type="1">Ciraṃ tiṭṭhatu saddhammo, kāle vassaṃ ciraṃ pajaṃ;</gatha>
+  <gatha type="last">Tappetu devo dhammena, rājā rakkhatu medaninti.</gatha>
+  <centered>Mahāvibhaṅgo niṭṭhito.</centered>
+  <centered> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+  <book>Bhikkhunīvibhaṅgavaṇṇanā</book>
 </text>
-</TEI.2>

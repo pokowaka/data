@@ -1,69 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
-<TEI.2>
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="utf-8"?>
 <text>
-<front></front>
-<body>
-
-<p rend="chapter">Naradakkha thomanā āsīsa</p>
-
-<p rend="subhead">3. Gāthā</p>
-
-<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Pālito <pb ed="M" n="0.0592" /> pāḷiyā cheko,</p>
-
-<p rend="gatha2">Tvaṃsi gambhīra-ñāṇavā;</p>
-
-<p rend="gatha3">Pāliyāva pālitassa,</p>
-
-<p rend="gathalast">Dadāmidāni bho ahaṃ.</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Dakkhāvādesu <pb ed="M" n="0.0593" /> kusalo,</p>
-
-<p rend="gatha2">Pālito sāsanandharī;</p>
-
-<p rend="gatha3">Piṭakesu ajjhogāyha,</p>
-
-<p rend="gathalast">Naradakkhaṃbhisaṅkharī.</p>
-
-<p rend="hangnum" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Suta-dharena <pb ed="M" n="0.0595" /> racitaṃ,</p>
-
-<p rend="gatha2">Etaṃ sāra-gavesino;</p>
-
-<p rend="gatha3">Atandikā su-dakkhantu,</p>
-
-<p rend="gathalast">Aggagga-sāsane ratā.</p>
-
-<p rend="title">Naradakkha thomanā āsīsa</p>
-
-<p rend="subhead">2. Gāthā</p>
-
-<p rend="hangnum" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ñuṃ <pb ed="M" n="0.0596" /> pālitodha jāto yo,</p>
-
-<p rend="gatha2">Thero so abbhutova ñuṃ;</p>
-
-<p rend="gatha3">Ñuṃ mahā-pālito santo,</p>
-
-<p rend="gathalast">Nikāya-pālito ca ñuṃ.</p>
-
-<p rend="hangnum" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi></p>
-
-<p rend="gatha1"> Ñuṃ <pb ed="M" n="0.0598" /> nara-dakkha-ganthaṃ yaṃ,</p>
-
-<p rend="gatha2">Sovakā nara-dakkha-daṃ;</p>
-
-<p rend="gatha3">Narā dakkhantu sammā ca,</p>
-
-<p rend="gathalast">Dakkhattaṃ pāpuṇantu ñuṃ.</p>
-</body>
-<back></back>
+  <chapter>Naradakkha thomanā āsīsa</chapter>
+  <subhead>3. Gāthā</subhead>
+  <hangnum nr="1"/>
+  <gatha type="1"> Pālito  pāḷiyā cheko,</gatha>
+  <gatha type="2">Tvaṃsi gambhīra-ñāṇavā;</gatha>
+  <gatha type="3">Pāliyāva pālitassa,</gatha>
+  <gatha type="last">Dadāmidāni bho ahaṃ.</gatha>
+  <hangnum nr="2"/>
+  <gatha type="1"> Dakkhāvādesu  kusalo,</gatha>
+  <gatha type="2">Pālito sāsanandharī;</gatha>
+  <gatha type="3">Piṭakesu ajjhogāyha,</gatha>
+  <gatha type="last">Naradakkhaṃbhisaṅkharī.</gatha>
+  <hangnum nr="3"/>
+  <gatha type="1"> Suta-dharena  racitaṃ,</gatha>
+  <gatha type="2">Etaṃ sāra-gavesino;</gatha>
+  <gatha type="3">Atandikā su-dakkhantu,</gatha>
+  <gatha type="last">Aggagga-sāsane ratā.</gatha>
+  <title>Naradakkha thomanā āsīsa</title>
+  <subhead>2. Gāthā</subhead>
+  <hangnum nr="1"/>
+  <gatha type="1"> Ñuṃ  pālitodha jāto yo,</gatha>
+  <gatha type="2">Thero so abbhutova ñuṃ;</gatha>
+  <gatha type="3">Ñuṃ mahā-pālito santo,</gatha>
+  <gatha type="last">Nikāya-pālito ca ñuṃ.</gatha>
+  <hangnum nr="2"/>
+  <gatha type="1"> Ñuṃ  nara-dakkha-ganthaṃ yaṃ,</gatha>
+  <gatha type="2">Sovakā nara-dakkha-daṃ;</gatha>
+  <gatha type="3">Narā dakkhantu sammā ca,</gatha>
+  <gatha type="last">Dakkhattaṃ pāpuṇantu ñuṃ.</gatha>
 </text>
-</TEI.2>
